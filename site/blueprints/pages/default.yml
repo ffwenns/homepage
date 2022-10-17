@@ -1,0 +1,23 @@
+title: Seite
+pages:
+  template: default
+columns:
+  header:
+    width: 1/1
+    fields:
+      banner: fields/banner
+  content:
+    width: 2/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          text:
+            label: Text
+            type: blocks
+  meta:
+    width: 1/3
+    sections:
+      files:
+        headline: Dateien
+        type: files

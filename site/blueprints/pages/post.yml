@@ -1,0 +1,59 @@
+title: Beitrag
+options:
+  changeSlug: false
+  delete: false
+pages: false
+status:
+  draft: Entwurf
+  unlisted: Veröffentlicht
+columns:
+  header:
+    width: 1/1
+    fields:
+      banner:
+        extends: fields/banner
+  content:
+    width: 2/3
+    fields:
+      text:
+        label: Text
+        type: textarea
+        size: large
+  sidebar:
+    width: 1/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          facebook:
+            type: info
+            label: Quelle
+            text: |
+              Dieser Post wurde von **Facebook** importiert und ist unter (link: https://facebook.com/ffwenns/posts/{{ page.sid }} text: diesem Link target: _blank) aufrufbar.
+            when:
+              source: facebook
+          wordpress:
+            type: info
+            label: Quelle
+            text: |
+              Dieser Beitrag wurde von der alten Homepage (Abschlussprojekt 2008/09) importiert.
+            when:
+              source: wordpress
+          date:
+            type: date
+            label: Datum
+            default: today
+          category:
+            type: select
+            label: Kategorie
+            options:
+              - Einsätze
+              - Übungen
+              - Tätigkeiten
+          source:
+            type: hidden
+          sid:
+            type: hidden
+      files:
+        type: files
+        headline: Dateien

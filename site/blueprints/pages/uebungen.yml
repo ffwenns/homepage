@@ -1,0 +1,10 @@
+title: Übungen
+sections:
+  banner: fields/banner
+  einsaetze:
+    extends: fields/posts
+    headline: Übungen
+    template: uebung
+    layout: cards
+    size: medium
+    limit: 30

@@ -1,0 +1,47 @@
+title: Ausrüstung
+pages: false
+fields:
+  banner:
+    extends: fields/banner
+  technische:
+    label: Technische Ausrüstung
+    type: headline
+    numbered: false
+  technischeText:
+    label: Text
+    type: writer
+    width: 2/3
+  technischeBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  technischeLine:
+    type: line
+
+  brand:
+    label: Brandausrüstung
+    type: headline
+    numbered: false
+  brandText:
+    label: Text
+    type: writer
+    width: 2/3
+  brandBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  brandLine:
+    type: line
+
+  bekleidung:
+    label: Einsatzbekleidung
+    type: headline
+    numbered: false
+  bekleidungText:
+    label: Text
+    type: writer
+    width: 2/3
+  bekleidungBilder:
+    label: Bilder
+    type: files
+    width: 1/3

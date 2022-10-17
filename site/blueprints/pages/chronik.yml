@@ -1,0 +1,81 @@
+title: Chronik
+pages: false
+fields:
+  banner:
+    extends: fields/banner
+  kommando:
+    type: headline
+    label: Geschichte Kommando
+    numbered: false
+  kommandanten:
+    extends: fields/chronik
+    label: Kommandanten
+  kommandantstv:
+    extends: fields/chronik
+    label: Kommandant Stv.
+  schriftfhr:
+    extends: fields/chronik
+    label: Schriftführer
+  kassier:
+    extends: fields/chronik
+    label: Kassiere
+  ehrenmitglieder:
+    extends: fields/chronik
+    label: Ehrenmitglieder
+  patinnen:
+    extends: fields/chronik
+    label: Patinnen
+  obermaschinisten:
+    extends: fields/chronik
+    label: Obermaschinisten
+  atemschutzbeauftragte:
+    extends: fields/chronik
+    label: Atemschutzbeauftragte
+  geraetewarte:
+    extends: fields/chronik
+    label: Gerätewarte
+  jugendbetreuer:
+    extends: fields/chronik
+    label: Jugendbetreuer
+  kmdline:
+    type: line
+  mannschaft:
+    type: headline
+    label: Geschichte Mannschaft
+    numbered: false
+  mannschaftsfotos:
+    type: files
+    label: Mannschaftsfotos
+    layout: cards
+    size: huge
+    image:
+      ratio: 21/9
+      cover: true
+  mnschline:
+    type: line
+  gh:
+    type: headline
+    label: Geschichte Gerätehäuser
+    numbered: false
+  ghText:
+    type: writer
+    label: Text
+    width: 2/3
+  ghBilder:
+    type: files
+    label: Bilder
+    width: 1/3
+  ghLine:
+    type: line
+  gbrnd:
+    type: headline
+    label: Großbrände
+    numbered: false
+  grossbrandText:
+    type: writer
+    label: Text
+    width: 2/3
+  grossbrandBilder:
+    type: files
+    label: Bilder
+    width: 1/3

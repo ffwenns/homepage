@@ -1,0 +1,152 @@
+title: Feuerwehrhalle
+pages: false
+fields:
+  banner:
+    extends: fields/banner
+  fahrzeughalle:
+    label: Fahrzeughalle
+    type: headline
+    numbered: false
+  fahrzeughalleText:
+    label: Text
+    type: writer
+    width: 2/3
+  fahrzeughalleBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  fahrzeughalleLine:
+    type: line
+
+  umkleideraum:
+    label: Umkleideraum
+    type: headline
+    numbered: false
+  umkleideraumText:
+    label: Text
+    type: writer
+    width: 2/3
+  umkleideraumBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  umkleideraumLine:
+    type: line
+
+  atemschutzraum:
+    label: Atemschutzraum
+    type: headline
+    numbered: false
+  atemschutzraumText:
+    label: Text
+    type: writer
+    width: 2/3
+  atemschutzraumBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  atemschutzraumLine:
+    type: line
+
+  schulungsraum:
+    label: Schulungsraum
+    type: headline
+    numbered: false
+  schulungsraumText:
+    label: Text
+    type: writer
+    width: 2/3
+  schulungsraumBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  schulungsraumLine:
+    type: line
+
+  lager:
+    label: Lager
+    type: headline
+    numbered: false
+  lagerText:
+    label: Text
+    type: writer
+    width: 2/3
+  lagerBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  lagerLine:
+    type: line
+
+  werkstatt:
+    label: Werkstatt
+    type: headline
+    numbered: false
+  werkstattText:
+    label: Text
+    type: writer
+    width: 2/3
+  werkstattBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  werkstattLine:
+    type: line
+
+  notstromaggregat:
+    label: Notstromaggregat
+    type: headline
+    numbered: false
+  notstromaggregatText:
+    label: Text
+    type: writer
+    width: 2/3
+  notstromaggregatBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  notstromaggregatLine:
+    type: line
+
+  schlauchturm:
+    label: Schlauchturm
+    type: headline
+    numbered: false
+  schlauchturmText:
+    label: Text
+    type: writer
+    width: 2/3
+  schauchturmBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  schlauchturmLine:
+    type: line
+
+  florianstation:
+    label: Florianstation
+    type: headline
+    numbered: false
+  florianstationText:
+    label: Text
+    type: writer
+    width: 2/3
+  florianstationBilder:
+    label: Bilder
+    type: files
+    width: 1/3
+  florianstationLine:
+    type: line
+
+  kommandoraum:
+    label: Kommandoraum
+    type: headline
+    numbered: false
+  kommandoraumText:
+    label: Text
+    type: writer
+    width: 2/3
+  kommandoraumBilder:
+    label: Bilder
+    type: files
+    width: 1/3

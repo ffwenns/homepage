@@ -1,0 +1,53 @@
+label: Mannschaft
+type: structure
+width: 1/2
+columns:
+  bild:
+    width: 1/20
+  dienstgrad:
+    width: 1/10
+  name:
+    width: 3/8
+  funktion:
+    width: 4/8
+fields:
+  bild:
+    type: files
+    multiple: false
+    label: Bild
+    width: 1/4
+  dienstgrad:
+    label: Dienstgrad
+    type: select
+    width: 1/4
+    options:
+      jfm1: JFM1
+      jfm2: JFM2
+      jfm3: JFM3
+      jfm: JFM
+      pfm: PFM
+      fm: FM
+      ofm: OFM
+      hfm: HFM
+      lm: LM
+      olm: OLM
+      hlm: HLM
+      bm: BM
+      obm: OBM
+      hbm: HBM
+      v: V
+      vv: V
+      ov: OV
+      hv: HV
+      bi: BI
+      obi: OBI
+      hbi: HBI
+      abi: ABI
+  name:
+    label: Name
+    type: text
+    width: 1/4
+  funktion:
+    label: Funktion
+    type: text
+    width: 1/4

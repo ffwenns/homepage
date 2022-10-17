@@ -1,0 +1,12 @@
+title: Site
+options:
+  changeSlug: false
+  duplicate: false
+  delete: false
+sections:
+  aktuelles:
+    extends: fields/posts
+    headline: Aktuelles
+    layout: cards
+    size: medium
+    limit: 30

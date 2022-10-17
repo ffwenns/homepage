@@ -1,0 +1,10 @@
+title: Einsätze
+sections:
+  banner: fields/banner
+  einsaetze:
+    extends: fields/posts
+    headline: Einsätze
+    template: einsatz
+    layout: cards
+    size: medium
+    limit: 30

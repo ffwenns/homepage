@@ -1,0 +1,4 @@
+[data-template="fahrzeuge"] .k-item-title a[href*="fahrzeuge+"] {
+  text-transform: uppercase;
+  font-weight: bold;
+}

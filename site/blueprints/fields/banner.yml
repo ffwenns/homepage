@@ -1,0 +1,8 @@
+label: Banner
+type: files
+multiple: false
+layout: cards
+size: huge
+image:
+  ratio: 21/9
+  cover: true

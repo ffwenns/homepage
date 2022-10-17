@@ -1,0 +1,33 @@
+#chronik {
+
+  .mitglied {
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+    border-radius: 4px;
+    flex-direction: column;
+    display: flex;
+  }
+
+  .bild {
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    border-radius: 4px 4px 0 0;
+  }
+
+  .info {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .name {
+    font-weight: bold;
+  }
+
+  .text {
+    p {
+      margin-bottom: 1rem;
+    }
+  }
+}

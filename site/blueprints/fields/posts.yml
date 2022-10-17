@@ -1,0 +1,9 @@
+type: pages
+headline: Beiträge
+parent: site.find('aktuelles')
+text: "{{ page.title.short(75) }}"
+info: "{{ page.category }}"
+sortBy: date desc
+create: false
+image:
+  cover: true

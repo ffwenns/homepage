@@ -1,0 +1,17 @@
+title: Fahrzeuge
+sections:
+  fields:
+    type: fields
+    fields:
+      banner:
+        extends: fields/banner
+  pages:
+    type: pages
+    headline: Fahrzeuge
+    layout: cards
+    template: fahrzeug
+    text: "{{ page.slug }}"
+    info: "{{ page.title }}"
+    size: medium
+    image:
+      cover: true

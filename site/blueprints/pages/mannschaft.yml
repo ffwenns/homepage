@@ -1,0 +1,46 @@
+title: Mannschaft
+pages: false
+fields:
+  banner:
+    extends: fields/banner
+    label: Mannschaftsfoto
+  kommando:
+    extends: fields/mannschaft
+    label: Kommando
+    width: 1/1
+  ausschuss:
+    extends: fields/mannschaft
+    label: Ausschuss
+    width: 1/1
+  ehrenmitglieder:
+    extends: fields/mannschaft
+    label: Ehrenmitglieder
+    width: 1/1
+  gruppe1:
+    extends: fields/mannschaft
+    label: Gruppe 1 (Reserve)
+  gruppe2:
+    extends: fields/mannschaft
+    label: Gruppe 2
+  gruppe3:
+    extends: fields/mannschaft
+    label: Gruppe 3
+  gruppe4:
+    extends: fields/mannschaft
+    label: Gruppe 4
+  gruppe5:
+    extends: fields/mannschaft
+    label: Gruppe 5
+  gruppe6:
+    extends: fields/mannschaft
+    label: Gruppe 6
+  gruppe7:
+    extends: fields/mannschaft
+    label: Gruppe 7
+  gruppe8:
+    extends: fields/mannschaft
+    label: Gruppe 8
+  jugend:
+    extends: fields/mannschaft
+    label: Jugend
+    width: 1/1

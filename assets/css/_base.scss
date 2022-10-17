@@ -1,0 +1,37 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ddd;
+  color: #111;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+hr {
+  border-bottom: 1px solid #ddd;
+  background: transparent;
+  border-top: 0;
+  margin: 1rem 0;
+}

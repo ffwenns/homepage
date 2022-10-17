@@ -1,0 +1,86 @@
+#header {
+  background-color: #b10000;
+  position: sticky;
+  z-index: 30;
+  width: 100%;
+  top: 0;
+
+  a[rel="home"] {
+    font-size: larger;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    // position: relative;
+    // text-indent: 3rem;
+    padding: 1rem;
+
+    span {
+      display: none;
+
+      @media screen and (min-width: 480px) {
+        display: inline;
+      }
+    }
+  }
+}
+
+#logo {
+  position: absolute;
+  left: 0;
+  height: 3rem;
+  width: auto;
+}
+
+#hamburger {
+  padding: 1rem;
+  background: transparent;
+  box-sizing: content-box;
+  cursor: pointer;
+  outline: 0;
+  border: 0;
+
+  span {
+    width: 1.75rem;
+    height: 3px;
+    background-color: white;
+    transition: 0.4s all;
+    display: block;
+  }
+
+  span:nth-child(1) {
+    margin-bottom: 6px;
+  }
+  span:nth-child(2) {
+    margin: 3px 0;
+  }
+  span:nth-child(3) {
+    margin-top: 6px;
+  }
+
+  &.is-active {
+    span:nth-child(1) {
+      transform: translateY(9px) rotate(-45deg);
+    }
+
+    span:nth-child(2) {
+      opacity: 0;
+    }
+
+    span:nth-child(3) {
+      transform: translateY(-9px) rotate(45deg);
+    }
+  }
+}
+
+#banner {
+  margin-top: 1rem;
+
+  img {
+    border-radius: 4px;
+    // aspect-ratio: 21/9;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+  }
+}

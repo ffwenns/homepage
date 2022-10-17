@@ -1,0 +1,10 @@
+title: Tätigkeiten
+sections:
+  banner: fields/banner
+  einsaetze:
+    extends: fields/posts
+    headline: Tätigkeiten
+    template: taetigkeit
+    layout: cards
+    size: medium
+    limit: 30
