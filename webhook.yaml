@@ -1,0 +1,3 @@
+- id: pull-homepage-main
+  execute-command: "/home/ffwenns/bin/pull-homepage-main"
+  command-working-directory: "/var/www/virtual/ffwenns/html"
