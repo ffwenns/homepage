@@ -2,4 +2,13 @@
 
 require 'kirby/bootstrap.php';
 
-echo (new Kirby)->render();
+use \Kirby\Cms\App as Kirby;
+
+$content = '/usr/home/ffwenns/content/';
+$kirby = new Kirby([
+    'roots' => [
+        'content' => kirby()->environment()->isLocal() ? 'content' : $content
+    ]
+]);
+
+echo $kirby->render();
