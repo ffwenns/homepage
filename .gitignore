@@ -1,12 +1,8 @@
 /kirby
 /content
 /media
-/assets/dist/
 
-/vendor
-/node_modules
-mix-manifest.json
-*.pem
+*.zip
 
 # System files
 # ------------
@@ -30,8 +26,6 @@ Icon
 *.sublime-workspace
 /.vscode
 /.idea
-
-/assets/hot
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!

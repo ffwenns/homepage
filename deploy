@@ -1,6 +1,0 @@
-#!/bin/bash
-
-src="/Users/manu/Sites/ffwenns/"
-dest="ffwenns:~/html/"
-
-rsync -avz --exclude="node_modules/" --exclude="media/" --exclude="content/" --progress $src $dest

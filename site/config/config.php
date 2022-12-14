@@ -3,7 +3,12 @@
 return [
 	'slugs' => 'de',
 	'panel' => [
-		'css' => 'panel.css',
+		'css' => '/assets/css/panel.css',
+	],
+	'cache' => [
+		'pages' => [
+			'active' => true
+		]
 	],
 	'routes' => [
 		[

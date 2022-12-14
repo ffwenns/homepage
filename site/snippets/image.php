@@ -4,10 +4,10 @@
 
 <?php if (isset($photoswipe)): ?>
 
-<?php if($kirby->visitor()->acceptsMimeType('avif')): ?>
+<?php if($kirby->visitor()->acceptsMimeType('image/avif')): ?>
 <a href="<?= $image->thumb('avif')->url() ?>" data-pswp-srcset="<?= $image->srcset('avif') ?>" data-pswp-width="1280" data-pswp-height="<?= $image->thumb('avif')->height() ?>" data-cropped="true">
 
-<?php elseif($kirby->visitor()->acceptsMimeType('webp')): ?>
+<?php elseif($kirby->visitor()->acceptsMimeType('image/webp')): ?>
 <a href="<?= $image->thumb('webp')->url() ?>" data-pswp-srcset="<?= $image->srcset('webp') ?>" data-pswp-width="<?= $image->thumb('webp')->width() ?>" data-pswp-height="<?= $image->thumb('webp')->height() ?>" data-cropped="true">
 
 <?php else: ?>

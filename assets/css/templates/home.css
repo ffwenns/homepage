@@ -1,0 +1,17 @@
+#intro {
+  padding: 2rem;
+}
+
+#intro img {
+  margin: 0 auto;
+  margin: 2rem auto;
+  display: block;
+}
+
+#intro h1 {
+  margin-bottom: 1rem;
+}
+
+#intro p {
+  line-height: 1.5;
+}

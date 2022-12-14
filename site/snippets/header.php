@@ -24,7 +24,8 @@
     <link rel="preload" href="/assets/fonts/Roboto-Medium.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/assets/fonts/Roboto-Bold.woff2" as="font" type="font/woff2" crossorigin>
 
-    <?= css('/assets/dist/site.css') ?>
+    <?= css('/assets/css/site.css') ?>
+    <?= css('@auto') ?>
 </head>
 
 <body>
