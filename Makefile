@@ -11,4 +11,4 @@ archive:
 	git archive -o ffwenns.zip HEAD
 
 deploy:
-	rsync -avz --exclude="media/" ==exclude="content/" --progress "${PWD}/" ffwenns:~/public_html/
+	rsync -avz --exclude="media/" --exclude="content/" --progress "${PWD}/" ffwenns:~/public_html/
