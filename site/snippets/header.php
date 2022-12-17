@@ -51,6 +51,11 @@
     <nav id="nav">
         <div class="wrapper  grid">
             <ul>
+                <li <?php e($page->isOpen(), ' class="is-open"') ?>><a href="/">Startseite</a></li>
+                <li <?php e($page->isOpen(), ' class="is-open"') ?>><a href="/einsaetze">Einsätze</a></li>
+                <li <?php e($page->isOpen(), ' class="is-open"') ?>><a href="/uebungen">Übungen</a></li>
+                <li <?php e($page->isOpen(), ' class="is-open"') ?>><a href="/taetigkeiten">Tätigkeiten</a></li>
+
                 <?php foreach ($pages->listed() as $item) : ?>
                     <li <?php e($item->isOpen(), ' class="is-open"') ?>>
                         <a href="<?= $item->url() ?>"><?= $item->title() ?></a>
