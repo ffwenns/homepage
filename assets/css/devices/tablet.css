@@ -1,0 +1,29 @@
+#hero {
+  aspect-ratio: 21/9;
+  object-fit: cover;
+  grid-column: 1;
+}
+
+.content {
+  padding: 4rem;
+}
+
+.content .header {
+  margin: 3rem 0;
+}
+
+.content .title {
+  font-size: 3rem;
+}
+
+#nav ul {
+  grid-column: 2;
+}
+
+#intro {
+  grid-column: 2;
+}
+
+.grid {
+  grid-template-columns: 1fr 1fr;
+}

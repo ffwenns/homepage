@@ -24,7 +24,11 @@
     <link rel="preload" href="/assets/fonts/Roboto-Medium.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/assets/fonts/Roboto-Bold.woff2" as="font" type="font/woff2" crossorigin>
 
+    <?= css('/assets/css/fonts.css') ?>
     <?= css('/assets/css/site.css') ?>
+    <?= css('/assets/css/devices/mobile.css', 'screen and (min-width: 32rem)') ?>
+    <?= css('/assets/css/devices/tablet.css', 'screen and (min-width: 48rem)') ?>
+    <?= css('/assets/css/devices/desktop.css', 'screen and (min-width: 64rem)') ?>
     <?= css('@auto') ?>
 </head>
 
