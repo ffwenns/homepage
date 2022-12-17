@@ -4,6 +4,12 @@ start:
 watch:
 	browser-sync start --proxy localhost:8000 --files assets
 
+update:
+	cd kirby
+	git checkout main
+	git pull
+	cd -
+
 backup:
 	rsync -avz --progress ffwenns:~/content "${PWD}"
 
