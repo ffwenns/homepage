@@ -1,3 +1,41 @@
 # homepage
 
 Die Website der Freiwilligen Feuerwehr Wenns
+
+## Bearbeiten
+
+Die Seite lässt sich über folgenden Link bearbeiten:
+
+https://github.dev/ffwenns/homepage
+
+Um Änderungen vorzunehmen, muss man sich zuerst auf Github registrieren und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Beim Bearbeiten müssen einige Dinge beachtet werden:
+
+- Die **Ordnerstruktur muss auf jeden Fall beibehalten werden**.
+- Die ganzen Beiträge sind unter `/posts` in Jahre sortiert und werden automatisch importiert.
+- Die Inhalte über die Feuerwehr selber finden sich unter `/content` wieder.
+- Die Bilder sollten im Format WEBP, max. 1280 Pixel breit mit Qualität 80 hochgeladen werden.
+- Dateinamen bitte ohne Leerzeichen, klein geschrieben.
+
+### Bilder
+
+Um die Bilder in umzuwandeln, kann man die `converter.bat` unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick im Browser hochgeladen werden.
+
+## Entwicklung
+
+Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com). 
+
+Dafür müssen zunächst ein paar Abhängigkeiten installiert werden. 
+
+```
+sudo pacman -S git git-lfs nodejs npm make hugo python python-requests
+```
+
+Danach kann man das Repository wie gewohnt aus checken. 
+
+Der lokale Server zum Entwickeln lässt sich mit `make serve` starten. 
+
+Damit kann man die Seite auch im WLAN daheim auf dem Handy testen.
+
+## Importer
+
+Infos dazu folgen noch...
