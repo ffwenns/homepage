@@ -20,7 +20,7 @@ Um Änderungen vorzunehmen, muss man sich zuerst auf Github registrieren und dan
 
 Um die Bilder in umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die `converter.bat` unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). 
 
-Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick im Browser hochgeladen werden (<kbd>Strg</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>).
+Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick im Browser hochgeladen werden.
 
 ### Veröffentlichen
 
