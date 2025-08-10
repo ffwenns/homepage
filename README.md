@@ -4,7 +4,7 @@ Die Website der Freiwilligen Feuerwehr Wenns
 
 ## Bearbeiten
 
-Die Homepage lässt sich folgenden Link bearbeiten:
+Die Homepage lässt sich unter folgenden Link bearbeiten:
 
 https://github.dev/ffwenns/homepage
 
