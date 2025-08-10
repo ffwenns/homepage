@@ -64,7 +64,7 @@ Die vielen Bilder (14000+) werden mithilfe von [Git LFS](https://git-lfs.com/) g
 
 ### Github Actions
 
-Mit jedem Commit auf dem ~main~ Branch, wird die Seite neu gebaut. Also bei jeder noch so kleinen Änderung. Außerdem läuft der Importer in regelmäßigen Abständen mehrmals am Tag seine Runden.
+Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jeder noch so kleinen Änderung. Außerdem läuft der Importer in regelmäßigen Abständen mehrmals am Tag seine Runden.
 
 ### Importer
 
@@ -73,7 +73,7 @@ Der Importer schaut sich immer die letzten 5 Posts auf Facebook an und:
 - überprüft ob es sich um einen Beitrag handelt, der einen Titel hat
 - es werden nur Beiträge mit Titel importiert, zB `--- Katze auf Baum ---`
 - um auf Updates von Seiten des ÖA-Team's zu reagieren, werden die aktuellsten Beiträge immer überschrieben
-- wenn ein aktueller Beitrag für die Homepage nachbearbeitet werden will, empfiehlt es sich im Ordner dazu eine `.lock` Datei anzulegen
+- wenn ein aktueller Beitrag für die Homepage nachbearbeitet werden soll, empfiehlt es sich im Ordner dazu eine `.lock` Datei anzulegen
 - dadurch wird verhindert, dass der Beitrag überschrieben wird
 - bereits importierte Beiträge müssen ggf. manuell gelöscht werden
 - sämtliche Emojis werden aus den Beiträgen entfernt
