@@ -32,7 +32,7 @@ Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**
 
 ## Entwicklung
 
-Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com). Dafür müssen ein paar Sachen installiert werden.
+Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com). Dafür müssen ein paar Sachen installiert werden. Wenn ihr unter Windows 11 unterwegs seid, macht es Sinn das [unter WSL zu installieren](https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL).
 
 ```
 sudo pacman -S git git-lfs python python-pip nodejs npm hugo make
