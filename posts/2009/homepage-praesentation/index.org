@@ -1,0 +1,21 @@
+#+TITLE: Homepage Präsentation
+#+DATE: 2009-04-28
+#+FACEBOOK_URL: 
+
+Am Dienstagnachmittag den 28. April 20009 fand die Abschlusspräsentation der 3. Handelsschule in Imst statt. Die erstellte Homepage (www.ff-wenns.at) wurde offiziell an der Handelsschule Imst vorgestellt und präsentiert. Fünf Mitglieder der Feuerwehr Wenns ließen sich diesen Termin nicht entgehen und besuchten die Abschlusspräsentation.
+<div>
+
+<strong>Kurz über unser Projekt:</strong>
+
+<strong></strong>Zu Beginn unseres Schuljahres wurden wir mit der Aufgabe konfrontiert, unser Abschlussprojekt zu erstellen. Nach längeren Überlegungen entschlossen wir uns, eine Webseite für die Freiwillige Feuerwehr Wenns zu gestallten. Um einen wirtschaftlichen Bezug zu unserem Projekt herzustellen, beschlossen wir das Thematik Online Marketing auszuarbeiten. So kamen wir zu unserem Titel: "Gestaltung eines Internetauftrittes für die Freiwillige Feuerwehr Wenns - Online Marketing einer Non- Profit- Organisation". Über das ganze Projekt haben wir eine knapp 70 Seiten starke Projektmappe verfasst. Ebenfalls versuchten wir die Arbeiten, orientiert an unseren Stärken und Schwächen aufzuteilen.
+
+<strong>Die Projektgruppe bestand aus folgenden Mitgliedern:</strong>
+<ul>
+<li><strong style="font-size: 13px; line-height: 19px;">Lukas Scheiber aus Wenns </strong><span style="font-size: 13px; line-height: 19px;">(Kontaktperson zur FF Wenns, Texte-Bilder für die Homepage, Online Marketing)</span></li>
+<li><strong style="font-size: 13px; line-height: 19px;">Lukas Schöpf aus Längenfeld </strong><span style="font-size: 13px; line-height: 19px;">(Texte für die Homepage, Online Marketing)</span></li>
+<li><strong style="font-size: 13px; line-height: 19px;">Paul Holzknecht aus Umhausen</strong><span style="font-size: 13px; line-height: 19px;"> (Hauptsächlich für den Bereich Online Marketing zuständig)</span></li>
+<li><strong style="font-size: 13px; line-height: 19px;">Manuel Köll aus Sautens </strong><span style="font-size: 13px; line-height: 19px;">(Hauptsächlich für die Technische Umsetzung der Homepage zuständig)</span></li>
+</ul>
+Letztendlich ist der Internetauftritt der FF Wenns sehr gut angekommen und der Projektpartner unter der Führung des Kommandanten Norbert Reheis zeigte sich äußerst begeistert von unserem Abschlussprojekt.Nach ca. 4 Monaten intensiver Arbeit konnten wir heute unser Abschlussprojekt abschließen.
+
+</div>
