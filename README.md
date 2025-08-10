@@ -73,3 +73,7 @@ der Domain bei [netcup](https://netcup.de) registriert.
 
 Das Betriebssystem ist [Arch Linux](https://archlinux.org), 
 als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
+
+### Backup
+
+Infos dazu folgen noch...
