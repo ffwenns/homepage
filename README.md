@@ -77,3 +77,10 @@ der Domain bei [netcup](https://netcup.de) registriert.
 
 Das Betriebssystem ist [Arch Linux](https://archlinux.org),
 als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
+
+### Backup
+
+- Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und
+- verteilt es mithilfe von [Syncthing](https://syncthing.net) an meinen Computer und Laptop.
+- Das Repository wird zusätzlich auf den Server gepusht (mirror).
+- Ein Archiv sollte regelmäßig an das ÖA-Team verteilt werden.
