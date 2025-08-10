@@ -1,4 +1,5 @@
 public/
 files/
 node_modules/
+venv/
 .env
