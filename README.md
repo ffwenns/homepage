@@ -32,7 +32,7 @@ Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**
 
 ## Entwicklung
 
-Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com). Zum Entwickeln müssen ein paar Sachen installiert werden.
+Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com). Dafür müssen ein paar Sachen installiert werden.
 
 ```
 sudo pacman -S git git-lfs python python-pip nodejs npm hugo make
@@ -58,7 +58,7 @@ Die vielen Bilder (14000+) bei den Beiträgen werden mithilfe von [Git LFS](http
 
 ### Github Actions
 
-Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jeder noch so kleinen Änderung. Außerdem läuft der Importer in regelmäßigen Abständen mehrmals am Tag seine Runden. Sollten Probleme mit den Workflows auftreten, kann man anhand den Status anhand der Badges ganz oben ablesen.
+Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jeder noch so kleinen Änderung. Außerdem läuft der Importer in regelmäßigen Abständen mehrmals am Tag seine Runden. Sollten Probleme mit den Workflows auftreten, kann man den Status anhand der Badges ganz oben ablesen.
 
 ### Importer
 
