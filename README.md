@@ -4,23 +4,21 @@ Die Website der Freiwilligen Feuerwehr Wenns
 
 ## Bearbeiten
 
-Die Homepage lässt sich über folgenden Link bearbeiten:
+Die Homepage lässt sich folgenden Link bearbeiten:
 
 https://github.dev/ffwenns/homepage
 
-Um Änderungen vorzunehmen, muss man sich zuerst auf Github registrieren und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Beim Bearbeiten müssen einige Dinge beachtet werden:
+Um Änderungen vorzunehmen, muss man sich zuerst auf Github registrieren und dann in die Organisation @ffwenns durch ein bestehendes Mitglied eingeladen werden. Beim Bearbeiten müssen einige Dinge beachtet werden:
 
 - Die **Ordnerstruktur muss auf jeden Fall beibehalten werden**.
 - Die ganzen Beiträge sind unter `/posts` in Jahre sortiert und werden automatisch importiert.
 - Die Inhalte über die Feuerwehr selber finden sich unter `/content` wieder.
-- Die Bilder sollten im **Format webp, max. 1280 Pixel breit mit Qualität 80** hochgeladen werden.
+- Die Bilder sollten im **Format webp, 1280 Pixel breit mit Qualität 80** hochgeladen werden.
 - Dateinamen bitte ohne Leerzeichen, klein geschrieben.
 
 ### Bilder
 
-Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die `converter.bat` unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows).
-
-Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick im Browser hochgeladen werden.
+Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick oder per Drag and Drop im Browser hochgeladen werden.
 
 ### Shortcodes
 
@@ -37,10 +35,10 @@ Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](
 Dafür müssen zunächst ein paar Abhängigkeiten installiert werden.
 
 ```
-sudo pacman -S git git-lfs nodejs npm make hugo python python-requests
+sudo pacman -S git git-lfs nodejs npm make hugo python python-pip
 ```
 
-Danach kann man das Repository wie gewohnt aus checken.
+Danach kann man das Repository wie gewohnt aus checken und per `make install` installieren.
 
 Der lokale Server zum Entwickeln lässt sich mit `make serve` starten.
 
@@ -68,17 +66,13 @@ Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jede
 
 ### Importer
 
-Der Importer schaut sich immer die letzten 5 Posts auf Facebook an und:
+Der Importer **schaut sich immer die letzten 5 Posts auf Facebook an** und überprüft ob es sich um einen Beitrag handelt, der einen Titel hat. Es werden **nur Beiträge mit Titel importiert**, zB `--- Katze auf Baum ---`. Außerdem werden sämtliche Emojis aus den Beiträgen entfernt.
 
-- überprüft ob es sich um einen Beitrag handelt, der einen Titel hat
-- es werden nur Beiträge mit Titel importiert, zB `--- Katze auf Baum ---`
-- um auf Updates von Seiten des ÖA-Team's zu reagieren, werden die aktuellsten Beiträge immer überschrieben
-- wenn ein aktueller Beitrag für die Homepage nachbearbeitet werden soll, empfiehlt es sich im Ordner dazu eine `.lock` Datei anzulegen
-- dadurch wird verhindert, dass der Beitrag überschrieben wird
-- bereits importierte Beiträge müssen ggf. manuell gelöscht werden
-- sämtliche Emojis werden aus den Beiträgen entfernt
-- als Beitragsbild wird die erste Datei im Ordner verwendet
-- alternativ kann auch eines festgelegt werden mit `cover.webp`
+Um auf Updates von Seiten des ÖA-Team's zu reagieren, werden die aktuellen Beiträge **immer überschrieben**. Wenn ein aktueller Beitrag für die Homepage nachbearbeitet werden soll, empfiehlt es sich daher im Ordner eine `.lock` Datei anzulegen. Dadurch wird verhindert, dass der Beitrag überschrieben wird.
+
+Bereits importierte Beiträge müssen ggf. von Hand gelöscht werden. Wenn man sie von Facebook löscht werden sie nicht automatisch auf der Homepage gelöscht. Hin und wieder muss man einfach etwas nachhelfen.
+
+Als Beitragsbild wird die erste Datei im Ordner verwendet. Man kann auch selber eines festlegen indem man ein Bild in `cover.webp` umbenennt.
 
 ### Server
 
@@ -90,7 +84,4 @@ als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
 
 ### Backup
 
-- Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und
-- verteilt es mithilfe von [Syncthing](https://syncthing.net) an meinen Computer und Laptop.
-- Das Repository wird zusätzlich auf den Server gepusht (mirror).
-- Ein Archiv sollte regelmäßig an das ÖA-Team verteilt werden.
+Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und verteilt es mithilfe von [Syncthing](https://syncthing.net) an meinen Desktop und Laptop. Das Repository wird zusätzlich auf den Server gepusht (mirror). Ein ZIP-Archiv sollte regelmäßig an das ÖA-Team verteilt werden. Weitere Backups sind auf USB-Sticks und externen Festplatten vorhanden.
