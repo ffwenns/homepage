@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Contao News Import Script
+Posts Import Script
 
-This script provides functionality to connect to a Contao database
-and import news articles for the Hugo-based website.
+This script provides functionality to import news articles from posts.json
+for the Hugo-based website.
 """
 
-import mysql.connector
+import json
 import os
 import sys
 from datetime import datetime
@@ -17,73 +17,38 @@ import shutil
 import glob
 
 
-def get_database_connection() -> mysql.connector.MySQLConnection:
+def load_posts_from_json(
+    json_path: str = "/home/manu/www/ffwenns/data/posts.json",
+) -> List[Dict[str, Any]]:
     """
-    Establish a connection to the Contao database.
+    Load posts from the posts.json file.
+
+    Args:
+        json_path: Path to the posts.json file
 
     Returns:
-        mysql.connector.MySQLConnection: Database connection object
+        List[Dict[str, Any]]: List of post records as dictionaries
 
     Raises:
-        mysql.connector.Error: If connection fails
+        FileNotFoundError: If the JSON file doesn't exist
+        json.JSONDecodeError: If the JSON file is malformed
     """
     try:
-        connection = mysql.connector.connect(
-            host=os.getenv("DB_HOST", "localhost"),
-            user=os.getenv("DB_USER", "manu"),
-            password=os.getenv("DB_PASSWORD", "pick2219"),
-            database=os.getenv("DB_NAME", "ffwenns"),
-            charset="utf8mb4",
-        )
-        return connection
-    except mysql.connector.Error as err:
-        print(f"Error connecting to database: {err}")
+        if not os.path.exists(json_path):
+            raise FileNotFoundError(f"Posts JSON file not found at: {json_path}")
+
+        with open(json_path, "r", encoding="utf-8") as file:
+            posts = json.load(file)
+
+        print(f"Successfully loaded {len(posts)} posts from {json_path}")
+        return posts
+
+    except json.JSONDecodeError as err:
+        print(f"Error parsing JSON file: {err}")
         sys.exit(1)
-
-
-def select_published_news() -> List[Dict[str, Any]]:
-    """
-    Select only published news records from the cto_news table.
-
-    Returns:
-        List[Dict[str, Any]]: List of published news records as dictionaries
-    """
-    connection = None
-    cursor = None
-
-    try:
-        connection = get_database_connection()
-        cursor = connection.cursor(dictionary=True)
-
-        # Select only published news
-        query = """
-        SELECT 
-            headline,
-            alias,
-            date,
-            teaser,
-            canonicalLink
-        FROM tl_news 
-        WHERE published = '1'
-        ORDER BY date DESC, time DESC
-        LIMIT 5
-        """
-
-        cursor.execute(query)
-        results = cursor.fetchall()
-
-        print(f"Successfully retrieved {len(results)} published news records")
-        return results
-
-    except mysql.connector.Error as err:
-        print(f"Error executing query: {err}")
-        return []
-
-    finally:
-        if cursor:
-            cursor.close()
-        if connection:
-            connection.close()
+    except Exception as err:
+        print(f"Error loading posts from JSON: {err}")
+        sys.exit(1)
 
 
 def format_date_from_timestamp(timestamp: int) -> str:
@@ -154,17 +119,14 @@ def generate_alias_from_headline(headline: str) -> str:
     return alias if alias else "untitled"
 
 
-def create_post_directory(
-    base_path: str, timestamp: int, alias: str, headline: str = ""
-) -> Path:
+def create_post_directory(base_path: str, timestamp: int, title: str = "") -> Path:
     """
     Create directory structure for a post: /posts/YEAR/ALIAS/
 
     Args:
         base_path: Base directory path
         timestamp: Unix timestamp for date
-        alias: Post alias for directory name
-        headline: News headline for fallback alias generation
+        title: Post title for alias generation
 
     Returns:
         Path: Created directory path
@@ -172,15 +134,11 @@ def create_post_directory(
     date_obj = datetime.fromtimestamp(timestamp)
     year = date_obj.strftime("%Y")
 
-    # Clean the alias from database first
-    clean_alias = clean_text_content(alias) if alias else ""
+    # Generate alias from title
+    alias = generate_alias_from_headline(title)
+    print(f"Generated alias from title: {alias}")
 
-    # Validate alias and create fallback if empty
-    if not clean_alias or clean_alias.strip() == "":
-        clean_alias = generate_alias_from_headline(headline)
-        print(f"Warning: Empty alias found, generated from headline: {clean_alias}")
-
-    post_dir = Path(base_path) / "posts" / year / clean_alias.strip()
+    post_dir = Path(base_path) / "posts" / year / alias.strip()
     post_dir.mkdir(parents=True, exist_ok=True)
 
     return post_dir
@@ -229,30 +187,30 @@ def clean_text_content(text: str) -> str:
 
 
 def generate_org_content(
-    headline: str, date_str: str, canonical_link: str, teaser: str
+    title: str, date_str: str, facebook_url: str, text: str
 ) -> str:
     """
     Generate the content for the index.org file.
 
     Args:
-        headline: News headline
+        title: Post title
         date_str: Formatted date string
-        canonical_link: Facebook URL
-        teaser: Teaser text
+        facebook_url: Facebook URL
+        text: Post text content
 
     Returns:
         str: Formatted org file content
     """
     # Clean the content to remove non-printable characters
-    clean_headline = clean_text_content(headline)
-    clean_teaser = clean_text_content(teaser)
-    clean_canonical_link = clean_text_content(canonical_link or "")
+    clean_title = clean_text_content(title)
+    clean_text = clean_text_content(text)
+    clean_facebook_url = clean_text_content(facebook_url or "")
 
-    return f"""#+TITLE: {clean_headline}
+    return f"""#+TITLE: {clean_title}
 #+DATE: {date_str}
-#+FACEBOOK_URL: {clean_canonical_link}
+#+FACEBOOK_URL: {clean_facebook_url}
 
-{clean_teaser}
+{clean_text}
 """
 
 
@@ -281,92 +239,70 @@ def extract_facebook_post_id(facebook_url: str) -> str:
     return ""
 
 
-def copy_media_files(post_id: str, source_dir: str, target_dir: Path) -> None:
+def move_media_files(images: List[str], base_path: str, target_dir: Path) -> None:
     """
-    Copy media files from source directory to target directory based on post ID.
+    Move media files from source paths to target directory.
 
     Args:
-        post_id: Facebook post ID
-        source_dir: Source media directory path
+        images: List of image file paths from the JSON
+        base_path: Base path of the project
         target_dir: Target post directory path
     """
-    if not post_id:
+    if not images:
         return
 
-    # Look for files that start with the post ID in the media directory
-    media_pattern = f"{source_dir}/{post_id}*"
-    media_items = glob.glob(media_pattern)
+    print(f"Found {len(images)} media items")
+    for image_path in images:
+        # Convert relative path to absolute path
+        full_source_path = Path(base_path) / image_path
 
-    if media_items:
-        print(f"Found {len(media_items)} media items for post {post_id}")
-        for media_item in media_items:
-            media_path = Path(media_item)
-
-            if media_path.is_file():
-                # Copy individual file
-                filename = media_path.name
-                target_file = target_dir / filename
-                try:
-                    shutil.copy2(media_item, target_file)
-                    print(f"Copied file: {filename} -> {target_file}")
-                except Exception as e:
-                    print(f"Error copying file {filename}: {e}")
-
-            elif media_path.is_dir():
-                # Copy all files from directory
-                try:
-                    for file_path in media_path.glob("*"):
-                        if file_path.is_file():
-                            filename = file_path.name
-                            target_file = target_dir / filename
-                            shutil.copy2(file_path, target_file)
-                            print(f"Copied from dir: {filename} -> {target_file}")
-                except Exception as e:
-                    print(f"Error copying from directory {media_path.name}: {e}")
-    else:
-        print(f"No media files found for post {post_id}")
+        if full_source_path.is_file():
+            # Move individual file
+            filename = full_source_path.name
+            target_file = target_dir / filename
+            try:
+                shutil.move(full_source_path, target_file)
+                print(f"Copied file: {filename} -> {target_file}")
+            except Exception as e:
+                print(f"Error copying file {filename}: {e}")
+        else:
+            print(f"File not found: {full_source_path}")
 
 
 def create_news_posts(
-    news_records: List[Dict[str, Any]], base_path: str = "/home/manu/www/ffwenns"
+    posts: List[Dict[str, Any]], base_path: str = "/home/manu/www/ffwenns"
 ) -> None:
     """
-    Create folder structure and index.org files for all news records.
+    Create folder structure and index.org files for all posts.
 
     Args:
-        news_records: List of news record dictionaries
+        posts: List of post dictionaries from JSON
         base_path: Base directory path for posts
     """
-    media_dir = f"{base_path}/media"
-
-    for record in news_records:
+    for post in posts:
         try:
-            # Clean all text fields from database
-            clean_headline = clean_text_content(record.get("headline", ""))
-            clean_alias = clean_text_content(record.get("alias", ""))
-            clean_teaser = clean_text_content(record.get("teaser", ""))
-            clean_canonical_link = clean_text_content(record.get("canonicalLink", ""))
+            # Clean all text fields from JSON
+            clean_title = clean_text_content(post.get("title", ""))
+            clean_text = clean_text_content(post.get("text", ""))
+            clean_url = clean_text_content(post.get("url", ""))
 
             # Extract Facebook post ID
-            post_id = extract_facebook_post_id(clean_canonical_link)
+            post_id = extract_facebook_post_id(clean_url)
 
             # Debug output
-            print(
-                f"Processing: headline='{clean_headline}', alias='{clean_alias}', post_id='{post_id}'"
-            )
+            print(f"Processing: title='{clean_title}', post_id='{post_id}'")
 
             # Create directory
-            post_dir = create_post_directory(
-                base_path, record["date"], clean_alias, clean_headline
-            )
+            post_dir = create_post_directory(base_path, post["date"], clean_title)
 
-            # Copy media files
-            copy_media_files(post_id, media_dir, post_dir)
+            # Move media files
+            images = post.get("images", [])
+            move_media_files(images, base_path, post_dir)
 
             # Generate org file content
-            date_str = format_date_from_timestamp(record["date"])
+            date_str = format_date_from_timestamp(post["date"])
             org_content = generate_org_content(
-                clean_headline, date_str, clean_canonical_link, clean_teaser
+                clean_title, date_str, clean_url, clean_text
             )
 
             # Write index.org file
@@ -376,27 +312,24 @@ def create_news_posts(
             print(f"Created: {org_file}")
 
         except Exception as e:
-            print(f"Error creating post for {record.get('alias', 'unknown')}: {e}")
+            print(f"Error creating post for {post.get('title', 'unknown')}: {e}")
 
 
 def main():
     """
-    Main function to demonstrate the news selection functionality.
+    Main function to import posts from JSON file.
     """
-    connection = get_database_connection()
-    connection.close()
+    # Load posts from JSON file
+    posts = load_posts_from_json()
 
-    # Get published news records
-    published_news = select_published_news()
-
-    if not published_news:
-        print("No published news records found.")
+    if not posts:
+        print("No posts found in JSON file.")
         return
 
     # Create posts structure
-    create_news_posts(published_news)
+    create_news_posts(posts)
 
-    print(f"\nProcessed {len(published_news)} news records.")
+    print(f"\nProcessed {len(posts)} posts.")
 
 
 if __name__ == "__main__":
