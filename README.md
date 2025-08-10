@@ -60,7 +60,7 @@ Für sämtliche Inhalte werden [org-mode](https://orgmode.org/quickstart.html) D
 
 ### Git Large File Storage (LFS)
 
-Infos dazu folgen noch...
+Die vielen Bilder (14000+) werden mithilfe von [Git LFS](https://git-lfs.com/) getrackt. Dadurch bleibt das Repository klein und schnell.
 
 ### Github Actions
 
