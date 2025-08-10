@@ -17,3 +17,6 @@ stats:
 	# count posts and images
 
 update: posts events stats
+
+browse:
+	find posts -name "index.org" | fzf --preview 'cat {}'
