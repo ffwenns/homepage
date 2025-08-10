@@ -18,7 +18,7 @@ Um Änderungen vorzunehmen, muss man sich zuerst auf Github registrieren und dan
 
 ### Bilder
 
-Um die Bilder in umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die `converter.bat` unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). 
+Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die `converter.bat` unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows).
 
 Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick im Browser hochgeladen werden.
 
@@ -32,17 +32,17 @@ Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**
 
 ## Entwicklung
 
-Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com). 
+Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com).
 
-Dafür müssen zunächst ein paar Abhängigkeiten installiert werden. 
+Dafür müssen zunächst ein paar Abhängigkeiten installiert werden.
 
 ```
 sudo pacman -S git git-lfs nodejs npm make hugo python python-requests
 ```
 
-Danach kann man das Repository wie gewohnt aus checken. 
+Danach kann man das Repository wie gewohnt aus checken.
 
-Der lokale Server zum Entwickeln lässt sich mit `make serve` starten. 
+Der lokale Server zum Entwickeln lässt sich mit `make serve` starten.
 
 Damit kann man die Seite auch im WLAN daheim auf dem Handy testen.
 
@@ -53,6 +53,10 @@ Infos dazu folgen noch...
 ### Tailwind CSS
 
 Infos dazu folgen noch...
+
+### Org-mode
+
+Für sämtliche Inhalte werden [org-mode](https://orgmode.org/quickstart.html) Dateien verwendet. Das ist so ähnlich wie Markdown und wird sowohl von Hugo als auch von Github unterstützt.
 
 ### Git Large File Storage (LFS)
 
@@ -68,15 +72,8 @@ Infos dazu folgen noch...
 
 ### Server
 
-Der Server hat **2 Kerne, 2 GB RAM, eine 60 GB SSD** und ist zusammen mit 
+Der Server hat **2 Kerne, 2 GB RAM, eine 60 GB SSD** und ist zusammen mit
 der Domain bei [netcup](https://netcup.de) registriert.
 
-Das Betriebssystem ist [Arch Linux](https://archlinux.org), 
+Das Betriebssystem ist [Arch Linux](https://archlinux.org),
 als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
-
-### Backup
-
-- Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und
-- verteilt es mithilfe von [Syncthing](https://syncthing.net) an meinen Computer und Laptop.
-- Das Repository wird zusätzlich auf den Server gepusht (mirror).
-- Ein Archiv sollte regelmäßig an das ÖA-Team verteilt werden.
