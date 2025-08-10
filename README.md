@@ -18,7 +18,9 @@ Um Änderungen vorzunehmen, muss man sich zuerst auf Github registrieren und dan
 
 ### Bilder
 
-Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick oder per Drag and Drop im Browser hochgeladen werden.
+Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows).
+
+Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick oder per Drag and Drop im Browser hochgeladen werden.
 
 ### Shortcodes
 
@@ -26,7 +28,7 @@ Infos dazu folgen noch...
 
 ### Veröffentlichen
 
-Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**. Dazu öffnet man die Source Control Ansicht (<kbd>Strg</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>), wählt die Änderungen aus und schreibt dann eine kurze Nachricht was man geändert hat. Danach dauert es einen kurzen Moment bis die Seite neu gebaut und veröffentlicht wird.
+Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**. Dazu wählt man die Änderungen aus und schreibt dann eine kurze Nachricht dazu was man geändert hat. Danach dauert es einen kurzen Moment bis die Seite neu gebaut und veröffentlicht wird.
 
 ## Entwicklung
 
@@ -66,13 +68,15 @@ Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jede
 
 ### Importer
 
-Der Importer **schaut sich immer die letzten 5 Posts auf Facebook an** und überprüft ob es sich um einen Beitrag handelt, der einen Titel hat. Es werden **nur Beiträge mit Titel importiert**, zB `--- Katze auf Baum ---`. Außerdem werden sämtliche Emojis aus den Beiträgen entfernt.
+Der Importer **schaut sich immer die letzten 5 Posts auf Facebook an** und überprüft ob es sich um einen Beitrag handelt, der einen Titel hat. Es werden **nur Beiträge mit Titel importiert**. Titel werden durch 3 Bindestriche am Anfang und am Ende gekennzeichnet, zB `--- Katze auf Baum ---`. Außerdem werden sämtliche Emojis aus den Beiträgen entfernt.
 
-Um auf Updates von Seiten des ÖA-Team's zu reagieren, werden die aktuellen Beiträge **immer überschrieben**. Wenn ein aktueller Beitrag für die Homepage nachbearbeitet werden soll, empfiehlt es sich daher im Ordner eine `.lock` Datei anzulegen. Dadurch wird verhindert, dass der Beitrag überschrieben wird.
+Um auf Updates von Seiten des ÖA-Team's zu reagieren, werden die aktuellen Beiträge **immer überschrieben**. Wenn ein aktueller Beitrag für die Homepage nachbearbeitet werden soll, empfiehlt es sich daher im Ordner eine `.lock` Datei anzulegen. Dadurch wird verhindert, dass der jeweilige Beitrag überschrieben wird.
 
-Bereits importierte Beiträge müssen ggf. von Hand gelöscht werden. Wenn man sie von Facebook löscht werden sie nicht automatisch auf der Homepage gelöscht. Hin und wieder muss man einfach etwas nachhelfen.
+Bereits importierte Beiträge müssen ggf. von Hand gelöscht werden. Wenn man sie von Facebook löscht werden sie **nicht automatisch auf der Homepage gelöscht**. Hin und wieder muss man einfach etwas nachhelfen.
 
 Als Beitragsbild wird die erste Datei im Ordner verwendet. Man kann auch selber eines festlegen indem man ein Bild in `cover.webp` umbenennt.
+
+Auch wenn der Importer viel Arbeit abnimmt — er **ist nicht fehlerfrei** und wird laufend verbessert.
 
 ### Server
 
@@ -84,4 +88,6 @@ als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
 
 ### Backup
 
-Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und verteilt es mithilfe von [Syncthing](https://syncthing.net) an meinen Desktop und Laptop. Das Repository wird zusätzlich auf den Server gepusht (mirror). Ein ZIP-Archiv sollte regelmäßig an das ÖA-Team verteilt werden. Weitere Backups sind auf USB-Sticks und externen Festplatten vorhanden.
+Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und verteilt es mithilfe von [Syncthing](https://syncthing.net) an meinen Desktop und Laptop. Das Repository wird zusätzlich auf den Server gepusht (mirror). Weitere Backups sind auf USB-Sticks und externen Festplatten vorhanden.
+
+Ein ZIP-Archiv sollte regelmäßig an das ÖA-Team verteilt werden. Evtl macht es auch Sinn auf den Google- bzw. Microsoft-Account der Feuerwehr eine Sicherung abzulegen.
