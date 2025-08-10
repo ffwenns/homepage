@@ -1,20 +1,26 @@
 serve:
 	hugo server --bind 0.0.0.0
 
-build:
-	hugo build --gc --minify
-
 watch:
-	hugo --watch
-	
+	npm run watch
+
+build:
+	hugo build
+
+install:
+	python -m venv venv
+	pip install -r requirements.txt
+	npm install
+
 posts:
-	# fetch posts
+	python scripts/import_posts.py
 	
 events:
-	# fetch events
+	python scripts/import_events.py
 	
 stats:
-	# count posts and images
+	echo "posts = $$(find posts -type f -iname "*.org" | wc -l)" > data/stats.toml
+	echo "images = $$(find posts -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
 update: posts events stats
 
