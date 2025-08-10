@@ -42,11 +42,16 @@ Danach kann man das Repository wie gewohnt aus checken und per `make install` in
 
 ### Hugo
 
-Infos dazu folgen noch...
+[Hugo](https://gohugo.io) ist ein statischer Seitengenerator. Die Homepage wird somit aus mehreren Dokumenten und Bildern zusammengebaut bevor sie dann auf einen Server hochgeladen wird. Das hat mehrere Vorteile:
+
+- **Sicherheit**: Auf dem Server rennt keine Datenbank, kein System das regelmäßig Updates braucht. Der Server selbst ist eigentlich _dumm_ und muss nur das _fixundfertige_ HTML ausliefern.
+- **Geschwindigkeit**: Die Seiten werden sehr schnell zusammengebaut und geladen.
+- **Einfachheit**: Es ist sehr wenig Code im Spiel. Die Homepage setzt sich aus einigen wenigen Ordnern, Dokumenten und Bildern zusammen.
+- **Transparenz**: Die Vorgänge sind für jeden transparent und nachvollziehbar.
 
 ### Tailwind CSS
 
-Infos dazu folgen noch...
+Für das Frontend habe ich [Tailwind CSS](https://tailwindcss.com) verwendet. Damit kann man schnell und einfach moderne Layouts umsetzen ohne sich viel Kopf machen zu müssen.
 
 ### Org-mode
 
