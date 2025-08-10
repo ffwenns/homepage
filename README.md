@@ -32,19 +32,13 @@ Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**
 
 ## Entwicklung
 
-Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com).
-
-Dafür müssen zunächst ein paar Abhängigkeiten installiert werden.
+Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com). Zum Entwickeln müssen ein paar Sachen installiert werden.
 
 ```
-sudo pacman -S git git-lfs nodejs npm make hugo python python-pip
+sudo pacman -S git git-lfs python python-pip nodejs npm hugo make
 ```
 
-Danach kann man das Repository wie gewohnt aus checken und per `make install` installieren.
-
-Der lokale Server zum Entwickeln lässt sich mit `make serve` starten.
-
-Damit kann man die Seite auch im WLAN daheim auf dem Handy testen.
+Danach kann man das Repository wie gewohnt aus checken und per `make install` installieren. Der lokale Server zum Entwickeln lässt sich mit `make serve` starten. Damit kann man die Seite auch im WLAN daheim auf dem Handy testen. Zusätzlich werden Änderungen an den Templates automatisch mit `make watch` aktualisiert.
 
 ### Hugo
 
@@ -56,15 +50,15 @@ Infos dazu folgen noch...
 
 ### Org-mode
 
-Für sämtliche Inhalte werden [org-mode](https://orgmode.org/quickstart.html) Dateien verwendet. Das ist so ähnlich wie Markdown und wird sowohl von Hugo als auch von Github unterstützt.
+Für sämtliche Inhalte werden [org-mode](https://orgmode.org/quickstart.html) Dateien verwendet. Das ist so ähnlich wie Markdown und wird sowohl von Hugo als auch von Github unterstützt. Am besten schaut man sich die Syntax von anderen Dateien im Projekt ab.
 
 ### Git Large File Storage (LFS)
 
-Die vielen Bilder (14000+) werden mithilfe von [Git LFS](https://git-lfs.com/) getrackt. Dadurch bleibt das Repository klein und schnell. Die ersten 10 GB sind kostenlos und sollten mehr als ausreichend sein für eine Weile.
+Die vielen Bilder (14000+) bei den Beiträgen werden mithilfe von [Git LFS](https://git-lfs.com/) getrackt. Dadurch bleibt das Repository klein und handlich. Die ersten 10 GB sind kostenlos und sollten mehr als ausreichend sein für eine Weile.
 
 ### Github Actions
 
-Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jeder noch so kleinen Änderung. Außerdem läuft der Importer in regelmäßigen Abständen mehrmals am Tag seine Runden.
+Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jeder noch so kleinen Änderung. Außerdem läuft der Importer in regelmäßigen Abständen mehrmals am Tag seine Runden. Sollten Probleme mit den Workflows auftreten, kann man anhand den Status anhand der Badges ganz oben ablesen.
 
 ### Importer
 
