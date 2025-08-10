@@ -4,7 +4,7 @@ Die Website der Freiwilligen Feuerwehr Wenns
 
 ## Bearbeiten
 
-Die Seite lässt sich über folgenden Link bearbeiten:
+Die Homepage lässt sich über folgenden Link bearbeiten:
 
 https://github.dev/ffwenns/homepage
 
@@ -22,9 +22,13 @@ Um die Bilder in umzuwandeln, kann man entweder einen [Online-Konverter](https:/
 
 Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick im Browser hochgeladen werden.
 
+### Shortcodes
+
+Infos dazu folgen noch...
+
 ### Veröffentlichen
 
-Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**. Dazu öffnet man die Source Control Ansicht (<kbd>Strg</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>), wählt die Änderungen aus und schreibt dann eine kurze Nachricht was man geändert hat.
+Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**. Dazu öffnet man die Source Control Ansicht (<kbd>Strg</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>), wählt die Änderungen aus und schreibt dann eine kurze Nachricht was man geändert hat. Danach dauert es einen kurzen Moment bis die Seite neu gebaut und veröffentlicht wird.
 
 ## Entwicklung
 
@@ -61,3 +65,11 @@ Infos dazu folgen noch...
 ### Importer
 
 Infos dazu folgen noch...
+
+### Server
+
+Der Server hat **2 Kerne, 2 GB RAM, eine 60 GB SSD** und ist zusammen mit 
+der Domain bei [netcup](https://netcup.de) registriert.
+
+Das Betriebssystem ist [Arch Linux](https://archlinux.org), 
+als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
