@@ -1,3 +1,5 @@
+.PHONY: serve watch install browse import-posts import-events stats import build commit migrate
+
 serve:
 	hugo server --bind 0.0.0.0
 
@@ -12,17 +14,17 @@ install:
 browse:
 	find posts -name "index.org" | fzf --preview 'cat {}'
 
-posts:
+import-posts:
 	python scripts/import_posts.py
 	
-events:
+import-events:
 	python scripts/import_events.py
 	
 stats:
 	echo "posts = $$(find posts -type f -iname "*.org" | wc -l)" > data/stats.toml
 	echo "images = $$(find posts -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
-import: posts events stats
+import: import-posts import-events stats
 
 build:
 	npm run build
@@ -30,3 +32,10 @@ build:
 
 commit:
 	# commit changes
+
+lfs-push:
+	git lfs push --all origin main
+
+lfs-migrate:
+	@echo "Remember to run 'git push --force' after this command to update the remote repository."
+	git lfs migrate import --everything --include="*.webp"
