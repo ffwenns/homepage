@@ -2,3 +2,11 @@ baseURL = 'https://ffwenns.at/'
 languageCode = 'de-AT'
 title = 'Freiwillige Feuerwehr Wenns'
 disableKinds = ['taxonomy', 'term']
+
+[module]
+  [[module.mounts]]
+    source = "posts"
+    target = "content"
+  [[module.mounts]]
+    source = "content"
+    target = "content"
