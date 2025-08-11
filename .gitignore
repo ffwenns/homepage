@@ -1,5 +1,7 @@
-public/
-files/
+/assets/css/output.css
 node_modules/
-venv/
+/public
+/files
+/venv
 .env
+*.lock

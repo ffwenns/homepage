@@ -4,13 +4,13 @@ serve:
 watch:
 	npm run watch
 
-build:
-	hugo build
-
 install:
 	python -m venv venv
 	pip install -r requirements.txt
 	npm install
+
+browse:
+	find posts -name "index.org" | fzf --preview 'cat {}'
 
 posts:
 	python scripts/import_posts.py
@@ -22,7 +22,11 @@ stats:
 	echo "posts = $$(find posts -type f -iname "*.org" | wc -l)" > data/stats.toml
 	echo "images = $$(find posts -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
-update: posts events stats
+import: posts events stats
 
-browse:
-	find posts -name "index.org" | fzf --preview 'cat {}'
+build:
+	npm run build
+	hugo build
+
+commit:
+	# commit changes

@@ -1,17 +1,37 @@
-<!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-<head>
-  {{ partial "head.html" . }}
-</head>
-<body>
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
-</body>
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+    <style>
+      @font-face {
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: 100 900;
+        font-stretch: 75% 100%;
+        font-display: swap;
+        src: url("/fonts/roboto.woff2") format("woff2");
+      }
+    </style>
+
+    {{ partialCached "head/css.html" . }}
+    {{ partialCached "head/js.html" . }}
+  </head>
+  <body>
+    <nav>
+      {{ partial "nav.html" . }}
+    </nav>
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+      {{ partial "footer.html" . }}
+    </footer>
+  </body>
 </html>

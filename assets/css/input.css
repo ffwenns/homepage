@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Roboto", sans-serif;
+}
+
+@layer components {
+  main {
+    p {
+      @apply whitespace-pre-line;
+    }
+  }
+}

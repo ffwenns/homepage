@@ -1,9 +1,11 @@
-{{- with resources.Get "css/main.css" }}
-  {{- if hugo.IsDevelopment }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{- else }}
-    {{- with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+{{- if hugo.IsDevelopment }}
+  {{- with resources.Get "css/output.css" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" />
+  {{- end }}
+{{- else }}
+  {{- with resources.Get "css/output.css" }}
+    {{- with . | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" />
     {{- end }}
   {{- end }}
 {{- end }}
