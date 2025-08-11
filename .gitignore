@@ -1,5 +1,7 @@
 /assets/css/output.css
 /data/stats.toml
+/data/events.json
+/data/posts.json
 node_modules/
 /public
 /files
