@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97.366669mm"
+   height="97.366669mm"
+   viewBox="0 0 97.366669 97.366669"
+   version="1.1"
+   id="svg342031"
+   inkscape:version="1.2-dev (0853165, 2021-06-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview342033"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72337262"
+     inkscape:cx="221.18614"
+     inkscape:cy="284.08595"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_2_3_" />
+  <defs
+     id="defs342028" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.41519,-73.48169)">
+    <g
+       id="Ebene_2_3_"
+       transform="matrix(0.26458333,0,0,0.26458333,46.41519,73.48169)">
+			<rect
+   width="368"
+   height="368"
+   x="0"
+   y="0"
+   style="fill:#000083"
+   id="rect631" />
+ 
+			
+				<rect
+   width="331.65353"
+   height="331.65332"
+   x="18.17334"
+   y="18.173828"
+   style="fill:none;stroke:#ffffff;stroke-width:10"
+   id="rect633" />
+ 
+			<polygon
+   points="90.678223,213.54102 90.677734,247.39844 61.354004,264.32812 90.678223,281.25781 90.678223,315.11621 120.00049,298.1875 149.32178,315.11426 149.32227,281.25781 178.64648,264.32812 149.32227,247.39844 149.32227,213.54102 120.00049,230.46875 "
+   style="fill:#ffffff"
+   id="polygon635" />
+
+			<polygon
+   points="218.67773,213.54102 218.67773,247.39844 189.35352,264.32812 218.67773,281.25781 218.67773,315.11621 248,298.1875 277.32227,315.11426 277.32227,281.25781 306.64648,264.32812 277.32227,247.39844 277.32227,213.54102 248,230.46875 "
+   style="fill:#ffffff"
+   id="polygon637" />
+
+		</g>
+  </g>
+</svg>

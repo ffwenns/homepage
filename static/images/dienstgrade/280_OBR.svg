@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="368"
+   height="368"
+   viewBox="0 0 368 368"
+   id="svg334"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Dgrd_obr.tirol.svg"><metadata
+   id="metadata12"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1018"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="0.64130435"
+   inkscape:cx="-596.13001"
+   inkscape:cy="153.19224"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_2_3_" /><defs
+   id="defs350" />
+	
+		<g
+   id="Ebene_2_3_">
+			<rect
+   width="368"
+   height="368"
+   x="0"
+   y="0"
+   style="fill:#ff0000"
+   id="rect339" /> 
+			
+				<rect
+   width="331.65381"
+   height="331.65332"
+   x="18.17334"
+   y="20.173828"
+   style="fill:#ffd200;fill-opacity:1;stroke:none;stroke-width:10"
+   id="rect341" /> 
+			<polygon
+   points="149.32227,281.25781 178.64648,264.32812 149.32227,247.39844 149.32227,213.54102 120.00049,230.46875 90.678223,213.54102 90.677734,247.39844 61.354004,264.32812 90.678223,281.25781 90.678223,315.11621 120.00049,298.1875 149.32178,315.11426 149.32227,281.25781 "
+   style="fill:#ffffff;fill-opacity:1"
+   id="polygon343" />
+			<polygon
+   points="277.32227,281.25781 306.64648,264.32812 277.32227,247.39844 277.32227,213.54102 248,230.46875 218.67773,213.54102 218.67773,247.39844 189.35352,264.32812 218.67773,281.25781 218.67773,315.11621 248,298.1875 277.32227,315.11426 277.32227,281.25781 "
+   style="fill:#ffffff;fill-opacity:1"
+   id="polygon345" />
+			<polygon
+   points="213.32227,169.25781 242.64648,152.32812 213.32227,135.39844 213.32227,101.54102 184,118.46875 154.67773,101.54102 154.67773,135.39844 125.35352,152.32812 154.67773,169.25781 154.67773,203.11621 184,186.1875 213.32227,203.11426 213.32227,169.25781 "
+   style="fill:#ffffff;fill-opacity:1"
+   id="polygon347" />
+		</g>
+	</svg>
