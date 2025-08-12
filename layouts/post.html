@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <article>
+    this is a post
+
+    <h1>{{ .Title }}</h1>
+
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format "2. January" }}
+    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+
+    {{ if .Params.facebook_url }}
+      <p><a href="{{ .Params.facebook_url }}" target="_blank">View on Facebook</a></p>
+    {{ end }}
+
+
+    <div style="white-space: pre-line;">{{ .Content }}</div>
+
+    {{ $images := .Resources.ByType "image" }}
+    {{ if $images }}
+      <div class="post-images">
+        {{ range $images }}
+          <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+        {{ end }}
+      </div>
+    {{ end }}
+  </article>
+{{ end }}

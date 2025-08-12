@@ -2,10 +2,15 @@
 
 @theme {
   --font-sans: "Roboto", sans-serif;
+  --breakpoint-xs: 30rem;
 }
 
 @layer components {
-  main {
+  .wrapper {
+    @apply mx-auto max-w-[90rem];
+  }
+
+  article {
     p {
       @apply whitespace-pre-line;
     }

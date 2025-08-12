@@ -2,6 +2,7 @@ baseURL = 'https://ffwenns.at/'
 languageCode = 'de-AT'
 title = 'Freiwillige Feuerwehr Wenns'
 disableKinds = ['taxonomy', 'term']
+repository = 'https://github.com/ffwenns/homepage'
 
 [module]
   [[module.mounts]]

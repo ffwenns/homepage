@@ -1,8 +1,5 @@
 {{ define "main" }}
-  {{ .Content }}
+  {{ partial "posts" (dict "limit" 6) }}
 
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    <div>{{ .Summary }}</div>
-  {{ end }}
+  {{ .Content }}
 {{ end }}

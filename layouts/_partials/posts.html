@@ -1,0 +1,54 @@
+{{/* Posts partial
+  Usage:
+  - {{ partial "posts" (dict "limit" 6)
+}}
+- show 6 latest posts - {{ partial "posts" (dict "year" 2025) }} - show all posts from 2025 -
+{{ partial "posts" (dict "limit" 3 "year" 2024) }} - show 3 latest posts from 2024 - {{ partial "posts" . }} - show all
+posts */}}
+{{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
+
+{{/* Filter by year if specified */}}
+{{ if .year }}
+  {{ $yearStr := string .year }}
+  {{ $posts = where $posts ".Date.Year" .year }}
+{{ end }}
+
+{{/* Sort by date descending */}}
+{{ $posts = $posts.ByDate.Reverse }}
+
+{{/* Limit if specified */}}
+{{ if .limit }}
+  {{ $posts = first .limit $posts }}
+{{ end }}
+
+
+<div class="grid gap-4 p-4 md:grid-cols-2 xl:grid-cols-3">
+  {{ range $posts }}
+    <a href="{{ .RelPermalink }}" class="block">
+      <article class="relative overflow-hidden rounded">
+        {{ $cover := .Resources.GetMatch "cover.webp" }}
+        {{ $image := $cover }}
+        {{ if not $image }}
+          {{ $images := .Resources.ByType "image" }}
+          {{ if $images }}
+            {{ $image = index $images 0 }}
+          {{ end }}
+        {{ end }}
+
+        {{ if $image }}
+          <img src="{{ $image.RelPermalink }}" class="aspect-3/2 object-cover" />
+        {{ end }}
+
+
+        <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
+          <div class="absolute bottom-0 left-0 p-4">
+            <time class="text-sm text-gray-300" datetime="{{ .Date.Format "2006-01-02" }}">
+              {{ .Date.Format "2. January" }}</time
+            >
+            <h2 class="line-clamp-2 text-xl font-medium text-white">{{ .Title }}</h2>
+          </div>
+        </div>
+      </article>
+    </a>
+  {{ end }}
+</div>

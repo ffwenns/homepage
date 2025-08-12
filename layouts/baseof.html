@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="de">
+<html lang="de" class="scroll-smooth antialiased">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
@@ -21,13 +21,13 @@
     {{ partialCached "head/js.html" . }}
   </head>
   <body>
-    <nav>
+    <header class="sticky top-0 z-10 bg-red-800 text-white">
       {{ partial "nav.html" . }}
-    </nav>
-    <header>
+    </header>
+    <header class="bg-red-700 text-white">
       {{ partial "header.html" . }}
     </header>
-    <main>
+    <main class="wrapper">
       {{ block "main" . }}{{ end }}
     </main>
     <footer>
