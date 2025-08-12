@@ -1,0 +1,14 @@
+<div class="wrapper flex justify-between">
+  <a href="/" class="block p-6 text-lg font-medium">{{ .Site.Title }}</a>
+
+  <div class="relative xl:hidden">
+    <a href="#navbar" aria-label="Menu" aria-controls="Navigation">
+      <span id="hamburger"></span>
+    </a>
+    <a href="#close" class="absolute inset-0"></a>
+  </div>
+
+  <nav class="hidden xl:block">
+    {{ partial "menu/desktop.html" }}
+  </nav>
+</div>

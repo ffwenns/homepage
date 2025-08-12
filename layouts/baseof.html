@@ -21,11 +21,27 @@
     {{ partialCached "head/js.html" . }}
   </head>
   <body>
-    <header class="sticky top-0 z-10 bg-red-800 text-white">
-      {{ partial "nav.html" . }}
+    <header id="navbar" class="sticky top-0 z-10 bg-red-800 text-white">
+      {{ partial "navbar.html" . }}
     </header>
-    <header class="bg-red-700 text-white">
-      {{ partial "header.html" . }}
+    <nav
+      id="offcanvas"
+      class="z-9 fixed right-0 top-[78px] grid w-full gap-4 transition-all duration-300 md:grid-cols-2 xl:hidden"
+    >
+      {{ partial "menu/mobile.html" . }}
+    </nav>
+
+    <header>
+      <div class="bg-red-700 bg-[url(/header.webp)] bg-cover bg-center bg-no-repeat bg-blend-darken">
+        <div href="/" class="-mb-16 flex flex-col gap-8 pb-20 pt-8 sm:pt-16 lg:gap-16">
+          <img src="/images/feuerwehr-wenns.svg" alt="{{ .Site.Title }}" class="xs:h-32 mx-auto h-24 w-auto sm:h-40" />
+          <span class="xs:text-3xl text-center text-2xl font-semibold text-white sm:text-4xl lg:text-5xl">
+            {{ block "title" . }}
+              {{ .Site.Title }}
+            {{ end }}
+          </span>
+        </div>
+      </div>
     </header>
     <main class="wrapper">
       {{ block "main" . }}{{ end }}

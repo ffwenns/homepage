@@ -1,0 +1,6 @@
+{{/* Navigation link partial
+  Usage: {{ partial "nav-link" (dict "url" "/mannschaft/kommando/" "text" "Kommando" "context" .)
+}}
+*/}}
+
+<li><a href="{{ .url }}" {{ if eq .context.RelPermalink .url }}class="font-semibold"{{ end }}>{{ .text }}</a></li>

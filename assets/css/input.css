@@ -10,9 +10,117 @@
     @apply mx-auto max-w-[90rem];
   }
 
+  a[href="#navbar"] {
+    @apply relative z-10 block cursor-pointer border-l border-l-red-900 p-8 transition-all duration-300;
+
+    #close {
+      @apply absolute inset-0;
+    }
+
+    #hamburger {
+      @apply relative my-[6px] select-none;
+
+      &,
+      &::before,
+      &::after {
+        @apply block h-[2px] w-5 bg-white transition-all duration-300;
+      }
+
+      &::before,
+      &::after {
+        @apply absolute content-[""];
+      }
+
+      &::before {
+        @apply -top-[6px];
+      }
+
+      &::after {
+        @apply top-[6px];
+      }
+    }
+  }
+
+  #navbar {
+    &:target {
+      a[href="#navbar"] {
+        @apply pointer-events-none;
+
+        #hamburger {
+          @apply bg-transparent;
+
+          &::before {
+            @apply translate-y-[6px] rotate-45;
+          }
+
+          &::after {
+            @apply translate-y-[-6px] rotate-[-45deg];
+          }
+        }
+      }
+    }
+
+    & + #offcanvas {
+      translate: 0 -100%;
+      opacity: 0;
+    }
+
+    &:target + #offcanvas {
+      translate: none;
+      opacity: 100%;
+    }
+  }
+
+  #offcanvas {
+    details[open] {
+      @apply bg-gray-100;
+
+      summary {
+        @apply text-black;
+
+        span {
+          @apply block border-b border-gray-300 pb-2;
+        }
+      }
+    }
+
+    summary {
+      @apply cursor-pointer select-none list-none p-4 text-xl font-semibold text-gray-600;
+    }
+    .content {
+      @apply px-4 pb-4;
+    }
+
+    li a {
+      @apply block py-1 text-lg;
+    }
+  }
+
   article {
     p {
       @apply whitespace-pre-line;
+    }
+  }
+
+  @supports (interpolate-size: allow-keywords) {
+    :root {
+      interpolate-size: allow-keywords;
+    }
+
+    details {
+      transition: 0.3s all;
+    }
+
+    ::details-content {
+      transition:
+        height 0.3s ease,
+        content-visibility 0.3s ease allow-discrete;
+      height: 0;
+      overflow: clip;
+    }
+
+    [open]::details-content {
+      height: auto;
     }
   }
 }
