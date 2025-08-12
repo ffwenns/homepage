@@ -16,17 +16,11 @@ Beim Bearbeiten müssen einige Dinge beachtet werden:
 
 ### Bilder
 
-Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows).
-
-Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. Die Bilder können dann durch einen Rechtsklick oder per Drag and Drop im Browser hochgeladen werden.
+Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert.
 
 ### Shortcodes
 
 Infos dazu folgen noch...
-
-### Veröffentlichen
-
-Möchte man die eigenen Änderungen veröffentlichen, **muss man sie committen**. Dazu wählt man die Änderungen aus und schreibt dann eine kurze Nachricht dazu was man geändert hat. Danach dauert es einen kurzen Moment bis die Seite neu gebaut und veröffentlicht wird.
 
 ## Entwicklung
 
@@ -70,8 +64,3 @@ Das Betriebssystem ist [Arch Linux](https://archlinux.org),
 als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
 
 Der Server und die Domain sind bei [netcup](https://netcup.de) registriert.
-
-### Backup
-
-Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und verteilt es mithilfe von [Syncthing](https://syncthing.net). Das Repository wird zusätzlich auf den Server gepusht (mirror). 
-Ein ZIP-Archiv sollte regelmäßig an das ÖA-Team verteilt werden. Evtl macht es auch Sinn auf den Google- bzw. Microsoft-Account der Feuerwehr eine Sicherung abzulegen.
