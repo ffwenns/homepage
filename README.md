@@ -4,11 +4,9 @@ Die Website der Freiwilligen Feuerwehr Wenns
 
 ## Bearbeiten
 
-Die Homepage lässt sich unter folgenden Link bearbeiten:
+Um Änderungen an der Seite vorzunehmen, muss man sich zuerst auf Github registrieren und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite ein Bearbeiten-Link (ganz unten). Damit kommt man dann bequem zur Seite die man ändern will.
 
-https://github.dev/ffwenns/homepage
-
-Um Änderungen vorzunehmen, muss man sich zuerst auf Github registrieren und dann in die Organisation @ffwenns durch ein bestehendes Mitglied eingeladen werden. Beim Bearbeiten müssen einige Dinge beachtet werden:
+Beim Bearbeiten müssen einige Dinge beachtet werden:
 
 - Die **Ordnerstruktur muss auf jeden Fall beibehalten werden**.
 - Die ganzen Beiträge sind unter `/posts` in Jahre sortiert und werden automatisch importiert.
