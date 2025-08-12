@@ -1,5 +1,6 @@
 #+TITLE: Hochzeit unseres Kameraden Tobias und seiner Anna in Kaufering
 #+DATE: 2017-10-29
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1753128934762224
 
 <p>Am gestrigen Samstag den 28. Oktober 2017 heiratete unser Freund Tobias und seine Anna in der "Wallfahrtskirche St. Leonhard" in Kaufering.

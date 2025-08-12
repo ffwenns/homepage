@@ -1,5 +1,6 @@
 #+TITLE: Florianifeier 2016 mit Ehrungen und Beförderungen
 #+DATE: 2016-05-01
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1101054929969631
 
 <p>Gestern am Samstagabend den 30. April feierte die FF Wenns das Fest des heiligen Florian, dem Schutzpatron der Feuerwehr.

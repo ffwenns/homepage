@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Pitztalerhof 04.01.2017
 #+DATE: 2017-01-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1371906372884484
 
 <p>Zu einem erneuten Brandmeldealarm wurde die FF-Wenns am Mittwoch den 04. Jänner um 07:06 Uhr mittels Pager Sammelruf alarmiert.

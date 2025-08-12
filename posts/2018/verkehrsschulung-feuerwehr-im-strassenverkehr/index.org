@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsschulung "Feuerwehr im Straßenverkehr"
 #+DATE: 2018-12-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2395857683822676
 
 <p>Aktuell, am heutigen Abend findet eine Verkehrschulung zum Thema "Feuerwehr im Straßendienst" im Schulungsraum der FF-Wenns statt.

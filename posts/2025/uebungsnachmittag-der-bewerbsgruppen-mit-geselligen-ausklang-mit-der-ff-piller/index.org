@@ -1,5 +1,6 @@
 #+TITLE: Übungsnachmittag der Bewerbsgruppen mit geselligen Ausklang mit der FF Piller
 #+DATE: 2025-05-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1064997118996073
 
 

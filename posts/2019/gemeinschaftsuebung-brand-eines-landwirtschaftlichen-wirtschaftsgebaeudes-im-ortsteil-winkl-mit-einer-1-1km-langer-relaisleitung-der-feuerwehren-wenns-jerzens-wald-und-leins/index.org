@@ -1,5 +1,6 @@
 #+TITLE: Gemeinschaftsübung "Brand eines landwirtschaftlichen Wirtschaftsgebäudes" im Ortsteil Winkl mit einer 1,1km langer Relaisleitung der Feuerwehren Wenns, Jerzens, Wald und Leins
 #+DATE: 2019-07-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2909125149162591
 
 <p>Am gestrigen Freitagabend den 19.Juli wurde die diesjährige Sommerübung mit den Feuerwehren aus Jerzens, Wald und Leins im Ortsteil Winkl auf 1300m Seehöhe abgehalten.

@@ -1,5 +1,6 @@
 #+TITLE: Technische Hilfeleistung aufgrund verschmutzer Fahrbahn und Ölverlust in Brennwald
 #+DATE: 2020-03-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3609907535751012
 
 <p>Am heutigen Montagnachmittag rückte das TLF nach Brennwald aus, dort musste nach Bauarbeiten eine verschmutze Gemeindestraße und ein Ölaustritt beseitigt und gereinigt werden. Nach rund einer halben Stunde war der Einsatz beendet.

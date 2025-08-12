@@ -1,5 +1,6 @@
 #+TITLE: Jugendübung zum Thema Schachtbergung (Höhen-/Tiefenrettung)
 #+DATE: 2021-10-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6337783612963377
 
 <p>Am gestrigen Samstag, den 09. Oktober 2021 hielt unsere Jugendgruppe mit den zwei Betreuern Andy und Fabian eine weitere Übung ab. 

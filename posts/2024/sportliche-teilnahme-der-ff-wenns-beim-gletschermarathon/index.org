@@ -1,5 +1,6 @@
 #+TITLE: Sportliche Teilnahme der FF Wenns beim GLETSCHERMARATHON
 #+DATE: 2024-07-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/852640626898391
 
 <p>Am heutigen Sonntag, nahmen fünf Kameraden der Bewerbsgruppe WENNS 1 erfolgreich am Pitztaler Gletschermarathon teil.

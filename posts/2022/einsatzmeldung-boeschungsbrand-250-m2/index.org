@@ -1,5 +1,6 @@
 #+TITLE: Einsatzmeldung: Böschungsbrand 250 m2
 #+DATE: 2022-03-18
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7279520318789697
 
 <p>Am heutigen Freitag, den 18. März 2022 wurde die FF-Wenns um 17:08 Uhr mittels Pager-Sammelruf und Sirenen-Alarmierung zu einem Böschungsbrand im Bereich Oberdorf/Siedlung alarmiert. 

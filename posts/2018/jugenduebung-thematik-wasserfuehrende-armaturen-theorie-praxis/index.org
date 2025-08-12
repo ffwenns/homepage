@@ -1,5 +1,6 @@
 #+TITLE: Jugendübung Thematik Wasserführende Armaturen Theorie & Praxis
 #+DATE: 2018-09-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2258193707589075
 
 <p>Am gestrigen Freitag den 21. September konnte unsere Jugendgruppe eine weitere Probe abhalten, bei dieser wurden primär die wasserführenden Armaturen besprochen und beübt.

@@ -1,5 +1,6 @@
 #+TITLE: Zwei Einsätze mit der Meldung: Wespen/Hornissennest
 #+DATE: 2010-08-07
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 In der letzten Woche wurde die Feuerwehr Wenns zweimal zu Einsätzen mit der Einsatzmeldung "Wespen/Hornissennest" im Ortsgebiet alarmiert.

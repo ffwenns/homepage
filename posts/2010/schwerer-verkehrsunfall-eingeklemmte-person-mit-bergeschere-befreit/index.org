@@ -1,5 +1,6 @@
 #+TITLE: Schwerer Verkehrsunfall: Eingeklemmte Person mit Bergeschere befreit
 #+DATE: 2010-12-27
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Zu einem schweren Verkehrsunfall mit eingeklemmter Person auf der L16 Pitztal Landesstraße wurden die Einsatzkräfte am Montagnachmittag den 27. Dezember um 14:26 Uhr alarmiert.

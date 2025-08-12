@@ -1,5 +1,6 @@
 #+TITLE: 18 Tonnen LKW Bergung mit über 11 Stunden Einsatzdauer
 #+DATE: 2020-06-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4047495458658882
 
 <p>Am heutigen Freitag den 26. Juni um 09:58 Uhr wurde die FF-Wenns zu einem weiteren Einsatz via Pager-Sammelruf alarmiert. Dieses Mal lautete die Einsatzmeldung "LKW Bergung-18t LKW droht abzurutschen", welcher im Ortsteil Klöfles lokalisiert wurde.

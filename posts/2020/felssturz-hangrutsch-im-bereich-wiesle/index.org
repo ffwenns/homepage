@@ -1,5 +1,6 @@
 #+TITLE: Felssturz/Hangrutsch im Bereich Wiesle
 #+DATE: 2020-02-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3520217108053389
 
 <p>Die FF-Wenns wurde am heutigen Mittwoch den 05. Februar um 19:00 Uhr telefonisch zu einem Felssturz und Hangrutsch alarmiert.

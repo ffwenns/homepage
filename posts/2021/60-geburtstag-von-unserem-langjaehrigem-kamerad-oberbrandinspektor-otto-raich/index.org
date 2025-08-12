@@ -1,5 +1,6 @@
 #+TITLE: 60. Geburtstag von unserem langjährigem Kamerad Oberbrandinspektor Otto Raich
 #+DATE: 2021-07-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5822068054534938
 
 <p>Unser Kamerad und Freund OBI Otto Raich feierte am vergangenen Mittwoch den 30. Juni seinen 60. Geburtstag. Er hat uns dazu zu einer kleinen Zusammenkunft am Donnerstag den 01. Juli eingeladen um dieses Jubiläum gebührend zu feiern.

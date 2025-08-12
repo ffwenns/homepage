@@ -1,5 +1,6 @@
 #+TITLE: Übung Gruppe 4 mit Schmutzwasserpumpe
 #+DATE: 2017-08-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1667455043329614
 
 <p>Gestern am Freitagabend übte die Gruppe 4 mit der neuen Schmutzwasser- sowie Tauchpumpe beim Pillerbach im Klausboden den Hochwasser - Ernstfall...</p>

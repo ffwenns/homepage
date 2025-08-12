@@ -1,5 +1,6 @@
 #+TITLE: Übungsreicher Freitagabend bei der FF Wenns
 #+DATE: 2023-03-03
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/565270605635396
 
 <p>Neben der Vorbereitung einer Gruppe zur Technischen Leistungsprüfung Form A (Bergeschere) in Silber und einer Gruppe Form B (Hebekissen) in Bronze fand eine Erste-Hilfe Schulung mit unserer 22 Mann / Frau starken Jugendgruppe statt. Weiters wurde auch unser Notstromaggregat in Betrieb genommen und erfolgreich getestet.</p>

@@ -1,5 +1,6 @@
 #+TITLE: Medizinischer Notfall - Türöffnung
 #+DATE: 2022-10-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/8288344801240572
 
 <p>

@@ -1,5 +1,6 @@
 #+TITLE: Nachruf - Herr HFM Josef Röck "Sendler's Josef" 
 #+DATE: 2023-10-27
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/700973442065111
 
 <p>In stiller Trauer nehmen wir Abschied von unserem langjährigen Mitglied Hauptfeuerwehrmann (HFM)

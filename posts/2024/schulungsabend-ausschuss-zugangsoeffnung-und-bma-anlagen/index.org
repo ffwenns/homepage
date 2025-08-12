@@ -1,5 +1,6 @@
 #+TITLE: Schulungsabend Ausschuss - Zugangsöffnung und BMA Anlagen
 #+DATE: 2024-11-21
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/946666384162481
 
 Am gestrigen Mittwochabend, den 20.November 2024 fand eine weitere, lehrreiche Ausschuss Schulung statt. Der Ausschuss wurde zu Beginn in zwei Gruppen aufgeteilt. Eine Gruppe unter OBM Christoph Stoll beschäftigte sich mit der gesamten Türöffnung (inkl. Zylinder bohren) und die zweite Gruppe unter LM Stefan Deutschmann mit der Zugangsöffnung bei Fenster (vom gekippten Fenster bis zum Glas bohren).

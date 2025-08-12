@@ -1,5 +1,6 @@
 #+TITLE: Wasserschaden / Verklausung
 #+DATE: 2017-09-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1683662705042181
 
 <p>... derzeit steht die Feuerwehr Wenns bei einem Wasserschaden sowie einer Verklausung eines Baches mit RF-A, LF-A, MTF-A und 21 Mann im Ortsgebiet von Wenns im Einsatz...</p>

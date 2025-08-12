@@ -1,5 +1,6 @@
 #+TITLE: ÖFAST der FF Jerzens im Gerätehaus der FF Wenns - gelebte Zusammenarbeit zwischen den Nachbarfeuerwehren
 #+DATE: 2020-07-13
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4120538451354582
 
 <p>Am vergangenen Samstag den 11. Juli 2020 konnte unsere Nachbarfeuerwehr Jerzens in unserem Gerätehaus die alljährliche ÖFAST-Überprüfung durchführen.

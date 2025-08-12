@@ -1,5 +1,6 @@
 #+TITLE: 8h Erste Hilfe Auffrischung
 #+DATE: 2019-11-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3227746627300440
 
 <p>Am gestrigen Samstag den 09. November konnten alle Teilnehmer der im Dezember stattfindenden Technischen Leistungsprüfung in Bronze Form A, an der 8-stündigen Erste Hilfe Auffrischung teilnehmen. Neben der Bergung aus einem Fahrzeug via Rautek Griff, standen unter anderem die Themen Reanimation, Helmabnahme, Wegziehen und die klassische Stabile Seitenlage am Programm. Die Teilnehmer mussten sich anschließend zur Theorie in der Praxis Beweisen 

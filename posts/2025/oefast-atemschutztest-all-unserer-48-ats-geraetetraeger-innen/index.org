@@ -1,5 +1,6 @@
 #+TITLE: ÖFAST (Atemschutztest) all unserer 48 ATS-Geräteträger:innen
 #+DATE: 2025-03-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1039583471537438
 
 Die 48 ATS-Geräteträger:innen der FF Wenns absolvierten gestern am Samstag, den 29. März 2025 zwischen 07:00 - 17:00 Uhr den alljährlich ÖFAST Atemschutztest.

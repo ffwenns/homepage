@@ -1,5 +1,6 @@
 #+TITLE: 28x Wissenstestabzeichen für die Jugendfeuerwehr Wenns in Imst erfolgreich absolviert
 #+DATE: 2021-05-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5588368367904909
 
 <p>Insgesamt 89 Jugendfeuerwehrmitglieder (Mädchen und Burschen) konnten am vergangenen Samstag, den 15. Mai 2021 die Wissenstestabzeichen in den Stufen Bronze, Silber und Gold im Gerätehaus der Stadtfeuerwehr Imst ablegen. 

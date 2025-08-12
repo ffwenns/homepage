@@ -1,5 +1,6 @@
 #+TITLE: Abschnittsübung vorderes Pitztal mit Stationsbetrieb in Wenns
 #+DATE: 2024-05-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/823473429815111
 
 <p>Am vergangenen Samstagnachmittag, den 18.Mai 2024 organisierte die FF Wenns die Abschnittsübung vorderes Pitztal in Wenns in Form eines Stationsbetriebes. Um 16:00 Uhr erfolgten die Alarmierungen der Feuerwehren aus Arzl, Wald, Leins, Jerzens und Wenns. Rund alle 45 Minuten wechselten die Feuerwehren mittels Alarm-E-Mail zur nächsten Übungsstation. 

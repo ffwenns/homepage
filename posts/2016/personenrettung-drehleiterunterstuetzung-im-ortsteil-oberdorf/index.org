@@ -1,5 +1,6 @@
 #+TITLE: Personenrettung-Drehleiterunterstützung im Ortsteil Oberdorf
 #+DATE: 2016-09-13
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1222289717846151
 
 <p>Am heutigen Dienstag wurde um 19:30 Uhr die FF-Wenns sowie die FF-Imst zur Unterstützung des Rettungsdienstes alarmiert.

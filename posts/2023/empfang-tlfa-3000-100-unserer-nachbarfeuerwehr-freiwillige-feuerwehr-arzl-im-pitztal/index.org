@@ -1,5 +1,6 @@
 #+TITLE: Empfang TLFA 3000/100 unserer Nachbarfeuerwehr Freiwillige Feuerwehr Arzl im Pitztal
 #+DATE: 2023-03-21
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/576316521197471
 
 <p>Heute am 21.März 2023 konnte unsere Nachbarfeuerwehr Arzl ihr neues TLFA 3000/100 (Tanklöschfahrzeug mit Allradantrieb und 3000 Liter Löschwasser sowie 100 Liter Schaummittel) in Empfang nehmen. Das Scania Fahrgestell wurde von der Firma Rosenbauer aufgebaut.

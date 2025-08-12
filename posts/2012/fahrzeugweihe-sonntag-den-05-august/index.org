@@ -1,5 +1,6 @@
 #+TITLE: Fahrzeugweihe SONNTAG den 05. AUGUST
 #+DATE: 2012-08-01
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am kommenden Sonntag den 05. August weiht die Freiwillige Feuerwehr Wenns das neue Mannschaftstransportfahrzeug sowie die neue Tragkraftspritze FOX III feierlich ein. Neben den Ehrengästen werden Abordnungen aller Pitztaler Feuerwehren, Musikkapelle sowie die Schützenkompanie teilnehmen.

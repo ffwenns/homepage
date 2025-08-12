@@ -1,5 +1,6 @@
 #+TITLE: Übungen unserer Feuerwehrjugend
 #+DATE: 2015-02-21
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Die 16 Mann starke Jugendgruppe der FF Wenns bereitet sich bereits fleißig auf den Wissenstest und die Leistungsabzeichen in Bronze, Silber und Gold vor...

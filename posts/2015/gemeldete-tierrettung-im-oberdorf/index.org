@@ -1,5 +1,6 @@
 #+TITLE: Gemeldete Tierrettung im Oberdorf
 #+DATE: 2015-06-30
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Dienstag den 30. Juni wurde das Kommando der FF Wenns um 18:15 Uhr zu einer Tierrettung zu einem Einfamilienhaus in das Oberdorf alarmiert. Das Tier war in der Zwischendecke des Dachstuhles eingeschlossen und konnte nach einer Zugangsöffnung und Entfernung der Holzverbauung befreit werden. Nach rund einer Stunde konnte der Einsatz beendet werden.

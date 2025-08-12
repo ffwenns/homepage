@@ -1,5 +1,6 @@
 #+TITLE: Besuch bei unserer Partnerfeuerwehr Kaufering zum 150-jährigen Jubiläum
 #+DATE: 2025-06-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1104305081731943
 
 Am vergangenen Wochenende besuchten wir mit einer 20-köpfigen Abordnung von Jung bis Alt unsere Freunde und Partnerfeuerwehr in Kaufering, um gemeinsam das 150-jährige Bestandsjubiläum zu feiern .

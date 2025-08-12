@@ -1,5 +1,6 @@
 #+TITLE: 4. Mai - Tag des Hl. Florian Schutzpatron der Feuerwehren
 #+DATE: 2023-05-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/601324845363305
 
 <p>Die Florianiübung/-feier hielten wir heuer schon letztes Wochenende mit einer starken Mannschaft von 95 Mann/Frau ab und konnten so dem Hl. Florian gedenken. 

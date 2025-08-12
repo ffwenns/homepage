@@ -1,5 +1,6 @@
 #+TITLE: Arbeitseinsatz Straßenreinigung
 #+DATE: 2014-09-01
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Samstag den 30. August wurde die Feuerwehr Wenns zu einer Straßenreinigung im Bereich Matzlewald alarmiert. Diedortige Fahrbahn, die aufgrund von Aushub-Arbeiten stark verschmutzt wurdekonnte innerhalb2 Stunden vollständig gereinigt werden.

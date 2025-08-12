@@ -1,5 +1,6 @@
 #+TITLE: Erneute sehr aktive vergangene Woche bei der FF-Wenns
 #+DATE: 2019-03-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2584916241583485
 
 <p>Auch vergangene Woche konnte die FF-Wenns wieder zahlreiche Aktivitäten ausführen.

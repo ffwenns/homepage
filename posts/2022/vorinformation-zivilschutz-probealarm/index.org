@@ -1,5 +1,6 @@
 #+TITLE: VORINFORMATION ZIVILSCHUTZ-Probealarm
 #+DATE: 2022-09-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/8174861942588859
 
 <p>Nicht erschrecken! - Am kommenden Samstag den 01. Oktober werden wieder mehr als 8.000 Sirenen Österreichweit getestet, um im Katastrophenfall die Bevölkerung frühzeitig warnen zu können. Die Sirenen dienen nicht nur zur Alarmierung der Feuerwehr bei größeren Schadensereignissen, nein sie dienen eigentlich vielmehr der Sicherheit im Dorf, um die Anwohner auf Großschadensereignisse und herannahende Katastrophen aufmerksam zu machen.

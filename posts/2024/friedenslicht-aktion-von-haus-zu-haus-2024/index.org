@@ -1,5 +1,6 @@
 #+TITLE: Friedenslicht-Aktion von Haus zu Haus 2024
 #+DATE: 2024-12-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/960946409401145
 
 

@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm lokaler Hotelbetrieb
 #+DATE: 2023-02-03
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/545856904243433
 
 <p>Am Mittwoch den 01. Februar 2023 wurde um 20:33 Uhr die FF-WENNS, nach dem Ölspur-Einsatz, via Pager Sammelruf zu einem Brandmeldealarm im lokalen Hotelbetrieb alarmiert. 

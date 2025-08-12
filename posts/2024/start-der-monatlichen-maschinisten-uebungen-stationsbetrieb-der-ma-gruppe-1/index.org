@@ -1,5 +1,6 @@
 #+TITLE: Start der Monatlichen Maschinisten Übungen - Stationsbetrieb der MA Gruppe 1
 #+DATE: 2024-04-03
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/794126586083129
 
 <p>Am gestrigen Dienstag, den 02. April 2024 hielten unser neuer Obermaschinist LM Simon Siller und sein Stv. HLM Martin Siller die monatliche Maschinistenübung mit der MA - Gruppe 1 ab. Dabei wurde ein lehrreicher Stationsbetrieb vorbereitet und durchgeführt.

@@ -1,5 +1,6 @@
 #+TITLE: Friedenslicht-Aktion von Haus zu Haus 2023 
 #+DATE: 2023-12-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/728566362639152
 
 <p>Liebe Wennerinnen und Wenner!

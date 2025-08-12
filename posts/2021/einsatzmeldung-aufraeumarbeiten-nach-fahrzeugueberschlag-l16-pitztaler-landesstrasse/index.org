@@ -1,5 +1,6 @@
 #+TITLE: Einsatzmeldung "Aufräumarbeiten nach Fahrzeugüberschlag L16-Pitztaler Landesstraße"
 #+DATE: 2021-10-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6427342400674164
 
 <p>Am heutigen Nationalfeiertag, wurde die FF-Wenns 

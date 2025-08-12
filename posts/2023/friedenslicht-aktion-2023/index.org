@@ -1,5 +1,6 @@
 #+TITLE: Friedenslicht-Aktion 2023
 #+DATE: 2023-12-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/733664618795993
 
 <p>Am gestrigen Vorweihnachtstag, den 23. Dezember 2023 konnte unsere Jugendgruppe in Zusammenarbeit mit den Jungbauern Wenns das Friedenslicht aus Bethlehem in allen rund 900 Haushalten in Wenns verteilen. 

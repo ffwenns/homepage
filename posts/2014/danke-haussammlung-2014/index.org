@@ -1,5 +1,6 @@
 #+TITLE: DANKE - Haussammlung 2014
 #+DATE: 2014-03-09
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 <p>Die Freiwillige Feuerwehr Wenns möchte sich bei der Bevölkerung und den Betrieben von Wenns recht herzlich für die zahlreichen und großzügigen Spenden bedanken. Bei der Haussammlung 2014 hat man auch wieder gesehen, dass die Feuerwehr einen großen Stellenwert im Dorf hat.</p>

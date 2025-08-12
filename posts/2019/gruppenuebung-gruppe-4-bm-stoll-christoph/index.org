@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 4 BM Stoll Christoph
 #+DATE: 2019-04-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2642398505835258
 
 <p>Am vergangenen Freitag den 29. März konnte Zugs- und Gruppenkommandant BM Stoll Christoph mit seiner Gruppe eine technische Übung im Recycling Hof Wenns abhalten.

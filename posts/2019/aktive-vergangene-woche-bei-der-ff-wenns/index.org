@@ -1,5 +1,6 @@
 #+TITLE: Aktive vergangene Woche bei der FF-Wenns
 #+DATE: 2019-02-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2564816880260088
 
 <p>Neben der Gruppenübung der Gruppe 6 (BM Robert Krug) konnten zahlreiche Übungs-/Ausbildungsfahrten für 2 neue angehende Feuerwehr C-Fahrer durchgeführt werden.

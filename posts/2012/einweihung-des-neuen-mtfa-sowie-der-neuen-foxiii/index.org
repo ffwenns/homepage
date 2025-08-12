@@ -1,5 +1,6 @@
 #+TITLE: Einweihung des neuen MTFA sowie der neuen FOXIII
 #+DATE: 2012-08-05
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am vergangenen Sonntag den 05. August feierte die Freiwillige Feuerwehr Wenns die Einweihung des neuen Mannschaftstransportfahrzeuges sowie der neuen Tragkraftspritze.

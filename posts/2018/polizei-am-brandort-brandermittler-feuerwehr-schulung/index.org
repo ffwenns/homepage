@@ -1,5 +1,6 @@
 #+TITLE: Polizei am Brandort - Brandermittler / Feuerwehr Schulung
 #+DATE: 2018-11-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2362946067113838
 
 <p>Zeitgleich zur Jugendübung am gestrigen Freitag konnten die Brandermittler der Polizei im Mehrzwecksaal Wenns eine Schulung für Feuerwehrfunktionäre des Abschnittes Imst-Gurgltal und Pitztal abhalten.

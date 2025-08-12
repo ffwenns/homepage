@@ -1,5 +1,6 @@
 #+TITLE: Kindergarten und Kinderkrippe Wenns mit 80 Kindern zu Besuch bei der Feuerwehr
 #+DATE: 2025-06-27
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1107348834760901
 
 Am heutigen Freitag, den 27. Juni 2025 war der gesamte Kindergarten und die Kinderkrippe mit rund 80 Kindern in der Feuerwehrhalle Wenns zu Besuch. Die Kinder lernten dabei spielerisch unterschiedliche Gerätschaften der Feuerwehr kennen. 

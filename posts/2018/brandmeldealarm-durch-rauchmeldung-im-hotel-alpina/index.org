@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm durch Rauchmeldung im Hotel Alpina
 #+DATE: 2018-02-03
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1885909201484196
 
 <p>Zum Einsatz Nr. 12/2018 wurden wir heute Nacht um 04:26 Uhr mittels Pager in das Hotel Alpina alarmiert. Aufgrund einer Rauchentwicklung, ausgelöst durch Zigarettenrauch in einem Hotelzimmer löste die automatische BMA den Alarm aus. Nach der Kontrolle der Räumlichkeiten vor Ort sowie Rückstellung der Anlage konnte die FF Wenns wieder in das Gerätehaus einrücken. 

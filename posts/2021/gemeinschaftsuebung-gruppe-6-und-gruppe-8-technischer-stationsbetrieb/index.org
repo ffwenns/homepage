@@ -1,5 +1,6 @@
 #+TITLE: Gemeinschaftsübung Gruppe 6 und Gruppe 8 - technischer Stationsbetrieb
 #+DATE: 2021-10-09
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6334227406652331
 
 <p>Am gestrigen Freitag, den 08. Oktober führten die Gruppe 6 (Siller Dominik) und Gruppe 8 (Weber Daniel I) eine

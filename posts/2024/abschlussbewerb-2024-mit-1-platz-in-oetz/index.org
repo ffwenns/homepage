@@ -1,5 +1,6 @@
 #+TITLE: Abschlussbewerb 2024 mit 1.Platz in Oetz
 #+DATE: 2024-08-18
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/878076577688129
 
 Am heutigen Samstag den 17.08.2024 nahm die Bewerbsgruppe WENNS-1 am 9. und zugleich letzten Bewerb für die Saison 2024 teil. 

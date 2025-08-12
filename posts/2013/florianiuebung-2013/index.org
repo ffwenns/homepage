@@ -1,5 +1,6 @@
 #+TITLE: Florianiübung 2013
 #+DATE: 2013-05-04
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Gebäude in Vollbrand / 6 Personen eingeschlossen / kein Hydrantennetz - dies war die Meldung für Florianiübung im abgelegenen Ortsteil Wiesle.

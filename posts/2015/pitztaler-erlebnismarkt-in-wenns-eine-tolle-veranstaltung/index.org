@@ -1,5 +1,6 @@
 #+TITLE: Pitztaler Erlebnismarkt in Wenns eine tolle Veranstaltung
 #+DATE: 2015-12-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1003691709705954
 
 <p>Fotos Breonix Foto + Design Chris Walch - CHRIS WALCH

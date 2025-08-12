@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm GH Pitztalerhof
 #+DATE: 2018-08-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2180905071984606
 
 <p>Am heutigen Samstag um 19.28 Uhr wurde die Feuerwehr Wenns mittels Pager Sammelruf zu einem Brandmeldealarm in das Gasthaus Pitztalerhof alarmiert.

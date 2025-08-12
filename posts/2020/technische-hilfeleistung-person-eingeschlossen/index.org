@@ -1,5 +1,6 @@
 #+TITLE: Technische Hilfeleistung - Person eingeschlossen
 #+DATE: 2020-09-14
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4434918093249948
 
 <p>Am heutigen Montag, den 14. September alarmierte eine eingeschlosse Person im Ortsteil Unterdorf die Feuerwehr.

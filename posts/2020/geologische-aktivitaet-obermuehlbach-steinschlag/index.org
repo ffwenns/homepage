@@ -1,5 +1,6 @@
 #+TITLE: Geologische Aktivität Obermühlbach, Steinschlag
 #+DATE: 2020-10-31
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4668854743189614
 
 <p>Am Samstag, den 31. Oktober 2020 um 19:26 Uhr wurde die FF-WENNS via Kommando Eigenanforderung zu einer geologischen Aktivität alarmiert. 

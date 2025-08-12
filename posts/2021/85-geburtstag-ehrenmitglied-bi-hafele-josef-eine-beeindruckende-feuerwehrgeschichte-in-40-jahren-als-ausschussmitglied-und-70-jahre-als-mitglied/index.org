@@ -1,5 +1,6 @@
 #+TITLE: 85. Geburtstag Ehrenmitglied BI Hafele Josef eine beeindruckende Feuerwehrgeschichte in 40 Jahren als Ausschussmitglied und 70 Jahre als Mitglied
 #+DATE: 2021-12-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6773153662759701
 
 <p>Gestern am 21.12 feierte BI Hafele Josef seinen 85. Geburtstag. Wenn man sagt ein Leben für die Feuerwehr dann würde es wohl bei keinem anderen besser zutreffen als bei unserem Feuerwehr Seppl.

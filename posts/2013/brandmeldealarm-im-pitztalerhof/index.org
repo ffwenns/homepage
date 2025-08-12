@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm im Pitztalerhof
 #+DATE: 2013-02-18
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Neben zahlreichen Kleineinsätzen in den letzten Wochen wurden die Mitglieder der Feuerwehr Wenns zu einem Brandmeldealarm im Gasthaus Pitztalerhof am 18.Februar um 18:23 Uhr mittels Pager Sammelruf alarmiert. Nach zwei Minuten schlugen die Pager mit der Meldung: "Sammelruf Info zu Brandmeldealarm - Storno" abermals Alarm.

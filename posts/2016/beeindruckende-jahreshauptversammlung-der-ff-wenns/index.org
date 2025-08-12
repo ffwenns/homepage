@@ -1,5 +1,6 @@
 #+TITLE: Beeindruckende Jahreshauptversammlung der FF Wenns
 #+DATE: 2016-03-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1066967583378366
 
 <p>Rund 275 Aktivitäten mit über 7130 freiwilligen Arbeitsstunden leisteten die Kameraden der FF Wenns im vergangenen Jahr. 

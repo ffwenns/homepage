@@ -1,5 +1,6 @@
 #+TITLE: Erneute Geologische Aktivität festgestellt - Pitze
 #+DATE: 2019-06-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2847279875347119
 
 <p>Am gestrigen Dienstagabend um 22:43 Uhr wurde die FF-Wenns und die FF-Jerzens via Kommando-Schleife zu einer erneut festgestellten geologischen Aktivität bei der Pitze alarmiert. Trotz der Beruhigung in der letzten Woche erreichte der Pegelstand gestern erneut einen raschen Anstieg von über 2 Meter.

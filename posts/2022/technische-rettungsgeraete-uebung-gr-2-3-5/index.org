@@ -1,5 +1,6 @@
 #+TITLE: "Technische Rettungsgeräte" - Übung Gr. 2, 3 & 5
 #+DATE: 2022-12-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/8546073652134351
 
 <p>

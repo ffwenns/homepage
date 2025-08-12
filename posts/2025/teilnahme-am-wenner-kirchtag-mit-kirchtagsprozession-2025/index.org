@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme am Wenner Kirchtag mit Kirchtagsprozession 2025
 #+DATE: 2025-06-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1109583684537416
 
 

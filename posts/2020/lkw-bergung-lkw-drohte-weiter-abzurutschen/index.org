@@ -1,5 +1,6 @@
 #+TITLE: LKW-Bergung - LKW drohte weiter abzurutschen
 #+DATE: 2020-06-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3957047077703721
 
 <p>Die FF-Wenns wurde am heutigen Freitag den 05. Juni zu einer LKW-Bergung im Gemeindegebiet Wenns via Pager Sammelruf alarmiert.

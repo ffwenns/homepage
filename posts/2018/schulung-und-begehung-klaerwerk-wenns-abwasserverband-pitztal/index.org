@@ -1,5 +1,6 @@
 #+TITLE: Schulung und Begehung Klärwerk Wenns - Abwasserverband Pitztal
 #+DATE: 2018-09-27
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2266069710134808
 
 <p>Gestern am Mittwoch den 26. September konnte unser Ausschuss das Klärwerk in Wenns besichtigen.

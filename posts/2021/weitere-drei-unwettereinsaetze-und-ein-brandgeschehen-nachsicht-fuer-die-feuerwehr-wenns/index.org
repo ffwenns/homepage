@@ -1,5 +1,6 @@
 #+TITLE: Weitere drei Unwettereinsätze und ein Brandgeschehen-Nachsicht für die Feuerwehr Wenns
 #+DATE: 2021-08-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6040314646043610
 
 <p>Das Gemeindegebiet von Wenns wurde heute, Montag den 16. August erneut vom Umwettergeschehen getroffen. Um 15:27 Uhr wurde die FF-Wenns via Pager Sammelruf zu einem Wasserschaden beim Pitztalerhof alarmiert. 

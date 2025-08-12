@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsregelung beim Landeskrippentag in Wenns
 #+DATE: 2010-12-08
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am 8. Dezember 2010 fand in Wenns der 95. Landeskrippentag und anschließend die Buchpräsentation zum 150 jährigen Bestehen des Krippenbauverein Wenns statt.

@@ -1,5 +1,6 @@
 #+TITLE: Übungsreicher Freitag 17.03. & Arbeitseinsatz für Gemeinde Montag 20.03.
 #+DATE: 2023-03-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/575503054612151
 
 <p>Am vergangenen Freitag, den 17. März 2023 hielten unsere beiden Gruppen für die Technische Leistungsprüfung am kommenden Samstag, den 25. März 2023 eine

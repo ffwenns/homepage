@@ -1,5 +1,6 @@
 #+TITLE: Jugendübung Thematik Löschschaum
 #+DATE: 2020-06-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4047239978684430
 
 <p>Am heutigen Freitag den 26. Juni konnte unsere Feuerwehrjugend eine Übung zum Thema Löschschaum abhalten. Dabei wurde die nötigen Armaturen zuerst theoretisch besprochen und dann in der Praxis beübt.

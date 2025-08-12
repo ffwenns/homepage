@@ -1,5 +1,6 @@
 #+TITLE: THL Tierrettung - Mühlbach
 #+DATE: 2025-05-25
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1081390904023361
 
 Um 06:23 Uhr wurde die FF Wenns am heutigen Sonntagmorgen, den 25.Mai 2025 mittels Pager Kleineinsatz zu einer Tierrettung in das Ortsteil Mühlbach alarmiert.

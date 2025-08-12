@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Kinderhotel Stefan
 #+DATE: 2020-01-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3429963590412075
 
 <p>Am heutigen Mittwoch den 08. Jänner wurde die FF-Wenns um 22:22 Uhr zu einem Brandmeldealarm alarmiert. 

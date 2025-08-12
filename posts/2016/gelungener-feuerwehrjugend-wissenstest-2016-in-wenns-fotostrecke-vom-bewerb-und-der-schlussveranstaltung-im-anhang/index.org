@@ -1,5 +1,6 @@
 #+TITLE: Gelungener Feuerwehrjugend Wissenstest 2016 in Wenns / Fotostrecke vom Bewerb und der Schlussveranstaltung im Anhang
 #+DATE: 2016-04-03
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1081917515216706
 
 <p>Der diesjährige Feuerwehrjugend - Wissenstest fand am 02. April 2016 im Gerätehaus und in der Volkschule in der Gemeinde Wenns statt.

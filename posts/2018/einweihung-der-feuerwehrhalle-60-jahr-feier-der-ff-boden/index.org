@@ -1,5 +1,6 @@
 #+TITLE: Einweihung der Feuerwehrhalle & 60-Jahr-Feier der FF-Boden
 #+DATE: 2018-09-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2238172626257850
 
 <p>Am gestrigen Sonntag, den 09. September besuchte eine Abordnung der FF-Wenns das Einweihungs- sowie Jubiläumsfest der FF-Boden.

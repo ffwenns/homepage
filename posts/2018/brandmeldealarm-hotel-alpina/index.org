@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Hotel Alpina
 #+DATE: 2018-01-25
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1873321106076339
 
 <p>Heute Vormittag um 07:10 Uhr wurde die FF Wenns mittels Sammelruf zu einem Brandmeldealarm beim Hotel Alpina alarmiert. Nach Kontrolle vor Ort konnte ein Täuschungsalarm festgestellt werden. Nach dem Rückstellen der Anlage konnte die Mannschaft wieder ins Gerätehaus einrücken. 

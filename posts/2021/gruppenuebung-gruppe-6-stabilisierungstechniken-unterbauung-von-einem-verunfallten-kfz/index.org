@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 6 - "Stabilisierungstechniken & Unterbauung von einem verunfallten KFZ"
 #+DATE: 2021-05-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5604860312922381
 
 <p>Am gestrigen Mittwoch, den 19. Mai konnte die Gruppe 6 unter LM Dominik Siller eine weitere Gruppenübung unter Einhaltung der Corona Maßnahmen abhalten.

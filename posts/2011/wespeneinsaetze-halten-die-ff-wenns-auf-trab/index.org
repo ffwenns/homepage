@@ -1,5 +1,6 @@
 #+TITLE: Wespeneinsätze halten die FF Wenns auf Trab
 #+DATE: 2011-08-17
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Täglich rücken Tirols Feuerwehren mehrmals am Tag aus, um Wespennester zu entfernen. So auch die Feuerwehr Wenns, welche bereits über 20 Wespeneinsätze abarbeiten musste. In den letzten Wochen wurden von der Feuerwehr Wenns zahlreiche Wespennester in den unmöglichsten Stellen entfernt.

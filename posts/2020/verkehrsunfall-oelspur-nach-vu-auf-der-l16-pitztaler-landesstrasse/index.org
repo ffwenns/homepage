@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsunfall/Ölspur nach VU auf der L16-Pitztaler Landesstraße
 #+DATE: 2020-09-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4443454415729649
 
 <p>Am gestrigen Dienstag, den 15. September 2020 wurde unser Feuerwehr um 17:46 Uhr mittels Pager Kommandoschleife zu einem Verkehrsunfall und die daraus entstandene Ölspur (Einsatz Nr. 71/2020) alarmiert. 

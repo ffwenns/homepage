@@ -1,5 +1,6 @@
 #+TITLE: Fotos & Abschlussbericht zu 24x Bronze für die Bestandene Technischen Leistungsprüfung Form A der FF Wenns
 #+DATE: 2019-12-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3373527482722353
 
 <p>Pünktlich zu den Weihnachtsfeiertage gibt es etwas zum schmökern und zum durchblättern... 

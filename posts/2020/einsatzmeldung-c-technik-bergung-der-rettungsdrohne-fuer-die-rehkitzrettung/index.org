@@ -1,5 +1,6 @@
 #+TITLE: Einsatzmeldung C-Technik "Bergung der Rettungsdrohne für die Rehkitzrettung"
 #+DATE: 2020-06-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4028093123932449
 
 <p>Am heutigen Montag, den 22. Juni 2020 um 11:09 Uhr wurde die FF-Wenns via Pager Kleineinsatz-Schleife zu einer ungewöhnlicher Bergung alarmiert.

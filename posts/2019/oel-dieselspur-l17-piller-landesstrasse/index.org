@@ -1,5 +1,6 @@
 #+TITLE: Öl-/Dieselspur L17-Piller-Landesstraße
 #+DATE: 2019-08-01
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2941797905895315
 
 <p>Am heutigen Donnerstag den 01. August um 17.55 Uhr wurde die FF-Wenns via Pager-Sammelruf zu einer Öl-/Dieselspur auf Höhe Hotel Alpina im Oberdorf alarmiert. Der dort vorgefundene PKW verlor aufgrund einer geplatzten Dieselleitung den Dieselinhalt des Fahrzeuges. Die FF Wenns konnte mit RF und TLF die vorgefundene Ölspur binden und die Exekutive bereits nache kürzer Zeit die Landesstraße wieder freigeben.

@@ -1,5 +1,6 @@
 #+TITLE: Abschnittswahlen des Abschnitts Pitztal
 #+DATE: 2018-03-29
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1961165063958609
 
 <p>Am gestrigen Abend versammelten sich die Kommandanten und die Delegierten des Abschnitts Pitztal im Gerätehaus der Feuerwehr Wenns um die Wahl des Abschnittskommandanten durchzuführen.

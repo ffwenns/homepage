@@ -1,5 +1,6 @@
 #+TITLE: Gebäudebrand Stalderhütte / Hochzeiger Skigebiet
 #+DATE: 2015-10-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/977252995683159
 
 <p>Gebäudebrand Stalderhütte / Hochzeiger Skigebiet, Jerzens lautete die Übungsannahme zur Abschnittsübung des vorderen Pitztales der Feuerwehren Jerzens, Arzl, Wald, Leins und Wenns!

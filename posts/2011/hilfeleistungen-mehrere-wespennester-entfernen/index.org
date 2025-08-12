@@ -1,5 +1,6 @@
 #+TITLE: Hilfeleistungen: Mehrere Wespennester entfernen
 #+DATE: 2011-07-08
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 In der vergangenen Woche musste von einigen Mitgliedern der Feuerwehren Wenns und Wald i. P. mehrere Wespennester im gesamten Ortsgebiet entfernt werden, um die Gefahr der Plagegeister für die Bevölkerung zu lindern.

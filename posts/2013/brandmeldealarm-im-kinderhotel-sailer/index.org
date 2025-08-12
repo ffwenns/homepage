@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm im Kinderhotel Sailer
 #+DATE: 2013-05-14
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Zu einem Brandmeldealarm im Kinderhotel Sailer wurde die FF Wenns am Dienstagmorgen den 14. Mai um 07:07 Uhr mittels Pager Sammelruf alarmiert.

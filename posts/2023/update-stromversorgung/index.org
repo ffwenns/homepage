@@ -1,5 +1,6 @@
 #+TITLE: Update - Stromversorgung 
 #+DATE: 2023-07-18
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/645195347642921
 
 <p>Die Stromversorgung im Gemeindegebiet Wenns wird voraussichtlich bis MORGEN IN DER FRÜH ausfallen! An der Behebung wird auf Hochtouren gearbeitet!

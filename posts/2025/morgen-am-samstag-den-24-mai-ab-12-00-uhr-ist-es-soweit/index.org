@@ -1,5 +1,6 @@
 #+TITLE: MORGEN am Samstag, den 24. Mai ab 12:00 Uhr ist es soweit
 #+DATE: 2025-05-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1079980697497715
 
 Vorbereitungstraining des BFV Imst am Sportplatz Pitzenhöfe in Wenns 

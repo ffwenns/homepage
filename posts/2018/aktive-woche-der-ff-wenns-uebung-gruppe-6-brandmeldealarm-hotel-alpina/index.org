@@ -1,5 +1,6 @@
 #+TITLE: Aktive Woche der FF-Wenns/Übung Gruppe 6/Brandmeldealarm Hotel Alpina
 #+DATE: 2018-11-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2388186914589753
 
 <p>Am Abend vom Mittwoch den 28. November konnte die Gruppe 6 unter OBM Robert Krug, eine Übung zum Thema Wasserführende Armaturen abhalten. Dabei wurden sämtliche Geräte besprochen, welche ein Wasser führen können dazu zählt auch die Schaumausrüstung zur Bildung von Mittel- und Schwerschaum sowie Verteiler etc.

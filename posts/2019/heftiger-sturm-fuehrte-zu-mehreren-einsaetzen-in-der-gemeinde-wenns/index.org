@@ -1,5 +1,6 @@
 #+TITLE: Heftiger Sturm führte zu mehreren Einsätzen in der Gemeinde Wenns
 #+DATE: 2019-06-12
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2811631358911971
 
 <p>Am gestrigen Dienstagabend den 11. Juni war die Gemeinde Wenns von starken Windböen betroffen, was zu einem Dauereinsatz der Feuerwehr Wenns führte.

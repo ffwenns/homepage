@@ -1,5 +1,6 @@
 #+TITLE: Großbrand in Wenns: Mehrere Gebäude in Flammen
 #+DATE: 2009-07-05
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Zu einem Großbrand am 05. Juli 2009 im Ortsteil Brennwald wurden 7 Feuerwehren mit mehr als 250 Mann und über 25 Fahrzeugen alarmiert. Die Meldung der Leitstelle Tirol lautete: Sammelruf-Alarmstufe für: Gebäudebrand, Wenns, Brennwald wurde ausgelöst!

@@ -1,5 +1,6 @@
 #+TITLE: Herz Jesu Feuer 2015
 #+DATE: 2015-06-15
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Samstag den 13.06.2015 fand bereits zum zweiten Mal, das traditionelle Herz Jesu Feuern der Jugendfeuerwehr und Jungschützen Wenns, statt.

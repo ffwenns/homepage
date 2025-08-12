@@ -1,5 +1,6 @@
 #+TITLE: Erste Jugendprobe nach Sommerpause
 #+DATE: 2019-08-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3001102779964827
 
 <p>Am gestrigen Freitag den 23. August konnte unsere Jugendgruppe ihre erste Probe nach der ca. 2 monatigen Sommerpause durchführen.

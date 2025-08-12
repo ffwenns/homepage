@@ -1,5 +1,6 @@
 #+TITLE: Monatliche Maschinisten Übung - "Fehlersuche bei allen Fahrzeugen & Geräten"
 #+DATE: 2023-06-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/621001436728979
 
 <p>Am gestrigen Dienstag, den 6. Juni 2023 hielten unser Obermaschinist HLM Martin Siller und sein Stv. LM Simon Siller die monatliche Maschinistenübung mit Gruppe 1 ab. 

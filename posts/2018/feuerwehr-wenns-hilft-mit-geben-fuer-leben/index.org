@@ -1,5 +1,6 @@
 #+TITLE: Feuerwehr Wenns hilft mit! - Geben für Leben
 #+DATE: 2018-10-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2310962875645491
 
 <p>Nach den körperlichen Höchstleistungen unseres Atemschutztrupps auf Bronze bei der Leistungsprüfung in Imst konnte der gesamte Trupp mit Ausbilder Daniel Weber und Kommandant Lukas Scheiber bei der Stammzellen Typisierung im Trofana mithelfen.

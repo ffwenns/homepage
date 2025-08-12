@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 6 Krug: Atemschutzübung mit Menschenrettung in versch. Situationen
 #+DATE: 2020-06-06
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3961093303965765
 
 <p>Am gestrigen Freitag den 05. Juni wurde eine Atemschutzübung in Form einer Gruppenübung von OBM Krug Robert durchgeführt.

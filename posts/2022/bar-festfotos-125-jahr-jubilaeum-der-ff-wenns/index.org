@@ -1,5 +1,6 @@
 #+TITLE: Bar& Festfotos 125-Jahr Jubiläum der FF-Wenns
 #+DATE: 2022-06-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7735707783170946
 
 <p>Bilder sagen mehr als 1.000 Worte - Danke für euren Besuch 

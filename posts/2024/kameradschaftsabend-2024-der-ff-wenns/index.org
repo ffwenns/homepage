@@ -1,5 +1,6 @@
 #+TITLE: Kameradschaftsabend 2024 der FF Wenns
 #+DATE: 2024-10-13
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/918315776997542
 
 Stolze 130 teilnehmende Personen (95 Kamerad:innen mit Begleitung) konnte Kdt. BV Lukas Scheiber am gestrigen Samstagabend, den 12.Oktober beim Kameradschaftsabend im Gasthof Pitztalerhof in Wenns begrüßen.

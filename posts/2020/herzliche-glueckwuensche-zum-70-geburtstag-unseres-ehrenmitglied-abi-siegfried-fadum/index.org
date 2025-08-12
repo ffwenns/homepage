@@ -1,5 +1,6 @@
 #+TITLE: Herzliche Glückwünsche zum 70. Geburtstag unseres Ehrenmitglied ABI Siegfried Fadum
 #+DATE: 2020-11-25
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4780686912006396
 
 <p>Heute feiert unser Ehrenmitglied ABI Siegfried Fadum seinen 70. Geburtstag. 

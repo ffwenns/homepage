@@ -1,5 +1,6 @@
 #+TITLE: Jugendprobe zum Thema Technische Gruppe
 #+DATE: 2019-09-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3079292012145903
 
 <p>Am vergangenen Freitag den 20. September könnte unsere Jugendgruppe eine weiter Probe abhalten. Diesesmal würde das Thema Technische Gruppe mit samt all ihren Aufgaben rund um die Straßenabsicherung sowie Bergen von eingeschlossen Personen etc. Besprochen und die einzelnen Gerätschaften in der Praxis durchgetestet.

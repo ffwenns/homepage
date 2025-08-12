@@ -1,5 +1,6 @@
 #+TITLE: 5 Einsätze aufgrund von Unwetter durch Starkregen
 #+DATE: 2019-07-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2925102314231541
 
 <p>Am gestrigen Donnerstag den 25. Juli ab 18:23 Uhr wurde die FF-Wenns via Pager-Sammelruf zu mehreren Einsätzen im Ortsgebiet Wenns gerufen. Neben einem Wasserschaden traten mehrere Ortsbäche über die Straßen.

@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 6 "Verkehrsunfall mit eingeklemmter Person"
 #+DATE: 2020-06-18
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4010113469063748
 
 <p>Am gestrigen Mittwoch den 17. Juni konnte die Gruppe 6 unter OBM Robert Krug eine weitere Gruppenübung abhalten.

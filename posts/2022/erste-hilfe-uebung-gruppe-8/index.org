@@ -1,5 +1,6 @@
 #+TITLE: Erste Hilfe Übung Gruppe 8
 #+DATE: 2022-01-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6995469170528148
 
 <p>Am vergangenen Samstag, den 22. Jänner 2022 konnte die Gruppe 8 unter BM Daniel Weber I mit der ersten Übung ins neue Jahr starten. 

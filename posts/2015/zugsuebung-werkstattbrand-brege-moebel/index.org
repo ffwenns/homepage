@@ -1,5 +1,6 @@
 #+TITLE: Zugsübung - Werkstattbrand / Brege Möbel
 #+DATE: 2015-08-28
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am heutigen Freitagabend den 28. August fand eine weitere Zugsübung von 3 Gruppen der FF Wenns statt. Angenommen wurde ein Werkstättenbrand mit mehreren vermissten und einer eingeklemmten Person unter einer Holzverarbeitungsmaschine.

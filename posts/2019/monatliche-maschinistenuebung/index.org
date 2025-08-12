@@ -1,5 +1,6 @@
 #+TITLE: Monatliche Maschinistenübung
 #+DATE: 2019-05-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2723635417711566
 
 <p>Am heutigen Dienstag den 07. Mai konnte die erste Maschinisten Probe im heutigen Jahr durchgeführt werden. Ab nun zieht sich die Probe Tätigkeit unserer Maschinisten und Kraftfahrer auf jeden 1. Dienstag im Monat durch das restliche Jahr hindurch.

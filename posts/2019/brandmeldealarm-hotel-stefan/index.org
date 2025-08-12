@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Hotel Stefan
 #+DATE: 2019-02-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2556391494435960
 
 <p>Am heutigen Dienstag um 18.49 Uhr wurde die FF-Wenns via Pager-Sammelruf zu einem Brandmeldealarm alarmiert.

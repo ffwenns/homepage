@@ -1,5 +1,6 @@
 #+TITLE: Informationen bezüglich Stromversorgung im gesamten Gemeindegebiet Wenns 
 #+DATE: 2023-07-18
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/645151834313939
 
 <p>An der Stromversorgung im gesamten Gemeindegebiet Wenns wird auf hochtouren gearbeitet. Es kann vereinzelt wieder zu Unterbrechungen kommen!

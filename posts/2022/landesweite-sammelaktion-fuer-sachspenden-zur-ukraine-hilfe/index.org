@@ -1,5 +1,6 @@
 #+TITLE: Landesweite Sammelaktion für Sachspenden zur Ukraine-Hilfe
 #+DATE: 2022-03-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7240726026002460
 
 <p>Abgabedatum: Samstag, 12., 19., 26. März 2022 von 09 11 Uhr

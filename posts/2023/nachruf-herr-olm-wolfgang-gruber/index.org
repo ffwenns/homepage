@@ -1,5 +1,6 @@
 #+TITLE: Nachruf - Herr OLM Wolfgang Gruber 
 #+DATE: 2023-02-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/551457923683331
 
 <p>Die Freiwillige Feuerwehr Wenns trauert in tiefer Betroffenheit und Dankbarkeit um

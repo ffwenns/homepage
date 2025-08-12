@@ -1,5 +1,6 @@
 #+TITLE: Abschluss-Einsatzübung der Gruppe 7 & 8 - C42 Praxis
 #+DATE: 2024-11-09
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/938485778313875
 
 Am gestrigen Freitag, den 8. November 2024 hielten unsere Gruppe 7 unter Gkdt. LM Philipp Dobler und Gruppe 8 unter Gkdt. HV Patrick Pfefferle eine Praxisübung zum Thema C42, als Abschlussübung fürs heurige Jahr ab. 

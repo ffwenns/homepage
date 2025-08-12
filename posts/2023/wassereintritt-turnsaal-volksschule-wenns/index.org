@@ -1,5 +1,6 @@
 #+TITLE: Wassereintritt Turnsaal Volksschule Wenns
 #+DATE: 2023-06-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/634447678717688
 
 <p>

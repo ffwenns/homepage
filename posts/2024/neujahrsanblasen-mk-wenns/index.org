@@ -1,5 +1,6 @@
 #+TITLE: Neujahrsanblasen MK Wenns
 #+DATE: 2024-12-31
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/974835921345527
 
 Auch wir unterstützten heuer wieder unsere Kameraden der Musikkapelle Wenns beim traditionellen Neujahrsanblasen. 

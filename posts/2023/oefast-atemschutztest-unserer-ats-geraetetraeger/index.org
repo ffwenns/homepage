@@ -1,5 +1,6 @@
 #+TITLE: ÖFAST (Atemschutztest) unserer ATS - Geräteträger
 #+DATE: 2023-04-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/590638756431914
 
 <p>Der Großteil unserer 42 aktiven ATS Geräteträger der FF Wenns absolvierte gestern am Samstag den 15.April, nach einem Zeitplan zwischen 07:00 - 14:00 Uhr, den alljährlich ÖFAST - Atemschutztest. 

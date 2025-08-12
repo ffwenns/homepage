@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 6 "Annahme Waldbrand - Aufbau Hubschrauberbecken"
 #+DATE: 2021-05-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5527055400702873
 
 <p>Am heutigen Mittwoch, den 05. Mai konnte die Gruppe 6 der FF-WENNS unter LM Dominik Siller eine Gruppenübung abhalten.

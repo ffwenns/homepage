@@ -1,5 +1,6 @@
 #+TITLE: Landeskatastrophenübung im Pitztal
 #+DATE: 2013-11-12
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Dienstag den 12. November fand die Landeskatastrophenübung in Form eines <span style="text-decoration: underline;">Planspieles</span> im Pitztal statt. An der Übung beteiligten sich zahlreiche Organisationen sowie die Bezirks- und Landeseinsatzleitung.

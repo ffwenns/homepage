@@ -1,5 +1,6 @@
 #+TITLE: Gebäudebrand - vermisste Personen als Herbstübung
 #+DATE: 2012-09-29
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Freitag den 28. September 2012 fand die diesjährige Herbstübung im Ortsteil Obermühlbach in Wenns statt.

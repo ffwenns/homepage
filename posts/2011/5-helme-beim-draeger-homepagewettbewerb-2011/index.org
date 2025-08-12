@@ -1,5 +1,6 @@
 #+TITLE: 5 Helme beim Dräger-Homepagewettbewerb 2011
 #+DATE: 2011-03-20
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Zum fünften Mal zeichnet Dräger die besten Internet-Auftritte Österreichischer Feuerwehren aus. Die FF Wenns kann sich mit ihrer Homepage auf die Höchstzahl von 5 Helme freuen.

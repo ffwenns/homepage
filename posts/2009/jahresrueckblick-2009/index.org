@@ -1,5 +1,6 @@
 #+TITLE: Jahresrückblick 2009
 #+DATE: 2009-12-24
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Ein Arbeits- und Einsatzreiches Jahr 2009 neigt sich langsam dem Ende zu und der Ausschuss der FF Wenns wünscht allen frohe Weihnachten und ein glückliches, unfallfreies und gesundes neues Jahr 2010!

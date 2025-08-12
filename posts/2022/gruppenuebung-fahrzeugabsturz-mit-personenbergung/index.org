@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung - Fahrzeugabsturz mit Personenbergung
 #+DATE: 2022-03-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7206012646140465
 
 <p>Am heutigen Aschermittwoch, den 02. März 2022 hielt Gruppe 7 unter Grkdt. LM Florian Gabl eine weitere Übung ab. Dabei wurde ein Fahrzeugabsturz mit eingeschlossener Person simuliert und nachgestellt. 

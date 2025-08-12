@@ -1,5 +1,6 @@
 #+TITLE: Wir gratulieren Gundolf Helmut zum 60er
 #+DATE: 2015-07-26
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 AmSamstag den 25. Juli feierte unser langjähriges Mitglied und Fahnenbegleiter HFM Gundolf Helmut seinen 60. Geburtstag.

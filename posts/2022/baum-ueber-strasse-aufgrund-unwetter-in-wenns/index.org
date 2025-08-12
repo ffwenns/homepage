@@ -1,5 +1,6 @@
 #+TITLE: Baum über Straße aufgrund Unwetter in Wenns
 #+DATE: 2022-06-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7645025202239205
 
 <p>

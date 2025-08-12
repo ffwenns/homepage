@@ -1,5 +1,6 @@
 #+TITLE: TEAM DES TAGES auf Radio Tirol - unsere Mädels der Damen Bewerbsgruppe der FF Wenns
 #+DATE: 2025-02-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1009937774502008
 
 Der ORF Tirol hat unsere Mädels der Damen Bewerbsgruppe zum Team des Tages nominiert und ausgezeichnet.

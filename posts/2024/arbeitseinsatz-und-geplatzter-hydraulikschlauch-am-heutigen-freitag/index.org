@@ -1,5 +1,6 @@
 #+TITLE: Arbeitseinsatz und geplatzter Hydraulikschlauch am heutigen Freitag
 #+DATE: 2024-09-27
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/906185738210546
 
 Um 07:26 Uhr rückte unser Tanklöschfahrzeug zu einem Arbeitseinsatz in das Ortsteil Matzlewald aus. Dort musste ein Wasserrohr freigelegt werden.

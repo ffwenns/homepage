@@ -1,5 +1,6 @@
 #+TITLE: Wir sind bereit - COVID-19 Testaktion "Tirol testet"
 #+DATE: 2020-12-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4823802234361530
 
 <p>Mit 07 Uhr am heutigen Samstag starteten auch in Wenns die COVID-19 Massentests. Die Feuerwehr Wenns steht an beiden Tagen rund 20 Stunden mit 4 Mann im Einsatz. 

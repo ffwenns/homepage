@@ -1,5 +1,6 @@
 #+TITLE: Brandeinsatz Mehrparteienhaus (MFH) "Heizraum - Rauch aus Pelletsraum"
 #+DATE: 2021-03-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5308257999249282
 
 <p>Am heutigen Mittwoch, den 24. März 2021 um 14:58 Uhr wurde die FF-Wenns via Sirenenalarmierung und Sammelruf Pager zu einem Brandgeschehen in ein Mehrparteienhaus im Ortsteil Unterdorf alarmiert.

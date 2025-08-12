@@ -1,5 +1,6 @@
 #+TITLE: Sammelruf "Brand Kochstelle"
 #+DATE: 2019-03-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2607067286035047
 
 <p>Heute um 06.05 Uhr wurde die FF-Wenns via Sirenen Alarm und Pager-Sammelruf zu einem Brand Kochstelle in den Ortsteil Schweizerhof alarmiert.

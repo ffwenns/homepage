@@ -1,5 +1,6 @@
 #+TITLE: C-Technik "Fahrzeugbergung"
 #+DATE: 2019-03-14
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2603604646381311
 
 <p>Am gestrigen Mittwoch Abend den 13. März wurde die FF Wenns via Pager Kleineinsatz Schleife um 20:25 Uhr zu einer Fahrzeugbergung im Bereich Obermühlbach gerufen.

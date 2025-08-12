@@ -1,5 +1,6 @@
 #+TITLE: PKW - Verkehrsunfall Schulung
 #+DATE: 2013-07-19
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Freitagabend den 19. Juli wurde von der Gruppe 2 (Raich Otto) und der Gruppe 4 (Stoll Christoph) ein PKW - Verkehrsunfall Workshop durchgeführt. Die praktischen Schulungen der rund 18 anwesenden Gruppenmitgliedern wurden in zwei Kategorien eingeteilt.

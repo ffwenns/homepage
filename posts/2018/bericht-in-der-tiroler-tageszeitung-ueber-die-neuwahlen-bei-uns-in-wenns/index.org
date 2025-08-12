@@ -1,5 +1,6 @@
 #+TITLE: Bericht in der Tiroler Tageszeitung über die Neuwahlen bei uns in Wenns ... ;) ;)
 #+DATE: 2018-01-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1872656696142780
 
 <p>http://www.tt.com/panorama/gesellschaft/13920132-91/27-j%C3%A4hriger-kommandiert-wenns.csp</p>

@@ -1,5 +1,6 @@
 #+TITLE: Bezirksübergreifende Einsatzübungen
 #+DATE: 2014-11-09
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Mit der Meldung "Person in Silo abgestürzt - Unklare Situation" wurde die FF Wenns am Samstagabend den 08. September zu einer Bezirksübergreifenden Einsatzübung in die Ortschaft Piller alarmiert.

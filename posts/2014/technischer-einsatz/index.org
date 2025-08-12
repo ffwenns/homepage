@@ -1,5 +1,6 @@
 #+TITLE: Technischer Einsatz
 #+DATE: 2014-06-25
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Montagnachmittag den 23. Juni wurde die Feuerwehr Wenns mit der Meldung: "Höhen/Tiefenrettung" zu einer Personenrettung alarmiert. Weiters wurde die FF Imst mit SRF und Drehleiter, Polizei Wenns, Rettung Imst sowie ein Notarzthubschrauber alarmiert.

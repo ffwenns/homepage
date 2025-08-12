@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Jugendgruppe
 #+DATE: 2022-03-18
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7279831902091872
 
 <p>Am heutigen Freitag, den 18. März 2022 fand eine weitere Übung unserer Jugendgruppe im Recyclinghof Wenns statt. Heute wurde das Thema Absicherung bei einem technischen Verkehrsunfall beübt. Unter anderem wurde auch die Beleuchtung, Sichtschutz und die Fahrzeugsicherung aufgebaut.

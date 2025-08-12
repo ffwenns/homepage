@@ -1,5 +1,6 @@
 #+TITLE: Ausschuss-Ausflug am 22. September
 #+DATE: 2018-09-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2261571903917922
 
 <p>Am vergangenen Samstag den 22. September konnte unser Ausschuss einen Tages Ausflug mit Wanderung im Gebiet Hoch Imst abhalten. 

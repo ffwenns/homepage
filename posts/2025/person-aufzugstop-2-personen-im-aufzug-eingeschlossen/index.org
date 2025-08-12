@@ -1,5 +1,6 @@
 #+TITLE: Person Aufzugstop - 2 Personen im Aufzug eingeschlossen
 #+DATE: 2025-06-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1099042068924911
 
 Mittels Pager wurden wir heute am Nachmittag, den 17.06.2025 um 13:44 Uhr mit der Meldung "Person Aufzugstop - 2 Personen im Lastenaufzug eingeschlossen" zu einem Lebensmittelgeschäft alarmiert. 

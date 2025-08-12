@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme an der Kirchtagsprozession
 #+DATE: 2011-06-27
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am 26. Juni fand der Wenner Kirchtag statt, bei dem die FF Wenns mit rund 40 Kameraden neben dem Verkehrsdienst sowie einigen Fahnenträgern auch an der Prozession teilnahm.

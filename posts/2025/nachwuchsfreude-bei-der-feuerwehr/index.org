@@ -1,5 +1,6 @@
 #+TITLE: Nachwuchsfreude bei der Feuerwehr
 #+DATE: 2025-08-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1134775818684869
 
 Am Freitag, den 1. August 2025, landete der Feuerwehr-Storch bei unserem Kameraden OV Alexander Dobler und seiner Jasmin 

@@ -1,5 +1,6 @@
 #+TITLE: Nachruf - Herr Hauptfeuerwehrmann Franz Gundolf (40 Jahre lang Mitglied unserer Wehr)
 #+DATE: 2021-03-29
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5332988223442926
 
 <p>In stiller Trauer nehmen wir Abschied von unserem langjährigen Feuerwehrkamerad und aktiven Vereinsmensch im Dorfleben von Wenns

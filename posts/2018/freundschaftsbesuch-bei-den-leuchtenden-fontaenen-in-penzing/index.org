@@ -1,5 +1,6 @@
 #+TITLE: Freundschaftsbesuch bei den "Leuchtenden Fontänen" in Penzing
 #+DATE: 2018-09-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2234463979962048
 
 <p>Neben der Feuerwehrjugenübung am gestrigen Freitagabend besuchte eine Abordnung des Ausschusses der Feuerwehr Wenns das Event der Leuchtenden Fontänen in Penzing, welches seit mehr als 8 Jahren erstmals wieder stattfinden konnte.

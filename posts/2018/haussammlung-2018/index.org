@@ -1,5 +1,6 @@
 #+TITLE: Haussammlung 2018
 #+DATE: 2018-02-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1897250560350060
 
 <p>In den kommenden Wochen beginnen wir wieder unsere alljährliche Feuerwehr-Haussammlung.

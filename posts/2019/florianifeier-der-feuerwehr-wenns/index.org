@@ -1,5 +1,6 @@
 #+TITLE: Florianifeier der Feuerwehr Wenns
 #+DATE: 2019-05-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2711259845615790
 
 <p>Am vergangenen Sonntag, den 28. April konnte die Feuerwehr Wenns die Floriani Feier zu Ehren des Schutzpatrons der Feuerwehr dem Hl. Florian feiern.

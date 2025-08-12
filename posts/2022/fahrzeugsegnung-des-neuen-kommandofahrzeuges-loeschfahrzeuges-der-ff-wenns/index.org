@@ -1,5 +1,6 @@
 #+TITLE: Fahrzeugsegnung des neuen Kommandofahrzeuges & Löschfahrzeuges der FF-Wenns
 #+DATE: 2022-06-29
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7757194137688977
 
 <p>Am Sonntag, den 19. Juni 2022 wurde das Löschfahrzeug und Kommandofahrzeug unserer Feuerwehr von Pfarrer Mag. cons. Otto Gleinser im Zuge einer Feldmesse beim Musikpavillon gesegnet. 

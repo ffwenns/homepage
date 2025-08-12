@@ -1,5 +1,6 @@
 #+TITLE: Tür- bzw. Fensteröffnung / Person eingeschlossen
 #+DATE: 2024-07-13
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/856292039866583
 
 <p>Mittels Pager KDO-Schleife wurde die FF Wenns am heutigen Samstag, den 13.Juli um 11:39 Uhr zu einer Tür-/Fensteröffnung alarmiert.

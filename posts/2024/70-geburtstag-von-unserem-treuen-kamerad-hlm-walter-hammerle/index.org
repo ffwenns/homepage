@@ -1,5 +1,6 @@
 #+TITLE: 70. Geburtstag von unserem treuen Kamerad HLM Walter Hammerle
 #+DATE: 2024-12-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/969352251893894
 
 Unser Walter feierte am vorherigen Freitag, den 20. Dezember 2024 seinen 70. Geburtstag. 

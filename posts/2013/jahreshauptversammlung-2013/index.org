@@ -1,5 +1,6 @@
 #+TITLE: Jahreshauptversammlung 2013
 #+DATE: 2013-03-23
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 <h3><b>Über 9000 Stunden Neubau des Gerätehauses steht in den Startlöchern</b></h3>

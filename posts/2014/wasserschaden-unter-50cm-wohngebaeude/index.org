@@ -1,5 +1,6 @@
 #+TITLE: Wasserschaden unter 50cm Wohngebäude
 #+DATE: 2014-09-09
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Neuerlich wurden die Pagerträger mittels Kommandoschleife am Dienstagabend um 19:18 Uhr mit der Einsatzmeldung "Wasserschaden unter 50cm - Wohngebäude" alarmiert. Da bereits ein Großteil des Ausschusses bei Arbeiten in der neuen Feuerwehrhalle beschäftigt war, konnten diese in kurzer Zeit ausrücken und das übergelaufene Wasser mittels Pölzmaterial und Sandsäcken umleiten.

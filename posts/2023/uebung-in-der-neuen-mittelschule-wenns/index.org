@@ -1,5 +1,6 @@
 #+TITLE: Übung in der Neuen Mittelschule Wenns
 #+DATE: 2023-09-15
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/676883647807424
 
 <p>Am heutigen Freitagvormittag, den 15.September 2023 fand eine Evakuierungsübung in der NMS in Wenns statt. Simuliert wurde ein Brand in der Küche mit einer starken Rauchentwicklung und mehreren vermissten Kindern im Gebäude.

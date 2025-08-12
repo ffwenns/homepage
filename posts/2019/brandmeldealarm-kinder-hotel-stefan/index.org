@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Kinder Hotel Stefan
 #+DATE: 2019-01-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2494705047271272
 
 <p>Dienstag, 22. Jänner - die FF-Wenns wurde um 10.54 Uhr via Pager Sammelruf zu einem Brandmeldealarm im Hotel Stefan alarmiert. Bereits nach kürzester Zeit konnte ein Täuschungsalarm bestätigt werden, welcher aus unbestimmter Ursache den Melder auslöste.

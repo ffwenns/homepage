@@ -1,5 +1,6 @@
 #+TITLE: Gelungene Herbstübung im Klärwerk Wenns
 #+DATE: 2018-09-29
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2269131839828595
 
 <p>Am gestrigen Freitag den 28. September konnte um 20 Uhr die heurige Herbstübung im Klärwerk Wenns stattfinden.

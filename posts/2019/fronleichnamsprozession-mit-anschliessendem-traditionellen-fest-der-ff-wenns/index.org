@@ -1,5 +1,6 @@
 #+TITLE: Fronleichnamsprozession mit anschließendem traditionellen Fest der FF-Wenns
 #+DATE: 2019-06-21
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2834220036653103
 
 <p>Am gestrigen Feiertag zu Fronleichnam (20. Juni) konnte eine starke Mannschaft der FF-Wenns bei der feierlichen Prozession teilnehmen. 

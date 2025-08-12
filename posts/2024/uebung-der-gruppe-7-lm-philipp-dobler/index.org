@@ -1,5 +1,6 @@
 #+TITLE: Übung der Gruppe 7 - LM Philipp Dobler
 #+DATE: 2024-06-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/842192184609902
 
 <p>Am Dienstag, den 18.Juni fand eine weitere Gruppenübung der Gruppe 7 statt. Vorbereitend für eine anstehende Atemschutzübung wurde die

@@ -1,5 +1,6 @@
 #+TITLE: 26 Stunden Dauereinsatz: nach bedrohlichem Felssturz
 #+DATE: 2012-08-26
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Seit Sonntagfrüh steht die Freiwillige Feuerwehr Wenns bei den großen Felsstürzen oberhalb des Pitzenbaches neben der L16 Pitztalstraße im Dauereinsatz. Im Gemeindegebiet von Wenns sowie im oberen Teil (Gem. Jerzens) droht ein über 100.000m fassender Hang abzugleiten und den Pitzenbach aufzustauen.

@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 6 Praxis & Theorie der Großunfallhilfe - Zusammenarbeit Feuerwehr Rotes Kreuz -
 #+DATE: 2018-09-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2228126320595814
 
 <p>Am gestrigen Montag Abend konnte die Gruppe 6 unter OBM Robert Krug die Grundlagen der Großunfallhilfe in Praxis & Theorie besprechen und beüben.

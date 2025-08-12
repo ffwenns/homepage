@@ -1,5 +1,6 @@
 #+TITLE: Sommernachtsfest der FF Silz
 #+DATE: 2011-07-22
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Neben den Nachbarfeuerwehren Jerzens und Wald waren auch zehn Mitglieder der Feuerwehr Wenns beim Sommernachtsfest derFF Silzam Samstagabend den 23. Juli vertreten.

@@ -1,5 +1,6 @@
 #+TITLE: Schulung Ausschuss - Waldbrand/Bodenbrandbekämpfung/e-Learning
 #+DATE: 2023-06-14
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/625365059625950
 
 <p>Am gestrigen Dienstag, den 13. Juni widmete sich unser Ausschuss den Themen Waldbrand, Bodenbrandbekämpfung und dem e-Learning Angebot der Landesfeuerwehrschule. 

@@ -1,5 +1,6 @@
 #+TITLE: Thema Fahrzeugsicherung mittels Freilandverankerung als Übung der Gruppe 6
 #+DATE: 2018-07-12
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2118015828273531
 
 <p>15 Mann der Gruppe 6 übten gestern am Mittwochabend die Fahrzeugsicherung mittels Freilandverankerung. Es wurden alle möglichen Sicherungsgerätschaften besprochen und praktisch beübt. Nach rund einer Stunde ging die lehrreiche Technische Übung zum gemütlichen Teil über.

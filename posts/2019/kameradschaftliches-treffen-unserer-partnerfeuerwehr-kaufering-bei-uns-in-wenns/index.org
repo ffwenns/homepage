@@ -1,5 +1,6 @@
 #+TITLE: Kameradschaftliches Treffen unserer Partnerfeuerwehr Kaufering bei uns in Wenns
 #+DATE: 2019-10-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3121760087899095
 
 <p>Am Samstag den 05. Oktober konnten zahlreiche Kameraden der Feuerwehr Markt Kaufering zu uns nach Wenns anreisen.

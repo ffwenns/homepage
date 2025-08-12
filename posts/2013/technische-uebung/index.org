@@ -1,5 +1,6 @@
 #+TITLE: Technische Übung
 #+DATE: 2013-02-25
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am 22. Februar wurde eine Technische Schulung zur diesjährigen Technischen Leistungsprüfung durchgeführt. Alle Gerätschaften wurden aus den Fahrzeugen komplett ausgeräumt und ordentlich neu eingeräumt. Außerdem wurden die Fahrzeuge zugleich auch von innen komplett gereinigt. Somit konnte die Schulung inklusive der Reinigung nach zirka 2 Stunden beendet werden.

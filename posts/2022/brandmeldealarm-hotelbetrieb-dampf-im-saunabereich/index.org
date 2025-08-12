@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Hotelbetrieb - Dampf im Saunabereich
 #+DATE: 2022-08-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7916219425119780
 
 <p>Mittels Pager wurden wir heute am Dienstag den 02.August um 12:31 Uhr zu einem Brandmeldealarm in einem örtlichen Kinderhotel alarmiert. Im Bereich der Saunaanlage wurde durch Wasserdampf die BMA ausgelöst und der Täuschungsalarm konnte nach Kontrolle der Räumlichkeiten nach rund 10 Minuten ohne Notstand beendet werden.

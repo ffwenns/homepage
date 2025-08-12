@@ -1,5 +1,6 @@
 #+TITLE: Einsatzreiche Woche (KW 40) für die FF-Wenns
 #+DATE: 2021-10-09
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6333898423351896
 
 <p>Unsere Feuerwehr wurde in der vergangenen Kalenderwoche 40 zu mehreren Einsätzen alarmiert.

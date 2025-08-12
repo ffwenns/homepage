@@ -1,5 +1,6 @@
 #+TITLE: Einsatzmeldung: Brandmeldealarm Hotel Stefan
 #+DATE: 2021-08-03
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5971330702942005
 
 <p>Am Sonntag, den 01. August wurde die FF-Wenns um19:29 Uhr via Pager Sammelruf zu einem Brandmeldealarm im Hotel Stefan alarmiert. Nach kurzer Zeit konnte sich ein Täuschungsalarm, ausgelöst durch Wasserdampf, herausstellen. Die Feuerwehr Wenns konnte nach erfolgter Erkundung und Rückstellung der Brandmeldeanalage mit der Einsatzmannschaft nach rund 30 Minuten wieder ins Gerätehaus einrücken.

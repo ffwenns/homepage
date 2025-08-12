@@ -1,5 +1,6 @@
 #+TITLE: Ehrenbürger stirbt im 106. Lebensjahr
 #+DATE: 2010-12-19
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Die Gemeinde Wenns trauert um ihren Ehrenbürger OSR Franz Xaver Perkhofer welcher am 18. Dezember im 106. Lebensjahr verstorben ist.

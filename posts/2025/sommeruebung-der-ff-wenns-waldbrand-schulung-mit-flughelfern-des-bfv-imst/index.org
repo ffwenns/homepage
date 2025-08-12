@@ -1,5 +1,6 @@
 #+TITLE: Sommerübung der FF-Wenns Waldbrand-Schulung mit Flughelfern des BFV Imst
 #+DATE: 2025-07-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1113391754156609
 
 Am Freitag, den 4. Juli 2025, führte unsere Feuerwehr ihre alljährliche Sommerübung durch. Rund 60 Kameradinnen und Kameraden nahmen an der praxisnahen und informativen Schulung zum Thema Waldbrandbekämpfung teil, die in Zusammenarbeit mit den Flughelfern des Bezirksfeuerwehrverbandes (BFV) Imst stattfand.

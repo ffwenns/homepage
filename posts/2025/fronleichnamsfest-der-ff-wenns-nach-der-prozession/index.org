@@ -1,5 +1,6 @@
 #+TITLE: Fronleichnamsfest der FF Wenns nach der Prozession
 #+DATE: 2025-06-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1098898645605920
 
 

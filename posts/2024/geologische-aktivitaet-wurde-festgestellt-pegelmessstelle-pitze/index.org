@@ -1,5 +1,6 @@
 #+TITLE: Geologische Aktivität wurde festgestellt - Pegelmessstelle Pitze
 #+DATE: 2024-06-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/842190401276747
 
 <p>

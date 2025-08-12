@@ -1,5 +1,6 @@
 #+TITLE: Gruppe 6 Schulung Hydrantennetz/Wasserentnahmestellen
 #+DATE: 2019-01-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2512235792184864
 
 <p>Am Mittwoch den 30. Jänner konnte FM Stefan Deutschmann, 9 Mann der Gruppe 6 das Hydrantennetz sowie die Wasserversorgung in Wenns näher präsentieren und erklären. Darin enthalten waren genaue Angaben zur Liter sowie Druckleistung und genaue Fassungsvolumina der jeweiligen Wasserbehälter.

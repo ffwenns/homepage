@@ -1,5 +1,6 @@
 #+TITLE: DO 16.06 traditionelles Fronleichnamsfest - SAMSTAG 18.06 TALBEWERB samt JUBILÄUMSFEIER und SO 19.06 Fahrzeugsegnung in WENNS
 #+DATE: 2022-06-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7674277805980611
 
 <p>Kommende Woche feiert die FF Wenns ihr 125-Jahr-Jubiläum.

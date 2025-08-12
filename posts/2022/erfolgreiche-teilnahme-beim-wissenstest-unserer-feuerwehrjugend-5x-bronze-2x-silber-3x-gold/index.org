@@ -1,5 +1,6 @@
 #+TITLE: Erfolgreiche Teilnahme beim Wissenstest unserer Feuerwehrjugend 5x Bronze 2x Silber 3x Gold
 #+DATE: 2022-04-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7438259742915753
 
 <p>Der diesjährige Feuerwehrjugend-Wissenstest fand am heutigen Samstag den 23. April in der Feuerwehrhalle Imst statt.

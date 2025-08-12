@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsdienst Gletscherkaiser Radrennen
 #+DATE: 2018-06-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2075154015893046
 
 <p>Am vergangenen Sonntag stellte die FF-Wenns einige Straßenposten um die Sicherheit der Radrennfahrer sowie der Verkehrsteilnehmer an den gefährlichsten Ausfahrten in Wenns zu schützen. Nach 2 Stunden konnte dieser Einsatz beendet werden.</p>

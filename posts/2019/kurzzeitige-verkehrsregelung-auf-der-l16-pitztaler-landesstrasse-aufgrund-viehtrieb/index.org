@@ -1,5 +1,6 @@
 #+TITLE: Kurzzeitige Verkehrsregelung auf der L16-Pitztaler-Landesstraße aufgrund Viehtrieb -
 #+DATE: 2019-06-21
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2835345686540538
 
 <p>Am heutigen Freitag den 21. Juni wurde die L16-Pitztaler-Landesstraße kurzzeitig aufgrund Viehtrieb's gesperrt bzw. geregelt.

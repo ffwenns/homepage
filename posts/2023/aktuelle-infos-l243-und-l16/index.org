@@ -1,5 +1,6 @@
 #+TITLE: Aktuelle Infos L243 und L16
 #+DATE: 2023-12-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/732832445545877
 
 <p>Aufgrund von weiteren Hangrutschungen bleibt die L16 Pitztaler Landesstraße zwischen Wenns Recyclinghof und Jerzens Fischteich gesperrt. 

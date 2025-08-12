@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm örtlicher Hotelbetrieb
 #+DATE: 2020-07-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4093366790738415
 
 <p>Am heutigen Dienstag, den 07. Juli 2020 wurde die FF-Wenns via Pager Sammelruf zu einem Brandmeldealarm in den Ortsteil Unterdorf alarmiert. Rasch konnte der Einsatzleiter Kommandant Lukas Scheiber bei seiner Erkundung feststellen, dass es sich um einen Täuschungsalarm aufgrund aufsteigendem heißen Dampf (der vermutlich durch das Backen von Brot entstand) handelt.

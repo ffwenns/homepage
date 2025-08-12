@@ -1,5 +1,6 @@
 #+TITLE: Nachruf - Herr HFM Hermann Schöpf "Oacheler"
 #+DATE: 2021-12-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6669347546473647
 
 <p>In stiller Trauer nehmen wir Abschied von unserem langjährigen Mitglied Hauptfeuerwehrmann (HFM)

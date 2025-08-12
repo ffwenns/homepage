@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 6 mit der Annahme "2 Personen unter Steine eingeklemmt"
 #+DATE: 2020-08-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4299260793482346
 
 <p>Am heutigen Mittwoch, den 19. August 2020 konnte die Gruppe 6 unter OBM Robert Krug eine weitere Übung am Steinbruch Söllberg abhalten. 

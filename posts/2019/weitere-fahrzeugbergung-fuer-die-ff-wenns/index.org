@@ -1,5 +1,6 @@
 #+TITLE: Weitere Fahrzeugbergung für die FF-Wenns
 #+DATE: 2019-03-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2608410329234076
 
 <p>Am gestrigen Freitag den 15. März um 18:45 Uhr wurde die FF-Wenns via Pager Kommandoschleife zu einer weiteren Fahrzeugbergung unterhalb des Recyclinghofs in Wenns alarmiert.

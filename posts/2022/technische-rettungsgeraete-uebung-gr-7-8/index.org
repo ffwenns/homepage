@@ -1,5 +1,6 @@
 #+TITLE: "Technische Rettungsgeräte" - Übung Gr. 7 & 8
 #+DATE: 2022-12-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/8545941852147531
 
 <p>

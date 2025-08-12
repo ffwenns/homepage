@@ -1,5 +1,6 @@
 #+TITLE: BEZIRKSFEUERWEHRTAG 2019
 #+DATE: 2019-05-03
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2713700898705018
 
 <p>BEZIRKSFEUERWEHRTAG 2019 des Bezirkes Imst - HEUTE bei uns in WENNS... Wir sind bereit... 

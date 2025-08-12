@@ -1,5 +1,6 @@
 #+TITLE: Gruppe 6 Übung "Schaum und Netzmittel"
 #+DATE: 2020-08-31
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4360782050663553
 
 <p>Gruppe 6 Übung "Schaum und Netzmittel" - Einsatz moderner Löschmittel/-techniken - --

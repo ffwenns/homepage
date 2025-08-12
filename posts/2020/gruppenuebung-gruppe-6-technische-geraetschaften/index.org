@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 6 Technische Gerätschaften
 #+DATE: 2020-06-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4038784039530024
 
 <p>Am Dienstag den 23. Juni konnte die Gruppe 6 unter OBM Robert Krug eine weitere Gruppenübung abhalten.

@@ -1,5 +1,6 @@
 #+TITLE: Ein wahnsinnig erfolgreicher Bewerbstag für die Feuerwehr Wenns geht langsam dem Ende zu
 #+DATE: 2018-06-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2095644483843999
 
 <p>Zwei Jugendgruppen erreichen heute Bronze in Rattenberg und zwei Gruppen der aktiven Mannschaft Bronze (beide fehlerfrei) sowie eine in Silber in Meran/Südtirol. super gemacht alle Gruppen! ...

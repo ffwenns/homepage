@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme am 127. Bezirksfeuerwehrtag in Tarrenz
 #+DATE: 2023-05-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/607976648031458
 
 <p>Am Freitag, den 05. Mai 2023 nahmen rund neun Mitglieder der FF-Wenns inklusive der Fahnenabordnung am 127. Bezirksfeuerwehrtag in Tarrenz teil. Neben der üblichen Tagesordnung standen Neuwahlen des Bezirkskommandos auf der Agenda. Der bisherige Bezirksfeuerwehrkommandant OBR Hubert Fischer legte das Amt nach jahrelanger Tätigkeit nieder und wechselt nun in die Feuerwehrpension.

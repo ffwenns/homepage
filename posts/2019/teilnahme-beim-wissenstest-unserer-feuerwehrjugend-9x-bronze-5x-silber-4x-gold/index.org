@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme beim Wissenstest unserer Feuerwehrjugend 9x Bronze 5x Silber 4x Gold
 #+DATE: 2019-04-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2642388935836215
 
 <p>Der diesjährige Feuerwehrjugend-Wissenstest fand am Samstag den 30. März in der Volksschule in Ötztal-Bahnhof statt.

@@ -1,5 +1,6 @@
 #+TITLE: Übungslage: "Schachtbergung" Höhen- Tiefenrettung Gruppe 6
 #+DATE: 2019-03-14
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2603567123051730
 
 <p>Am gestrigen Dienstag den 12. März konnte die Gruppe 6 eine Schachtbergung mittels Atemschutz beüben. Übungsannahme war, dass eine Person im Schacht aus unbekannter Ursache das Bewusstsein verlor und somit geborgen werden musste.

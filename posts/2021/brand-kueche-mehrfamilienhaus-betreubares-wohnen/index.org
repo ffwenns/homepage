@@ -1,5 +1,6 @@
 #+TITLE: Brand Küche Mehrfamilienhaus - Betreubares Wohnen
 #+DATE: 2021-06-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5688861407855604
 
 <p>Am heutigen Samstag den 05.06.2021 um 19:24 Uhr wurde die Freiwillige Feuerwehr Wenns via Sirene und Pager Sammelruf zu einem Küchenbrand in ein Mehrfamilienhaus alarmiert. 

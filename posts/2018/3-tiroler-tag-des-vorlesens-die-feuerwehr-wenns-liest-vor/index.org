@@ -1,5 +1,6 @@
 #+TITLE: 3. Tiroler Tag des Vorlesens Die Feuerwehr Wenns liest vor!
 #+DATE: 2018-11-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2388171524591292
 
 <p>(Mittwoch der 28.11.2018)

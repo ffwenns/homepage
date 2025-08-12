@@ -1,5 +1,6 @@
 #+TITLE: Regionale Medien berichten über den gelungenen Wissenstest 2025 in Wenns
 #+DATE: 2025-04-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1053495483479570
 
 

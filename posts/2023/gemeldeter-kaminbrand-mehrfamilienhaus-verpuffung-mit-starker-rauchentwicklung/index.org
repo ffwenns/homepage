@@ -1,5 +1,6 @@
 #+TITLE: Gemeldeter Kaminbrand Mehrfamilienhaus - Verpuffung mit starker Rauchentwicklung
 #+DATE: 2023-04-25
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/595685762593880
 
 <p>Am gestrigen Montag, den 24. April 2023 um 20:21 Uhr wurde die FF-Wenns via Sirene und Pager-Sammelruf zu einem Kaminbrand Mehrfamilienhaus alarmiert. 

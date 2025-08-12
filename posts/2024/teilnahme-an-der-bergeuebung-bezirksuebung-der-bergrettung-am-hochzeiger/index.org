@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme an der Bergeübung (Bezirksübung der Bergrettung) am Hochzeiger
 #+DATE: 2024-10-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/913636290798824
 
 

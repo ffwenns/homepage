@@ -1,5 +1,6 @@
 #+TITLE: Gefahren-/Brandmeldeanlage sonstige
 #+DATE: 2023-12-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/732783362217452
 
 <p>Neben den Straßensperren und Murenereignissen, folgte am heutigen 23.12. um 02:47 Uhr bereits der nächste Pageralarm.

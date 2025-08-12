@@ -1,5 +1,6 @@
 #+TITLE: Abschluss Tanzkurs der FF-Wenns sowie 28. Geburtstagsfeier von Gerätewart OLM Markus Larcher
 #+DATE: 2018-11-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2367733156635129
 
 <p>Am Samstag den 17. November konnte der Tanzkurs der Feuerwehr nach dem 8ten Mal mit ca. 14 Paaren erfolgreich abgeschlossen werden. Die Grundbasis ist somit für den Walzer, Disco Fox & Boarischer gelegt - nun heißts fleißig dran bleiben, das Dancing Stars Casting kommt bestimmt 

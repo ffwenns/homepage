@@ -1,5 +1,6 @@
 #+TITLE: Technische Hilfeleistung - Ölspur rund 1,5 km lang
 #+DATE: 2024-09-06
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/891140426381744
 
 

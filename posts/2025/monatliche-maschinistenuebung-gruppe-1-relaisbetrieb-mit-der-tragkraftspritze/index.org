@@ -1,5 +1,6 @@
 #+TITLE: Monatliche Maschinistenübung Gruppe 1: Relaisbetrieb mit der Tragkraftspritze
 #+DATE: 2025-06-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1089002219928896
 
 

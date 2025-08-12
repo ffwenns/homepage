@@ -1,5 +1,6 @@
 #+TITLE: Gratulation zum FLA Bronze beim Landeswettbewerb in Zell am Ziller
 #+DATE: 2024-06-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/834952065333914
 
 <p>Mit zwei Gruppen war auch die FF Wenns beim diesjährigen Landeswettbewerb in Zell am Ziller im Zillertal vertreten.

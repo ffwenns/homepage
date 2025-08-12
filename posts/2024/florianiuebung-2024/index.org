@@ -1,5 +1,6 @@
 #+TITLE: Florianiübung 2024
 #+DATE: 2024-04-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/804166661745788
 
 <p>Stolze 86 Mann/Frau der FF Wenns nahmen gestern am 19.April, trotz winterlichen Wetterverhältnissen, bei unserer traditionelle Florianiübung im Ortsteil Matzlewald teil.

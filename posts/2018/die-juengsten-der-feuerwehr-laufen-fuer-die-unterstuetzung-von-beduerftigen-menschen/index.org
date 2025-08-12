@@ -1,5 +1,6 @@
 #+TITLE: Die Jüngsten der Feuerwehr laufen für die Unterstützung von bedürftigen Menschen
 #+DATE: 2018-09-25
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2261588880582891
 
 <p>Am Sonntag den 23. September konnte der Rote Nasen Lauf erneut in Wenns stattfinden.

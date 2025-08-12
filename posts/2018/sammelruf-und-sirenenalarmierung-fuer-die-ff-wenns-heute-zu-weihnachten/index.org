@@ -1,5 +1,6 @@
 #+TITLE: Sammelruf und Sirenenalarmierung für die FF Wenns heute zu Weihnachten
 #+DATE: 2018-12-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2434565456618565
 
 <p>Aufgrund sehr starker Niederschläge steht die FF Wenns seit den frühen Morgenstunden des 24. Dezembers im Großeinsatz - auch mehrere Gebäude sind betroffen! Derzeit standen/stehen wir bei rund zehn Einsatzstellen im Einsatz und konnten bereits größeren Schade abwenden. Auch mehrere Keller, wie im Pitzpark Wenns, stehen unter Wasser... 

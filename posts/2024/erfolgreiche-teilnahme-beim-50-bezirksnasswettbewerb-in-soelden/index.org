@@ -1,5 +1,6 @@
 #+TITLE: Erfolgreiche Teilnahme beim 50. Bezirksnasswettbewerb in Sölden
 #+DATE: 2024-07-27
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/864960942333026
 
 <p>Am heutigen Samstag, den 27.07.2024 nahmen zwei Gruppen der Feuerwehr Wenns beim Bezirksnassbewerb des Bezirkes Imst in Sölden teil. 

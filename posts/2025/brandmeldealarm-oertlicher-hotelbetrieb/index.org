@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm örtlicher Hotelbetrieb
 #+DATE: 2025-01-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/989775543184898
 
 Am heutigen Mittwochmorgen, den 22. Jänner 2025 wurde die FF Wenns um 07:06 Uhr zu einem Brandmeldealarm, in einem örtlichen Hotelbetrieb, alarmiert. 

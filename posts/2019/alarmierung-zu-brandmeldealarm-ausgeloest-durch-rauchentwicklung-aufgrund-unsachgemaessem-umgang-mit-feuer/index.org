@@ -1,5 +1,6 @@
 #+TITLE: Alarmierung zu Brandmeldealarm ausgelöst durch Rauchentwicklung aufgrund unsachgemäßem Umgang mit Feuer
 #+DATE: 2019-02-27
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2572695019472274
 
 <p>WENNS - Die Feuerwehr Wenns wurde am gestrigen Dienstag den 26. Februar um 16:56 Uhr via Pager Sammelruf zu einem Brandmeldealarm alarmiert.

@@ -1,5 +1,6 @@
 #+TITLE: Technische Übung mit 3 Unfallfahrzeugen bei der Firma Heim in Zams
 #+DATE: 2017-04-15
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1509405009134619
 
 <p>Am gestrigen Freitag den 14. April war unsere Gruppe 6 erneut fleißig und führte unter der Leitung von OBM Krug Robert eine technische Gruppenübung durch.

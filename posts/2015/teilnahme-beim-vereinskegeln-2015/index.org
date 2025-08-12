@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme beim Vereinskegeln 2015
 #+DATE: 2015-09-13
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am 11. September nahmen zwei Gruppen der FF-Wenns beim heurigen Vereinskegeln im Pitz Park Wenns, teil.

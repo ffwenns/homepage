@@ -1,5 +1,6 @@
 #+TITLE: Informationsabend Eintritt in die Feuerwehrjugend
 #+DATE: 2019-01-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2494685923939851
 
 <p>Am vergangenen Freitag den 18. Jänner lud die Feuerwehr Wenns Jugendliche Burschen und Mädchen zu einer Infoveranstaltung zum Thema Beitritt zur Feuerwehrjugend, in die Feuerwehrhalle Wenns ein.

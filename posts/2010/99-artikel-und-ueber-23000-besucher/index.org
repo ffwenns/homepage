@@ -1,5 +1,6 @@
 #+TITLE: 99 Artikel und über 23000 Besucher
 #+DATE: 2010-12-31
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Im abgelaufenen Jahr 2010 wurde die Homepage der FF Wenns rund 99mal aktualisiert und neue Berichte online gestellt, dabei informierten sich über 23000 Besucher mit rund 117.000 Seitenzugriffen.

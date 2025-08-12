@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme beim Seelensonntag
 #+DATE: 2018-11-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2338858382855940
 
 <p>Am heutigen Sonntagvormittag konnte die FF-Wenns mit einer starken Mannschaft samt Jugendgruppe beim Seelensonntag teilnehmen. Dabei erfolgt nach dem traditionellen Kirchgang die Kranzniederlegung und Ehrungen durch die Schützenkompanie Wenns, im Gedenken an die gefallenen Krieger aus Wenns, die beide Weltkriege forderten.

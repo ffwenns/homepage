@@ -1,5 +1,6 @@
 #+TITLE: Schöne Grüße von unserem Kamerad ABI Siegfried Fadum vom Camino de Santiago
 #+DATE: 2018-10-09
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2285683261506786
 
 <p>Viele Kilometer entfernt startet der Jakobsweg "Camino de Santiago".

@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Fahrzeug-/Gerätekunde mit Weihnachtsfeier Gruppe 8
 #+DATE: 2023-11-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/717414187087703
 
 <p>

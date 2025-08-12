@@ -1,5 +1,6 @@
 #+TITLE: Ausschussausflug zum T(h)umorvollen Gipfeltreffen und Spende von der FF Wenns
 #+DATE: 2024-09-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/897414242421029
 
 Ein Großteil unserer Ausschussmitglieder samt Begleitung nahm am heutigen Sonntag, den 15.09.2024 bei blauem Himmel, weißen Bergen und viel Sonne beim T(h)umorvollen Gipfeltreffen am Hochzeiger - Pitztal Teil.

@@ -1,5 +1,6 @@
 #+TITLE: 4 Gruppen beim Talbewerb Pitztal in Neurur und Talsieg für die FF Wenns
 #+DATE: 2024-06-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/843709804458140
 
 <p>Am gestrigen Samstag, den 22.Juni 2024 fand der Talnasswettbewerb vom Abschnitt Pitztal in Neurur statt.

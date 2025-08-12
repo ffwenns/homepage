@@ -1,5 +1,6 @@
 #+TITLE: Zukünftige Florianis auf Besuch in der Feuerwehrhalle
 #+DATE: 2015-11-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/990507391024386
 
 <p>Viel Spaß mit anschließender Jause für unseren Kindergarten

@@ -1,5 +1,6 @@
 #+TITLE: Neues Kommandofahrzeug der FF-Wenns DACIA Duster
 #+DATE: 2021-11-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6499585606783176
 
 <p>Am heutigen Montag, den 08. November 2021 konnte die FF-Wenns ihr Kommandofahrzeug mit Allrad (KDOFA), nach abgeschlossener Abnahme der Feuerwehrschule Tirol, in den aktiven Dienst übernehmen.

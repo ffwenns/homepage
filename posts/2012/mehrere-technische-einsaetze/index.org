@@ -1,5 +1,6 @@
 #+TITLE: Mehrere Technische Einsätze
 #+DATE: 2012-08-30
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Neben dem drohenden Hangrutsch bei dem knapp 1000 Einsatzstunden in 10 Tagen bewältigt wurden, musste die FF Wenns zu weiteren Technischen Einsätzen ausrücken.

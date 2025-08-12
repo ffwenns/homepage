@@ -1,5 +1,6 @@
 #+TITLE: Waldbrand in Arzl
 #+DATE: 2013-07-24
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Mittwoch den 24. Juli zu Mittag wurde unsere Nachbarfeuerwehr Arzl und die FF Wenns zu einem Waldbrand am Burgstall oberhalb der Lourdeskapelle bei der Pfarrkirche Arzl mittels Sirene alarmiert.

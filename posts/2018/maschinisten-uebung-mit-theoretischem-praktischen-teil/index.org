@@ -1,5 +1,6 @@
 #+TITLE: Maschinisten Übung mit theoretischem & praktischen Teil
 #+DATE: 2018-08-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2172334902841623
 
 <p>Heute am ersten Dienstag im Monat konnten die Maschinisten der FF-Wenns wieder eine Maschinisten Schulung und Übung abhalten.

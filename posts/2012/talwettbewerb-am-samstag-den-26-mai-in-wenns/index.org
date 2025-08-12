@@ -1,5 +1,6 @@
 #+TITLE: Talwettbewerb am Samstag den 26. Mai in Wenns
 #+DATE: 2012-04-09
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 <h3>Liebe Feuerwehrkameraden und Gemeindebürger!</h3>

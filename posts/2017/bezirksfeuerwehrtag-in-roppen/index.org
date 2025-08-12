@@ -1,5 +1,6 @@
 #+TITLE: Bezirksfeuerwehrtag in Roppen
 #+DATE: 2017-05-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1533207360087717
 
 <p>Auch die FF Wenns war beim heutigen BFT in Roppen mit 5. Delegierte vertreten! Wir gratulieren zu den Berichten und dem neu gewählten Bezirksfeuerwehrkommando zur Wahl.

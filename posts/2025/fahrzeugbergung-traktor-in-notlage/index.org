@@ -1,5 +1,6 @@
 #+TITLE: Fahrzeugbergung Traktor in Notlage
 #+DATE: 2025-08-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1135368668625584
 
 Am heutigen Samstagnachmittag, den 02.August 2025 um 15:26 Uhr wurden wir zu einer Fahrzeugbergung im Bereich Pitze alarmiert. 

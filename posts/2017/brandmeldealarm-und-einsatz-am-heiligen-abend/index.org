@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm und Einsatz am Heiligen Abend
 #+DATE: 2017-12-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1828848983856885
 
 <p>Am heutigen Heiligen Abend um 16:50 Uhr wurden die Pagerträger der FF Wenns sowie die Kameraden der FF Arzl zu einem neuerlichen Brandmeldealarm in das GH Pitztalerhof alarmiert. Es handelte sich um keinen Notstand, ein Technischer Defekt eines neuen Melders löste den Alarm aus.

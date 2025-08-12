@@ -1,5 +1,6 @@
 #+TITLE: 123. Bezirksfeuerwehrtag in Imst
 #+DATE: 2018-05-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2011245432283905
 
 <p>Am gestrigen Freitag fand der 123. Bezirksfeuerwehtag in Imst statt. Mit dabei 9 Mitglieder der FF-Wenns. Neben der Neuwahlen des Bezirksfeuerwehrkommandos wurden zahlreiche Ehrungen durchgeführt.

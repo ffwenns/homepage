@@ -1,5 +1,6 @@
 #+TITLE: Wichtige Arbeiten im Hintergrund
 #+DATE: 2025-05-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1075640337931751
 
 Der Obermaschinist und Gerätewart sind zwei wesentliche Säulen im Hintergrund einer jeden Feuerwehr. Sie reparieren und kontrollieren laufend unseren gesamten Fuhrpark samt aller Geräte. 

@@ -1,5 +1,6 @@
 #+TITLE: FF Wenns schreibt Geschichte beim Landeswettbewerb in Sillian in Osttirol
 #+DATE: 2025-06-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1096871229141995
 
 Am 13. und 14. Juni 2025 fand der Landeswettbewerb in Sillian in Osttirol statt. Mit dabei auch 3 Gruppen der Feuerwehr Wenns.

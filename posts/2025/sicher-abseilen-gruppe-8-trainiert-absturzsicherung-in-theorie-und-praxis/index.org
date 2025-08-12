@@ -1,5 +1,6 @@
 #+TITLE: Sicher Abseilen: Gruppe 8 trainiert Absturzsicherung in Theorie und Praxis
 #+DATE: 2025-05-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1077048737790911
 
 

@@ -1,5 +1,6 @@
 #+TITLE: Vorbereitungswettbewerb in Niederthai
 #+DATE: 2013-06-08
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Samstag den 09. Juniveranstaltete dieFF Niederthai einen Vorbereitungs- und Freundschaftswettbewerb. Die FeuerwehrWenns war mit einer Gruppe in der Kategorie Bronze (Sicherheit) vertreten.

@@ -1,5 +1,6 @@
 #+TITLE: Einsatz Murenabgang/Erdrutsch - L16 Pitztalstraße am 22./23.12.
 #+DATE: 2023-12-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/732942082201580
 
 <p>Mittels Kommandoschleife gestern am Freitag sowie Kleineinsatz heute am Samstag, wurden wir jeweils zu Murenabgängen und Erdrutsche im Bereich der L16 Pitztal Landesstraße zwischen Wenns und Jerzens alarmiert. 

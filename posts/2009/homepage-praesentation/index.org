@@ -1,5 +1,6 @@
 #+TITLE: Homepage Präsentation
 #+DATE: 2009-04-28
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Dienstagnachmittag den 28. April 20009 fand die Abschlusspräsentation der 3. Handelsschule in Imst statt. Die erstellte Homepage (www.ff-wenns.at) wurde offiziell an der Handelsschule Imst vorgestellt und präsentiert. Fünf Mitglieder der Feuerwehr Wenns ließen sich diesen Termin nicht entgehen und besuchten die Abschlusspräsentation.

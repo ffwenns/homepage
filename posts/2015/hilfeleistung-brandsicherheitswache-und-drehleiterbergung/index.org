@@ -1,5 +1,6 @@
 #+TITLE: Hilfeleistung, Brandsicherheitswache und Drehleiterbergung
 #+DATE: 2015-01-25
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Samstag den 24. Jänner um 17:59 Uhr wurden wir zu einer technischen Hilfeleistung im Unterdorf gerufen und am Abend zur Brandsicherheitswache beim Wenner Eisbärenfest.

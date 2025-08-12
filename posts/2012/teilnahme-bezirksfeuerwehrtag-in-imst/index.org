@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme Bezirksfeuerwehrtag in Imst
 #+DATE: 2012-05-12
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Der diesjährige Bezirksfeuerwehrtag des Bezirkes Imst fand am Freitag den 11. Mai 2012 in Imst statt. Die Feuerwehr Wenns war mit 7 Mitgliedern inkl. der Fahnenabordnung vertreten.

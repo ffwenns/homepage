@@ -1,5 +1,6 @@
 #+TITLE: 37. Landesfeuerwehrjugendwettbewerb
 #+DATE: 2023-06-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/634454178717038
 
 <p>...auf gehts für unserer Jugendgruppe zum 37. Landesfeuerwehrjugendwettbewerb nach Ischgl 

@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme am WENNER KIRCHTAG mit anschließender Kirchtagsprozession 2021
 #+DATE: 2021-06-28
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5793462764062134
 
 <p>Am gestrigen Sonntag, den 27. Juni 2021 fand bei uns in Wenns seit nunmehr fast zwei Jahren passend zum Wenner Kirchtag wieder die traditionelle Kirchtagsprozession statt. 

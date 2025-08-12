@@ -1,5 +1,6 @@
 #+TITLE: Technische Hilfeleistung - Kanalisationskamera steckte fest
 #+DATE: 2025-06-13
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1096016359227482
 
 

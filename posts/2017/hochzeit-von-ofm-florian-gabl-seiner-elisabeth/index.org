@@ -1,5 +1,6 @@
 #+TITLE: Hochzeit von OFM Florian Gabl & seiner Elisabeth
 #+DATE: 2017-05-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1551519328256520
 
 <p>Am heutigen Samstag gaben sich Florian & Elisabeth das Ja-Wort in Form der kirchlichen Trauung in der Pfarrkirche Wenns.

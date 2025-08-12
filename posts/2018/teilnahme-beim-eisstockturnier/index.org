@@ -1,5 +1,6 @@
 #+TITLE: Teilnahme beim Eisstockturnier
 #+DATE: 2018-02-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1894825570592559
 
 <p>Am gestrigen Freitag nahmen auch zwei Gruppen der FF Wenns beim Eisstockturnier der FF Wald teil.

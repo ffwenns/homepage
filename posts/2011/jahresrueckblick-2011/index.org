@@ -1,5 +1,6 @@
 #+TITLE: Jahresrückblick 2011
 #+DATE: 2011-12-31
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Im abgelaufenen Jahr 2011 wurde die Homepage der FF Wenns rund107 mal aktualisiertund neue Berichte online gestellt, dabei informierten sich über29.000 Besucher mit rund 190.000 Seitenzugriffen.

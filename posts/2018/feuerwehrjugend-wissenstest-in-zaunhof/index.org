@@ -1,5 +1,6 @@
 #+TITLE: Feuerwehrjugend Wissenstest in Zaunhof
 #+DATE: 2018-03-25
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1955681144507001
 
 <p>Der diesjährige Feuerwehrjugend - Wissenstest fand am 24. 

@@ -1,5 +1,6 @@
 #+TITLE: Wiederholter Brandmeldealarm im GH Pitztaler Hof
 #+DATE: 2018-08-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2161633913911722
 
 <p>Die FF Wenns wurde heute um 16.45 erneut via Pager Sammelruf zu einem Brandmeldealarm alarmiert.

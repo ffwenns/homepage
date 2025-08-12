@@ -1,5 +1,6 @@
 #+TITLE: Bezirksnasswettbewerb in Huben im Ötztal
 #+DATE: 2015-07-26
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Samstag den 25. Juli nahm die FF-Wenns beim Bezirksbewerb in Huben im Ötztal teil. Nach einer perfekten Leistung der Mannschaft und einem fehlerfreien Kuppler bis zum Verteiler, stellte dieser aufgrund eines technischen Defektes ein Hindernis zum erfolgreichen Abschluss des Wettbewerbes dar.

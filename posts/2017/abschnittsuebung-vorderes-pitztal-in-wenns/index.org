@@ -1,5 +1,6 @@
 #+TITLE: Abschnittsübung Vorderes Pitztal in Wenns
 #+DATE: 2017-11-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1760199584055159
 
 <p>"Gebäudebrand Sonderbau - Kindergarten Wenns / Musikschule Pitztal mit mehreren eingeschlossenen und vermissten Personen" war die Übungsannahme der gestrigen Abschnittsübung in Wenns. 

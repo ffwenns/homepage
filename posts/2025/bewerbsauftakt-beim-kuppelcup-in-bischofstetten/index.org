@@ -1,5 +1,6 @@
 #+TITLE: Bewerbsauftakt beim Kuppelcup in Bischofstetten
 #+DATE: 2025-04-29
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1061309562698162
 
 Unsere Bewerbsgruppe WENNS 1 hat beim ersten Kuppelcup des Jahres gut abgeliefert! 

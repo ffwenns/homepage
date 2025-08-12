@@ -1,5 +1,6 @@
 #+TITLE: Brandsicherheitswache Frühjahrskonzert 2014
 #+DATE: 2014-04-06
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Samstag den 05. April übernahmen neun Mitglieder der FF Wenns die Brandsicherheitswache beim diesjährigen Frühjahrkonzert der<a href="http://www.mk-wenns.at/" target="_blank">Musikkapelle Wenns</a>im Turnsaal der neuen Naturparkschule Wenns.

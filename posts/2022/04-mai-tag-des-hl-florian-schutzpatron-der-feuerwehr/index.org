@@ -1,5 +1,6 @@
 #+TITLE: 04. Mai Tag des Hl. Florian- Schutzpatron der Feuerwehr
 #+DATE: 2022-05-04
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7486867591388301
 
 <p>Der heutige 4. Mai steht ganz im Zeichen der Feuerwehren, denn es ist der Gedenktag unseres Schutzpatrons dem Hl. Florian. 

@@ -1,5 +1,6 @@
 #+TITLE: Umgestürzter Baum nach Verkehrsunfall auf der L17-Piller-Landesstraße
 #+DATE: 2019-08-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3007135662694872
 
 <p>Am heutigen Montag den 26. August wurde die FF Wenns via Kommandoschleife zu einem umgestürtzten Baum auf der L17 alarmiert.

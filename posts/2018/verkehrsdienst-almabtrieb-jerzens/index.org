@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsdienst Almabtrieb Jerzens
 #+DATE: 2018-09-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2234480796627033
 
 <p>Bei bestem Kaiserwetter konnte der Almabtrieb 2018 in Jerzens über die Bühne gehen.

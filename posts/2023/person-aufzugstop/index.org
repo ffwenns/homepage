@@ -1,5 +1,6 @@
 #+TITLE: Person Aufzugstop
 #+DATE: 2023-10-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/690549129774209
 
 <p>Gestern am Montagabend den 09.10. wurde die FF Wenns um 19:27 Uhr mit der Meldung "FW-D-RETTUNG - 

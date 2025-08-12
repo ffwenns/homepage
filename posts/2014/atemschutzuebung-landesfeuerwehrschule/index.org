@@ -1,5 +1,6 @@
 #+TITLE: Atemschutzübung - Landesfeuerwehrschule
 #+DATE: 2014-04-16
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Mittwochabend den 16. April besuchten rund 14 Atemschutzgeräteträger der FF Wenns die Landesfeuerwehrschule in Telfs und absolviert dort eine sehr interessante und lehrreiche Übung. Am Beginn wurden unter der Leitung von Ausbilder OLM Perwög Michael eisatzrelevante Themen wie Innenangriffe, Atemschutzüberwachung, Strahlrohrführung usw. besprochen.

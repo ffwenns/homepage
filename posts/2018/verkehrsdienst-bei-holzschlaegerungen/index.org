@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsdienst bei Holzschlägerungen
 #+DATE: 2018-11-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2346279232113855
 
 <p>Am heutigen Donnerstag Vormittag hielten 2 Mann der FF-Wenns während der Gemeinde Holzarbeiten den Verkehrsdienst im Bereich Obermühlbach - Kreuzung zur L17 Piller Landesstraße ab.

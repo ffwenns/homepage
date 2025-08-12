@@ -1,5 +1,6 @@
 #+TITLE: Wöchentliche Übungen unserer Feuerwehrjugend auf den kommenden Wissenstest
 #+DATE: 2019-03-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2598781396863636
 
 <p>In den vergangen Wochen, so auch am letzten Freitag konnte unsere aktive Jugendgruppe eine Übung auf den Wissenstest am 30. März abhalten. Ziel dieser Überprüfung ist das spielerische Erlernen von Grundlegende in der Feuerwehr wie Knotenkunde, Erste Hilfe und Gerätekunde.

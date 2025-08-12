@@ -1,5 +1,6 @@
 #+TITLE: C- Unterstützungseinsatz Rotes Kreuz
 #+DATE: 2022-05-15
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7540449579363435
 
 <p>Am heutigen Sonntag den 15.Mai wurde die Mannschaft der Feuerwehr Wenns um 19:40 Uhr mittels Pager zur Unterstützung des Roten Kreuzes Imst nachalarmiert.

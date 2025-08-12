@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Pitztaler Hof
 #+DATE: 2018-06-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2058802077528240
 
 <p>Am heutigen Sonntag um 03:11 Uhr wurde die FF-Wenns via Pager-Sammelruf zu einem Brandmeldealarm alarmiert. Bereits nach kürzester Zeit konnte sich herausstellen, dass es sich um einen Täuschungsalarm handelte. Daraufhin konnte die Feuerwehr Wenns den Einsatz beenden und ins Gerätehaus einrücken. 

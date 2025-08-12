@@ -1,5 +1,6 @@
 #+TITLE: Einschulung zwei neuer Maschinisten / Monatliche Maschinistenübung
 #+DATE: 2022-05-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7490672491007811
 
 <p>Am vergangenen Donnerstag, den 28. April 2022 schulte Gerätewart OLM Markus Larcher die beiden neuen Maschinisten

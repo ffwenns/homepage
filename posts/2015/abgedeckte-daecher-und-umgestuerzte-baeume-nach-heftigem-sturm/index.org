@@ -1,5 +1,6 @@
 #+TITLE: Abgedeckte Dächer und umgestürzte Bäume nach heftigem Sturm
 #+DATE: 2015-09-17
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Abgedeckte Dächer und umgestürzte Bäume nach heftigem Sturm

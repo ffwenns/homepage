@@ -1,5 +1,6 @@
 #+TITLE: Technische Gruppenübung Gruppe 6
 #+DATE: 2019-05-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2758961120845662
 
 <p>Am vergangenen Montag den 20. Mai konnte unsere Gruppe 6 unter OBM Robert Krug eine weitere technische Gruppenübung mit Hauptaugenmerk auf die Sicherung via Stab Fast abhalten.

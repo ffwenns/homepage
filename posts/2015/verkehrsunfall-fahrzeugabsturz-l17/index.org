@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsunfall - Fahrzeugabsturz L17
 #+DATE: 2015-11-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/996048067136985
 
 <p>Mit der Meldung "SAMMELRUF VU - Andere Gefahren - unbekannte Situation" wurde die FF Wenns heute um 20:27 Uhr zu einem Fahrzeugabsturz auf die L17 alarmiert.

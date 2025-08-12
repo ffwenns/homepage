@@ -1,5 +1,6 @@
 #+TITLE: Zugsübung der Gruppen 4, 5 & 6 Übungsannahme: "Fahrzeugbrand"
 #+DATE: 2018-09-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2253218611419918
 
 <p>Am heutigen Mittwoch den 19. September konnten 3 Gruppen unserer Feuerwehr unter der Übungsannahme eines Fahrzeugbrandes den Ernstfall üben.

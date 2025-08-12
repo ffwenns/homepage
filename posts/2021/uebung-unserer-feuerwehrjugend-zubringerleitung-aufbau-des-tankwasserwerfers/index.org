@@ -1,5 +1,6 @@
 #+TITLE: Übung unserer Feuerwehrjugend - Zubringerleitung/Aufbau des Tankwasserwerfers
 #+DATE: 2021-10-25
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6419939888081082
 
 <p>Am vergangenen Samstag, den 23.09.2021 hielt unsere Jugendgruppe eine weitere Übung mit verstärkter Mannschaft ab.

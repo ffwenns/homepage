@@ -1,5 +1,6 @@
 #+TITLE: Technischer Einsatz - PKW droht abzustürzen
 #+DATE: 2017-12-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1827497607325356
 
 <p>Am heutigen Samstagnachmittag den 23. Dezember wurde die Feuerwehr Wenns um 14:00 Uhr zu einem Technischen Einsatz unterhalb der L16 Pitztalstraße im Ortsteil Bieracker alarmiert. Beim Eintreffen am Einsatzort drohte ein PKW über eine steile und rutschige Böschung auf das direkt darunter liegende Wohnhaus abzustürzen. 

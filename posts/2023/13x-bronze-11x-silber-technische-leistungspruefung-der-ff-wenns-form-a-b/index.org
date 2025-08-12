@@ -1,5 +1,6 @@
 #+TITLE: 13x Bronze & 11x Silber Technische Leistungsprüfung der FF-Wenns Form A/B
 #+DATE: 2023-03-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/579040584258398
 
 <p>Am gestrigen Samstag, den 25. März 2023 konnten 24 Mann der FF-Wenns die Technische Leistungsprüfung in Form A (Hydraulisches Rettungsgerät) in Silber und Form B (Hebekissen) in Bronze erfolgreich absolvieren. 

@@ -1,5 +1,6 @@
 #+TITLE: Ölspur auf Landesstraße L16-Pitztaler Landesstraße
 #+DATE: 2020-03-12
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3643904835684615
 
 <p>Am heutigen Donnerstag den 12. März wurde die FF-Wenns via Pager Kommandoschleife zu einer Ölspur auf der L16-Pitztaler Landesstraße alarmiert. Nach rascher Ausrückzeit trotz der allgegenwärtigen Umstände konnte die Ölspur gebunden und die Verkehrssicherheit wiederhergestellt werden.

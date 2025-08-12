@@ -1,5 +1,6 @@
 #+TITLE: Schulungsabend für das Lehrpersonal Volksschule und Kindergarten Wenns
 #+DATE: 2022-11-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/8485323024876081
 
 <p>Am heutigen Mittwochabend den 30.November wurde von Kdt. HBI Lukas Scheiber und Zkdt. BM Christoph Stoll das Lehr- und Kindergartenpersonal in einer informativen und aufschlussreichen Schulung auf den vorbeugenden Brandschutz und die Brandmeldeanlage eingeschult.

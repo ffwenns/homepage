@@ -1,5 +1,6 @@
 #+TITLE: Neue Homepage der Feuerwehr Wenns unter ffwenns.at
 #+DATE: 2025-01-03
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/976646771164442
 
 1.751 Beiträge aller Internetauftritte der letzten 15 Jahre Wenner Feuerwehrgeschichte mit rund 14.000 Bildern wurden übersichtlich archiviert und hier auf unserer neuen Homepage digitalisiert abgebildet. 

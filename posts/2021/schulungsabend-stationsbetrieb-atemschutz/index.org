@@ -1,5 +1,6 @@
 #+TITLE: Schulungsabend Stationsbetrieb Atemschutz
 #+DATE: 2021-05-21
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5612403262168086
 
 <p>In Kleingruppen unter Einhaltung der COVID Maßnahmen wurden die fünf Stationen (korrektes Anziehen, korrektes Aufrüsten, Atemschutzüberwachung, Gerätekunde und wesentliche Meldungen für den Einsatzleiter) beübt.

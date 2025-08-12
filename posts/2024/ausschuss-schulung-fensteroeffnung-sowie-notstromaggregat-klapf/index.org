@@ -1,5 +1,6 @@
 #+TITLE: Ausschuss-Schulung / Fensteröffnung sowie Notstromaggregat "Klapf"
 #+DATE: 2024-05-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/821434780018976
 
 <p>Am gestrigen Donnerstagabend, den 16.Mai fand eine Ausschuss-Schulung unter Zkdt. OBM Christoph Stoll statt. Zuerst fand eine Unterweisung beim Notstromaggregat "Klapf" hoch über Wenns statt. Im Einsatzfall wird dieser A-Masten für Digitalfunk, Alarmierung und Richtfunk durch die Feuerwehr Wenns mittels Propangas- Aggregat notstromversorgt. 

@@ -1,5 +1,6 @@
 #+TITLE: Nachsicht - Kabelbrand örtlicher Lebensmittelmarkt
 #+DATE: 2020-07-21
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4159924540749306
 
 <p>Am heutigen Dienstag, den 21. Juli wurde die FF-Wenns via Pager Kleineinsatz-Schleife zu einer Kontrolle/Nachsicht in den Ortsteil Oberdorf zum örtlichen SPAR Lebensmittelmarkt alarmiert.

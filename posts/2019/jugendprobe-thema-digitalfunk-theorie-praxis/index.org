@@ -1,5 +1,6 @@
 #+TITLE: Jugendprobe Thema Digitalfunk Theorie & Praxis
 #+DATE: 2019-10-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3116856495056121
 
 <p>Am gestrigen Freitag den 04. Oktober konnte unsere Jugendgruppe unter HLM Andreas Bregenzer und LM Fabian Eiter eine Übung zum Thema Digitalfunk in der Theorie & Praxis durchführen.

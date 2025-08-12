@@ -1,5 +1,6 @@
 #+TITLE: Einsatzmeldung LKW droht abzustürzen
 #+DATE: 2021-07-13
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/5867097866698623
 
 <p>Am heutigen Dienstag, den 13. Juli 2021 wurde die FF-Wenns via Pager Sammelruf um 14:24 Uhr zu einem abzustürzen drohenden LKW im Ortsteil Brennwald auf der L16-Pitztaler Landesstraße alarmiert.

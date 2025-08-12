@@ -1,5 +1,6 @@
 #+TITLE: Felssturz auf der L16-Pitztaler-Landesstraße
 #+DATE: 2019-08-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2957479410993831
 
 <p>Am heutigen Mittwoch den 07. August wurde die FF Wenns via Pager Sammelruf zu einem Felssturz auf der L16-Pitztaler-Landesstraße nach dem Ortsteil Bieracker alarmiert.

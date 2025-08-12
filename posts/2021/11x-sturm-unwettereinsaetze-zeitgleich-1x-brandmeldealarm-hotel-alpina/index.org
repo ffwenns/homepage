@@ -1,5 +1,6 @@
 #+TITLE: 11x Sturm-/Unwettereinsätze - zeitgleich 1x Brandmeldealarm Hotel Alpina
 #+DATE: 2021-08-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6037948986280176
 
 <p>Am gestrigen Sonntag, den 15. August 2021 ließ auf einmal das Wetter schwungartig um. Ein starkes Unwetter mit Wolkenbruch, Hagel und Starkregen überfluteten mehrere Dorfbäche und verlegten die Hauptverkehrswege mit Geröll, Schlamm und

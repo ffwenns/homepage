@@ -1,5 +1,6 @@
 #+TITLE: Feuerlöscher-Überprüfung 2022
 #+DATE: 2022-10-13
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/8259389234136129
 
 <p>Liebe Wennerinnen und Wenner!

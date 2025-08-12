@@ -1,5 +1,6 @@
 #+TITLE: Technischer Einsatz: Hydrant defekt
 #+DATE: 2020-03-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3636411016433997
 
 <p>Am heutigen Dienstag den 10. März wurde die FF-Wenns um 16:58 Uhr per Pager Kommandoschleife zu einem Technischen Einsatz - Hydrant defekt alarmiert. Vor Ort konnte sich der Sachverhalt rasch als ein Missverständnis herausstellen.

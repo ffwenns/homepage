@@ -1,5 +1,6 @@
 #+TITLE: Technischer Schulungsabend mit Stationsbetrieb
 #+DATE: 2011-08-06
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Freitagabendden 05. August hieltdieFeuerwehr Wenns einen Technischen Schulungsabend mit Stationsbetrieb im Recyclinghof ab. Der Technische Schulungsabend wurde im Rahmen eines Stationsbetriebes durchgeführt und die 28teilnehmenden Kameradenwurdenin vier Gruppeneingeteilt.

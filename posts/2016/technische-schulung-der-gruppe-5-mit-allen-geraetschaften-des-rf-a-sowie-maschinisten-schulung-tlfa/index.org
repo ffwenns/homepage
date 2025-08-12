@@ -1,5 +1,6 @@
 #+TITLE: Technische Schulung der Gruppe 5 mit allen Gerätschaften des RF-A sowie Maschinisten Schulung TLFA
 #+DATE: 2016-07-29
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1175689042506219
 
 <p>Heute am Freitagabend den 29. Juli üben die Mitglieder der Gruppe 5 mit allen Technischen Gerätschaften des Rüstfahrzeuges sowie mit dem Monitor und der Pumpe des TLFA. Nach rund zwei Stunden konnte die Schulung erfolgreich beendet werden.</p>

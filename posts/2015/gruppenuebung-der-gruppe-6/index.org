@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung der Gruppe 6
 #+DATE: 2015-09-16
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Mittwoch den 16. September fand eine weitere Übung der Gruppe 6 statt. Hauptbestandteil dieser Übung war unteranderem die Handhabung der wasserführenden Armaturen des Tanklöschfahrzeuges (TLFA 2000).

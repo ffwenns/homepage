@@ -1,5 +1,6 @@
 #+TITLE: Einsatzmeldung "Geplatzter Hydraulikschlauch"
 #+DATE: 2022-07-14
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7827316894010034
 
 <p>Am gestrigen Mittwoch, den 13. Juli 2022 wurde die FF-Wenns via Pager Kommandoschleife zu einem geplatzten Hydraulikschlauch im Unterdorf alarmiert. Nach kürzester Zeit wurde die Ölspur (Hydrauliköl) von der FF-Wenns mittels Ölbindemittel gebunden. Nach rund einer halben Stunde konnte die Mannschaft wieder ins Gerätehaus einrücken.

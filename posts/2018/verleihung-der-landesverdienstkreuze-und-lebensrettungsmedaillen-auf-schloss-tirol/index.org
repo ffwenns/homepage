@@ -1,5 +1,6 @@
 #+TITLE: Verleihung der Landesverdienstkreuze und Lebensrettungsmedaillen auf Schloss Tirol
 #+DATE: 2018-09-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2238162909592155
 
 <p>"Tirols Landeshauptmann Günther Platter und Südtirols Landeshauptmann Arno Kompatscher überreichten heute bei einem Festakt auf Schloss Tirol bei Meran, Südtirol, die Landesverdienstkreuze und Lebensrettungsmedaillen an 54 ausgezeichnete Persönlichkeiten.

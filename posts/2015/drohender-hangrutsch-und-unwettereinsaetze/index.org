@@ -1,5 +1,6 @@
 #+TITLE: Drohender Hangrutsch und Unwettereinsätze
 #+DATE: 2015-05-22
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Die FF Wenns stand in den Nachtstunden des 22. Mai auf der L16 Pitztallandesstraße nach dem Ortsteil Bieracker zwischen Arzl und Wenns nach einem großen Steinschlag und drohendem Hangrutsch im Einsatz.

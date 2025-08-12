@@ -1,5 +1,6 @@
 #+TITLE: 115. Jahreshauptversammlung der FF Wenns
 #+DATE: 2012-04-01
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Freitag den 30. März wurde die 115. Jahreshauptversammlung der Feuerwehr Wenns im Freizeitzentrum abgehalten. Kommandant OBI Reheis Norbert konnte über 60 anwesende Kameraden begrüßen.

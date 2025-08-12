@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung Gruppe 8 "Thema Waldbrand - Aufbau Hubschrauberbecken"
 #+DATE: 2023-06-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/632159365613186
 
 <p>Am vergangenen Samstag, den 24. Juni konnte die Gruppe 8 der FF-Wenns unter HV Patrick Pfefferle eine Gruppenübung zum Thema Waldbrand abhalten.

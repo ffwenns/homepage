@@ -1,5 +1,6 @@
 #+TITLE: Jahreshauptversammlung 2014
 #+DATE: 2014-03-29
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 <h3>Kommandant Norbert Reheis konnte dazu folgende Ehrengäste begrüßen:</h3>

@@ -1,5 +1,6 @@
 #+TITLE: Lehrreiche Sommerübung der FF Wenns im Klärwerk
 #+DATE: 2024-07-05
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/851718233657297
 
 <p>

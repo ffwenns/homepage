@@ -1,5 +1,6 @@
 #+TITLE: Bezirksfeuerwehrtag in Arzl im Pitztal
 #+DATE: 2011-05-08
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Der diesjährige Bezirksfeuerwehrtag des Bezirkes Imst fand am Freitag den 06. Mai 2011 in Arzl im Pitztal statt. Die Freiwillige Feuerwehr Wenns war mit 9 Mitglieder und der Fahnenabordnung vertreten.

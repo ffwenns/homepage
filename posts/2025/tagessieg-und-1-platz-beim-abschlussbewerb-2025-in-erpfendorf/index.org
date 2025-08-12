@@ -1,5 +1,6 @@
 #+TITLE: Tagessieg und 1. Platz beim Abschlussbewerb 2025 in Erpfendorf
 #+DATE: 2025-08-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1141486581347126
 
 Drei Bewerbsgruppen der FF Wenns sind am gestrigen Samstag, den 09. August 2025 zum Bezirkskuppelcup Kitzbühel, nach Erpfendorf ins Tiroler Unterland gereist! 

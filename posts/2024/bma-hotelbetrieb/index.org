@@ -1,5 +1,6 @@
 #+TITLE: BMA Hotelbetrieb
 #+DATE: 2024-01-19
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/749420987220356
 
 <p>Kurz vor unserer heutigen 129. Jahreshauptversammlung, wurden wir um 18:09 Uhr zu einem Brandmeldealarm in einem örtlichen Hotelbetrieb alarmiert. Die Anlage löste durch einen Haarspray aus und somit konnte der Täuschungsalarm, nach rund 15 Minuten beendet werden.

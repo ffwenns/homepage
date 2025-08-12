@@ -1,5 +1,6 @@
 #+TITLE: Wasserschaden Wohngebäude und Ölspur L16
 #+DATE: 2025-06-27
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1106514781510973
 
 Am heutigen Donnerstag, den 26.06.2025 um 17:44 Uhr wurden auch wir, wie viele andere Feuerwehren im Bezirk, zu einem Unwettereinsatz alarmiert.

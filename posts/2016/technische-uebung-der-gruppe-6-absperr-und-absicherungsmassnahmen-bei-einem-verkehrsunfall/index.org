@@ -1,5 +1,6 @@
 #+TITLE: Technische Übung der Gruppe 6: Absperr- und Absicherungsmaßnahmen bei einem Verkehrsunfall
 #+DATE: 2016-07-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1157954807612976
 
 <p>Gestern am frühen Sonntagabend den 10. Juli fand eine Technische Übung der Gruppe 6 zum Thema "Absperr- und Absicherungsmaßnahmen bei einem VU" statt. Nach rund zwei Stunden ging die Übung zum gemütlichen Teil über. 

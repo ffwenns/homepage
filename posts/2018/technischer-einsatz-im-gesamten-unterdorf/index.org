@@ -1,5 +1,6 @@
 #+TITLE: Technischer Einsatz im gesamten Unterdorf
 #+DATE: 2018-11-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2346699165405195
 
 <p>Neben der Verkehrsregelung am Vormittag wurde die FF Wenns am heutigen Donnerstag um 12:14 Uhr mittels Pager zu einer starken Verunreinigung entlang der gesamten Gemeindstraße im Unterdorf alarmiert. Ein Landwirt hat bei seinem Transporter den seitlichen Miststreuer versehentlich während der Fahrt aktiviert und dadurch die gesamten Häuser entlang der Straße stellenweise bis zu 5 Meter verschmutzt.

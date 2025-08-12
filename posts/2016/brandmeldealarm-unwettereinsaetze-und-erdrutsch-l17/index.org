@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm / Unwettereinsätze und Erdrutsch L17
 #+DATE: 2016-07-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1173209686087488
 
 <p>-- L17 (vor Ortsteil Greith) nach Erdrutsch nur einspurig befahrbar --

@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm durch Kaminkehrerarbeiten
 #+DATE: 2020-04-02
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3714722398602858
 
 <p>Zum Einsatz Nr.16/2020 wurde die FF Wenns am heutigen Donnerstag den 02.April um 09:55 Uhr zu einem Brandmeldealarm in einem örtlichen Hotelbetrieb alarmiert. 

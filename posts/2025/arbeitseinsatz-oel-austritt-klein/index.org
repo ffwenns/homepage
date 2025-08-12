@@ -1,5 +1,6 @@
 #+TITLE: Arbeitseinsatz: Öl-Austritt klein
 #+DATE: 2025-01-14
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/984235137072272
 
 

@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsunfall mit eingeklemmter Person
 #+DATE: 2015-11-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/994708467270945
 
 <p>Mit der Meldung "SRF/Bergeschere - Verkehrsunfall mit eingeklemmter Person - Fahrzeug liegt auf der Seite" wurde die FF Wenns neben der Ortsfeuerwehr Piller um 00:10 Uhr mittels Pager-Sammelruf auf die L17 Pillerlandesstraße nachalarmiert.

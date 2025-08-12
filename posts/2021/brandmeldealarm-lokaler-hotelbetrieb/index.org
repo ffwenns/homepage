@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm - lokaler Hotelbetrieb
 #+DATE: 2021-09-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/6205782802830126
 
 <p>Zum Einsatz Nr. 52 wurden wir heute um 18:33 Uhr zu einem Brandmeldealarm in einem lokalen Hotelbetrieb im Oberdorf, mittels Pager Sammelruf alarmiert. Dabei konnte sich rasch ein Täuschungsalarm bestätigen, welcher durch Wasserdampf ausgelöst wurde.

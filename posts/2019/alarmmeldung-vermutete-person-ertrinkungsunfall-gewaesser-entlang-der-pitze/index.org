@@ -1,5 +1,6 @@
 #+TITLE: Alarmmeldung "Vermutete Person/Ertrinkungsunfall Gewässer" entlang der Pitze
 #+DATE: 2019-06-13
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2813419355399838
 
 <p>Am heutigen Donnerstag den 13. Juni wurde die FF-Wenns via Sammelruf und Sirenen Alarmierung um 10:58 Uhr zu einem Ertrinkungsunfall Gewässer entlang der Pitze nachalarmiert.

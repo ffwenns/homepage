@@ -1,5 +1,6 @@
 #+TITLE: Abschlussübung Gruppe 6 unter dem Motto ,,Alle Wege führen nach Rom als (Stationsbetrieb)
 #+DATE: 2023-12-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/723931649769290
 
 <p>Am gestrigen Donnerstagabend den 07.12.2023 fand die letzte und 14. Gruppenübung der Gruppe 6 unter Gkdt. LM Siller Dominik im Jahr 2023 statt. 

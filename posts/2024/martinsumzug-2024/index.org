@@ -1,5 +1,6 @@
 #+TITLE: Martinsumzug 2024
 #+DATE: 2024-11-12
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/940677724761347
 
 Auch die Feuerwehr Wenns war beim gestrigen Martinsumzug unserer Jüngsten wieder unterstützend involviert, welcher am Vorplatz der FF Halle endete.

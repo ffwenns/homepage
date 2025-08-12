@@ -1,5 +1,6 @@
 #+TITLE: Fehlalarm für die Feuerwehr Wenns
 #+DATE: 2010-12-22
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Mittwochvormittag den 22. Dezember um 08:45 Uhr wurde die Feuerwehr Wenns mittels Sirenenalarmierung alarmiert. Der Grund der Alarmierung war ein Fehlalarm.

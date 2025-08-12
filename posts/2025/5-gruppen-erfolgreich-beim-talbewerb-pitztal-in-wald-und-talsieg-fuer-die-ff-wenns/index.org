@@ -1,5 +1,6 @@
 #+TITLE: 5 Gruppen erfolgreich beim Talbewerb Pitztal in Wald und Talsieg für die FF Wenns
 #+DATE: 2025-06-08
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1091881376307647
 
 Am gestrigen Samstag, den 07.Juni 2025 fand der Talbewerb vom Abschnitt Pitztal in Wald im Pitztal statt.

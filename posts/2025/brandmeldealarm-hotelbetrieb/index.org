@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Hotelbetrieb
 #+DATE: 2025-05-29
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1084637677032017
 
 Am heutigen Donnerstagnachmittag wurde die FF-Wenns um 15:05 Uhr zu einem Brandmeldealarm in einem örtlichen Hotelbetrieb alarmiert. Vor Ort stellte sich rasch heraus, dass es sich um einen Täuschungsalarm handelte, welcher durch einen Toaster ausgelöst wurde. Der Alarm wurde bereits auf Eintreffen der Feuerwehr zurückgestellt. 

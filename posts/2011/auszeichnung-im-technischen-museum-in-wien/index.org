@@ -1,5 +1,6 @@
 #+TITLE: Auszeichnung im Technischen Museum in Wien
 #+DATE: 2011-04-29
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Die Homepage der Feuerwehr Wenns wurde am 29. April im Technischen Museum in Wien mit 5 Helmsymbolen ausgezeichnet. Der Internetauftritt www.ff-wenns.at wurde im Rahmen einer feierlichen Zeremonie im Technischen Museum in Wien ausgezeichnet und die Urkunden vom Präsident des Österreichischen Bundesfeuerwehrverband KR Josef Buchta sowie von dem bekannten, ehemaligen ZIB 2 Moderator Josef Broukal überreicht.

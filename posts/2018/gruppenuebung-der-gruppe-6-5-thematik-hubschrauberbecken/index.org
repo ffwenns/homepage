@@ -1,5 +1,6 @@
 #+TITLE: Gruppenübung der Gruppe 6 & 5 Thematik Hubschrauberbecken
 #+DATE: 2018-09-11
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2239958949412551
 
 <p>Dienstag, der 11. September hielt die Gruppe 6 & 5 wieder eine Gruppenübung ab.

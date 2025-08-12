@@ -1,5 +1,6 @@
 #+TITLE: Übung Gruppe 7 - Fahrzeugkunde & technische Hilfsmittel
 #+DATE: 2020-07-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4171643219577438
 
 <p>Am gestrigen Donnerstag, den 23. Juli 2020 konnte die Gruppe 7 unter LM Florian Gabl eine Übung abhalten. Dabei wurde die Fahrzeugkunde unseres Rüst- und Tankfahrzeuges besprochen und praktisch beübt. 

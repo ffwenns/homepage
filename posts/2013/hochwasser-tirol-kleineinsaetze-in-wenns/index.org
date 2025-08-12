@@ -1,5 +1,6 @@
 #+TITLE: Hochwasser Tirol - Kleineinsätze in Wenns
 #+DATE: 2013-06-02
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Das Hochwasser hat in Tirol am Sonntag enorme Schäden angerichtet. Besonders betroffen waren die Bezirke Kitzbühel und Kufstein. Zahlreiche Häuser wurden überschwemmt. Hunderte Menschen mussten in Sicherheit gebracht werden und zahlreiche Straßen waren unterbrochen bzw. gesperrt.

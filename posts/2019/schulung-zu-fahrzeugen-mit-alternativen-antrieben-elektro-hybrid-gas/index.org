@@ -1,5 +1,6 @@
 #+TITLE: Schulung zu Fahrzeugen mit alternativen Antrieben (Elektro-Hybrid-Gas)
 #+DATE: 2019-03-16
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2608430495898726
 
 <p>Am gestrigen Freitag den 15. März konnte die gesamte Mannschaft der FF-Wenns im Bereich der alternativen Antriebe eines Fahrzeuges durch den Ausbilder der Landesfeuerwehrschule Dominik Hochenegger geschult werden.

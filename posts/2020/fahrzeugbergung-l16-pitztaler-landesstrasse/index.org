@@ -1,5 +1,6 @@
 #+TITLE: Fahrzeugbergung L16-Pitztaler-Landesstraße
 #+DATE: 2020-07-27
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4188491461225947
 
 <p>Am heutigen Montag, den 27. Juli 2020 wurde um 18:29 Uhr die FF-Wenns via Pager Kommandoschleife zu einer Fahrzeugbergung auf der L16 im Ortsteil St. Margarethen alarmiert.

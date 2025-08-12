@@ -1,5 +1,6 @@
 #+TITLE: Zahlreiche Einsatzszenarien für die Pitztaler Feuerwehren
 #+DATE: 2012-10-26
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Donnerstagabend den 25. Oktober fand in Arzl die Abschnittsübung aller neun Pitztaler Feuerwehren statt. Die Freiwillige Feuerwehr Arzl unter Kdt. OBI Knabl Josef bereitete mehrere spektakuläre Übungen im Gewerbegebiet vor, welche von den alarmierten Feuerwehren abgearbeitet wurden.

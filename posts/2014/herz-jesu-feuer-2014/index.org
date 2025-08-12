@@ -1,5 +1,6 @@
 #+TITLE: Herz Jesu Feuer 2014
 #+DATE: 2014-06-29
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Samstag den 28.06.2014 fand das traditionelle Herz Jesu Feuern auch in Wenns statt.

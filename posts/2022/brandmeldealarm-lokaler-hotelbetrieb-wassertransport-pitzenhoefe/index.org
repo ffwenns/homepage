@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm lokaler Hotelbetrieb / Wassertransport Pitzenhöfe
 #+DATE: 2022-09-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/8147444745330579
 
 <p>Heute, Dienstag 20. September 2022 wurde um 08:23 Uhr die FF-WENNS via Pager Sammelruf zu einem Brandmeldealarm im lokalen Hotelbetrieb alarmiert. 

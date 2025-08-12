@@ -1,5 +1,6 @@
 #+TITLE: Aufräumungsarbeiten Verkehrsunfall L16
 #+DATE: 2014-04-15
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Dienstagnachmittag den 15. April um 14:18 Uhr wurde die FF Wenns (Kommandoschleife) von der Polizei zur Unterstützung nach einem Verkehrsunfall auf die L16 Pitztalstraße km 7 alarmiert.

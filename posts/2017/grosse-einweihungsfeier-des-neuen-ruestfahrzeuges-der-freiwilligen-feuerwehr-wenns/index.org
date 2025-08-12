@@ -1,5 +1,6 @@
 #+TITLE: Große Einweihungsfeier des neuen Rüstfahrzeuges der Freiwilligen Feuerwehr Wenns
 #+DATE: 2017-09-26
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1711308248944293
 
 <p>Investition für die Sicherheit unserer Bevölkerung - Große Einweihungsfeier des neuen Rüstfahrzeuges der Freiwilligen Feuerwehr Wenns 

@@ -1,5 +1,6 @@
 #+TITLE: Friedenslicht-Aktion von Haus zu Haus 2022 
 #+DATE: 2022-12-12
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/8557060714368978
 
 <p>Liebe Wennerinnen und Wenner!

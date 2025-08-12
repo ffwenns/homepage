@@ -1,5 +1,6 @@
 #+TITLE: Monatliche Maschinistenübung Gruppe 1 / Beprobung der neuen Ansaugstelle bei der Wehranlage Pitze
 #+DATE: 2025-08-06
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1138322781663506
 
 Am heutigen ersten Dienstag im August führte unser Obermaschinist LM Simon Siller gemeinsam mit seinem Stellvertreter HLM Martin Siller die monatliche Übung der Maschinistengruppe 1 durch.

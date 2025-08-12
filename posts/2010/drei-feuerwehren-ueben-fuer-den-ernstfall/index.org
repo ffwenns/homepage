@@ -1,5 +1,6 @@
 #+TITLE: Drei Feuerwehren üben für den Ernstfall
 #+DATE: 2010-07-24
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Beieiner Gemeinschaftsübung der Feuerwehren Jerzens, Piller und Wenns die am Freitag den 23. Juli abgehalten wurde, musste ein Gebäudebrand mit vermissten Personen imOrtsteilUnterdorf abgearbeitet werden.

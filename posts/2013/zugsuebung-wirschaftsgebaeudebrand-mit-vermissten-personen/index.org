@@ -1,5 +1,6 @@
 #+TITLE: Zugsübung - Wirschaftsgebäudebrand mit vermissten Personen
 #+DATE: 2013-06-07
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Freitagabend den 07. Juni fand unter der Übungsannahme "Wirtschaftsgebäudebrand mit vermissten Personen" eine Zugsübung im Hydrantenlosen Ortsteil Pitzenhöfestatt.

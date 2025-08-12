@@ -1,5 +1,6 @@
 #+TITLE: Brandsicherheitswachen und Straßendienste beim Schützenfest
 #+DATE: 2010-08-13
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Wochenende vom 13. - 15. August fand das diesjährige Bataillionsschützenfest vom Pitztal welches von der Schützenkompanie Wenns unterhalb der Feuerwehrhalle auf dem Sportplatz veranstaltet wurde statt.

@@ -1,5 +1,6 @@
 #+TITLE: Eindrucksvolle 130. Jahreshauptversammlung 2025 mit Rückblick auf 15.951 geleistete Stunden der FF Wenns im vergangenen Jahr
 #+DATE: 2025-03-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1033799608782491
 
 Am Freitag, den 21. März 2025, versammelten sich 95 Kameradinnen und Kameraden der FF Wenns, von jung bis alt, zur Jahreshauptversammlung im Mehrzwecksaal der Gemeinde Wenns.

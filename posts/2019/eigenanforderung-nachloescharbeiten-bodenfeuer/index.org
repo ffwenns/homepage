@@ -1,5 +1,6 @@
 #+TITLE: Eigenanforderung Nachlöscharbeiten Bodenfeuer
 #+DATE: 2019-10-24
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3174858559255914
 
 <p>Am heutigen Donnerstag um ca. 14:30 Uhr wurde die FF-Wenns zu Nachlöscharbeiten eines Bodenfeuers im Ortsteil Pitzenhöfe alarmiert.

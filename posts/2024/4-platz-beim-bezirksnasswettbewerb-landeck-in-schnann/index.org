@@ -1,5 +1,6 @@
 #+TITLE: 4.Platz beim Bezirksnasswettbewerb Landeck in Schnann
 #+DATE: 2024-06-30
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/847951460700641
 
 <p>Am gestrigen Samstag, den 29.06.2024, nahm die junge Gruppe WENNS 1 am Bezirksbewerb in Schnann (Bezirk Landeck) teil. 

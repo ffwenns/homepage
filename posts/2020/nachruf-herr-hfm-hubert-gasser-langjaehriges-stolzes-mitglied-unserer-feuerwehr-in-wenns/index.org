@@ -1,5 +1,6 @@
 #+TITLE: Nachruf - Herr HFM Hubert Gasser (langjähriges stolzes Mitglied unserer Feuerwehr in Wenns)
 #+DATE: 2020-11-18
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/4749157248492696
 
 <p>In stiller Trauer nehmen wir Abschied von unserem langjährigen Mitglied Hauptfeuerwehrmann (HFM)

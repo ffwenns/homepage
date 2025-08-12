@@ -1,5 +1,6 @@
 #+TITLE: Segnung des neuen Stromanhängers und der neu restaurierten Feuerwehrfahne der FF Plangeross
 #+DATE: 2019-09-15
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3060048164070288
 
 <p>Am heutigen Sonntag waren wir mit 6 Mann bei der Einweihungsfeier des neuen Stromanhängers und der neu restaurierten Feuerwehrfahne bei unserer Nachbarfeuerwehr Freiwillige Feuerwehr Plangeross im hinteren Pitztal vertreten.

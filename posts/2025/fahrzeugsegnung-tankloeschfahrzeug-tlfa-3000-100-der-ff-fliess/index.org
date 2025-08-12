@@ -1,5 +1,6 @@
 #+TITLE: Fahrzeugsegnung Tanklöschfahrzeug (TLFA) 3000/100 der FF-Fließ
 #+DATE: 2025-07-14
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/1120523150110136
 
 

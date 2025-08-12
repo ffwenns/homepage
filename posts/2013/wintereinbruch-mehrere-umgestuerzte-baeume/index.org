@@ -1,5 +1,6 @@
 #+TITLE: Wintereinbruch mehrere umgestürzte Bäume
 #+DATE: 2013-04-20
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Nach einem Wintereinbruch mit Neuschnee wurde die Feuerwehr Wenns am 20. April um 05:12 Uhr mittels Pager von der <a title="Leitstelle Tirol - die wichtigste Verbindung im Land" href="http://www.leitstelle-tirol.at" target="_blank">Leitstelle Tirol</a> zu einem umgestürzten Baum auf der L16 Pitztaler Landesstraße alarmiert.

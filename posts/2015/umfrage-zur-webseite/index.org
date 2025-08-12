@@ -1,5 +1,6 @@
 #+TITLE: Umfrage zur Webseite
 #+DATE: 2015-07-24
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Die Matura-Projekt Gruppe der BHAK Imst möchte in Ihrem Projekt für die Diplomarbeit, ein Relaunch ("Neugestaltung") der momentanen Webseite der Freiwilligen Feuerwehr Wenns vornehmen.

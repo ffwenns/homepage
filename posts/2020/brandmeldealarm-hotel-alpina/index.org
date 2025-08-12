@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Hotel Alpina
 #+DATE: 2020-02-17
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3563389270402839
 
 <p>Am heutigen Montag den 17. Februar um 21:36 wurde die FF-Wenns via Pager Sammelruf zu einem Brandmeldealarm alarmiert.

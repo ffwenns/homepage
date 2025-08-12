@@ -1,5 +1,6 @@
 #+TITLE: Verkehrsunfall Fahrzeugbergung
 #+DATE: 2020-03-10
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/3637230216352077
 
 <p>Am heutigen Dienstag den 10. März wurde die FF-Wenns zum 2. Einsatz an diesem Tag um 20:35 Uhr via Pager Sammelruf zu einem Verkehrsunfall - Fahrzeugbergung alarmiert.

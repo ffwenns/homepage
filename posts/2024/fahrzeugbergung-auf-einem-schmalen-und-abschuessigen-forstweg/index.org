@@ -1,5 +1,6 @@
 #+TITLE: Fahrzeugbergung auf einem schmalen und abschüssigen Forstweg
 #+DATE: 2024-07-07
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/852928756869578
 
 <p>Mittels Pager Kommandoschleife wurden wir heute am Sonntag, den 07.Juli 2024 um 12:03 Uhr während dem Verkehrsdienst beim Gletschermarathon, zu einer Fahrzeugbergung bei Gefahr in Verzug alarmiert.

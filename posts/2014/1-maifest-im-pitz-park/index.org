@@ -1,5 +1,6 @@
 #+TITLE: 1. Maifest im Pitz Park
 #+DATE: 2014-05-02
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Am Donnerstag den 01.Mai 2014 fand im Pitz Park Wennsdas 1. Maifest statt.

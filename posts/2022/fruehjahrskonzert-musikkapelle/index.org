@@ -1,5 +1,6 @@
 #+TITLE: Frühjahrskonzert Musikkapelle
 #+DATE: 2022-04-23
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/7438785046196556
 
 <p>Nach einem aktiven Tag (Wissenstest und Übung Gruppe 6) war das Kommando und einige Mitglieder unserer Feuerwehr heute auch noch beim Frühjahrskonzert der MK Wenns vertreten!

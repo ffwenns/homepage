@@ -1,5 +1,6 @@
 #+TITLE: Tolle Leistung beim KUPPELCUP in Brixlegg
 #+DATE: 2024-04-20
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/804673938361727
 
 <p>Am heutigen Samstag, den 20. April 2024 bestritt unsere junge Bewerbsgruppe WENNS 1, den 2. Kuppel-Bewerb für die Saison 2024 im Tiroler Unterland.

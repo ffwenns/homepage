@@ -1,5 +1,6 @@
 #+TITLE: Brandmeldealarm Gasthof Pitztaler Hof
 #+DATE: 2019-01-22
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2495483257193451
 
 <p>Dienstag, 22. Jänner - die FF-Wenns wurde um 18.17 Uhr via Pager Sammelruf erneut zu einem Brandmeldealarm im Gasthof Pitztaler Hof alarmiert. Bereits nach kürzester Zeit konnte ein Täuschungsalarm bestätigt werden, welcher aufgrund von Wasserdampf auslöste.

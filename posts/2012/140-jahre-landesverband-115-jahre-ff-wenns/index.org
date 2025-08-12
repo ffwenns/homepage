@@ -1,5 +1,6 @@
 #+TITLE: 140 Jahre Landesverband: 115 Jahre FF Wenns
 #+DATE: 2012-05-08
+#+LAYOUT: post
 #+FACEBOOK_URL: 
 
 Der Landesfeuerwehrverband Tirol feiert heuer sein 140 jähriges Bestehen. Der in Lienz im Osttirol gegründete Verband legte den Grundstein für das Flächendeckende Tiroler Feuerwehrsystem. Aus einer damals noch sehr laienhaften Truppe ist inzwischen ein schlagkräftiger Verband mit über 32.000 Mitgliedern entstanden. Täglich rücken die Tiroler Feuerwehren freiwillig und unentgeltlich mehr als 50mal aus um anderen Menschen zu helfen.

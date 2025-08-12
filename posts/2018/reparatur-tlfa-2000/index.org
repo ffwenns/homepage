@@ -1,5 +1,6 @@
 #+TITLE: Reparatur TLFA-2000
 #+DATE: 2018-07-09
+#+LAYOUT: post
 #+FACEBOOK_URL: https://facebook.com/ffwenns/posts/2112456175496163
 
 <p>Aufgrund eines technischen Defektes der Einbaupumpe unseres Tanklöschfahrzeuges wurde dieses heute zur Fa. Magirus Lohr nach Graz zur Reparatur überstellt.
