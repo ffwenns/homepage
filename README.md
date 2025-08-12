@@ -66,14 +66,14 @@ Auch wenn der Importer viel Arbeit abnimmt — er **ist nicht fehlerfrei** und w
 
 ### Server
 
-Der Server hat **2 Kerne, 2 GB RAM, eine 60 GB SSD** und ist zusammen mit
-der Domain bei [netcup](https://netcup.de) registriert.
+Der Server hat **2 Kerne, 2 GB RAM** und eine 60 GB SSD
 
 Das Betriebssystem ist [Arch Linux](https://archlinux.org),
 als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
 
+Der Server und die Domain sind bei [netcup](https://netcup.de) registriert.
+
 ### Backup
 
-Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und verteilt es mithilfe von [Syncthing](https://syncthing.net) an meinen Desktop und Laptop. Das Repository wird zusätzlich auf den Server gepusht (mirror). Weitere Backups sind auf USB-Sticks und externen Festplatten vorhanden.
-
+Mein Homeserver pullt das Repository regelmäßig (per Cronjob) und verteilt es mithilfe von [Syncthing](https://syncthing.net). Das Repository wird zusätzlich auf den Server gepusht (mirror). 
 Ein ZIP-Archiv sollte regelmäßig an das ÖA-Team verteilt werden. Evtl macht es auch Sinn auf den Google- bzw. Microsoft-Account der Feuerwehr eine Sicherung abzulegen.
