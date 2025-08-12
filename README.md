@@ -4,9 +4,9 @@ Die Website der Freiwilligen Feuerwehr Wenns
 
 ## Bearbeiten
 
-Um Änderungen an der Seite vorzunehmen, muss man sich zuerst auf Github registrieren und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite ein Bearbeiten-Link (ganz unten). Damit kommt man dann bequem zur Seite die man ändern will.
+Um Änderungen an der Seite vorzunehmen, muss man sich zuerst **auf Github registrieren** und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite ein Link zum Bearbeiten (ganz unten). Damit kommt man dann bequem zur Seite die man ändern will.
 
-Beim Bearbeiten müssen einige Dinge beachtet werden:
+Beim Bearbeiten sollten einige Dinge beachtet werden:
 
 - Die **Ordnerstruktur muss auf jeden Fall beibehalten werden**.
 - Die ganzen Beiträge sind unter `/posts` in Jahre sortiert und werden automatisch importiert.
@@ -16,9 +16,12 @@ Beim Bearbeiten müssen einige Dinge beachtet werden:
 
 ### Bilder
 
-Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). 
+Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./scripts/converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. 
 
-Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert.
+Besondere Bilder und ihre Bedeutung:
+
+- `header.webp`: das rote Bild hinter dem Logo
+- `cover.webp`: der Banner auf den Seiten ganz oben, wird auch bei Beiträgen für das Vorschaubild verwendet
 
 ### Shortcodes
 
@@ -60,9 +63,7 @@ Auch wenn der Importer viel Arbeit abnimmt — er **ist nicht fehlerfrei** und w
 
 ### Server
 
-Der Server hat **2 Kerne, 2 GB RAM** und eine 60 GB SSD
-
-Das Betriebssystem ist [Arch Linux](https://archlinux.org),
-als Webserver kommt [Caddy](https://caddyserver.com) zum Einsatz.
-
-Der Server und die Domain sind bei [netcup](https://netcup.de) registriert.
+- [VPS nano G11s](https://www.netcup.com/de/server/vps/vps-nano-g11s-6m)
+- 2 vCore (x86)
+- 2 GB RAM
+- 60 GB SSD
