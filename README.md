@@ -40,30 +40,17 @@ sudo pacman -S git git-lfs python python-pip nodejs npm hugo make
 
 Danach kann man das Repository wie gewohnt aus checken und per `make install` installieren. Der lokale Server zum Entwickeln lässt sich mit `make serve` starten. Damit kann man die Seite auch im WLAN daheim auf dem Handy testen. Zusätzlich werden Änderungen an den Templates automatisch mit `make watch` aktualisiert.
 
-### Hugo
+Noch ein paar Worte zur technischen Umsetzung:
 
-[Hugo](https://gohugo.io) ist ein statischer Seitengenerator. Die Homepage wird somit aus mehreren Dokumenten und Bildern zusammengebaut bevor sie dann auf einen Server hochgeladen wird. Das hat mehrere Vorteile:
-
-- **Sicherheit**: Auf dem Server rennt keine Datenbank, kein System das regelmäßig Updates braucht. Der Server selbst ist eigentlich _dumm_ und muss nur das _fixundfertige_ HTML ausliefern.
-- **Geschwindigkeit**: Die Seiten werden sehr schnell zusammengebaut und geladen.
-- **Einfachheit**: Es ist sehr wenig Code im Spiel. Die Homepage setzt sich aus einigen wenigen Ordnern, Dokumenten und Bildern zusammen.
-- **Transparenz**: Die Vorgänge sind für jeden transparent und nachvollziehbar.
-
-### Tailwind CSS
-
-Für das Frontend habe ich [Tailwind CSS](https://tailwindcss.com) verwendet. Damit kann man schnell und einfach moderne Layouts umsetzen ohne sich viel Kopf machen zu müssen.
-
-### Org-mode
-
-Für sämtliche Inhalte werden [org-mode](https://orgmode.org/quickstart.html) Dateien verwendet. Das ist so ähnlich wie Markdown und wird sowohl von Hugo als auch von Github unterstützt. Am besten schaut man sich die Syntax von anderen Dateien im Projekt ab.
-
-### Git Large File Storage (LFS)
-
-Die vielen Bilder (14000+) bei den Beiträgen werden mithilfe von [Git LFS](https://git-lfs.com/) getrackt. Dadurch bleibt das Repository klein und handlich. Die ersten 10 GB sind kostenlos und sollten mehr als ausreichend sein für eine Weile.
-
-### Github Actions
-
-Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jeder noch so kleinen Änderung. Außerdem läuft der Importer in regelmäßigen Abständen mehrmals am Tag seine Runden. Sollten Probleme mit den Workflows auftreten, kann man den Status anhand der Badges ganz oben ablesen.
+- **Hugo**: [Hugo](https://gohugo.io) ist ein statischer Seitengenerator. Die Homepage wird somit aus mehreren Dokumenten und Bildern zusammengebaut bevor sie dann auf einen Server hochgeladen wird. Das hat mehrere Vorteile:
+  - **Sicherheit**: Auf dem Server rennt keine Datenbank, kein System das regelmäßig Updates braucht. Der Server selbst ist eigentlich _dumm_ und muss nur das _fixundfertige_ HTML ausliefern.
+  - **Geschwindigkeit**: Die Seiten werden sehr schnell zusammengebaut und geladen.
+  - **Einfachheit**: Es ist sehr wenig Code im Spiel. Die Homepage setzt sich aus einigen Ordnern, Dokumenten und Bildern zusammen und wird bereits vorher "zusammengebaut".
+  - **Transparenz**: Die Vorgänge sind für jeden transparent und nachvollziehbar.
+- **Tailwind CSS**: Für das Frontend habe ich [Tailwind CSS](https://tailwindcss.com) verwendet. Damit kann man schnell und einfach moderne Layouts umsetzen ohne sich viel Kopf machen zu müssen.
+- **Org-mode**: Für sämtliche Inhalte werden [org-mode](https://orgmode.org/quickstart.html) Dateien verwendet. Das ist so ähnlich wie Markdown und wird sowohl von Hugo als auch von Github unterstützt. Am besten schaut man sich die Syntax von anderen Dateien im Projekt ab.
+- **Git Large File Storage (LFS)**: Die vielen Bilder (14000+) werden mithilfe von [Git LFS](https://git-lfs.com/) getrackt. Dadurch bleibt das Repository klein und handlich. Die ersten 10 GB sind kostenlos und sollten mehr als ausreichend sein für eine Weile.
+- **Github Actions**: Mit jedem Commit auf dem `main` Branch, wird die Seite neu gebaut. Also bei jeder noch so kleinen Änderung. Außerdem läuft der Importer in regelmäßigen Abständen mehrmals am Tag seine Runden. Sollten Probleme mit den Workflows auftreten, kann man den Status anhand der Badges oben ablesen.
 
 ### Importer
 
