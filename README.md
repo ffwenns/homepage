@@ -6,7 +6,7 @@ Die Website der Freiwilligen Feuerwehr Wenns
 
 ## Bearbeiten
 
-Um Änderungen an der Seite vorzunehmen, muss man sich zuerst **auf Github registrieren** und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite **ein Link zum Bearbeiten** (ganz unten). Damit kommt man dann bequem zur Seite die man ändern will.
+Um Änderungen an der Seite vorzunehmen, muss man sich zuerst **auf Github registrieren** und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite **ein Link zum Bearbeiten** (ganz unten).
 
 Beim Bearbeiten sollten einige Dinge beachtet werden:
 
@@ -23,7 +23,7 @@ Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://ww
 Besondere Bilder und ihre Bedeutung:
 
 - `header.webp`: das rote Bild hinter dem Logo
-- `cover.webp`: der Banner auf den Seiten ganz oben, wird auch bei Beiträgen für das Vorschaubild verwendet
+- `cover.webp`: der Banner, wird bei Beiträgen auch für das Vorschaubild verwendet
 
 ### Shortcodes
 
