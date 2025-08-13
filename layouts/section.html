@@ -1,10 +1,14 @@
 {{ define "title" }}
-  {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
-  Alle Beiträge aus
-  {{ $year }}
+  {{ if findRE "20[0-9][0-9]" .RelPermalink }}
+    {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
+    Alle Beiträge aus
+    {{ $year }}
+  {{ end }}
 {{ end }}
 
 {{ define "main" }}
-  {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
-  {{ partial "posts" (dict "year" (int $year)) }}
+  {{ if findRE "20[0-9][0-9]" .RelPermalink }}
+    {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
+    {{ partial "posts" (dict "year" (int $year)) }}
+  {{ end }}
 {{ end }}
