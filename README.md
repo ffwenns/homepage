@@ -2,6 +2,8 @@
 
 Die Website der Freiwilligen Feuerwehr Wenns
 
+[![Build](https://github.com/ffwenns/homepage/actions/workflows/build.yml/badge.svg)](https://github.com/ffwenns/homepage/actions/workflows/build.yml)
+
 ## Bearbeiten
 
 Um Änderungen an der Seite vorzunehmen, muss man sich zuerst **auf Github registrieren** und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite ein Link zum Bearbeiten (ganz unten). Damit kommt man dann bequem zur Seite die man ändern will.
