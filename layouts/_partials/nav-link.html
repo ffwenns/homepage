@@ -3,4 +3,10 @@
 }}
 */}}
 
-<li><a href="{{ .url }}" {{ if eq .context.RelPermalink .url }}class="font-semibold"{{ end }}>{{ .text }}</a></li>
+<li>
+  <a
+    href="{{ .url }}"
+    {{ if eq .context.RelPermalink .url }}class="font-semibold xl:bg-red-900"{{ end }}
+    >{{ .text }}</a
+  >
+</li>

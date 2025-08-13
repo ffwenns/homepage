@@ -1,3 +1,72 @@
-<nav>
-  <ul></ul>
+<nav id="dropdown">
+  <ul class="flex divide-x divide-red-900">
+    <li>
+      <a href="/{{ now.Year }}/">Aktuelles</a>
+
+      <ul class="grid hidden grid-flow-col grid-cols-4 grid-rows-5">
+        {{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
+        {{ $years := slice }}
+        {{ range $posts }}
+          {{ $year := .Date.Year }}
+          {{ if not (in $years $year) }}
+            {{ $years = $years | append $year }}
+          {{ end }}
+        {{ end }}
+        {{ range sort $years "value" "desc" }}
+          {{ partial "nav-link" (dict "url" (printf "/%d/" .) "text" (string .) "context" $) }}
+        {{ end }}
+      </ul>
+    </li>
+
+    <li class="group">
+      <a href="/mannschaft/" class="{{ if eq .RelPermalink "/mannschaft/" }}font-semibold bg-red-900{{ end }}"
+        >Mannschaft</a
+      >
+
+      <div class="absolute left-0 right-0 -z-10 mx-auto block max-w-[90rem]">
+        <div class="absolute right-0 hidden min-w-[734px] divide-x divide-gray-400 bg-gray-300 group-hover:flex">
+          <ul class="w-1/3 flex-auto">
+            <li><a href="/mannschaft/kommando/">Kommando</a></li>
+            <li><a href="/mannschaft/ausschuss/">Ausschuss</a></li>
+            <li><a href="/mannschaft/ehrenmitglieder/">Ehrenmitglieder</a></li>
+            <li><a href="/mannschaft/jugend/">Jugend</a></li>
+          </ul>
+          <ul class="w-1/3 flex-auto">
+            <li><a href="/mannschaft/gruppe-1/">Gruppe 1</a></li>
+            <li><a href="/mannschaft/gruppe-2/">Gruppe 2</a></li>
+            <li><a href="/mannschaft/gruppe-3/">Gruppe 3</a></li>
+            <li><a href="/mannschaft/gruppe-4/">Gruppe 4</a></li>
+            <li><a href="/mannschaft/gruppe-5/">Gruppe 5</a></li>
+          </ul>
+          <ul class="w-1/3 flex-auto">
+            <li><a href="/mannschaft/gruppe-6/">Gruppe 6</a></li>
+            <li><a href="/mannschaft/gruppe-7/">Gruppe 7</a></li>
+            <li><a href="/mannschaft/gruppe-8/">Gruppe 8</a></li>
+            <li><a href="/mannschaft/gruppe-9/">Gruppe 9</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li>
+      <a
+        href="/fahrzeuge/"
+        {{ if eq .RelPermalink "/fahrzeuge/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        >Fahrzeuge</a
+      >
+    </li>
+    <li>
+      <a
+        href="/feuerwehrhalle/"
+        {{ if eq .RelPermalink "/feuerwehrhalle/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        >Feuerwehrhalle</a
+      >
+    </li>
+    <li>
+      <a
+        href="/chronik/"
+        {{ if eq .RelPermalink "/chronik/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        >Chronik</a
+      >
+    </li>
+  </ul>
 </nav>

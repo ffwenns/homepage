@@ -3,6 +3,8 @@
     {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
     Alle Beiträge aus
     {{ $year }}
+  {{ else }}
+    {{ .Title }}
   {{ end }}
 {{ end }}
 
