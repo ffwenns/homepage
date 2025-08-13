@@ -4,7 +4,19 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
 
-    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+    <title>
+      {{ if .IsHome }}
+        {{ site.Title }}
+      {{ else }}
+        {{ $segments := split .RelPermalink "/" }}
+        {{ $firstSegment := index $segments 1 }}
+        {{ if and $firstSegment (findRE "^20[0-9][0-9]$" $firstSegment) }}
+          {{ printf "%s | %s" $firstSegment site.Title }}
+        {{ else }}
+          {{ printf "%s | %s" .Title site.Title }}
+        {{ end }}
+      {{ end }}
+    </title>
 
     <style>
       @font-face {
