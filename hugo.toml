@@ -11,3 +11,8 @@ repository = 'https://github.com/ffwenns/homepage'
   [[module.mounts]]
     source = "content"
     target = "content"
+
+[segments]
+  [[segments.content]]
+    includes = ["content/**", "posts/2025/**"]
+    excludes = ["posts/202[0-4]/**", "posts/201*/**", "posts/200*/**"]
