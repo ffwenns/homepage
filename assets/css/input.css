@@ -101,7 +101,7 @@
       @apply absolute left-0 right-0 -z-10 mx-auto block max-w-[90rem];
 
       & > div {
-        @apply absolute right-0 mr-4 hidden min-w-[720px] divide-x divide-gray-400 rounded-b-sm bg-gray-300 group-hover:flex;
+        @apply absolute right-0 hidden min-w-[736px] divide-x divide-gray-400 rounded-b-sm bg-gray-300 group-hover:flex;
       }
     }
 
