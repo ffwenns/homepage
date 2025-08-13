@@ -30,14 +30,14 @@ import: import-posts import-events stats
 build:
 	npm ci
 	npm run build
-	hugo build --minify
+	hugo build --minify --renderSegments content
 
 build-prod:
 	git pull origin main
 	git-lfs pull
 	npm ci
 	npm run build
-	hugo build --minify --destination /srv/http/homepage
+	hugo build --minify --renderSegments content --destination /srv/http/homepage
 
 commit:
 	# commit changes
