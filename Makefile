@@ -1,4 +1,4 @@
-.PHONY: serve watch install browse import-posts import-events stats import build commit migrate
+.PHONY: serve watch install browse import-posts import-events stats import build build-prod commit migrate
 
 serve:
 	hugo server --bind 0.0.0.0
@@ -30,6 +30,12 @@ build:
 	npm ci
 	npm run build
 	hugo build
+
+build-prod:
+	git pull origin main
+	npm ci
+	npm run build
+	hugo build --destination /srv/http/homepage
 
 commit:
 	# commit changes
