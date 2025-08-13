@@ -27,6 +27,7 @@ stats:
 import: import-posts import-events stats
 
 build:
+	npm ci
 	npm run build
 	hugo build
 
