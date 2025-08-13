@@ -1,7 +1,10 @@
 <nav id="dropdown">
   <ul class="flex divide-x divide-red-900">
     <li class="group">
-      <a href="/{{ now.Year }}/">Aktuelles</a>
+      {{ $firstSegment := index (split .RelPermalink "/") 1 }}
+      <a href="/{{ now.Year }}/" class="{{ if findRE "^20[0-9][0-9]$" $firstSegment }}font-semibold bg-red-900{{ end }}"
+        >Aktuelles</a
+      >
 
       <div class="content">
         <div class="group-hover:block">
@@ -23,7 +26,7 @@
     </li>
 
     <li class="group">
-      <a href="/mannschaft/" class="{{ if eq .RelPermalink "/mannschaft/" }}font-semibold bg-red-900{{ end }}"
+      <a href="/mannschaft/" class="{{ if hasPrefix .RelPermalink "/mannschaft/" }}font-semibold bg-red-900{{ end }}"
         >Mannschaft</a
       >
 
@@ -54,11 +57,11 @@
     <li class="group">
       <a
         href="/fahrzeuge/"
-        {{ if eq .RelPermalink "/fahrzeuge/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        {{ if hasPrefix .RelPermalink "/fahrzeuge/" }}class="font-semibold xl:bg-red-900"{{ end }}
         >Fahrzeuge</a
       >
       <div class="content">
-        <div class="w-md min-w-0">
+        <div class="w-[432px] min-w-0">
           <ul class="w-1/2 flex-auto">
             {{ partial "nav-link" (dict "url" "/fahrzeuge/kdofa/" "text" "KDOFA" "context" .) }}
             {{ partial "nav-link" (dict "url" "/fahrzeuge/mtfa/" "text" "MTFA" "context" .) }}
@@ -74,11 +77,11 @@
     <li class="group">
       <a
         href="/feuerwehrhalle/"
-        {{ if eq .RelPermalink "/feuerwehrhalle/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        {{ if hasPrefix .RelPermalink "/feuerwehrhalle/" }}class="font-semibold xl:bg-red-900"{{ end }}
         >Feuerwehrhalle</a
       >
       <div class="content">
-        <div class="w-md min-w-0">
+        <div class="w-[432px] min-w-0">
           <ul class="w-1/2 flex-auto">
             {{ partial "nav-link" (dict "url" "/feuerwehrhalle/fahrzeughalle/" "text" "Fahrzeughalle" "context" .) }}
             {{ partial "nav-link" (dict "url" "/feuerwehrhalle/umkleideraum/" "text" "Umkleideraum" "context" .) }}
@@ -100,11 +103,11 @@
     <li class="group">
       <a
         href="/chronik/"
-        {{ if eq .RelPermalink "/chronik/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        {{ if hasPrefix .RelPermalink "/chronik/" }}class="font-semibold xl:bg-red-900"{{ end }}
         >Chronik</a
       >
       <div class="content">
-        <div class="w-[303px] min-w-0">
+        <div class="w-[288px] min-w-0">
           <ul>
             {{ partial "nav-link" (dict "url" "/chronik/mannschaft/" "text" "Geschichte — Mannschaft" "context" .) }}
             {{ partial "nav-link" (dict "url" "/chronik/kommando/" "text" "Geschichte — Kommando" "context" .) }}
