@@ -1,7 +1,5 @@
 {{ define "main" }}
   <article>
-    this is a post
-
     <h1>{{ .Title }}</h1>
 
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
@@ -13,7 +11,7 @@
     {{ end }}
 
 
-    <div style="white-space: pre-line;">{{ .Content }}</div>
+    <div>{{ .Content }}</div>
 
     {{ $images := .Resources.ByType "image" }}
     {{ if $images }}
