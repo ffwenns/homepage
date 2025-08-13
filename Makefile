@@ -24,6 +24,7 @@ stats:
 	echo "posts = $$(find posts -type f -iname "*.org" | wc -l)" > data/stats.toml
 	echo "images = $$(find posts -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
+# setup cronjob to run this command daily
 import: import-posts import-events stats
 
 build:

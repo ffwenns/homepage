@@ -3,7 +3,6 @@
 Die Website der Freiwilligen Feuerwehr Wenns
 
 [![Build](https://github.com/ffwenns/homepage/actions/workflows/build.yml/badge.svg)](https://github.com/ffwenns/homepage/actions/workflows/build.yml)
-[![Import](https://github.com/ffwenns/homepage/actions/workflows/import.yml/badge.svg)](https://github.com/ffwenns/homepage/actions/workflows/import.yml)
 
 ## Bearbeiten
 
