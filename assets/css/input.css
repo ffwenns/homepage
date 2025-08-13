@@ -97,6 +97,14 @@
   }
 
   #dropdown {
+    .content {
+      @apply absolute left-0 right-0 -z-10 mx-auto block max-w-[90rem];
+
+      & > div {
+        @apply absolute right-0 mr-4 hidden min-w-[720px] divide-x divide-gray-400 rounded-b-sm bg-gray-300 group-hover:flex;
+      }
+    }
+
     & > ul > li > a {
       @apply block bg-red-800 p-6 text-xl font-medium;
 
