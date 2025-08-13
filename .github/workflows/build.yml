@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Setup SSH
         run: |
           install -m 600 -D /dev/null ~/.ssh/id_rsa
@@ -23,4 +25,8 @@ jobs:
           ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
       - name: Build homepage
         run: |
-          ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ~/homepage; make build-prod"
+          if git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '^(assets|layouts)/'; then
+            ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ~/homepage; make build-prod"
+          elif git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '^(content|posts|static)/'; then
+            ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ~/homepage; make build-prod-content"
+          fi

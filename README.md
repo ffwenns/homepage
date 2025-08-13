@@ -59,10 +59,6 @@ Um auf Updates von Seiten des ÖA-Team's zu reagieren, werden die aktuellen Beit
 
 Bereits importierte Beiträge müssen ggf. von Hand gelöscht werden. Wenn man sie von Facebook löscht werden sie **nicht automatisch auf der Homepage gelöscht**. Hin und wieder muss man einfach etwas nachhelfen.
 
-Als Beitragsbild wird die erste Datei im Ordner verwendet. Man kann auch selber eines festlegen indem man ein Bild in `cover.webp` umbenennt.
-
-Auch wenn der Importer viel Arbeit abnimmt — er **ist nicht fehlerfrei** und wird laufend verbessert.
-
 ### Server
 
 - [VPS nano G11s](https://www.netcup.com/de/server/vps/vps-nano-g11s-6m)
