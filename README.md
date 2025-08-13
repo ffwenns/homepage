@@ -6,7 +6,7 @@ Die Website der Freiwilligen Feuerwehr Wenns
 
 ## Bearbeiten
 
-Um Änderungen an der Seite vorzunehmen, muss man sich zuerst **auf Github registrieren** und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite ein Link zum Bearbeiten (ganz unten). Damit kommt man dann bequem zur Seite die man ändern will.
+Um Änderungen an der Seite vorzunehmen, muss man sich zuerst **auf Github registrieren** und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite **ein Link zum Bearbeiten** (ganz unten). Damit kommt man dann bequem zur Seite die man ändern will.
 
 Beim Bearbeiten sollten einige Dinge beachtet werden:
 
@@ -18,7 +18,7 @@ Beim Bearbeiten sollten einige Dinge beachtet werden:
 
 ### Bilder
 
-Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./scripts/converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert. 
+Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) oder die [converter.bat](./scripts/converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert.
 
 Besondere Bilder und ihre Bedeutung:
 
