@@ -2,11 +2,11 @@ name: Import
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  import:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: "0.148.2"
