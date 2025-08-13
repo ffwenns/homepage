@@ -1,5 +1,3 @@
-.PHONY: serve watch install browse import-posts import-events stats import build build-prod commit migrate
-
 serve:
 	hugo server --bind 0.0.0.0
 
@@ -33,6 +31,13 @@ build:
 	hugo build --minify --renderSegments content
 
 build-prod:
+	git pull origin main
+	git-lfs pull
+	npm ci
+	npm run build
+	hugo build --minify --destination /srv/http/homepage
+
+build-prod-content:
 	git pull origin main
 	git-lfs pull
 	npm ci
