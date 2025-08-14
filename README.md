@@ -10,11 +10,12 @@ Um Änderungen an der Seite vorzunehmen, muss man sich zuerst **auf Github regis
 
 Beim Bearbeiten bitte einige Dinge beachten:
 
-- Die **Ordnerstruktur muss beibehalten werden**.
-- Die ganzen Beiträge sind unter `/posts` in Jahre sortiert und werden automatisch importiert.
-- Die Inhalte über die Feuerwehr selber finden sich unter `/content` wieder.
-- Die Bilder im **Format webp, 1280 Pixel breit mit Qualität 80** hochladen werden.
-- Dateinamen ohne Leerzeichen, klein geschrieben.
+- die **Ordnerstruktur muss beibehalten werden**
+- die ganzen Beiträge sind unter `/posts` in Jahre sortiert und werden automatisch importiert
+- die Inhalte über die Feuerwehr selber finden sich unter `/content` wieder
+- Mitglieder in den Ordner `/static/images/mitglieder` hochladen
+- Bilder im **Format webp, 1280 Pixel breit mit Qualität 80** hochladen
+- Dateinamen ohne Leerzeichen, klein geschrieben
 
 ### Bilder
 
@@ -22,7 +23,24 @@ Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://ww
 
 ### Shortcodes
 
-Infos dazu folgen noch...
+Die Seiten `Mannschaft` und `Kommando` (Chronik) verwenden sogenannte [Shortcodes](https://gohugo.io/content-management/shortcodes/). Damit lassen sich ganze Komponenten sehr einfach umsetzen. Die Shortcodes nehmen Argumente entgegen und schauen wie folg aus:
+
+#### Mannschaft
+
+```
+{{< member rank="BV" name="Florian Lorch" role="Gruppenkdt." image="florian-lorch.webp" >}}
+```
+
+#### Chronik
+
+```
+{{< member name="Florian Lorch" span="1990 bis heute" image="florian-lorch.webp">}}
+- Schutzpatron der Feuerwehren
+- 10 Jahre Gruppenkommandant
+- 20 Jahre Kommandant
+- Ehrenmitglied
+{{</ member >}}
+```
 
 ## Entwicklung
 
