@@ -1,8 +1,10 @@
 @import "tailwindcss";
+@import "./pages.css";
 
 @theme {
   --font-sans: "Roboto", sans-serif;
   --breakpoint-xs: 30rem;
+  --breakpoint-xxl: 89rem;
 }
 
 @layer components {
@@ -106,7 +108,7 @@
     }
 
     & > ul > li > a {
-      @apply block bg-red-800 p-6 text-xl font-medium;
+      @apply block bg-red-700 p-6 text-xl font-medium;
 
       &:after {
         @apply block scale-x-0 border-b-2 border-white transition-all duration-300 ease-in-out content-[""];

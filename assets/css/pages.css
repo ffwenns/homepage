@@ -1,0 +1,7 @@
+@layer components {
+  .overview {
+    a {
+      @apply block p-4 text-xl font-medium hover:underline;
+    }
+  }
+}

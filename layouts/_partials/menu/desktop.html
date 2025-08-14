@@ -2,7 +2,7 @@
   <ul class="flex divide-x divide-red-900">
     <li class="group">
       {{ $firstSegment := index (split .RelPermalink "/") 1 }}
-      <a href="/{{ now.Year }}/" class="{{ if findRE "^20[0-9][0-9]$" $firstSegment }}font-semibold bg-red-900{{ end }}"
+      <a href="/{{ now.Year }}/" class="{{ if findRE "^20[0-9][0-9]$" $firstSegment }}font-semibold bg-red-800{{ end }}"
         >Aktuelles</a
       >
 
@@ -26,7 +26,7 @@
     </li>
 
     <li class="group">
-      <a href="/mannschaft/" class="{{ if hasPrefix .RelPermalink "/mannschaft/" }}font-semibold bg-red-900{{ end }}"
+      <a href="/mannschaft/" class="{{ if hasPrefix .RelPermalink "/mannschaft/" }}font-semibold bg-red-800{{ end }}"
         >Mannschaft</a
       >
 
@@ -57,7 +57,7 @@
     <li class="group">
       <a
         href="/fahrzeuge/"
-        {{ if hasPrefix .RelPermalink "/fahrzeuge/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        {{ if hasPrefix .RelPermalink "/fahrzeuge/" }}class="font-semibold xl:bg-red-800"{{ end }}
         >Fahrzeuge</a
       >
       <div class="content">
@@ -77,7 +77,7 @@
     <li class="group">
       <a
         href="/feuerwehrhalle/"
-        {{ if hasPrefix .RelPermalink "/feuerwehrhalle/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        {{ if hasPrefix .RelPermalink "/feuerwehrhalle/" }}class="font-semibold xl:bg-red-800"{{ end }}
         >Feuerwehrhalle</a
       >
       <div class="content">
@@ -103,7 +103,7 @@
     <li class="group">
       <a
         href="/chronik/"
-        {{ if hasPrefix .RelPermalink "/chronik/" }}class="font-semibold xl:bg-red-900"{{ end }}
+        {{ if hasPrefix .RelPermalink "/chronik/" }}class="font-semibold xl:bg-red-800"{{ end }}
         >Chronik</a
       >
       <div class="content">
