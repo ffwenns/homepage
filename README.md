@@ -48,7 +48,7 @@ Noch ein paar Worte zur technischen Umsetzung:
 
 Der Importer **schaut sich immer die aktuellen Posts auf Facebook an** und überprüft ob es sich um einen Beitrag handelt, der einen Titel hat. Es werden **nur Beiträge mit Titel importiert**. Titel werden durch 3 Bindestriche gekennzeichnet, zB `--- Katze auf Baum ---`.
 
-Um auf Updates von Seiten des ÖA-Team's zu reagieren, werden die aktuellen Beiträge **immer überschrieben**. Wenn man einen aktuellen Beitrag auf der Homepage bearbeiten will, sollte man mit `#+LOCK: t` das Überschreiben verhindern. Das Beitragsbild wird automatisch festgelegt und entspricht dem ersten Bild im Ordner. Man kann aber auch selbst einen festlegen, indem man ein Bild in `cover.webp` umbenennt.
+Um auf Updates von Seiten des ÖA-Team's zu reagieren, werden die aktuellen Beiträge **immer überschrieben**. Wenn man einen aktuellen Beitrag auf der Homepage bearbeiten will, sollte man ihn daher mit `#+LOCK: t` sperren. Das Beitragsbild wird automatisch festgelegt und entspricht dem ersten Bild im Ordner. Man kann aber auch selbst einen festlegen, indem man ein Bild in `cover.webp` umbenennt.
 
 Bereits importierte Beiträge müssen ggf. von Hand gelöscht werden. Wenn man sie von Facebook löscht werden sie **nicht automatisch auf der Homepage gelöscht**. Hin und wieder muss man einfach etwas nachhelfen.
 
