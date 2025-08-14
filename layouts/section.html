@@ -1,8 +1,7 @@
 {{ define "title" }}
   {{ if findRE "20[0-9][0-9]" .RelPermalink }}
     {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
-    Alle Beiträge aus
-    {{ $year }}
+    <h1>Alle Beiträge aus {{ $year }}</h1>
   {{ end }}
 {{ end }}
 

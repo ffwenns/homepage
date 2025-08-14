@@ -1,9 +1,9 @@
 {{ define "title" }}
-  Startseite / Aktuelles
+  <h1>Startseite</h1>
 {{ end }}
 
 {{ define "main" }}
-  {{ partial "posts" (dict "limit" 6) }}
+  {{ partial "posts" (dict "limit" 3) }}
 
   {{ .Content }}
 {{ end }}
