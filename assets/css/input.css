@@ -4,7 +4,7 @@
 @theme {
   --font-sans: "Roboto", sans-serif;
   --breakpoint-xs: 30rem;
-  --breakpoint-xxl: 89rem;
+  --breakpoint-xxl: 90rem;
 }
 
 @layer components {
