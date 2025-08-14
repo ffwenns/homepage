@@ -53,13 +53,17 @@
     <summary><span>Fahrzeuge</span></summary>
 
     <div class="content">
-      <ul>
-        {{ partial "nav-link" (dict "url" "/fahrzeuge/kdofa/" "text" "KDOFA" "context" .) }}
-        {{ partial "nav-link" (dict "url" "/fahrzeuge/tlfa2000/" "text" "TLFA 2000" "context" .) }}
-        {{ partial "nav-link" (dict "url" "/fahrzeuge/rfa/" "text" "RFA" "context" .) }}
-        {{ partial "nav-link" (dict "url" "/fahrzeuge/lfa/" "text" "LFA" "context" .) }}
-        {{ partial "nav-link" (dict "url" "/fahrzeuge/mtfa/" "text" "MTFA" "context" .) }}
-      </ul>
+      <div class="flex">
+        <ul class="w-1/2">
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/kdofa/" "text" "KDOFA" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/mtfa/" "text" "MTFA" "context" .) }}
+        </ul>
+        <ul class="w-1/2">
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/tlfa2000/" "text" "TLFA 2000" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/rfa/" "text" "RFA" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/lfa/" "text" "LFA" "context" .) }}
+        </ul>
+      </div>
     </div>
   </details>
 
