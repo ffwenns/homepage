@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "./pages.css";
+@import "./page.css";
 
 @theme {
   --font-sans: "Roboto", sans-serif;

@@ -1,9 +1,6 @@
 {{ define "main" }}
   <div class="p-4 xl:p-0">
-    {{ with .Resources.GetMatch "cover.webp" }}
-      <img src="{{ .RelPermalink }}" class="aspect-21/9 -mt-8 w-full rounded-sm object-cover" />
-    {{ end }}
-
+    {{ partial "cover.html" . }}
 
     <section class="overview">
       <h1 class="border-b border-b-gray-300 p-4 text-3xl font-medium">Feuerwehrhalle</h1>

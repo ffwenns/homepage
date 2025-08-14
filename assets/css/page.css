@@ -4,4 +4,8 @@
       @apply block p-4 text-xl font-medium hover:underline;
     }
   }
+
+  #page-mannschaft-kommando .cover {
+    @apply object-top;
+  }
 }

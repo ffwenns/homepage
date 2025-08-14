@@ -32,7 +32,7 @@
     {{ partialCached "head/css.html" . }}
     {{ partialCached "head/js.html" . }}
   </head>
-  <body class="mx-auto max-w-[100rem] bg-white">
+  <body id="page-{{ trim (replace .RelPermalink "/" "-") "-" }}" class="mx-auto max-w-[100rem] bg-white">
     <header id="navbar" class="sticky top-0 z-10 bg-red-700 text-white">
       {{ partial "navbar.html" . }}
     </header>
@@ -45,7 +45,7 @@
     </nav>
 
     <header>
-      <div class="bg-red-700 bg-[url(/header.webp)] bg-cover bg-center bg-no-repeat bg-blend-soft-light">
+      <div class="bg-red-700 bg-[url(/header.webp)] bg-cover bg-center bg-no-repeat bg-blend-darken">
         <div href="/" class="-mb-8 flex flex-col gap-8 pb-20 pt-8 sm:pt-16 lg:gap-16">
           <a href="/">
             <img

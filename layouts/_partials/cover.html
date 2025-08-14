@@ -1,0 +1,12 @@
+{{ $cover := .Resources.GetMatch "cover.webp" }}
+{{ $image := $cover }}
+{{ if not $image }}
+  {{ $images := .Resources.ByType "image" }}
+  {{ if $images }}
+    {{ $image = index $images 0 }}
+  {{ end }}
+{{ end }}
+
+{{ if $image }}
+  <img src="{{ $image.RelPermalink }}" class="cover aspect-21/9 -mt-8 w-full rounded-sm object-cover" />
+{{ end }}
