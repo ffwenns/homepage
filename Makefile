@@ -6,16 +6,19 @@ watch:
 
 install:
 	python -m venv venv
-	source venv/bin/activate && pip install -r requirements.txt
+	source venv/bin/activate && \
+	pip install -r requirements.txt
 	npm install
 
 browse:
 	find posts -name "index.org" | fzf --preview 'cat {}'
 
 import-posts:
+	source venv/bin/activate && \
 	python scripts/import_posts.py
 	
 import-events:
+	source venv/bin/activate && \	
 	python scripts/import_events.py
 	
 stats:
