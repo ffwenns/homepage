@@ -6,7 +6,7 @@ watch:
 
 install:
 	python -m venv venv
-	pip install -r requirements.txt
+	source venv/bin/activate && pip install -r requirements.txt
 	npm install
 
 browse:
@@ -21,9 +21,6 @@ import-events:
 stats:
 	echo "posts = $$(find posts -type f -iname "*.org" | wc -l)" > data/stats.toml
 	echo "images = $$(find posts -type f -iname "*.webp" | wc -l)" >> data/stats.toml
-
-# setup cronjob to run this command daily
-import: import-posts import-events stats
 
 build:
 	npm ci
@@ -46,6 +43,9 @@ build-prod-content:
 
 commit:
 	# commit changes
+
+# setup cronjob to run this command daily
+import: import-posts import-events stats commit build-prod-content
 
 lfs-push:
 	git lfs push --all origin main
