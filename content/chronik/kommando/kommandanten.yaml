@@ -1,0 +1,90 @@
+- name: Senn Franz
+  time: 1893 — 1902
+  image: 1.senn_franz.webp
+  text:
+    - Gründungsmitglied
+    - evtl. sogar Gründer
+- name: Deutschmann Franz
+  time: 1902 — 1937
+  image: 2.deutschmann_franz.webp
+  text:
+    - 35 Jahre Kommandant
+    - 1927 zum Ehrenkommandant
+- name: Krismer Alois
+  time: 1937 — 1938
+  image: 3.krismer_alois.webp
+- name: Röck Karl
+  time: 1938 — 1953
+  image: 4.roeck_karl.webp
+- name: Röck Walter
+  time: 1953 — 1957
+  image: 5.roeck_walter.webp
+- name: OV Krismer Arthur
+  time: 1957 — 1961
+  image: 6.krismer_arthur.webp
+  text:
+    - 4 Jahre Kdt. anschließend 11 Jahre Kassier
+- name: ABI Gabl Alfred
+  time: 1961 — 1977
+  image: 7.gabl_alfred.webp
+  text:
+    - Ehrenmitglied, ABI (1968 — 1973)
+    - erstes Fahrzeug TLF 2000
+- name: OBI Bregenzer Alois
+  time: 1977 — 1988
+  image: 8.bregenzer_alois.webp
+  text:
+    - Ehrenmitglied
+    - Neubau FF Halle und Ankauf RFA (Unimog)
+- name: OBI Eiter Franz
+  time: 1988 — 1991
+  image: 9.eiter_franz.webp
+  text:
+    - Gründung Jugendfeuerwehr
+    - anschließend 11 Jahre Kassier
+- name: ABI Fadum Siegfried
+  time: 1991 — 1998
+  image: 10.fadum_siegfried.webp
+  text:
+    - Ehrenmitglied
+    - Landesbewerbsleiter
+    - Bundesbewerbsleiter Stv. und ABI (1993 — 2013)
+    - Austausch TLFA 2000 und Ankauf LFA (Mercedes)
+- name: OBI Gabl Peter
+  time: 1998 — 1999
+  image: 11.gabl_peter.webp
+  text:
+    - zuvor Jugendbetreuer
+    - Obermaschinist und Zugskommandant
+- name: OBI Raich Walter
+  time: 1999 — 2001
+  image: 12.raich_walter.webp
+  text:
+    - Trainingsanzüge für die Feuerwehrjugend
+- name: OBI Gundolf Mario
+  time: 2001 — 2005
+  image: 13.gundolf-mari-neu.webp
+  text:
+    - zuvor Jugendbetreuer
+    - Ankauf erster Textilmäntel
+- name: HBI Reheis Norbert
+  time: 2005 — 2018
+  image: 14.reheis_norbert.webp
+  text:
+    - zuvor Atemschutzbeauftragter und 2 Jahre Kommandant Stellvertreter
+    - Ankauf MTFA (2012)
+    - Neubau Feuerwehrhalle (2014)
+    - Austausch Bergeschere
+    - Austausch RFA (2017)
+    - Start Austausch Einsatzbekleidung Sand
+- name: HBI Scheiber Lukas
+  time: 2018 — heute
+  image: zscheiber_lukas-neu1.webp
+  text:
+    - zuvor 10 Jahre Schriftführer
+    - Sanierung Fahne und Ankauf Jugendwimpel
+    - Komplett Austausch Einsatzbekleidung SAND
+    - Austausch LFA (2020)
+    - Ankauf KDOFA (2021)
+    - Bewerbsplatz inkl. KAT Lager NEU
+    - Umbau Schulungsraum

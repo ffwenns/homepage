@@ -21,27 +21,6 @@ Beim Bearbeiten bitte einige Dinge beachten:
 
 Um die Bilder umzuwandeln, kann man entweder einen [Online-Konverter](https://www.freeconvert.com/de/webp-converter) verwenden oder die [converter.bat](./scripts/converter.bat) unter Windows ausführen. Dazu müsst ihr euch zuerst [Imagemagick herunterladen und installieren](https://imagemagick.org/script/download.php#windows). Anschließend werden durch einen Doppelklick auf die Datei alle Bilder im selben Ordner in das entsprechende Format konvertiert.
 
-### Shortcodes
-
-Die Seiten `Mannschaft` und `Kommando` (Chronik) verwenden sogenannte [Shortcodes](https://gohugo.io/content-management/shortcodes/). Damit lassen sich ganze Komponenten sehr einfach umsetzen. Die Shortcodes nehmen Argumente entgegen und schauen wie folg aus:
-
-#### Mannschaft
-
-```
-{{< member rank="BV" name="Florian Lorch" role="Gruppenkdt." image="florian-lorch.webp" >}}
-```
-
-#### Chronik
-
-```
-{{< member name="Florian Lorch" span="1990 bis heute" image="florian-lorch.webp">}}
-- Schutzpatron der Feuerwehren
-- 10 Jahre Gruppenkommandant
-- 20 Jahre Kommandant
-- Ehrenmitglied
-{{</ member >}}
-```
-
 ## Entwicklung
 
 Ich entwickle die Seite unter [Arch Linux](https://archlinux.org) mit [VS Code](https://code.visualstudio.com). Wenn ihr unter Windows 11 unterwegs seid, macht es Sinn das [unter WSL zu machen](https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL).

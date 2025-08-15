@@ -1,0 +1,33 @@
+- name: Haslwanter Alois
+  time: 1893 — 1927
+  image: 1.haslwanter_alois.webp
+- name: Neururer Josef
+  time: 1927 — 1952
+  image: 2.neururer_josef.webp
+- name: OV Eiter Hans
+  time: 1952 — 1974
+  image: 3.eiter_hans.webp
+  text:
+    - Ehrenmitglied, 22 Jahre Schriftführer
+    - Direktor, Bgm. und Ehrenbürger
+- name: OV Mattle Rudolf
+  time: 1974 — 2001
+  image: 4.mattle_rudolf.webp
+  text:
+    - 27 Jahre Schriftführer und Chronist der FF Wenns
+- name: OV Schmid Benedikt
+  time: 2001 — 2003
+  image: 5.schmid_benedikt.webp
+- name: OV Gundolf Martin
+  time: 2003 — 2008
+  image: 6.gundolf_martin.webp
+- name: HV Scheiber Lukas
+  time: 2008 — 2018
+  image: 7.scheiber_lukas.webp
+  text:
+    - Erste Homepage der FF Wenns und Aufbau ÖA Arbeit
+- name: HV Pfefferle Patrick
+  time: 2018 — laufend
+  image: 8.pfefferle_patrick.webp
+  text:
+    - Neue Homepage und Ausbau der Öffentlichkeitsarbeit mit Social Media

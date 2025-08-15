@@ -8,5 +8,10 @@
 {{ end }}
 
 {{ if $image }}
-  <img src="{{ $image.RelPermalink }}" class="cover aspect-21/9 -mt-8 w-full rounded-sm object-cover" />
+  <img
+    src="{{ $image.RelPermalink }}"
+    class="cover aspect-3/2 -mt-8 w-full rounded-sm object-cover p-4"
+    fetchpriority="high"
+    loading="eager"
+  />
 {{ end }}
