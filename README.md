@@ -6,8 +6,6 @@ Die Website der Freiwilligen Feuerwehr Wenns
 
 ## Bearbeiten
 
-Um Änderungen an der Seite vorzunehmen, muss man sich zuerst auf Github registrieren und dann in die Organisation durch ein bestehendes Mitglied eingeladen werden. Auf der Homepage findet sich auf jeder Seite **ein Link zum Bearbeiten**.
-
 Beim Bearbeiten bitte einige Dinge beachten:
 
 - die **Ordnerstruktur muss beibehalten werden**
