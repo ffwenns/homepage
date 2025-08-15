@@ -29,4 +29,6 @@ jobs:
             ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ~/homepage; make build-prod"
           elif git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '^(content|posts|static)/'; then
             ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ~/homepage; make build-prod-content"
+          else
+            ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ~/homepage; git pull"
           fi
