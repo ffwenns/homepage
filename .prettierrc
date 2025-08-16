@@ -9,5 +9,6 @@
       }
     }
   ],
-  "tailwindStylesheet": "./assets/css/main.css"
+  "tailwindStylesheet": "./assets/css/input.css",
+  "tailwindPreserveWhitespace": true
 }

@@ -64,12 +64,10 @@
 
     & + #offcanvas {
       translate: 0 -100%;
-      opacity: 0;
     }
 
     &:target + #offcanvas {
       translate: none;
-      opacity: 100%;
     }
   }
 
@@ -87,7 +85,7 @@
     }
 
     summary {
-      @apply cursor-pointer select-none list-none p-4 text-xl font-semibold text-gray-600;
+      @apply cursor-pointer list-none p-4 text-xl font-semibold text-gray-600 select-none;
     }
     .content {
       @apply px-4 pb-4;
@@ -98,9 +96,15 @@
     }
   }
 
+  #header {
+    @apply flex min-h-80 flex-col justify-center gap-4 bg-red-700 bg-[url(/header.webp)]
+    bg-cover bg-center bg-no-repeat text-center font-semibold 
+    text-white bg-blend-darken sm:min-h-96 sm:gap-8 lg:min-h-[480px];
+  }
+
   #dropdown {
     .content {
-      @apply absolute left-0 right-0 -z-10 mx-auto block max-w-[90rem];
+      @apply absolute right-0 left-0 -z-10 mx-auto block max-w-[90rem];
 
       & > div {
         @apply absolute right-0 hidden min-w-[736px] divide-x divide-gray-400 rounded-b-sm bg-gray-300 group-hover:flex;

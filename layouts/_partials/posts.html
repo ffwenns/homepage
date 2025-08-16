@@ -22,7 +22,7 @@ posts */}}
 {{ end }}
 
 
-<div class="xxl:p-0 grid gap-4 p-4 md:grid-cols-2 xl:grid-cols-3">
+<div class="-mt-8 grid gap-4 p-4 md:grid-cols-2 xl:grid-cols-3 xxl:p-0">
   {{ range $posts }}
     <a href="{{ .RelPermalink }}" class="block">
       <article class="relative overflow-hidden rounded">
@@ -36,7 +36,7 @@ posts */}}
         {{ end }}
 
         {{ if $image }}
-          <img src="{{ $image.RelPermalink }}" class="aspect-3/2 object-cover" />
+          <img src="{{ $image.RelPermalink }}" class="aspect-3/2 object-cover" loading="lazy" />
         {{ else }}
           <img src="/images/placeholder.svg" class="aspect-3/2 h-full w-full bg-gray-300 object-contain p-16 pb-32" />
         {{ end }}
