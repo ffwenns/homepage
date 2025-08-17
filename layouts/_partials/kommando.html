@@ -45,6 +45,15 @@ Or:
                 {{ .name }}
               {{ end }}
             </td>
+            <td class="hidden lg:block">
+              {{ if .text }}
+                <ul class="list-disc py-2">
+                  {{ range .text }}
+                    <li class="text-sm">{{ . }}</li>
+                  {{ end }}
+                </ul>
+              {{ end }}
+            </td>
           </tr>
         {{ end }}
       </table>
