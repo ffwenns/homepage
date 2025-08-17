@@ -25,7 +25,7 @@ stats:
 build:
 	npm ci
 	npm run build
-	hugo build --minify --renderSegments content
+	hugo build
 
 build-prod:
 	git pull origin main
