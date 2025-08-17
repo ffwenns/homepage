@@ -142,6 +142,32 @@
     }
   }
 
+  main {
+    details {
+      @apply border-b border-gray-400;
+
+      .content {
+        @apply p-4 pb-0;
+      }
+
+      ul {
+        @apply list-disc pb-4 pl-4;
+      }
+    }
+
+    summary {
+      @apply cursor-pointer bg-gray-300 p-4 text-xl font-semibold text-gray-600 select-none;
+    }
+
+    .content a:not([href^="#"]) {
+      @apply text-red-700 underline;
+    }
+
+    p {
+      @apply mb-4;
+    }
+  }
+
   @supports (interpolate-size: allow-keywords) {
     :root {
       interpolate-size: allow-keywords;

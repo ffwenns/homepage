@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="de" class="scroll-smooth bg-gray-300 antialiased">
+<html lang="de" class="overflow-auto! scroll-smooth bg-gray-300 antialiased">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, user-scalable=no" />
@@ -32,7 +32,7 @@
     {{ partialCached "head/css.html" . }}
     {{ partialCached "head/js.html" . }}
   </head>
-  <body id="page-{{ trim (replace .RelPermalink "/" "-") "-" }}" class="mx-auto max-w-[100rem] bg-white">
+  <body id="page-{{ trim (replace .RelPermalink "/" "-") "-" }}" class="mx-auto mr-auto! max-w-[100rem] bg-white">
     <header id="navbar" class="sticky top-0 z-10 bg-red-700 text-white">
       {{ partial "navbar.html" . }}
     </header>
@@ -49,7 +49,7 @@
         <img src="/images/feuerwehr-wenns.svg" class="mx-auto h-24 w-auto sm:h-32" />
       </a>
 
-      <div class="mx-auto line-clamp-3 px-8 text-2xl sm:text-4xl lg:max-w-[40ch] lg:px-16 lg:text-5xl">
+      <div class="mx-auto line-clamp-3 min-h-[3lh] px-8 text-2xl sm:text-4xl lg:max-w-[40ch] lg:px-16 lg:text-5xl">
         {{ block "title" . }}
           <h1>
             {{ .Title }}

@@ -1,6 +1,15 @@
 {{ define "main" }}
   {{ partial "cover.html" . }}
+  {{ partial "h2.html" . }}
 
 
-  <div>{{ .Content }}</div>
+  <div class="flex flex-col gap-4 lg:flex-row lg:divide-x lg:divide-gray-300 lg:px-4 xxl:p-0">
+    <div class="content flex-1/2 px-4 lg:p-0 lg:pr-4">{{ .Content }}</div>
+
+    {{ with where (where .Resources "ResourceType" "image") "Name" "not in" (slice "cover.webp" "cover.jpg" "cover.png") }}
+      <div class="flex-1/2 px-4 lg:p-0">
+        {{ partial "gallery.html" $ }}
+      </div>
+    {{ end }}
+  </div>
 {{ end }}

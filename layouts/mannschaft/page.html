@@ -3,7 +3,7 @@
   {{ partial "h2.html" . }}
 
 
-  <div class="xxl-py-4 px-4 xxl:px-0 xxl:py-4">
+  <div class="xxl-pt-4 px-4 xxl:px-0">
     <div class="grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-4">
       {{ with .Resources.GetMatch "data.yaml" }}
         {{ $data := . | transform.Unmarshal }}

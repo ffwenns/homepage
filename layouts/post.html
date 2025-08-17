@@ -14,13 +14,6 @@
 
     <div>{{ .Content }}</div>
 
-    {{ $images := .Resources.ByType "image" }}
-    {{ if $images }}
-      <div class="post-images">
-        {{ range $images }}
-          <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
-        {{ end }}
-      </div>
-    {{ end }}
+    {{ partial "gallery.html" . }}
   </article>
 {{ end }}

@@ -8,4 +8,35 @@
   #page-mannschaft-kommando .cover {
     @apply object-top;
   }
+
+  #page-chronik-mannschaft {
+    main {
+      @apply pt-4 xxl:pt-20;
+    }
+
+    .content h3 {
+      @apply mb-4 cursor-pointer bg-gray-300 p-4 text-xl font-semibold text-gray-600 select-none;
+    }
+
+    .content img {
+      @apply mb-4 aspect-3/2 object-cover lg:mb-0;
+    }
+  }
+
+  #page-chronik-kommando {
+    main {
+      @apply pt-4 xxl:pt-20;
+    }
+  }
+
+  #page-chronik-grossbraende {
+    main {
+      @apply pt-4 xxl:pt-20;
+    }
+
+    .content {
+      @apply gap-8 lg:columns-2;
+      column-rule: 1px solid var(--color-gray-300);
+    }
+  }
 }
