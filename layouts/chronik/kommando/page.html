@@ -1,5 +1,56 @@
 {{ define "main" }}
   {{ partial "h2.html" . }}
 
-  <div class="px-4 xxl:p-0"></div>
+
+  <div class="px-4 xxl:p-0">
+    <details name="Kommando" open>
+      <summary>Kommandanten</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "kommandanten.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Kommandant Stv.</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "kommandant-stv.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Schriftführer</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "schriftfuehrer.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Kassiere</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "kassiere.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Ehrenmitglieder</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "ehrenmitglieder.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Patinnen</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "patinnen.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Obermaschinisten</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "obermaschinisten.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Atemschutzbeauftragte</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "atemschutzbeauftragte.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Gerätewarte</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "geraetewarte.yaml") }}
+    </details>
+
+    <details name="Kommando">
+      <summary>Jugendbetreuer</summary>
+      {{ partial "kommando.html" (dict "page" . "file" "jugendbetreuer.yaml") }}
+    </details>
+  </div>
 {{ end }}

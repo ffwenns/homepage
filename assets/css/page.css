@@ -27,6 +27,14 @@
     main {
       @apply pt-4 xxl:pt-20;
     }
+
+    .hidden.fslightbox-source {
+      @apply block!;
+    }
+
+    td:first-child {
+      @apply w-[40%] sm:w-1/5 xl:w-2/12;
+    }
   }
 
   #page-chronik-grossbraende {

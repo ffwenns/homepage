@@ -1,0 +1,53 @@
+{{/* Kommandanten partial
+  Usage: {{ partial "kommandanten.html" (dict "page" . "file" "kommandanten.yaml")
+}}
+Or:
+{{ partial "kommandanten.html" (dict "page" . "file" "kommandanten-stv.yaml") }}
+*/}}
+{{ with .page.Resources.GetMatch .file }}
+  {{ $data := . | transform.Unmarshal }}
+  {{ if $data }}
+    <div class="content pb-4!">
+      <table class="w-full table-fixed border-collapse">
+        {{ $lb := now.UnixNano }}
+
+        {{ range $data }}
+          <tr class="border-b border-gray-300 align-top leading-8 last:border-0">
+            <td class="">{{ .time }}</td>
+            <td class="font-medium">
+              {{ if .image }}
+                {{ $id := now.UnixNano }}
+                <a href="#s{{ $id }}" data-fslightbox="s{{ $lb }}" class="text-red-700!">
+                  {{ .name }}
+                </a>
+
+                <div id="s{{ $id }}" class="hidden max-w-md">
+                  <div class="mx-4 flex flex-col bg-white">
+                    <img src="{{ .image }}" alt="{{ .name }}" />
+
+                    {{ if .text }}
+                      <div class="p-4">
+                        <div class="mb-2 border-b border-gray-300 pb-2">
+                          <p class="font-semibold">{{ .name }}</p>
+                          <p>{{ .time }}</p>
+                        </div>
+
+                        <ul class="list-disc px-4">
+                          {{ range .text }}
+                            <li class="text-sm">{{ . }}</li>
+                          {{ end }}
+                        </ul>
+                      </div>
+                    {{ end }}
+                  </div>
+                </div>
+              {{ else }}
+                {{ .name }}
+              {{ end }}
+            </td>
+          </tr>
+        {{ end }}
+      </table>
+    </div>
+  {{ end }}
+{{ end }}
