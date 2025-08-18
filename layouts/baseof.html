@@ -10,7 +10,8 @@
       {{ else }}
         {{ $segments := split .RelPermalink "/" }}
         {{ $firstSegment := index $segments 1 }}
-        {{ if and $firstSegment (findRE "^20[0-9][0-9]$" $firstSegment) }}
+        {{ $secondSegment := index $segments 2 }}
+        {{ if and $firstSegment (findRE "^20[0-9][0-9]$" $firstSegment) (not $secondSegment) }}
           {{ printf "Alle Beiträge aus %s | %s" $firstSegment site.Title }}
         {{ else }}
           {{ printf "%s | %s" .Title site.Title }}
@@ -45,16 +46,17 @@
     </nav>
 
     <header id="header">
-      <a href="/" class="mt-8 block">
-        <img src="/images/feuerwehr-wenns.svg" class="mx-auto h-24 w-auto sm:h-32" />
-      </a>
-
-      <div class="mx-auto line-clamp-3 min-h-[3lh] px-8 text-2xl sm:text-4xl lg:max-w-[40ch] lg:px-16 lg:text-5xl">
-        {{ block "title" . }}
-          <h1>
-            {{ .Title }}
-          </h1>
-        {{ end }}
+      <div class="relative flex min-h-80 flex-col justify-center gap-4 sm:min-h-96 sm:gap-8 lg:min-h-[480px]">
+        <a href="/" class="mt-8 block">
+          <img src="/images/feuerwehr-wenns.svg" class="mx-auto h-24 w-auto sm:h-32" />
+        </a>
+        <div class="mx-auto line-clamp-3 min-h-[3lh] px-8 text-2xl sm:text-4xl lg:max-w-[40ch] lg:px-16 lg:text-5xl">
+          {{ block "title" . }}
+            <h1>
+              {{ .Title }}
+            </h1>
+          {{ end }}
+        </div>
       </div>
     </header>
     <main class="wrapper">
