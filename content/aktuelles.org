@@ -1,0 +1,2 @@
+#+TITLE: Aktuelles
+#+LAYOUT: news

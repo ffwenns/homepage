@@ -2,9 +2,7 @@
   <ul class="flex divide-x divide-red-900">
     <li class="group">
       {{ $firstSegment := index (split .RelPermalink "/") 1 }}
-      <a href="/{{ now.Year }}/" class="{{ if findRE "^20[0-9][0-9]$" $firstSegment }}font-semibold bg-red-800{{ end }}"
-        >Aktuelles</a
-      >
+      <a href="/aktuelles/" class="{{ if or (findRE "^20[0-9][0-9]$" $firstSegment) (hasPrefix .RelPermalink "/aktuelles/") }}font-semibold bg-red-800{{ end }}">Aktuelles</a>
 
       <div class="content">
         <div class="group-hover:block">
@@ -26,9 +24,7 @@
     </li>
 
     <li class="group">
-      <a href="/mannschaft/" class="{{ if hasPrefix .RelPermalink "/mannschaft/" }}font-semibold bg-red-800{{ end }}"
-        >Mannschaft</a
-      >
+      <a href="/mannschaft/" class="{{ if hasPrefix .RelPermalink "/mannschaft/" }}font-semibold bg-red-800{{ end }}">Mannschaft</a>
 
       <div class="content">
         <div class="w-[604px] min-w-0">
@@ -58,8 +54,9 @@
       <a
         href="/fahrzeuge/"
         {{ if hasPrefix .RelPermalink "/fahrzeuge/" }}class="font-semibold xl:bg-red-800"{{ end }}
-        >Fahrzeuge</a
       >
+        Fahrzeuge
+      </a>
       <div class="content">
         <div class="w-[448px] min-w-0">
           <ul class="w-1/2 flex-auto">
@@ -78,8 +75,9 @@
       <a
         href="/feuerwehrhalle/"
         {{ if hasPrefix .RelPermalink "/feuerwehrhalle/" }}class="font-semibold xl:bg-red-800"{{ end }}
-        >Feuerwehrhalle</a
       >
+        Feuerwehrhalle
+      </a>
       <div class="content">
         <div class="w-[448px] min-w-0">
           <ul class="w-1/2 flex-auto">
@@ -104,8 +102,9 @@
       <a
         href="/chronik/"
         {{ if hasPrefix .RelPermalink "/chronik/" }}class="font-semibold xl:bg-red-800"{{ end }}
-        >Chronik</a
       >
+        Chronik
+      </a>
       <div class="content">
         <div class="w-[304px] min-w-0">
           <ul>

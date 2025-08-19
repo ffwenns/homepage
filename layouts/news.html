@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <div class="mt-4">
+    {{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
+    {{ $posts = $posts.ByDate.Reverse }}
+    {{ $postsByYear := $posts.GroupByDate "2006" }}
+
+
+    <div class="content">
+      {{ range $postsByYear }}
+        {{ partial "h2.html" (dict "section" (printf "Alle Beiträge aus %s (%d Beiträge)" .Key (len .Pages))) }}
+        <div class="mb-8">
+          <table class="w-full">
+            <tbody class="divide-y divide-gray-300">
+              {{ range .Pages }}
+                <tr>
+                  <td class="w-24">{{ .Date.Format "02.01.2006" }}</td>
+                  <td class="w-24">
+                    {{ if .Params.facebook_url }}
+                      <a href="{{ .Params.facebook_url }}" target="_blank" class="text-blue-600 hover:no-underline">Facebook</a>
+                    {{ else }}
+                      -
+                    {{ end }}
+                  </td>
+                  <td class="w-24">
+                    <a href="https://github.com/ffwenns/homepage/edit/main/posts/{{ .File.Path }}" target="_blank" class="text-black hover:no-underline">Bearbeiten</a>
+                  </td>
+                  <td>
+                    <a href="{{ .RelPermalink }}" class="line-clamp-1 leading-8 hover:no-underline">{{ .Title }}</a>
+                  </td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
