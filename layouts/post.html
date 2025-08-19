@@ -3,9 +3,7 @@
 
 
   <article>
-    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-    {{ $dateHuman := .Date | time.Format "2. January" }}
-    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    {{ partial "german-date.html" .Date }}
 
     {{ if .Params.facebook_url }}
       <p><a href="{{ .Params.facebook_url }}" target="_blank">View on Facebook</a></p>
@@ -13,7 +11,6 @@
 
 
     <div>{{ .Content }}</div>
-
     {{ partial "gallery.html" . }}
   </article>
 {{ end }}
