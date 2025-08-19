@@ -37,6 +37,12 @@
     }
   }
 
+  #page-chronik-geraetehaeuser {
+    p {
+      @apply mb-4;
+    }
+  }
+
   #page-chronik-grossbraende {
     main {
       @apply pt-4 xxl:pt-20;
@@ -45,6 +51,10 @@
     .content {
       @apply gap-8 lg:columns-2;
       column-rule: 1px solid var(--color-gray-300);
+    }
+
+    p {
+      @apply mb-4;
     }
   }
 }

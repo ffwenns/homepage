@@ -97,9 +97,9 @@
   }
 
   #header {
-    @apply flex min-h-80 flex-col justify-center gap-4 bg-red-700 bg-[url(/header.webp)]
-    bg-cover bg-center bg-no-repeat text-center font-semibold 
-    text-white bg-blend-darken sm:min-h-96 sm:gap-8 lg:min-h-[480px];
+    @apply bg-red-700
+    bg-[url(/header.webp)] bg-cover bg-center bg-no-repeat text-center font-semibold
+    text-white bg-blend-darken;
   }
 
   #dropdown {
@@ -163,9 +163,9 @@
       @apply text-red-700 underline;
     }
 
-    p {
+    /* p {
       @apply mb-4;
-    }
+    } */
   }
 
   @supports (interpolate-size: allow-keywords) {
