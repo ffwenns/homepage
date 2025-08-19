@@ -25,20 +25,20 @@ Or:
                   <div class="mx-4 flex flex-col bg-white">
                     <img src="{{ .image }}" alt="{{ .name }}" />
 
-                    {{ if .text }}
-                      <div class="p-4">
-                        <div class="mb-2 border-b border-gray-300 pb-2">
-                          <p class="font-semibold">{{ .name }}</p>
-                          <p>{{ .time }}</p>
-                        </div>
+                    <div class="p-4">
+                      <div class="mb-2">
+                        <p class="font-semibold">{{ .name }}</p>
+                        <p>{{ .time }}</p>
+                      </div>
 
-                        <ul class="list-disc px-4">
+                      {{ if .text }}
+                        <ul class="list-disc border-t border-gray-300 px-4 pt-2">
                           {{ range .text }}
                             <li class="text-sm">{{ . }}</li>
                           {{ end }}
                         </ul>
-                      </div>
-                    {{ end }}
+                      {{ end }}
+                    </div>
                   </div>
                 </div>
               {{ else }}
