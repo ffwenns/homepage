@@ -15,7 +15,7 @@ Usage:
 import json
 import sys
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, date
 from pathlib import Path
 import requests
 from icalendar import Calendar
@@ -97,6 +97,32 @@ def parse_datetime(dt_value, debug_title=None):
     else:
         # Fallback for other types
         return str(dt)
+
+
+def filter_future_events(events, max_events=10):
+    """Filter events to only include today's and future events, limited to max_events."""
+    today = date.today()
+    
+    # Filter for today and future events
+    future_events = []
+    for event in events:
+        start_str = event.get("start")
+        if start_str:
+            try:
+                # Parse the start date
+                start_dt = datetime.fromisoformat(start_str.replace('Z', '+00:00'))
+                event_date = start_dt.date()
+                
+                # Include events from today onwards
+                if event_date >= today:
+                    future_events.append(event)
+            except (ValueError, AttributeError):
+                # If we can't parse the date, include the event to be safe
+                future_events.append(event)
+    
+    # Sort by start date and limit to max_events
+    future_events.sort(key=lambda x: x.get("start", ""))
+    return future_events[:max_events]
 
 
 def parse_calendar_events(calendar_data):
@@ -208,14 +234,20 @@ def main():
     print("Parsing calendar events...")
     events = parse_calendar_events(calendar_data)
 
-    print(f"Found {len(events)} events")
+    print(f"Found {len(events)} total events")
 
-    if not events:
-        print("No events found in the calendar.")
+    # Filter for today's and future events (max 10)
+    print("Filtering for today's and future events (max 10)...")
+    filtered_events = filter_future_events(events, max_events=10)
+
+    print(f"Keeping {len(filtered_events)} events (today and future, max 10)")
+
+    if not filtered_events:
+        print("No current or future events found in the calendar.")
         return
 
     # Save to JSON
-    save_events_to_json(events, output_path)
+    save_events_to_json(filtered_events, output_path)
 
     print("\nEvent import completed successfully!")
     print(f"Events saved to: {output_path}")
