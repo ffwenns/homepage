@@ -14,3 +14,7 @@
     {{ partial "gallery.html" . }}
   </article>
 {{ end }}
+
+{{ define "edit" }}
+  https://github.com/ffwenns/homepage/edit/main/posts/{{ .Path }}
+{{ end }}

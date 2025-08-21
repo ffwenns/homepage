@@ -76,13 +76,13 @@
             <a href="mailto:wenns@feuerwehr.tirol" class="mt-4 block">wenns@feuerwehr.tirol</a>
           </address>
 
-          <div class="border-t border-gray-300 pt-4 sm:border-0 sm:p-0">
-            {{ with .File }}
+          {{ with .File }}
+            <div class="border-t border-gray-300 pt-4 sm:border-0 sm:p-0">
               <a href="{{ block "edit" . }}https://github.com/ffwenns/homepage/edit/main/content/{{ .Path }}{{ end }}" target="_blank" class="block text-black hover:no-underline">
                 Seite bearbeiten
               </a>
-            {{ end }}
-          </div>
+            </div>
+          {{ end }}
         </div>
       </div>
     </footer>

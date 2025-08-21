@@ -54,3 +54,7 @@
     {{ end }}
   </div>
 {{ end }}
+
+{{ define "edit" }}
+  https://github.com/ffwenns/homepage/edit/main/content/{{ replace .Path "index.org" "data.yaml" }}
+{{ end }}
