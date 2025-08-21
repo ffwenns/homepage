@@ -1,6 +1,6 @@
 - name: OLM Gruber Wolfgang
   time: 1976 — 2001
-  image: Gruber_Wolfgang.webp
+  image: gruber_wolfgang.webp
   text:
     - erstes TLF 2000
     - RFA Unimog
@@ -8,7 +8,7 @@
     - TLFA 2000
 - name: HFM Köll Christian
   time: 2001 — 2002
-  image: Köll_Christian.webp
+  image: köll_christian.webp
 - name: HLM Siller Martin
   time: 2002 — 2024
   image: ff-wenns_kommando_2018_gr_027.webp
@@ -19,4 +19,4 @@
     - KDOFA (Dacia Duster)
 - name: LM Siller Simon
   time: 2024 - laufend
-  image: Siller_Simon.webp
+  image: siller_simon.webp
