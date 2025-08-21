@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ partial "cover.html" . }}
-  {{ partial "h2.html" . }}
+  {{ partial "h2.html" (dict "title" .Title) }}
 
 
   <div class="-mt-4 flex flex-col gap-4 p-4 lg:flex-row xxl:px-0">

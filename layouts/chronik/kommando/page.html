@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ partial "h2.html" . }}
+  {{ partial "h2.html" (dict "title" .Title) }}
 
 
   <div class="px-4 xxl:p-0">

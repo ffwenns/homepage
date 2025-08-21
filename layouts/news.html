@@ -7,7 +7,7 @@
 
     <div class="content">
       {{ range $postsByYear }}
-        {{ partial "h2.html" (dict "section" (printf "Alle Beiträge aus %s (%d Beiträge)" .Key (len .Pages))) }}
+        {{ partial "h2.html" (dict "title" (printf "Alle Beiträge aus %s (%d Beiträge)" .Key (len .Pages))) }}
         <div class="mb-8">
           <table class="w-full">
             <tbody class="divide-y divide-gray-300">

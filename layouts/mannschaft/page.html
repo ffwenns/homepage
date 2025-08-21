@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ partial "cover.html" . }}
-  {{ partial "h2.html" . }}
+  {{ partial "h2.html" (dict "title" .Title) }}
 
 
   <div class="xxl-pt-4 px-4 xxl:px-0">
@@ -10,12 +10,7 @@
         {{ range $data }}
           <div class="relative overflow-hidden rounded">
             {{ if .image }}
-              <img
-                src="/images/mitglieder/{{ .image }}"
-                alt="{{ .name }}"
-                class="aspect-2/3 object-cover"
-                loading="lazy"
-              />
+              <img src="/images/mitglieder/{{ .image }}" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
             {{ else }}
               <img src="/images/avatar.png" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
             {{ end }}

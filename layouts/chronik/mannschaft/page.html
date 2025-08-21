@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ partial "h2.html" . }}
+  {{ partial "h2.html" (dict "title" .Title) }}
 
 
   <div class="content gap-4 px-4 lg:grid lg:grid-cols-2 xl:grid-cols-3 xxl:p-0">
