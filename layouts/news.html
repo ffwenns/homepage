@@ -22,7 +22,11 @@
                     {{ end }}
                   </td>
                   <td class="w-24">
+                    {{ if hugo.IsDevelopment }}
+                      <a href="vscode://file/home/manu/www/ffwenns/posts/{{ .File.Path }}" class="text-black hover:no-underline">Bearbeiten</a>
+                    {{ else }}
                     <a href="https://github.com/ffwenns/homepage/edit/main/posts/{{ .File.Path }}" target="_blank" class="text-black hover:no-underline">Bearbeiten</a>
+                    {{ end }}
                   </td>
                   <td>
                     <a href="{{ .RelPermalink }}" class="line-clamp-1 leading-8 hover:no-underline">{{ .Title }}</a>
