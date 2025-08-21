@@ -8,6 +8,7 @@
   "dependencies": {
     "countup.js": "^2.9.0",
     "fslightbox": "^3.7.4",
+    "swiper": "^11.2.10",
     "tailwindcss": "^4.1.11"
   },
   "scripts": {

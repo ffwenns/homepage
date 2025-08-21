@@ -1,6 +1,15 @@
 @import "tailwindcss";
 @import "./page.css";
 
+@import "swiper/css";
+@import "swiper/css/mousewheel";
+@import "swiper/css/navigation";
+
+:root {
+  --swiper-theme-color: white;
+  --swiper-navigation-size: 3rem;
+}
+
 @theme {
   --font-sans: "Roboto", sans-serif;
   --breakpoint-xs: 30rem;
