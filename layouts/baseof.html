@@ -40,10 +40,7 @@
       {{ partial "navbar.html" . }}
     </header>
 
-    <nav
-      id="offcanvas"
-      class="fixed right-0 z-9 grid w-full gap-4 transition-all duration-300 md:grid-cols-2 xl:hidden"
-    >
+    <nav id="offcanvas" class="fixed right-0 z-9 grid w-full gap-4 transition-all duration-300 md:grid-cols-2 xl:hidden">
       {{ partial "menu/mobile.html" . }}
     </nav>
 
@@ -61,11 +58,33 @@
         </div>
       </div>
     </header>
+
     <main class="wrapper">
       {{ block "main" . }}{{ end }}
     </main>
-    <footer>
-      {{ partial "footer.html" . }}
+
+    <footer id="footer" class="mx-4 mt-4 xxl:pb-20">
+      <div class="wrapper border-t border-gray-300 py-4">
+        <div class="flex flex-col justify-between gap-4 sm:flex-row">
+          <address class="not-italic">
+            <strong>Feuerwehr Wenns</strong>
+            <br />
+            Unterdorf 64
+            <br />
+            6473 Wenns
+            <br />
+            <a href="mailto:wenns@feuerwehr.tirol" class="mt-4 block">wenns@feuerwehr.tirol</a>
+          </address>
+
+          <div class="border-t border-gray-300 pt-4 sm:border-0 sm:p-0">
+            {{ with .File }}
+              <a href="{{ block "edit" . }}https://github.com/ffwenns/homepage/edit/main/content/{{ .Path }}{{ end }}" target="_blank" class="block text-black hover:no-underline">
+                Seite bearbeiten
+              </a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
     </footer>
   </body>
 </html>

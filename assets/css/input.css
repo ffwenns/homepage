@@ -155,6 +155,10 @@
       }
     }
 
+    details:last-child {
+      @apply border-b-0;
+    }
+
     summary {
       @apply cursor-pointer bg-gray-300 p-4 text-xl font-semibold text-gray-600 select-none;
     }
@@ -162,10 +166,12 @@
     .content a:not([href^="#"]) {
       @apply text-red-700 underline;
     }
+  }
 
-    /* p {
-      @apply mb-4;
-    } */
+  #footer {
+    a {
+      @apply text-blue-800 underline hover:no-underline;
+    }
   }
 
   @supports (interpolate-size: allow-keywords) {
