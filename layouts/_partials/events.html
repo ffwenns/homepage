@@ -1,0 +1,28 @@
+{{ $events := site.Data.events.events }}
+
+
+<ul class="divide-y divide-blue-200">
+  {{ range $events }}
+    {{ $startTime := time .start }}
+    {{ $hour := printf "%02d" $startTime.Hour }}
+    {{ $minute := printf "%02d" $startTime.Minute }}
+
+
+    <li class="py-2">
+      <div class="text-sm text-gray-600">
+        {{ if .all_day }}
+          {{ partial "german-date" $startTime }}
+        {{ else }}
+          {{ partial "german-date" $startTime }} um
+          {{ $hour }}:{{ $minute }}
+        {{ end }}
+      </div>
+      {{ if .title }}
+        <div class="font-medium text-blue-800">{{ .title }}</div>
+      {{ end }}
+      {{ if .description }}
+        <div class="text-sm text-gray-600">{{ .description }}</div>
+      {{ end }}
+    </li>
+  {{ end }}
+</ul>

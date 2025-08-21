@@ -5,6 +5,20 @@
     }
   }
 
+  /* home */
+  #page- {
+    .content {
+      p + p {
+        @apply mt-4;
+      }
+
+      b,
+      strong {
+        @apply text-red-800;
+      }
+    }
+  }
+
   #page-mannschaft-kommando .cover {
     @apply object-top;
   }
