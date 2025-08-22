@@ -1,20 +1,19 @@
 import { FsLightbox } from "fslightbox";
 import { CountUp } from "countup.js";
 import Swiper from "swiper";
-import { Mousewheel, Navigation } from "swiper/modules";
+import { Navigation } from "swiper/modules";
 
 console.log("Created with Hugo and Tailwind CSS");
 
 document.addEventListener("DOMContentLoaded", () => {
   const swiper = new Swiper(".swiper", {
-    modules: [Mousewheel, Navigation],
+    modules: [Navigation],
     navigation: {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
     },
     enabled: false,
     spaceBetween: 16,
-    mousewheel: true,
     grabCursor: true,
     breakpoints: {
       640: {
