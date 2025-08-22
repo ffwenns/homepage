@@ -1,215 +1,266 @@
 #!/usr/bin/env python3
-"""
-Posts Import Script
 
-This script imports all posts from /data/posts.json into Hugo format.
-Posts are created with proper folder structure: /posts/YEAR/MONTH/TITLE/index.md
-
-Requirements:
-- python-slugify
-- beautifulsoup4
-
-Usage:
-    python scripts/import_posts.py
-"""
-
-import json
 import os
-import shutil
-from datetime import datetime
-from pathlib import Path
 import re
+import json
+import requests
+from pathlib import Path
+from datetime import datetime
+from dotenv import load_dotenv
+from slugify import slugify
+import emoji
+from PIL import Image
+import io
 
-try:
-    from slugify import slugify
-    from bs4 import BeautifulSoup
-except ImportError as e:
-    print(f"Missing required package: {e}")
-    print("Please install with: pip install python-slugify beautifulsoup4")
-    exit(1)
-
-
-def clean_text(html_text):
-    """Clean HTML from text using BeautifulSoup"""
-    if not html_text:
-        return ""
-
-    # Parse HTML and extract text
-    soup = BeautifulSoup(html_text, "html.parser")
-    text = soup.get_text().strip()
-    
-    # Remove multiple spaces (2 or more) and replace with single space
-    text = re.sub(r' {2,}', ' ', text)
-    
-    return text
+load_dotenv()
 
 
-def german_slugify(text):
-    """Slugify text with German umlauts conversion"""
-    replacements = [
-        ['ä', 'ae'], ['Ä', 'Ae'],
-        ['ö', 'oe'], ['Ö', 'Oe'], 
-        ['ü', 'ue'], ['Ü', 'Ue'],
-        ['ß', 'ss']
-    ]
-    return slugify(text, replacements=replacements, lowercase=True)
+class FacebookPostImporter:
+    def __init__(self):
+        self.access_token = os.getenv("FACEBOOK_ACCESS_TOKEN")
+        if not self.access_token:
+            raise ValueError("FACEBOOK_ACCESS_TOKEN not found in .env file")
 
+        self.base_url = "https://graph.facebook.com/v23.0"
+        self.page_id = "ffwenns"
+        self.posts_dir = Path("posts")
 
-def get_unique_slug(base_slug, year, month, posts_root):
-    """Get a unique slug by adding numbers if needed"""
-    slug = base_slug
-    counter = 2
-    
-    while True:
-        post_dir = posts_root / str(year) / month / slug
-        if not (post_dir.exists() and (post_dir / "index.org").exists()):
-            return slug
-        slug = f"{base_slug}-{counter}"
-        counter += 1
+    def get_posts(self):
+        """Fetch posts from Facebook API"""
+        url = f"{self.base_url}/{self.page_id}/posts"
+        params = {
+            "access_token": self.access_token,
+            "fields": "id,created_time,message,attachments{target{id},type,subattachments{target{id},type}}",
+            "limit": 10,
+        }
 
+        response = requests.get(url, params=params)
+        if response.status_code != 200:
+            print(f"Error fetching posts: {response.status_code} - {response.text}")
+            return []
 
-def unix_timestamp_to_date(timestamp):
-    """Convert Unix timestamp to YYYY-MM-DD format"""
-    return datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d")
+        data = response.json()
+        return data.get("data", [])
 
+    def extract_title(self, message):
+        """Extract title from message text based on patterns"""
+        if not message:
+            return None
 
-def get_year_from_timestamp(timestamp):
-    """Get year from Unix timestamp"""
-    return datetime.fromtimestamp(timestamp).year
+        # Pattern 1: Between 3 or 4 dashes (with optional spaces)
+        dash_pattern = r"^\s*-{3,4}\s*(.+?)\s*-{3,4}\s*"
+        match = re.search(dash_pattern, message, re.MULTILINE)
+        if match:
+            return match.group(1).strip()
 
+        # Pattern 2: Between 3 emoji (any emoji)
+        emoji_pattern = r"^[\s\u200d]*[\U0001f600-\U0001f64f\U0001f300-\U0001f5ff\U0001f680-\U0001f6ff\U0001f1e0-\U0001f1ff\U00002600-\U000027bf\U0001f900-\U0001f9ff\U0001f018-\U0001f270]{3,}\s*(.+?)\s*[\U0001f600-\U0001f64f\U0001f300-\U0001f5ff\U0001f680-\U0001f6ff\U0001f1e0-\U0001f1ff\U00002600-\U000027bf\U0001f900-\U0001f9ff\U0001f018-\U0001f270]{3,}"
+        match = re.search(emoji_pattern, message, re.MULTILINE)
+        if match:
+            return match.group(1).strip()
 
-def get_year_month_from_timestamp(timestamp):
-    """Get year and month from Unix timestamp"""
-    dt = datetime.fromtimestamp(timestamp)
-    return dt.year, f"{dt.month:02d}"
+        return None
 
+    def remove_emoji(self, text):
+        """Remove all emoji from text"""
+        return emoji.replace_emoji(text, replace='')
 
-def create_frontmatter(post):
-    """Create YAML frontmatter for Hugo"""
-    date_str = unix_timestamp_to_date(post["date"])
-    
-    # Escape quotes in title for YAML
-    title = post['title'].replace('"', '\\"')
+    def create_slug(self, title):
+        """Create URL-friendly slug from title"""
+        # Replace German umlauts
+        umlaut_map = {
+            'ä': 'ae', 'Ä': 'Ae',
+            'ö': 'oe', 'Ö': 'Oe', 
+            'ü': 'ue', 'Ü': 'Ue',
+            'ß': 'ss'
+        }
+        
+        for umlaut, replacement in umlaut_map.items():
+            title = title.replace(umlaut, replacement)
+            
+        return slugify(title)
 
-    frontmatter = f"""---
+    def download_image(self, image_url, output_path):
+        """Download and convert image to WebP format"""
+        try:
+            response = requests.get(image_url)
+            if response.status_code == 200:
+                # Open image with PIL
+                img = Image.open(io.BytesIO(response.content))
+
+                # Convert to RGB if necessary (for WebP compatibility)
+                if img.mode in ("RGBA", "P"):
+                    img = img.convert("RGB")
+
+                # Save as WebP with quality 80
+                img.save(output_path, "WebP", quality=80)
+                return True
+        except Exception as e:
+            print(f"Error downloading image {image_url}: {e}")
+
+        return False
+
+    def get_photo_ids(self, attachments):
+        """Extract photo IDs from post attachments for batch requests"""
+        photo_ids = []
+
+        if not attachments or "data" not in attachments:
+            return photo_ids
+
+        for attachment in attachments["data"]:
+            if attachment.get("type") == "photo":
+                target = attachment.get("target", {})
+                if "id" in target:
+                    photo_ids.append(target["id"])
+
+            # Handle subattachments (multiple images)
+            if "subattachments" in attachment:
+                for sub in attachment["subattachments"].get("data", []):
+                    if sub.get("type") == "photo":
+                        target = sub.get("target", {})
+                        if "id" in target:
+                            photo_ids.append(target["id"])
+
+        return photo_ids
+
+    def get_high_res_image_urls(self, photo_ids):
+        """Use batch requests to get high-resolution image URLs"""
+        if not photo_ids:
+            return []
+
+        # Create batch requests for high-res images
+        batch_requests = []
+        for photo_id in photo_ids:
+            batch_requests.append(
+                {"method": "GET", "relative_url": f"{photo_id}?fields=images"}
+            )
+
+        # Make batch request
+        batch_url = f"{self.base_url}/"
+        batch_data = {
+            "access_token": self.access_token,
+            "batch": json.dumps(batch_requests),
+        }
+
+        response = requests.post(batch_url, data=batch_data)
+        if response.status_code != 200:
+            print(f"Batch request failed: {response.status_code} - {response.text}")
+            return []
+
+        batch_results = response.json()
+        high_res_urls = []
+
+        for result in batch_results:
+            if result.get("code") == 200:
+                try:
+                    data = json.loads(result["body"])
+                    images = data.get("images", [])
+                    if images:
+                        # Get the highest resolution image (first in the list)
+                        high_res_urls.append(images[0]["source"])
+                except json.JSONDecodeError:
+                    continue
+
+        return high_res_urls
+
+    def process_post(self, post):
+        """Process a single Facebook post"""
+        message = post.get("message", "")
+
+        # Extract title
+        title = self.extract_title(message)
+        if not title:
+            return False  # Skip posts without titles
+
+        # Create slug
+        slug = self.create_slug(title)
+
+        # Parse date
+        created_time = post.get("created_time", "")
+        date_obj = datetime.fromisoformat(created_time.replace("Z", "+00:00"))
+
+        # Create directory structure
+        year = date_obj.year
+        month = f"{date_obj.month:02d}"
+        post_dir = self.posts_dir / str(year) / month / slug
+
+        # Check for lock file
+        if (post_dir / ".lock").exists():
+            print(f"Skipping locked post: {post_dir}")
+            return False
+
+        # Create directories
+        post_dir.mkdir(parents=True, exist_ok=True)
+
+        # Remove emoji from message
+        clean_message = self.remove_emoji(message)
+
+        # Remove title from message (first occurrence)
+        if title in clean_message:
+            clean_message = clean_message.replace(f"--- {title} ---", "", 1)
+            clean_message = clean_message.replace(f"---- {title} ----", "", 1)
+
+        clean_message = clean_message.strip()
+
+        # Create Facebook URL
+        facebook_url = f"https://facebook.com/ffwenns/posts/{post['id'].split('_')[1]}"
+
+        # Download high-resolution images using batch requests
+        attachments = post.get("attachments", {})
+        photo_ids = self.get_photo_ids(attachments)
+        high_res_urls = self.get_high_res_image_urls(photo_ids)
+
+        for image_url in high_res_urls:
+            # Extract original filename from URL and replace extension with .webp
+            original_filename = image_url.split("/")[-1].split("?")[0]
+            base_name = Path(original_filename).stem
+            image_filename = f"{base_name}.webp"
+            image_path = post_dir / image_filename
+
+            if self.download_image(image_url, image_path):
+                print(f"Downloaded high-res image: {image_path}")
+
+        # Create markdown content
+        markdown_content = f"""---
 title: "{title}"
-date: {date_str}
-layout: post"""
+date: {date_obj.strftime('%Y-%m-%d')}
+layout: post
+facebook_url: "{facebook_url}"
+---
+{clean_message}
+"""
 
-    # Add facebook_url if present
-    if post.get("url"):
-        frontmatter += f'\nfacebook_url: "{post["url"]}"'
+        # Write index.md file
+        index_path = post_dir / "index.md"
+        with open(index_path, "w", encoding="utf-8") as f:
+            f.write(markdown_content)
 
-    frontmatter += "\n---\n\n"
-    return frontmatter
-
-
-def copy_images(post, post_dir):
-    """Copy images to post directory"""
-    if not post.get("images"):
-        return
-
-    project_root = Path(__file__).parent.parent
-
-    for image_path in post["images"]:
-        source_path = project_root / image_path
-        if source_path.exists():
-            # Copy image to post directory, keeping just the filename in lowercase
-            dest_path = post_dir / source_path.name.lower()
-            try:
-                shutil.copy2(source_path, dest_path)
-                print(f"  Copied image: {source_path.name} -> {dest_path.name}")
-            except Exception as e:
-                print(f"  Warning: Failed to copy {source_path.name}: {e}")
-        else:
-            print(f"  Warning: Image not found: {source_path}")
-
-
-def create_post(post, posts_root):
-    """Create individual post with proper structure"""
-    # Get year, month and create slug
-    year, month = get_year_month_from_timestamp(post["date"])
-    # Use unique slug if provided, otherwise generate from title
-    slug = post.get("_unique_slug", german_slugify(post["title"]))
-
-    # Create post directory
-    post_dir = posts_root / str(year) / month / slug
-    post_dir.mkdir(parents=True, exist_ok=True)
-
-    # Create content
-    frontmatter = create_frontmatter(post)
-    content = clean_text(post.get("text", ""))
-
-    # Write index.md file
-    index_file = post_dir / "index.md"
-    with open(index_file, "w", encoding="utf-8") as f:
-        f.write(frontmatter)
-        f.write(content)
-
-    # Copy images
-    copy_images(post, post_dir)
-
-    return post_dir
+        print(f"Created post: {index_path}")
+        return True
 
 
 def main():
-    """Main function"""
-    # Get paths
-    script_dir = Path(__file__).parent
-    project_root = script_dir.parent
-    posts_json = project_root / "data" / "posts.json"
-    posts_root = project_root / "posts"
+    try:
+        importer = FacebookPostImporter()
+        posts = importer.get_posts()
 
-    print("Posts Import Script")
-    print("=" * 50)
+        processed = 0
+        total = len(posts)
 
-    # Check if posts.json exists
-    if not posts_json.exists():
-        print(f"Error: {posts_json} not found!")
-        return
+        print(f"Processing {total} posts...")
 
-    # Load posts data
-    print(f"Loading posts from {posts_json}")
-    with open(posts_json, "r", encoding="utf-8") as f:
-        posts = json.load(f)
+        for post in posts:
+            if importer.process_post(post):
+                processed += 1
 
-    print(f"Found {len(posts)} posts to import")
+        print(f"Successfully processed {processed} out of {total} posts")
 
-    # Create posts directory if it doesn't exist
-    posts_root.mkdir(exist_ok=True)
+    except Exception as e:
+        print(f"Error: {e}")
+        return 1
 
-    # Import posts
-    created_count = 0
-
-    for i, post in enumerate(posts, 1):
-        title = post.get("title", f"Post {i}")
-        year, month = get_year_month_from_timestamp(post["date"])
-        base_slug = german_slugify(title)
-        
-        # Get unique slug (adds number if needed)
-        slug = get_unique_slug(base_slug, year, month, posts_root)
-        
-        if slug != base_slug:
-            print(f"Creating post {i}/{len(posts)}: {year}/{month}/{slug} (duplicate, renamed from {base_slug})")
-        else:
-            print(f"Creating post {i}/{len(posts)}: {year}/{month}/{slug}")
-            
-        try:
-            # Pass the unique slug to create_post
-            post_with_slug = post.copy()
-            post_with_slug["_unique_slug"] = slug
-            created_dir = create_post(post_with_slug, posts_root)
-            created_count += 1
-            print(f"  Created: {created_dir}")
-        except Exception as e:
-            print(f"  Error creating post: {e}")
-            continue
-
-    print("\n" + "=" * 50)
-    print(f"Import completed!")
-    print(f"Created: {created_count} posts")
-    print(f"Total processed: {created_count}")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    exit(main())
