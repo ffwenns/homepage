@@ -1,0 +1,9 @@
+---
+title: "Zugsübung"
+date: 2009-05-16
+layout: post
+---
+
+Am Freitag den 15. Mai 2009 um 20 Uhr fand eine Zugsübung der Freiwilligen Feuerwehr  Wenns statt. Übungsvorbereiter und Einsatzleiter war unser Atemschutzbeauftragter und Zugskommandant OLM Krug Robert. Über 25 Mann der Feuerwehr beteiligten sich an der Übung. Übungsannahme war ein Kellerbrand in einen Wirtschaftsgebäude im Ortsteil Farmie. Die Aufgabe bestand darin, die vermissten Personen mittels Atemschutz zu bergen und den Brand zu löschen. Dazu wurde der nahe gelegene Teich als Wasserentnahme Stelle verwendet. Nach 2,5 Stunden konnte die Übung beendet werden und die FF Wenns konnte wieder einrücken.
+
+ATS Trupp: Weber Daniel, Scheiber Lukas, Larcher Markus

@@ -1,0 +1,13 @@
+---
+title: "Traditionelle Verteilaktion - Jahresrückblick 2023"
+date: 2023-12-31
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/737822821713506"
+---
+
+Bereits traditionell, verteilt unser Kommando zum Jahresende an jedes Mitglied der FF Wenns, den Jahresbericht inkl. einem kleinem Präsent für die geleistete Arbeit. Mit einem leistungsstarken Jahresrückblick mit 504 Gesamtaktivitäten möchten wir uns bei allen Kameradinnen und Kameraden für ihren Einsatz und ihre Bemühungen über das ganze Jahr bedanken. 
+
+Gleichzeitig wünschen wir allen Kameraden, deren Familien und allen Gönnern und Freunden der FF Wenns einen guten Rutsch, vor allem viel Glück, Gesundheit und Zufriedenheit im neuen Jahr 2024. 
+
+EUER KOMMANDO 
+der Freiwillige Feuerwehr Wenns

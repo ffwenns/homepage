@@ -1,0 +1,14 @@
+---
+title: "Brandmeldealarm entpuppte sich als \"Brand Liftmotor\""
+date: 2023-08-01
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/652377336924722"
+---
+
+Heute am Dienstagnachmittag den 01.August wurde die FF Wenns mittels Pager zu einem Brandmeldealarm in einem örtlichen Hotelbetrieb alarmiert. Nach der Kontrolle vor Ort wurde ein durchgebrannter Liftmotor festgestellt, welcher auch eine starke Verrauchung im Technikraum sowie in der Küche des Hotels verursachte. Neben der Druckbelüftung von Küche und Technikraum sowie Kontrolle mittels Wärmebildkamera wurde der Lift kontrolliert und außer Betrieb genommen. Nachdem das Gebäude rauchfrei war, konnten wir den Einsatz nach rund eineinhalb Stunden erfolgreich beenden und wieder in die Halle einrücken. Da unser KDOFA bereits vier Minuten nach der Alarmierung vor Ort war, wurde der Einsatzcode nicht korrigiert. 
+
+Im Einsatz:
+ Pager / Sammelruf (BMA) 
+ KDOFA und TLFA 2000 mit 11 Mann
+ Einsatzleiter: Gkdt. LM Siller Dominik
+ SD / ️ SL - ÖA Team FFW

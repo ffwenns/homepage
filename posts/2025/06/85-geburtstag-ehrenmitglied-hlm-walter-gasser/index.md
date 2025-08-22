@@ -1,0 +1,19 @@
+---
+title: "85. Geburtstag Ehrenmitglied HLM Walter Gasser"
+date: 2025-06-02
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1087095026786282"
+---
+
+Eine beeindruckende Feuerwehrgeschichte in 50 Jahren Ausschussmitglied und 70 Jahre als treues Mitglied der FF Wenns.
+
+Am 27.Mai 2025 feierte unser engagiertes Mitglied HLM Walter Gasser seinen 85. Geburtstag. Wenn man sagt „ein Leben für die Feuerwehr“ dann würde es wohl bei keinem anderen besser zutreffen, als bei unserem „Polta Walter“.
+
+1955 trat Walter der FF Wenns bei und ist somit heuer - 70 Jahre! ein treues Mitglied der FF Wenns. 1975 besuchte Walter den Gruppenkommandanten Lehrgang in Innsbruck und übte diese Funktion 30 Jahre mit viel Herzblut aus. Zusätzlich immer zur Stelle als Fahnenbegleiter, beim absperren bei Beerdigungen und bei allen sonstigen Tätigkeiten unserer Wehr.
+
+Wenn man die Feuerwehr Wenns heute sieht, dann erfüllt es einem schon mit großem Stolz, dazu einen Beitrag geleistet zu haben, so unser Ehrenmitglied HLM Walter Gasser in seinen Worten. Der Ausschuss überbrachte mit einem geschnitzten hl.Florian samt Gravur die besten Wünsche zum Geburtstag.
+
+Lieber Walter!
+Im Namen der FF Wenns ein herzliches Vergelt's Gott für deine Arbeit in 70 Jahren Mitgliedschaft, viel Glück und Gesundheit nochmals zu deinem 85. Geburtstag und noch viele Jahre und kameradschaftliche Stunden im Kreise unserer Feuerwehr.
+
+Deine Kameraden der FF Wenns

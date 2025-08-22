@@ -1,0 +1,16 @@
+---
+title: "Übung der Jugendfeuerwehr - Freilandverankerung & Hubzug"
+date: 2024-10-24
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/926575242838262"
+---
+
+Am vergangenen Freitag, den 18. Oktober 2024 übte auch unsere Jugendgruppe wieder fleißig. Unter den Übungsleitern den Jugendbetreuern Andy & Fabian wurde eine Freilandverankerung angebracht und die Sicherung mittels Hubzug besprochen und praktisch beübt. Die Jugendlichen erlernten dabei einen ersten Umgang mit der technischen Sicherungstechnik durch den Hubzug, sowie die wichtigsten Punkte für das Anbringen einer Freilandverankerung als Anschlagpunkt für den Hubzug. 
+Nach rund eineinhalb Stunden wurde die Übung erfolgreich beendet und die Jugendgruppe rückte wieder ins Gerätehaus ein. 
+
+Details:
+ Übungsleiter: JB Andreas Bregenzer & JB Fabian Eiter
+ RFA, LFA mit 17 Burschen/Mädels
+
+ Fotos: Emilia Wille / Martina Eiter - ÖA-Team der FJ-Wenns 
+ Bericht: PP/ÖA-Team FF-Wenns

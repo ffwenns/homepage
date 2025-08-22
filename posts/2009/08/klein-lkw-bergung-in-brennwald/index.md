@@ -1,0 +1,7 @@
+---
+title: "Klein LKW Bergung in Brennwald!"
+date: 2009-08-07
+layout: post
+---
+
+Zu einer Fahrzeugbergung wurden einige Mitglieder der Feuerwehr Wenns am Freitag den 07. August 2009 um 10:25 Uhr telefonisch alarmiert! Bei einem Familienhaus im Ortsteil Brennwald blieb ein Klein LKW einer Zustellfirma zwischen der Gartenmauer und den Randsteinen stecken. Die alarmierten Mitglieder rückten sofort mit dem Rüstfahrzeug aus und befreiten den Lieferwagen mittels Hebekissen aus der misslichen Lage. Nach rund 2 Stunden konnten wir wieder einrücken.

@@ -1,0 +1,7 @@
+---
+title: "Zwei Technische Hilfeleistungen für die FF Wenns"
+date: 2011-06-12
+layout: post
+---
+
+Am Samstag den 12. Juni wurde die Feuerwehr Wenns telefonisch zu zwei Technischen Hilfeleistungen (Wespennester entfernen) alarmiert. An beiden Einsatzadressen einmal im Oberdorf und einmal in Brennwald konnten die Wespennester erfolgreich entfernt werden. Nach rund einer halben Stunde konnten die ausgerückten Mitglieder wieder in die Feuerwehrhalle einrücken.

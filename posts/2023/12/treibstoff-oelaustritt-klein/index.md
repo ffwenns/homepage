@@ -1,0 +1,17 @@
+---
+title: "Treibstoff/Ölaustritt klein"
+date: 2023-12-31
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/737682715060850"
+---
+
+Am heutigen Silvestertag den 31.12.2023 wurden wir noch telefonisch zu einer kleinen Ölspur im Unterdorf gerufen. Der Einsatz konnte nach rund 20 Minuten erfolgreich beendet und der Ölaustritt gebunden werden.
+
+Wir wünschen euch allen einen guten Jahreswechsel, solltet ihr uns brauchen, stehen wir via Notruf 122 auf Knopfdruck für euch bereit. 
+
+Im Einsatz:
+ Telefonisch 
+ KDOFA mit 2 Mann
+ Einsatzleiter: Gkdt. LM Dominik Siller
+
+ DS - ÖA Team FFW

@@ -1,0 +1,12 @@
+---
+title: "Thema Abseilen und Selbstsicherung der Gruppe 4"
+date: 2018-03-17
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1945244992217283"
+---
+
+Bei der heutigen Gruppenübung der Gruppe 4 unter Gkdt. OLM Stoll Christoph wurde das Thema "Abseilen und Selbstsicherung im Einsatz" besprochen und beübt. Aus rund fünf Metern Höhe wurden die unterschiedlichen Techniken und die Vorgehensweise mit dem Sicherungsgerät Lory/Fallstopp und dem 5-Punkt-Gurt beübt. Nach rund eineinhalb Stunden ging die lehrreiche Übung zum gemütlichen Teil über. 
+
+Bei der Übung:
+RF-A mit 9 Mann 
+Übungsleiter: OLM Stoll Christoph

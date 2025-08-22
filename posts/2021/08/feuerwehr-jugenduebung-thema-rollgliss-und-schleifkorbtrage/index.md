@@ -1,0 +1,14 @@
+---
+title: "Feuerwehr-Jugendübung Thema Rollgliss und Schleifkorbtrage"
+date: 2021-08-12
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6017462991662109"
+---
+
+Am vergangenen Freitag den 6. August konnte unsere motivierte Jugendgruppe eine weitere Übung abhalten. Dabei konnten unsere beiden Jugendbetreuer Fabian & Andy mit den jungen Mädchen und Burschen die Thematiken rund um das Rollgliss, Schleifkorbtrage, Spineboard und Steckleitern besprechen und praktisch beüben. Sämtliche Gerätschaften werden bei der Personenrettung aus Höhen und Tiefen eingesetzt. Verschiedene Rettungs- und Sicherungstechniken wurden von den Jugendbetreuern erklärt. Nach rund 1,5 Stunden konnte der Lernerfolg erzielt werden und die Übung erfolgreich beendet werden. 
+
+Details:
+RFA und LFA mit rund 8 Frau/Mann
+
+Fotos: FE/FJ-Wenns
+Bericht: PP/ÖA-Team

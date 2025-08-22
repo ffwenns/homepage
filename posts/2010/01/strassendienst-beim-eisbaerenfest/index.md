@@ -1,0 +1,7 @@
+---
+title: "Straßendienst beim Eisbärenfest"
+date: 2010-01-16
+layout: post
+---
+
+Am Samstag den 16. Jänner 2010 wurde von sieben Mitgliedern der Feuerwehr Wenns der Straßendienst und die Brandsicherheitswache beim diesjährigen Eisbärenfest übernommen. Neben dem Straßendienst unterstützten wir auch die Rettung bei einem Einsatz. Da eine Person gestürzt ist, machten wir der Rettung den Weg frei und unterstützten das Rettungspersonal beim Abtransport des Patienten. Ansonsten verlief die Veranstaltung ohne besondere Vorkommnisse.

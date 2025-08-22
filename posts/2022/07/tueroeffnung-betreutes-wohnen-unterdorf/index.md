@@ -1,0 +1,12 @@
+---
+title: "Türöffnung Betreutes Wohnen, Unterdorf"
+date: 2022-07-02
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7772681189473605"
+---
+
+Viel los heute bei der FF Wenns... Neben dem Landesjugendbewerb mit 20 Mann/Frau in St. Ulrich nimmt am Nachmittag auch eine Gruppe der FF Wenns beim Abschnittsbewerb in Haiming teil. Parallel wurden wir um 14:47 Uhr telefonisch zu einer Türöffnung in das Betreute Wohnen ins Unterdorf alarmiert. Nach kurzer Zeit konnten wir uns Zugang zur Wohnung verschaffen und die Türe ohne Schaden öffnen.
+
+Im Einsatz:
+KDOFA Wenns mit 2 Mann
+Einsatzleiter: BM Stoll Christoph

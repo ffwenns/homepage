@@ -1,0 +1,12 @@
+---
+title: "Übung Verkehrsunfall der Gruppe 7"
+date: 2025-07-20
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1125234739638977"
+---
+
+Am Donnerstag, den 17.07.2025 fand eine weitere Gruppenübung der Gruppe 7 unter Gkdt. LM Philipp Dobler statt. Von der Fahrzeugsicherung mittels Hubzug, Stabfast, der Aufbau vom Sichtschutz sowie die Bergungsmöglichkeiten mittels Hebekissen wurde dabei auch der richtige Umgang mit dem Glasmanagement beübt. Nach rund zwei Stunden ging die lehrreiche Übung zum gemütlichen Teil über.
+
+Bei der Übung:
+RF Wenns und 12 Mann
+Gkdt. LM Philipp Dobler

@@ -1,0 +1,13 @@
+---
+title: "Teilnahme Bezirksfeuerwehrtag in Imst"
+date: 2012-05-12
+layout: post
+---
+
+Der diesjährige Bezirksfeuerwehrtag des Bezirkes Imst fand am Freitag den 11. Mai 2012 in Imst statt. Die Feuerwehr Wenns war mit 7 Mitgliedern inkl. der Fahnenabordnung vertreten.
+
+Bezirksfeuerwehrkommandant OBR Klaus Raffl konnte folgende Ehrengäste im Stadtsaal der Gemeinde Imst begrüßen: Landtagsabgeordneter Hannes Staggl, Landtagsabgeordneter Jakob Wolf, Bezirkshauptmann Dr. Raimund Waldner, Bürgermeister von Imst Stefan Weirather, Landes-Feuerwehrkommandant Klaus Erler, Leiter der Landes-Feuerwehrschule Georg Waldhard, Bezirksfeuerwehrinspektor OBR Josef Wagner, Bezirksfeuerwehrkommandant Stv. BR Manfred Neururer, Landesbewerbsleiter und Abschnittskommandant LBL ABI Siegfried Fadum, Bezirksfeuerwehrinspektor von Landeck OBR Othmar Weisskopf, Abschnittskommandant vom Bezirk IBK Land ABI Lorenz Neuner, Vertreter anderer Blaulichtorganisationen, zahlreiche Bürgermeister und Vizebürgermeister/innen des Bezirkes sowie den fast vollzählig erschienenen Bezirksausschuss begrüßen. Nach den Berichten der Bezirksfunktionäre wurden lang gediente Feuerwehrkameraden aus dem Bezirk geehrt.
+
+Aus den Reihen der FF Wenns wurde unser ehemaliger Kommandant und Abschnittskommandant LBL ABI Siegfried Fadum mit dem Verdienstzeichen des Landesfeuerwehrverbandes geehrt. Neben Bezirksfeuerwehrinspektor OBR Josef Wagner konnten diese hohe und verdiente Auszeichnung auch zwei weitere Kameraden vom Abschnitt Pitztal entgegennehmen. OBI Adalbert Kathrein (FF Arzl) sowie BI Robert Eiter (FF Wald) wurden für ihre langjährige Tätigkeit als Kommandant bzw. Stellvertreter geehrt. Mit dem Silbernen Verdienstabzeichen des Bezirksfeuerwehrverbandes wird bei der nächsten größeren Ausrückung unser Kdt. Stv. BI Raich Otto ausgezeichnet werden.
+Die FF Wenns gratuliert allen Geehrten recht Herzlich für die verdienten Auszeichnungen!
+Neben den sieben Mitgliedern der Feuerwehr waren von Seiten der Gemeinde Wenns auch Bürgermeister Walter Schöpf anwesenden. Kdt. Norbert Reheis konnte krankheitsbedingt nicht teilnehmen.

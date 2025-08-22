@@ -1,0 +1,16 @@
+---
+title: "Monatliche Maschinistenübung: Thematik Rüstfahrzeug"
+date: 2020-07-08
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/4098145056927255"
+---
+
+Am gestrigen Dienstag den 07. Juli konnte eine weitere monatliche Maschinistenübung durchgeführt werden. Dabei konnte der Übungsleiter Obermaschinist HLM Martin Siller allen anwesenden Maschinisten und Kraftfahrer die Fahrzeugkunde unseres Rüstfahrzeuges zeigen und praktisch mit ihnen beüben. Die praxisbezogene Übung wurde mit dem Hebekissen an unserem LFA durchgeführt. Auch die Rettungs- und Schwimmwesten konnten nach Maß angezogen werden... Nach rund eineinhalb Stunden konnte die lehrreiche Übung erfolgreich beendet. werden.
+
+Details:
+Übungsleiter: Obermaschinist HLM Martin Siller
+Fahrzeuge: RFA & LFA
+18 Mann
+
+Bericht: PP/ÖA-Team FF-Wenns
+Fotos: LS/ÖA-Team FF-Wenns

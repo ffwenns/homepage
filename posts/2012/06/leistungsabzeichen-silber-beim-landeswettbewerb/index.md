@@ -1,0 +1,13 @@
+---
+title: "Leistungsabzeichen SILBER beim Landeswettbewerb"
+date: 2012-06-10
+layout: post
+---
+
+Der diesjährige Landesfeuerwehrwettbewerb von Tirol wurde von der Feuerwehr Waidring (Bezirk Kitzbühel) veranstaltet und durchgeführt. Knapp 400 gemeldete Bewerbsgruppen nahmen beim Wettkampf um das Feuerwehrleistungsabzeichen in Bronze und Silber teil. Eine Gruppe der FF- Wenns stellte sich bereits ab Jänner das Ziel, am Bewerb um das begehrte Leistungsabzeichen in Silber anzutreten. Über 30 Bewerbsproben und die Teilnahme bei zwei Vorbereitungswettbewerben wurden in den letzten fünf Monaten absolviert. Nach dem erfolgreichen Start um das FLA in Bronze am Samstag um 08:11 Uhr stand die Gruppe Wenns im Durchgang um das Abzeichen in Silber um 09:37 Uhr neuerlich am Start. Beim Silbernen Leistungsabzeichen muss jeder der neun Mann starken Gruppe alle Positionen vom Gruppenkommandant bis zum Schlauchtruppmann bewältigen und durchführen können. Wenige Minuten vor dem Start werden dabei die Positionen gezogen und alle Gruppenmitglieder bestreiten mit der neuen Gruppenzusammenstellung den Bewerb. Die fleißigen Vorbereitungen haben sich gelohnt und die Gruppe der Feuerwehr Wenns konnte das Leistungsabzeichen in Silber erfolgreich erringen und platzierte sich dabei im Mittelfeld der Wertung.
+Der 50. Tiroler - Landeswettbewerb im Jubiläumsjahr 2012 wurde von unserem Mitglied, Abschnittskommandant und Landesbewerbsleiter LBL ABI Fadum Siegfried als Hauptbewerter geleitet. Die Mitglieder der Silber-Gruppe 2012 unter Röck Michael bedankt sich bei allen für die super Unterstützung während der Vorbereitung und bedankt sich auch bei der Feuerwehr Waidring und den Anrainern für die nette Gastfreundlichkeit.
+BRONZE - Gruppe:
+Neuner Peter (Gkdt.), Gabl Thomas (Melder), Hechenberger Philipp (Maschinist), Stoll Christoph (1er),  Scheiber Lukas (2er), Wille Lukas (3er), Larcher Markus (4er), Röck Michael (5er), Krug Martin (6er)
+SILBER - Gruppe:
+Krug Martin (Gkdt.), Röck Michael (Melder), Stoll Christoph (Maschinist), Larcher Markus (1er),
+Neuner Peter (2er), Hechenberger Philipp (3er), Wille Lukas (4er), Gabl Thomas (5er), Scheiber Lukas (6er)

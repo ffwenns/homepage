@@ -1,0 +1,15 @@
+---
+title: "Ölaustritt Bereich Klärwerk"
+date: 2015-06-02
+layout: post
+---
+
+Mittels Pager - Kommandoschleife wurde die FF Wenns am Montagabend den 01. Juni um 19:58 Uhr zu einem Treibstoff- Ölaustritt auf einen Feldweg im Bereich des Klärwerk Pitztal alarmiert. Die Kameraden könnten den massiven Ölaustritt erfolgreich binden und somit einen weiteren Umweltschaden verhindern. Nach rund einer Stunde konnte der Einsatz erfolgreich beendet werden.
+
+ 
+Im Einsatz:
+RF-A und TLFA 2000 mit 5 Mann
+Einsatzleiter: LM Markus Larcher
+Polizei Wenns mit 1 Fahrzeug und 2 Mann
+
+Danke an die Polizei Wenns für die stets gute Zusammenarbeit!

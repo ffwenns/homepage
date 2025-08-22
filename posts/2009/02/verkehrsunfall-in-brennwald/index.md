@@ -1,0 +1,11 @@
+---
+title: "Verkehrsunfall in Brennwald"
+date: 2009-02-13
+layout: post
+---
+
+Am 13.02.2009 um ca. 01:00 Uhr in der Nacht fuhr ein PKW Richtung St.Leonhard. Bei einer starken Linkskurve in Brennwald (Ortsteil von Wenns) verlor der Fahrer die Herrschaft über sein Fahrzeug und durchstieß den angrenzenden Zaun. Der PKW stürzte über die ca. 5 Meter hohe Mauer und blieb am darunter stehenden Haus seitlich hängen.
+
+Die alarmierten Mitglieder kontrollierten ob Öl oder andere Flüssigkeiten ausgetreten sind.
+
+Nach einer halben Stunde rückten die Kameraden wieder in das Gerätehaus ein.

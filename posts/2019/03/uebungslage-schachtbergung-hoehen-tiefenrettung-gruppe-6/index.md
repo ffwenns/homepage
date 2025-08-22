@@ -1,0 +1,15 @@
+---
+title: "Übungslage: \"Schachtbergung\" Höhen- Tiefenrettung Gruppe 6"
+date: 2019-03-14
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2603567123051730"
+---
+
+Am gestrigen Dienstag den 12. März konnte die Gruppe 6 eine Schachtbergung mittels Atemschutz beüben. Übungsannahme war, dass eine Person im Schacht aus unbekannter Ursache das Bewusstsein verlor und somit geborgen werden musste.
+In dieser unklaren Situation benötigt es schweren Atemschutz der Umluft-unabhängig und somit den Retter extern mit Sauerstoff versorgt. Nach kurzer Zeit gelang es dem Atemschutztrupp die Person mittels Schleifkorbtrage zu Bergen.
+Nach rund 1 Stunde konnte die Übung erfolgreich beendet werden!
+
+Details:
+Übungsleiter: Zkdt. OBM Robert Krug
+Bericht: PP/ÖA-Team
+Fotos: TD/ÖA-Team

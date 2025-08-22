@@ -1,0 +1,8 @@
+---
+title: "Brandmeldealarm im GH Pitztalerhof"
+date: 2016-12-10
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1326562244085564"
+---
+
+Mittels Pager - Sammelruf wurde die FF Wenns heute am frühen Samstagabend den 10. Dezember um 18:54 Uhr zu einem Brandmeldealarm zum GH Pitztalerhof alarmiert. Nach Kontrolle vor Ort, stellte sich ein Täuschungsalarm - ausgelöst durch Wasserdampf heraus. Nach Rückstellung der Anlage und Kontrolle rückte die Mannschaft wieder in das Gerätehaus ein.

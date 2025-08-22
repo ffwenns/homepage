@@ -1,0 +1,17 @@
+---
+title: "Monatliche Maschinistenübung Thema Ansaugen über TLF und Seilwinde RF"
+date: 2019-09-03
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/3028333720575066"
+---
+
+Monatliche Maschinistenübung Thema Ansaugen über TLF und Seilwinde RF --
+
+Am heutigen ersten Dienstag im Monat den 03.September fand die bereits fünte Maschinistenübung im heurigen Jahr statt. Bei der Übung wurden die Thematiken "Ansaugen mittels TLF" beim Pillerbach sowie die Handhabung und Bedienung der Seilwinde des Rüstfahrzeuges beübt. Im Zuge der Übung konnte auch das neue Kettengehänge getestet werden. Bei der Übung beteiligten sich 16 Maschinisten und Kraftfahrer der FF Wenns. 
+
+Bei der Übung:
+TLFA 2000, RFA und LFA mit 16 Mann
+Übungsleiter: HLM Siller Martin und OBI Gundolf Stefan
+
+Bericht und Fotos: ÖA Team FF Wenns
+(LS, MS, ML)

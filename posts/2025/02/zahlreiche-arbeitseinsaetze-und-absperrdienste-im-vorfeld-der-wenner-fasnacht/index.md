@@ -1,0 +1,12 @@
+---
+title: "Zahlreiche Arbeitseinsätze und Absperrdienste im Vorfeld der Wenner Fasnacht"
+date: 2025-02-13
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1005343108294808"
+---
+
+Am kommenden Wochenende findet die Wenner Fasnacht statt. Rund 70 Feuerwehrler der FF Wenns sind aktiv beim Umzug mit dabei. Parallel stehen rund 20 Mann im Verkehrsdienst im Einsatz und sind mit einer Einsatzmannschaft auch für die Sicherheit unserer Bevölkerung Einsatzbereit. Unterstützung erhalten wir am Sonntag den 16.02. und Montag den 17.02. von unseren Nachbarfeuerwehren Freiwillige Feuerwehr Jerzens, Freiwillige Feuerwehr Arzl im Pitztal, Freiwillige Feuerwehr Wald im Pitztal, Freiwillige Feuerwehr Leins, Freiwillige Feuerwehr Zaunhof und der Freiwilligen Feuerwehr Piller. Zusätzlich erfolgt eine Parallelalarmierung der FF Jerzens und FF Arzl im Einsatzfall.
+
+Seit dem 06. Jänner leistete die FF Wenns bei rund 10 Verkehrsdiensten und Brandsicherheitswachen eine Hilfeleistung für die Wenner Fasnacht.
+
+Herzlichen Dank an all unsere Feuerwehrfrauen und Männer und VIELEN DANK an unsere Nachbarfeuerwehren für die perfekte Unterstützung und Zusammenarbeit. Danke auch an die Behörden und an die Polizei Wenns.

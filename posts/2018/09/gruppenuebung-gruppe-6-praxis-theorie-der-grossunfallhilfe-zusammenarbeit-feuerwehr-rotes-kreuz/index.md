@@ -1,0 +1,20 @@
+---
+title: "Gruppenübung Gruppe 6 Praxis & Theorie der Großunfallhilfe - Zusammenarbeit Feuerwehr Rotes Kreuz -"
+date: 2018-09-04
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2228126320595814"
+---
+
+Am gestrigen Montag Abend konnte die Gruppe 6 unter OBM Robert Krug die Grundlagen der Großunfallhilfe in Praxis & Theorie besprechen und beüben.
+Dabei war auch das Rote Kreuz mit 3 Mann und 1 Fahrzeug vertreten.
+Die Kameraden des Roten Kreuzes leiteten die Übung mit der Besprechung des theoretischen Teils ein. Dabei wurden alle wichtigen Eckpunkte in der Zusammenarbeit der beiden Blaulichtorganisationen besprochen.
+Im Anschluss konnten beide Organisationen miteinander das gelernte in die Praxis umzusetzen und ein Übungsszenario mit eingeklemmter Person nachstellen.
+Neben der medizinischen Versorgung & Betreuung konnte die Feuerwehr Wenns die eingeklemmte Person von der schonendsten bis zur Crash-Bergung immer mit Bravour befreien.
+Nach rund 3 Stunden konnte die Übung beendet werden - und wieder einmal zeigte sich Übung macht den Meister so auch bei gemeinsamen Übung mit anderen Blaulichtorganisationen 
+Ein großes Dankeschön an dieser Stelle an das Rote Kreuz Imst mit Peter Schranz, Peter Gabl und Feuerwehrpaten Gottlieb Meitinger für den Einblick in das Einsatzgeschehen des Roten Kreuzes sowie für die äußerst lehrreiche und tolle Gemeinschaftsübung. 
+
+Details:
+15 Mann FF-Wenns mit RFA
+3 Mann Rotes Kreuz Imst mit RTW
+
+Fotos: ÖA-Team der FF-Wenns: Hafner/Donner

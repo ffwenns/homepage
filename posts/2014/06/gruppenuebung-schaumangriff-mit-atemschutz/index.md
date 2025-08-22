@@ -1,0 +1,7 @@
+---
+title: "Gruppenübung Schaumangriff mit Atemschutz"
+date: 2014-06-14
+layout: post
+---
+
+Am Freitag den 13. Juni 2014 wurde im Recyclinghof Wenns ein Schaumangriff mit Atemschutz (TLF, LF) durchgeführt. Hierbei wurde als Brandobjekt ein alter Container entzündet der von den zwei Atemschutztrupps mittels Schaumangriff gelöscht werden musste. Die Atemschutztrupps legten darauf hin einen Schaumteppich über das Brandobjekt und um das umliegende Gelände um eine Brandausweitung zu verhindern. Die Konsistenz dieses speziellen Löschs Schaums ist biologisch abbaubar und wird nach zirka drei Tagen vollkommen vom Boden absorbiert. Zeitgleich fand im Gerätehaus eine Übung der Feuerwehrjugend statt. Nach rund 2 Stunden konnten die Übungen beendet werden und alle Fahrzeuge ins Gerätehaus einrücken.

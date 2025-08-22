@@ -1,0 +1,8 @@
+---
+title: "Technischer Schulungsabend der Gruppe 2"
+date: 2017-11-11
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1769047873170330"
+---
+
+Einen Schulungsabend mit dem Rüstfahrzeug hielt am gestrigen Freitagabend den 10. November die Gruppe 2 / Raich Otto ab. Dabei wurden von Gkdt. und RF - Beauftragten LM Gundolf Stefan 1 die einzelnen Gerätschaften erklärt und gemeinsam beübt. Nach rund eineinhalb Stunden ging der lehrreiche Schulungsabend zum gemütlichen Teil über...

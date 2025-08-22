@@ -1,0 +1,13 @@
+---
+title: "Jugendübung Thematik Löschschaum"
+date: 2020-06-26
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/4047239978684430"
+---
+
+Am heutigen Freitag den 26. Juni konnte unsere Feuerwehrjugend eine Übung zum Thema Löschschaum abhalten. Dabei wurde die nötigen Armaturen zuerst theoretisch besprochen und dann in der Praxis beübt.
+Neben der Übung waren unsere aktiven Feuerwehrmitglieder immer noch beim Einsatz LKW Bergung beschäftigt.
+Nach rund 1,5 Stunden konnte die Jugendgruppe um die Jugendbetreuern HLM Andreas Bregenzer und LM Fabian Eiter wieder ins Gerätehaus einrücken. 
+
+Bericht: PP/ÖA-Team
+Fotos: FE/FJ

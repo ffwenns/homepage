@@ -1,0 +1,11 @@
+---
+title: "Gemeldete Tierrettung im Oberdorf"
+date: 2015-06-30
+layout: post
+---
+
+Am Dienstag den 30. Juni wurde das Kommando der FF Wenns um 18:15 Uhr zu einer Tierrettung zu einem Einfamilienhaus in das Oberdorf alarmiert. Das Tier war in der Zwischendecke des Dachstuhles eingeschlossen und konnte nach einer Zugangsöffnung und Entfernung der Holzverbauung befreit werden. Nach rund einer Stunde konnte der Einsatz beendet werden.
+
+Im Einsatz:
+FF Wenns mit MTF-A und RF-A und 4 Mann
+Einsatzleiter: Lukas Scheiber

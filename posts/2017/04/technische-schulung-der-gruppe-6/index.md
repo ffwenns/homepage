@@ -1,0 +1,8 @@
+---
+title: "Technische Schulung der Gruppe 6"
+date: 2017-04-02
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1493043504104103"
+---
+
+Eine Schulung mit dem Rüstfahrzeug hielt gestern am Samstagabend die Gruppe 6 ab. Dabei wurde mit den zehn anwesenden Gruppenmitgliedern zahlreiche Technischen Gerätschaften besprochen. Nach rund zwei Stunden ging die lehrreiche Übung zum gemütlichen Teil über.

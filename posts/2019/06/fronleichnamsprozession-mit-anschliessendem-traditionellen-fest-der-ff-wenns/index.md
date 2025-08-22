@@ -1,0 +1,20 @@
+---
+title: "Fronleichnamsprozession mit anschließendem traditionellen Fest der FF-Wenns"
+date: 2019-06-21
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2834220036653103"
+---
+
+Am gestrigen Feiertag zu Fronleichnam (20. Juni) konnte eine starke Mannschaft der FF-Wenns bei der feierlichen Prozession teilnehmen. 
+Bei sonnig bis leicht bewölktem Wetter konnten anschließend alle teilnehmenden Vereine sowie alle Umzugsteilnehmer das traditionelle Fronleichnamsfest der Feuerwehr Wenns besuchen. 
+Vor Beginn der Feierlichkeiten konnte die Schützenkompanie Wenns mehrere Ehrungen vornehmen und anschließend eine Ehrensalve zur Feier der geehrten sowie auch für unser neues Ehrenmitglied ABI Siegfried Fadum, feierlich schießen.
+
+Anschließend rund um die Mittagszeit wurden unsere zahlreichen Besucher mit Wienerschnitzel und anderen Köstlichkeiten wie diverse Sorten leckerer Kuchen verwöhnt.
+Nach einem kurzen Gewitter konnte dennoch die Sonne durchblicken und das Fest gemütlich ausklingen lassen
+
+Großes Vergelts Gott an alle Helfer/innen beim Auf-/Abbau, den Kellnerinnen, Kuchenpersonal und Kuchenbäckerinnen sowie allen Mitwirkenden speziell unserer Feuerwehrjugend ohne all jene das Fest in dieser Form wohl nicht möglich gewesen wäre.
+
+Anbei die Bilder, welche bekanntlich mehr als 1.000 Worte sprechen...
+
+Bericht: PP/ÖA-Team
+Fotos: FH/MS/LS/MR/ÖA-Team

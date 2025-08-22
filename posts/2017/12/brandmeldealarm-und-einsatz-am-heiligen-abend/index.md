@@ -1,0 +1,10 @@
+---
+title: "Brandmeldealarm und Einsatz am Heiligen Abend"
+date: 2017-12-24
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1828848983856885"
+---
+
+Am heutigen Heiligen Abend um 16:50 Uhr wurden die Pagerträger der FF Wenns sowie die Kameraden der FF Arzl zu einem neuerlichen Brandmeldealarm in das GH Pitztalerhof alarmiert. Es handelte sich um keinen Notstand, ein Technischer Defekt eines neuen Melders löste den Alarm aus.
+
+Da zwei ATS - Geräte des Löschfahrzeuges seit dem gestrigen Einsatz defekt und bei der Reparatur sind, wurde von der Leitstelle Tirol die Freiwillige Feuerwehr Arzl im Pitztal mittels TLF mitalarmiert. Da es sich um einen Technischen Defekt handelte, sowie die FF Wenns die Lage bereits erkundete, konnte die Nachbarfeuerwehr Arzl den Einsatz auf Anfahrt beenden. Wir bedanken uns für den Einsatz und wünschen allen Kameraden, Gemeindebürger und Gästen noch ein friedvolles und schönes Weihnachtsfest.

@@ -1,0 +1,14 @@
+---
+title: "Brandmeldealarm örtlicher Hotelbetrieb"
+date: 2023-08-19
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/661669769328812"
+---
+
+Um 04:12 Uhr in der Nacht wurde die FF Wenns am heutigen 19.August mittels Pager zu einem Brandmeldealarm in einem örtlichen Hotelbetrieb alarmiert. Die Anlage löste durch verbotenes Rauchen im Zimmer aus. Nach Kontrolle der Räumlichkeiten vor Ort konnten wir den Einsatz nach rund zehn Minuten beenden und wieder in die Halle einrücken. 
+
+Im Einsatz:
+ Pager / Sammelruf (BMA) 
+ KDOFA, TLFA 2000 und LFA mit 17 Mann 
+ Einsatzleiter: Kdt. BV Lukas Scheiber
+ SD,LS / ️ SL - ÖA Team FFW

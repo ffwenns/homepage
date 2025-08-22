@@ -1,0 +1,15 @@
+---
+title: "Wasserschaden Tiefgarage - Wohnanlage in Brennwald"
+date: 2023-12-22
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/732124492283339"
+---
+
+Mittels Pager-Kleineinsatzschleife wurden wir gestern am 21.12.2023 um 18:15 Uhr zu einem Wasserschaden in eine Tiefgarage einer Wohnanlage in Brennwald alarmiert. Die Tiefgarage stand durch die Regenmengen und einem verlegten Sickerschacht rund 20cm unter Wasser. Nachdem der Schacht ausgepumpt und von unserem Kamerad und Klärwerk Mitarbeiter freigemessen wurde, konnte das Problem im Anschluss im Schacht vorerst behoben werden. Parallel wurde die Tiefgarage mittels zwei Tauchpumpen und einem Nasssauger ausgepumpt. Nach rund zwei Stunden rückte die FF Wenns wieder ein. 
+
+Im Einsatz:
+ Pager - Kleineinsatzschleife
+ KDOFA, RFA, TLFA und LFA mit 24 Mann 
+ Einsatzleiter: Kdt. BV Lukas Scheiber
+
+ DS, SG, LS - ÖA Team FF Wenns

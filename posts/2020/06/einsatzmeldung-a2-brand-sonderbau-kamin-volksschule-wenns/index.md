@@ -1,0 +1,22 @@
+---
+title: "Einsatzmeldung: A2-Brand Sonderbau Kamin: Volksschule, Wenns"
+date: 2020-06-09
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/3974900619251700"
+---
+
+Am gestrigen Dienstag den 09. Juni wurde die FF-Wenns mittels Sirenenalarmierung und Pager Sammelruf um 23:41 Uhr zu einem Brandgeschehen im Kamin der Volksschule Wenns alarmiert. Der Melder, ein besorgter Autofahrer, meldete eine starke Rauchentwicklung mit Brandgeruch. Nach raschester Ausrückzeit wurde das Gebäude vor unserer Feuerwehrhalle von außen durch den Einsatzleiter erkundet. Nach einiger Zeit war es den Einsatzkräften auch möglich, einen Schlüssel zu bekommen, um ins Gebäudeinnere zu gelangen und den Täuschungsalarm mittels Kontrolle des Atemschutztrupps zu bestätigen. Als mögliche Ursache wird eine Rauchverpuffung im Kamintrakt vermutet, da nach der Kontrolle auch mit der Wärmebildkamera kein Brandgeschehen erkannt werden konnte. 
+Nach rund 30 Minuten und dem bestätigten Fehlalarm rückten die Einsatzorganisationen wieder ab. 
+
+Details:
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+FF Wenns mit 62 Mann
+TLFA mit 9 Mann
+LFA mit 9 Mann
+MTFA mit 9 Mann
+Fußmannschaft / Bereitschaft bestehend aus 35 Mann
+Rotes Kreuz Imst mit 1 Fahrzeug/2 Mann
+Polizei Wenns mit 1 Fahrzeug/2 Mann
+
+Bericht: PP/ÖA-Team
+Fotos: FH/LS/ÖA-Team

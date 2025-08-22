@@ -1,0 +1,21 @@
+---
+title: "Fahrzeugbergung L16-Pitztaler-Landesstraße"
+date: 2020-07-27
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/4188491461225947"
+---
+
+Am heutigen Montag, den 27. Juli 2020 wurde um 18:29 Uhr die FF-Wenns via Pager Kommandoschleife zu einer Fahrzeugbergung auf der L16 im Ortsteil St. Margarethen alarmiert.
+Vor Ort wurde ein Fahrzeug, welches von der Fahrbahn abkam und rund 40 Meter abstürzte, vorgefunden.
+Nach Eintreffen vom Abschleppunternehmen Fa. Haim (Zams) konnte die FF-Wenns das weitere abzustürzen drohende Fahrzeug sichern und bei der Bergung unterstütztend mitwirken.
+Die L16-Pitztaler-Landesstraße musste für die Dauer von ca. 45 min komplett gesperrt werden. 
+Der Lenker des KFZ blieb wie durch ein Wunder unverletzt, dennoch wurde im KH Zams eine dementsprechende Kontrolle vorgenommen. Nach rund einer Stunde konnte die L16 wieder durch die Exekutive freigegeben werden. Anschließend konnte die FF-Wenns nach erfolgreichem Abschluss von Einsatz-Nummer 52 im Jahr 2020 wieder ins Gerätehaus einrücken 
+
+Details:
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+RFA und MTFA mit 10 Mann 
+Polizei Wenns mit 1 Fahrzeug und 2 Mann 
+Abschleppunternehmen Fa. Haim, Zams 
+
+Bericht: PP/ÖA-Team
+Fotos: LS/MS/ÖA-Team, Privat

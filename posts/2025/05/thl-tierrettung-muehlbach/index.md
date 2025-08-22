@@ -1,0 +1,16 @@
+---
+title: "THL Tierrettung - Mühlbach"
+date: 2025-05-25
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1081390904023361"
+---
+
+Um 06:23 Uhr wurde die FF Wenns am heutigen Sonntagmorgen, den 25.Mai 2025 mittels Pager Kleineinsatz zu einer Tierrettung in das Ortsteil Mühlbach alarmiert.
+
+Ein Schaf hat sich in einem Felsdurchsetzten und steilen Gelände verstiegen und drohte abzustürzen.
+
+Die Mannschaft sicherte sich mittels Sitzgurt und Abseilgerät und konnte das Tier gesichert und unverletzt aus der misslichen Lage befreien und dem glücklichen Besitzer übergeben.
+
+Im Einsatz:
+ KDOFA, RFA und MTFA mit 15 Mann/Frau 
+ Einsatzleiter: Kdt. BV Lukas Scheiber

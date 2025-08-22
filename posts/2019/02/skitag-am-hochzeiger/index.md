@@ -1,0 +1,12 @@
+---
+title: "Skitag am Hochzeiger"
+date: 2019-02-04
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2522409467834163"
+---
+
+Am vergangenen Samstag den 01. Februar luden die Hochzeiger Bergbahnen zu einem Skitag, am Hochzeiger als Dankeschön zum Wasserschaden Einsatz im Pitz Park zu Weihnachten 2018, ein. Zahlreiche Kameraden der FF-Wenns konnten dieser Einladung dankend folgen und genossen den Tag bei anfänglichem Kaiserwetter und frischem Neuschnee auf den Pisten.
+Ein herzliches Dankeschön an die Hochzeiger - Pitztal für diese nette Geste in Form des Skierlebnisses mit Stärkung im Restaurant! 
+
+Fotos: Kdt. HBI Lukas Scheiber
+Bericht: ÖA-Team der FF-Wenns

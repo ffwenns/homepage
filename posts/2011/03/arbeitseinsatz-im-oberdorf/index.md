@@ -1,0 +1,7 @@
+---
+title: "Arbeitseinsatz im Oberdorf"
+date: 2011-03-06
+layout: post
+---
+
+Zwei Jahre vor der Fasnacht fand in Wenns die Auskehr statt. Mehrere Fasnachtsgruppen zogen vom Oberdorf in das Unterdorf und die FF Wenns stand dabei beim Straßendienst im Einsatz. Neben der Umleitung der L17 Piller Landesstraße wurde auch auf der L16 Pitztal Landesstraße der Straßendienst durchgeführt. Weiters standen die Kameraden auch bei der Brandsicherheitswache bis 18:00 Uhr im Einsatz.

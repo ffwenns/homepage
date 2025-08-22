@@ -1,0 +1,14 @@
+---
+title: "Ankunft und Übernahme des Abbildes des Hl. Florians (Schutzpatron der Feuerwehr)  dem WENNER FLORIAN"
+date: 2021-11-01
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6461407627267641"
+---
+
+Bereits seit langem besteht das Bedürfnis, eine Florianstatue für unsere Feuerwehr ortsbezogen zu haben. Verschenkt wird das Abbild des Hl. Florians bei unserer Feuerwehr nur zu besonderen Anlässen (in der Variante Natura). Dies bedeutet, wenn ein Kamerad/eine Kameradin vom Aktivstand mit 65. Jahren in den Reservestand (Feuerwehrpension) wechselt, oder kirchlich heiratet und dort die Feuerwehr offiziell einladet. Also kurz gesagt, wirklich nur für die höchst besonderen Anlässe. Bereits seit längerem fanden unter Kommandant HBI Lukas Scheiber und Schnitzer Benjamin Gabl, aus Wald Gespräche statt über die Modellierung eines Wenner Florians. Nach einer Besichtigung vor Ort durch den Ausschuss mit dem Kommando wurden die letzten ortsbezogenen Merkmale verfeinert und modelliert. Einige Monate später konnte Gabl Benjamin dem Kommando das Endresultat präsentieren und überreichen. Die offizielle Übergabe mit dem ersten Schwung der Wenner Florianis konnte am Donnerstag, den 28. Oktober 2021 erfolgen. Dabei wurden drei verschiedene Versionen der Feuerwehr übergeben (1. Form Natura (Zirbenholz), 2. Form Bemalen, 3. Form Bemalen und in Gold gefasst). Alle sind sichtlich begeistert vom ortsbezogenen Wenner Florian der durch seine Einzigartigkeit und perfekte Verarbeitung besticht. Die Ortsverbundenheit kann zum einen durch das Gemeindewappen von Wenns geschnitzt mit dem Feuerwehr Korpsabzeichen einhergehen. Doch vielmehr ist es am rechten unteren Eck des Holzsockels Schloss Hirschberg, von dem zahlreiche Mythen und Gespräche in der Historie und immer noch zu finden sind. So gibt es nach wie vor bei der Wenner Fasnacht eine Wagenbaugruppe Hirschberg. Wirklich ein Spitze Hl. Florian Danke an Gabl Benjamin für die künstlerische Vollführung unseres Projektes! 
+Das Kommando der FF-Wenns 
+
+Schnitzer & Künstler: Gabl Benjamin Bildhauer
+
+Fotos: TD/ÖA-Team/Privat (BG)
+Bericht: PP/ÖA-Team

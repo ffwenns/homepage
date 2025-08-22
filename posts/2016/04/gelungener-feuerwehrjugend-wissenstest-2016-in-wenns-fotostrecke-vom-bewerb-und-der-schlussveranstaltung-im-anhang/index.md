@@ -1,0 +1,29 @@
+---
+title: "Gelungener Feuerwehrjugend Wissenstest 2016 in Wenns / Fotostrecke vom Bewerb und der Schlussveranstaltung im Anhang"
+date: 2016-04-03
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1081917515216706"
+---
+
+Der diesjährige Feuerwehrjugend - Wissenstest fand am 02. April 2016 im Gerätehaus und in der Volkschule in der Gemeinde Wenns statt.
+
+Rund 90 Teilnehmer aus den Jugendgruppen unseres Bezirkes nahmen an dieser Prüfung teil. Alle angetretenen Burschen und Mädchen der Feuerwehrjugend konnten den Wissenstest erfolgreich absolvieren und erzielten dabei hervorragende Leistungen. Für die Abzeichen in Bronze, Silber und Gold werden unter anderem die Themen wie Gerätekunde, Dienstgrade, Erste Hilfe, Planspiel, Knotenkunde, Exerzieren und Verhalten vor einer Gruppe, Funk sowie theoretische Fragen über das Feuerwehrwesen abverlangt. 
+
+Beim Rahmenprogramm welches von der Freiwilligen Feuerwehr Wenns mit Unterstützung des Jagdbogenverein durchgeführt wurde, konnten die Jugendlichen beim Bogenschießen ihre Genauigkeit unter Beweis stellen. Neben einer hervorragenden Verpflegung durch das Küchenteam der FF Wenns konnte man auch beim Kisten steigen die Prüfungszeiten überbrücken und für ein gelungenes Rahmenprogramm sorgen.
+
+Die Schlussveranstaltung fand im Anschluss an den Bewerb am Vorplatz des Gerätehauses der FF Wenns statt. Bezirks-Jugendsachbearbeiter BI Robert Unterlechner konnte dazu 
+
+- Bgm. OSR Walter Schöpf mit mehreren Gemeinderäten 
+- Landesjugendsachbearbeiter BI Auer Manfred 
+- AK Imst ABI Thomas Friedl 
+- AK Inntal ABI Roland Markert 
+- OBI Reheis Norbert, Kdt. Feuerwehr Wenns 
+- LBL a.D. ABI Siegfried Fadum 
+- sowie mehrere Kommandanten aus den Feuerwehren des Bezirkes begrüßen.
+
+Nach den Ansprachen der Ehrengäste fand die Preisverteilung vom Bogenschießen statt, bevor die Wissenstestabzeichen in Bronze, Silber und Gold an die Jugendlichen übergeben wurden.
+
+Ein herzlicher Dank ergeht an die Hauptorganisatoren OLM Bregenzer Andreas und LM Larcher Markus von der FF Wenns für die mustergültige Organisation und Abwicklung des Wissenstest 2016. Ein weiterer Dank ergeht an alle fleißigen Mithelfenden Kameraden der FF Wenns, vom Küchenteam bis zum Team beim Kisten steigen. Abschließend dürfen wir uns bei allen Bewertern, Betreuern, anwesenden Ehrengästen, beim Jagdbogenverein Wenns, bei allen Jugendfeuerwehrmitgliedern und bei der Firma Prantauer/Zams für den zur Verfügung gestellten Kran LKW recht herzlich bedanken.
+
+Fotos Breonix Foto + Design Chris Walch und FM Hafner Florian 
+Danke für die Fotos!

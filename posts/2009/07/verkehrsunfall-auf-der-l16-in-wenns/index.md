@@ -1,0 +1,7 @@
+---
+title: "Verkehrsunfall auf der L16 in Wenns"
+date: 2009-07-06
+layout: post
+---
+
+Während der Brandwache und der Nachlöscharbeiten vom Großbrand wurde die FF Wenns um 11:11 Uhr zu einem weiteren Einsatz mittels Pager und Sirene alarmiert. Die Meldung der Leitstelle Tirol lautete: SAMMELRUF Verkehrsunfall - eingeklemmte Person: Wenns L 016, Pitztalstraße Mehr als 20 Mann rückten mit allen 3 Fahrzeugen zum Verkehrsunfall zwischen Blons und Bieracker aus. Als Einsatzleiter fungierte Kdt. OBI Reheis Norbert. Die Aufgabe bestand darin, die verletzte Person zu befreien, den Unfallort abzusichern und das ausgeflossene Öl zu binden. Die verletzte Lenkerin des Fahrzeuges wurde mit Verletzungen unbestimmten Grades ins Krankenhaus eingeliefert. Nach rund zwei Stunde konnte der Einsatz beendet werden und die L16 Pitztaler Landesstraße wurde für den gesamten Verkehr wieder geöffnet.

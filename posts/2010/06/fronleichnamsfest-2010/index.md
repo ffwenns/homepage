@@ -1,0 +1,7 @@
+---
+title: "Fronleichnamsfest 2010"
+date: 2010-06-03
+layout: post
+---
+
+Am Donnerstag dem 03. Juni 2010 fand das traditionelle Fronleichnamsfest der Freiwilligen Feuerwehr Wenns beim Pavillon statt. Nach der Fronleichnamsprozession konnten wir wieder ein bestens besuchtes Fest abhalten. Sogar eine Weinverkostung der Firma Kattner aus Niederösterreich konnten die Besucher genießen. So hatten wir wieder ein schönes Fronleichnamsfest 2010!

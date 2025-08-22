@@ -1,0 +1,14 @@
+---
+title: "Erste Hilfe Übung Gruppe 8"
+date: 2022-01-24
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6995469170528148"
+---
+
+Am vergangenen Samstag, den 22. Jänner 2022 konnte die Gruppe 8 unter BM Daniel Weber I mit der ersten Übung ins neue Jahr starten. 
+Diesmal wurde das Wissen im Bereich der Erste Hilfe aufgefrischt und ausgebaut. Die speziell auf die Feuerwehr zugeschnittene Übung konnten unsere Mitglieder und zusätzlich freiwillige Rettungssanitäter Dominik Siller und Christopher Sailer vorbereiten und interessant vortragen - Danke dafür! 
+Mitunter wurden die Thematiken zum Druckverband, Spine Board, Rautek-Griff, Stabile Seitenlage, Helmabnahme, Fixierung bei einer Pfählung und vieles mehr beübt. 
+Nach rund eineinhalb Stunden konnte die erste Übung der Gruppe 8 im Jahr 2022 beendet werden.
+
+Fotos: DWI/NZ/PP/Gruppe 8 FF-Wenns
+Bericht: PP/ÖA-Team FF-Wenns

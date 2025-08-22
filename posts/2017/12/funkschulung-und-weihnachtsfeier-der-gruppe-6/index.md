@@ -1,0 +1,8 @@
+---
+title: "Funkschulung und Weihnachtsfeier der Gruppe 6"
+date: 2017-12-16
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1819067321501718"
+---
+
+Am gestrigen Freitagabend fand die letzte Übung der Gruppe 6 im Jahr 2017 statt. Dabei wurde von unserem Funkbeauftragten OLM Christoph Stoll eine Funkschulung abgehalten. Anschließend veranstaltete die Gruppe 6 unter Gkdt. OBM Robert Krug eine Weihnachtsfeier und ließ das arbeitsreiche Jahr 2017 gemütlich ausklingen.

@@ -1,0 +1,19 @@
+---
+title: "Gruppenübung - Fahrzeugabsturz mit Personenbergung"
+date: 2022-03-02
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7206012646140465"
+---
+
+Am heutigen Aschermittwoch, den 02. März 2022 hielt Gruppe 7 unter Grkdt. LM Florian Gabl eine weitere Übung ab. Dabei wurde ein Fahrzeugabsturz mit eingeschlossener Person simuliert und nachgestellt. 
+Ziel dieser Übung war es die Person aus dem Inneren des Fahrzeuges, über den Kofferraum, schonend und möglichst rasch zu bergen. Unter dem Einsatz von diversen Sicherungsgeräten wurde das Fahrzeug zuerst gesichert und mittels Spreizer die Öffnung des Kofferraums vergrößert. Anschließend konnte die Person mittels Schleifkorbtrage geborgen und abtransportiert werden. 
+Nach rund zwei Stunden wurde die Übung erfolgreich beendet. 
+
+ 
+
+Details:
+Gruppe 7 (LM Gabl Florian)
+RFA und LFA mit 9 Mann
+
+Fotos: FE/Gruppe 7 FF-Wenns
+Bericht: PP/ÖA-Team FF-Wenns

@@ -1,0 +1,13 @@
+---
+title: "Vorbereitungen Atemschutzleistungsprüfung"
+date: 2022-05-09
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7510219395719787"
+---
+
+Am kommenden Samstag findet die Atemschutzleistungsprüfung im Bezirk Landeck statt. Die FF Wenns ist dabei mit 2 Trupps in Silber vertreten. Seit mehreren Wochen wird fleißig geprobt. Ein großer Dank gilt den beiden Ausbildern LM Markus Folie und BM Weber Daniel 1.Wir wünschen den beiden Gruppen alles Gute für die Prüfung.
+
+ 
+
+Bericht: FH/ÖA-Team FF-Wenns
+Fotos: MG/FF-Wenns

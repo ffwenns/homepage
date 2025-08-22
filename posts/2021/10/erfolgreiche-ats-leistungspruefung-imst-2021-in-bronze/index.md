@@ -1,0 +1,22 @@
+---
+title: "Erfolgreiche ATS-Leistungsprüfung Imst 2021 in BRONZE"
+date: 2021-10-16
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6375216889220049"
+---
+
+Die FF-Wenns trat mit einem Trupp, am Samstag den 16. Oktober zur ATS-Leistungsprüfung in Bronze an, welche mit einem sehr guten Ergebnis abgelegt werden konnte. Neben einem theoretischen Teil (Fragen) musste der Trupp im Bereich der Menschenrettung, dem Innenangriff und der Gerätekunde sowie dem korrekten Anlegen eines Pressluftatmers, sein Können unter Beweis stellen. Aufrgund der längeren Pause beim Atemschutzbewerb aufgrund Covid-19 musste leider der Trupp ein wenig gedulden, doch nun ein sehr erfreuliches Ergebnis! 
+
+Ein großes Dankeschön ergeht an die Ausbilder und Helfer des Trupps LM Stefan Deutschmann, LM Florian Eiter, FM Christopher Sailer, BM Daniel Weber I;
+
+Teilnehmer:
+Stufe I Bronze:
+
+ FM Marco Gritsch (1er Atemschutztruppführer)
+ FM Philipp Dobler (2er Atemschutztruppmann 1)
+ FM Mathias Kirschner (3er Atemschutztruppmann 2)
+
+Wir gratulieren recht herzlich zur errungenen Leistung! Weiter so! 
+
+Fotos: CS/MG/DW/LS/FF-Wenns
+Bericht: PP/ÖA-Team

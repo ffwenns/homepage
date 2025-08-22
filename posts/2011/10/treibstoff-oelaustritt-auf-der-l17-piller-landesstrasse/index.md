@@ -1,0 +1,7 @@
+---
+title: "Treibstoff-/Oelaustritt: auf der L17 Piller-Landesstraße"
+date: 2011-10-05
+layout: post
+---
+
+Am Nachmittag des 05. Oktober um 15:12 Uhr wurde die Feuerwehr Wenns telefonisch zu einem Hydraulikölaustritt auf der L17 Piller Landesstraße, im Bereich des Hotel Tschirgantblick alarmiert. Daraufhin rückte die Feuerwehr Wenns aus um den Ölaustritt, den ein Fahrzeug verloren hat, zu binden. Es handelt sich um eine 20 Meter lange Ölspur welche von der FF Wenns nach rund einer Stunde beseitigt wurde.

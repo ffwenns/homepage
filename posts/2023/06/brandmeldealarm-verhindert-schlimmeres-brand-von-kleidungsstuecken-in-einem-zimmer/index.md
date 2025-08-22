@@ -1,0 +1,15 @@
+---
+title: "Brandmeldealarm verhindert Schlimmeres - Brand von Kleidungsstücken in einem Zimmer"
+date: 2023-06-09
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/622323933263396"
+---
+
+Während unserem Fronleichnamsfest wurden wir gestern um 10:37 Uhr primär mittels Pager - Sammelruf zu einem Brandmeldealarm in ein Hotelbetrieb alarmiert. Beim Eintreffen am Einsatzort erkundeten wir ein verrauchtes Zimmer, in dem Kleidungsstücke brannten (wurden auf einem Herd zum trocknen gelegt). Neben dem raschen Innenangriff mittels Atemschutz wurde der Brand gelöscht und das Zimmer mittels Überdruckbelüfter Rauchfrei gemacht. Durch die Brandmeldeanlage und den raschen Einsatz der FF Wenns wurde Schlimmeres verhindert und niemand verletzt. Nach rund einer halben Stunde rückten wir wieder in die FF Halle bzw. zu unserem Fronleichnamsfest ab. 
+
+Im Einsatz:
+KDOFA, TLFA 2000, LFA und RFA mit 40 Mann
+32 Mann im Mehrzwecksaal auf Bereitschaft
+Einsatzleiter: Kdt. BV Lukas Scheiber
+
+Fotos: PP, LS, DS, MS - ÖA Team FF Wenns

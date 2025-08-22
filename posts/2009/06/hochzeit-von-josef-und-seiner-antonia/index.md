@@ -1,0 +1,9 @@
+---
+title: "Hochzeit von Josef und seiner Antonia"
+date: 2009-06-13
+layout: post
+---
+
+Eine nicht alltägliche Standesamtliche Hochzeit fand heuer in Wenns statt. Unser Mitglied Josef Regensburger (Spurgers Seppl) heiratete am Fronleichnamstag seine Antonia. Nicht zu vergessen Seppl heiratete in der Feuerwehruniform "braun". Da die Prozession abgesagt wurde besuchte er zuvor noch das Fest und dann um 12:00 Uhr heirattete er im Standesamt der Gemeinde Wenns.
+
+Es gibt selten jemanden der mit der Uniform den Bund der Ehe schließt, darum freut sich die FF Wenns umso mehr und wünscht dem neuen "Paar" alles Gute für die Zukunft!

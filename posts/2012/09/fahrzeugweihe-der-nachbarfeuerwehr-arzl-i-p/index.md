@@ -1,0 +1,7 @@
+---
+title: "Fahrzeugweihe der Nachbarfeuerwehr Arzl i. P."
+date: 2012-09-02
+layout: post
+---
+
+Unsere Nachbarfeuerwehr Arzl im Pitztal konnte am Abend des 01. September das neue Einsatzfahrzeug ein Lastfahrzeug einweihen und offiziell in den Dienst stellen. Die Freiwillige Feuerwehr Wenns gratuliert recht Herzlich zum neuen Einsatzfahrzeug sowie zum gelungen Festabend. Die FF Wenns war mit 8 Kameraden (inkl. der Fahnenabordnung) bei der Einweihung in Arzl vertreten.

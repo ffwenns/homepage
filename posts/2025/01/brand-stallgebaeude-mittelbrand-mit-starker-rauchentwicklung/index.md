@@ -1,0 +1,22 @@
+---
+title: "Brand Stallgebäude – Mittelbrand mit starker Rauchentwicklung"
+date: 2025-01-08
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/979756904186762"
+---
+
+Am heutigen Dienstag, den 07. Jänner 2025 wurde um 15:20 Uhr die FF-Wenns via Sirene und Pager Sammelruf zu einem Brandgeschehen Stallgebäude in den Ortsteil Pitzenhöfe alarmiert. Parallel mitalarmiert war die FF-Imst mit der Drehleiter. Nach kürzester Zeit stellte sich heraus, dass sich im Stallgebäude noch Tiere befanden. Aufgrund der Wasserknappheit im Ortsteil wurde vom Einsatzleiter Wenns rasch die Nachbarfeuerwehr Jerzens nachalarmiert. Zeitgleich begannen zwei ATS Trupps der FF-Wenns unter Einsatz von schwerem Atemschutz mit der Tierrettung und Brandbekämpfung. Zwei Tiere wurden durch die Ersthelfer (gleichzeitig Mitglieder der FF-Wenns) in Sicherheit gebracht, drei weitere Tiere konnten durch den raschen Einsatz der Atemschutztrupps der FF-Wenns gerettet werden. Für ein Tier kam leider jede Hilfe zu spät und konnte nur mehr tot aufgefunden werden. Währenddessen wurde eine Zubringerleitung mittels Tragkraftspritze und rund 22 B-Längen (à 20 m) von der Wehranlage des Pitzebach zu den Tanklöschfahrzeugen aufgebaut und eingerichtet, da in diesem Ortsteil kein Hydrant zur Verfügung steht. Die eintreffenden Feuerwehren Imst und Jerzens führten die Nachlöscharbeiten durch und stellten den Atemschutzreserve-Trupp. Überwacht und dokumentiert wurde das gesamte Einsatzgeschehen durch eine eingerichtete Lagedarstellung. Durch den raschen Einsatz aller beteiligten Feuerwehren und Ersthelfer konnten fünf der sechs betroffenen Tiere gerettet werden, das Brandgeschehen schnell eingedämmt und schlimmeres verhindert werden. Personen kamen beim Brandgeschehen glücklicherweise keine zu Schaden. Nach rund einer halben Stunde wurde Brand Aus gegeben und der Einsatzort den Brandermittlern der Polizei übergeben, die Ermittlungstätigkeiten wurden weiterhin brandschutztechnisch abgesichert. Der Einsatz für die Feuerwehr Wenns konnte nach zwei Stunden beendet werden. 
+
+Details:
+ Einsatzleiter: Kdt. BV Lukas Scheiber
+ FF-Wenns: KDOFA, TLFA-2000, LFA, RFA, MTFA und Privat mit 52 Mann/Frau
+
+ FF-Jerzens: RLFA-2000, LFBA (Löschgruppe Ritzenried) mit 15 Mann
+ FF-Imst: KDOFA, TLFA 1, TLFA 2, DLK30 mit 22 Mann
+ Polizei mit 3 Fahrzeugen und 6 Mann/Frau
+ Brandermittler Polizei Bezirk Imst 
+ Rotes Kreuz Imst mit 3 Fahrzeugen und 6 Mann/Frau
+ Bürgermeister Wenns Patrick Holzknecht
+
+ Fotos: FH/DS/PP/ÖA-Team
+ Bericht: LS/PP/ÖA-Team

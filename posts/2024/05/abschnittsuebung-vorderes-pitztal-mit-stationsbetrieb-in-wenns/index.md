@@ -1,0 +1,38 @@
+---
+title: "Abschnittsübung „vorderes Pitztal“ mit Stationsbetrieb in Wenns"
+date: 2024-05-20
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/823473429815111"
+---
+
+Am vergangenen Samstagnachmittag, den 18.Mai 2024 organisierte die FF Wenns die Abschnittsübung „vorderes Pitztal“ in Wenns in Form eines Stationsbetriebes. Um 16:00 Uhr erfolgten die Alarmierungen der Feuerwehren aus Arzl, Wald, Leins, Jerzens und Wenns. Rund alle 45 Minuten wechselten die Feuerwehren mittels Alarm-E-Mail zur nächsten Übungsstation. 
+
+Station 1: Verkehrsunfall PKW gegen Motorrad - zwei Personen unter dem Fahrzeug eingeklemmt im Ortsteil Pitzenhöfe
+
+️Station 2: Höhen/Tiefenrettung – Versorgung und Bergung einer verletzten Person aus einem Schacht bei der Feuerwehrhalle
+
+Station 3: Holzerunfall – Person von mehreren Holzstämmen eingeklemmt, Anhänger droht abzustürzen – Forstweg Richtung Kielebergalm 
+
+Station 4: Brand Wohngebäude mit mehreren vermissten Personen und Rettung von Personen über tragbare Leitern im Ortsteil Bichl 
+
+Alle fünf Feuerwehren konnten die Übungen mit Bravour abarbeiten und die Übungsziele erreichen. Nach einer detaillierten Übungsbesprechung vor Ort, konnten die Stationen gewechselt werden. Um 19:30 Uhr folgte eine gesammelte Übungsbesprechung am Vorplatz der FF Halle, bevor die lehrreiche Abschnittsübung 2024 beendet wurde.
+
+Bei der Übung:
+FF Arzl i.P. mit TLFA 3000/100 und LFB mit 18 Mann
+FF Wald mit LFBAW und MTFA mit 15 Mann/Frau
+FF Leins mit KLFA und 9 Mann
+FF Jerzens mit RLFA 2000 und 9 Mann
+FF Wenns (Übungsmannschaft) mit KDOFA, TLFA 2000 und RFA und 20 Mann
+FF Wenns (Übungsvorbereiter und Beobachter auf allen Stationen inkl. Versorgung mit 24 Mann) 
+
+Gesamt: 95 Mann/Frau 
+
+Weiters bei der Übung:
+Bezirksfeuerwehrkommandant OBR Roland Thurner 
+Abschnittsfeuerwehrkommandant ABI Christian Melmer 
+Bezirksfeuerwehr-Schriftführer BV Lukas Scheiber
+Bezirksfeuerwehr-Kassier OV Johannes Tschuggnall
+
+BFK OBR Roland Thurner sowie AK ABI Christian Melmer gratulierten zum gelungenen Stationsbetrieb und allen Feuerwehren für ihren perfekten Übungseinsatz. Kdt. BV Lukas Scheiber bedankte sich abschließend bei allen Übungsvorbereiter und Beobachter recht herzlich und lud alle Anwesenden zu einem kameradschaftlichen Ausklang in die Feuerwehrhalle Wenns ein.
+
+SR, NR, LS, DS, FE

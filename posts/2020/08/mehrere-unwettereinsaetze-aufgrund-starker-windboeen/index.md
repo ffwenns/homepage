@@ -1,0 +1,17 @@
+---
+title: "Mehrere Unwettereinsätze aufgrund starker Windböen"
+date: 2020-08-10
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/4255191981222561"
+---
+
+Am heutigen Montag, den 10. August um 19:42 Uhr wurde die FF-Wenns via Pager Sammelruf zu einem abzudecken drohenden Dach gerufen. Aufgrund der orkanartigen anhaltenden Windböen drohte das Dach des Wirtschaftsgebäudes im Ortsteil Larchach abzudecken. Die FF-Wenns konnte das Dach rasch sichern und vorerst vor weitere Schäden bewahren.
+Um 20:05 Uhr wurde die Einsatzmannschaft zu einem weiteren Einsatz in den Ortsteil Brennwald alarmiert. Vor Ort stürtzte ein Baum auf die L16-Pitztaler Landesstraße. Der umgestürztze Baum konnte von der Landesstraße entfernt werden und der normale Verkehrsfluss wiederhergestellt werden.
+Nach rund 2 Stunden konnte die FF-Wenns alle Einsätze erfolgreich beenden und ins Gerätehaus einrücken. 
+
+Details:
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+RFA, TLFA-2000, LFA und MTFA mit rund 38 Mann
+
+Bericht: PP/ÖA-Team der FF-Wenns
+Fotos: CW/SG1/MS/FH/ ÖA-Team der FF-Wenns/Breonix Foto + Design Chris Walch

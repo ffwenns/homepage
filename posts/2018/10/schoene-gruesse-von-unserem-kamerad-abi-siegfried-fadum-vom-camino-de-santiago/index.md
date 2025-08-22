@@ -1,0 +1,12 @@
+---
+title: "Schöne Grüße von unserem Kamerad ABI Siegfried Fadum vom Camino de Santiago"
+date: 2018-10-09
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2285683261506786"
+---
+
+Viele Kilometer entfernt startet der Jakobsweg "Camino de Santiago".
+Von dort aus sendet uns, unser Kamerad ABI Siegfried Fadum schöne Grüße, natürlich ist er mit unserer neuen Freizeitjacke der FF-Wenns ausgerüstet und bestreitet den langen, oft schwierigen Jakobsweg.
+Bereits mehr als 400 km legte er bereits zurück, mehr als die Hälfte, nur noch ca. 300 km liegen vor ihm.
+Wir wünschen Alles Gute und viel Freude bei deiner weiteren Reise am Camino de Santiago, freuen uns auf zahlreiche Erzählungen von deinen Erfahrungen!
+Deine Feuerwehr Wenns

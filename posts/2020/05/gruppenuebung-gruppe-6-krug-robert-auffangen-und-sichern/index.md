@@ -1,0 +1,11 @@
+---
+title: "Gruppenübung Gruppe 6 Krug Robert - \"Auffangen und Sichern\""
+date: 2020-05-28
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/3925735997501496"
+---
+
+Am heutigen Donnerstag den 28. Mai konnte OBM Robert Krug mit seiner Gruppe verschiedene Abseiltechniken mit dem Rollgliss und dem 5-Punkt Gurt beüben. Der vorhandene Schlauchturm in der Feuerwehrhalle Wenns bot sich für diesen Zweck bestens an. Nach rund 1,5 Stunden wurde das Übungsziel erreicht und die Übung konnte erfolgreich beendet werden. 
+
+Bericht: PP/ÖA-Team
+Fotos: ÖA-Team

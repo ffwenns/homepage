@@ -1,0 +1,14 @@
+---
+title: "Verleihung der Landesverdienstkreuze und Lebensrettungsmedaillen auf Schloss Tirol"
+date: 2018-09-10
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2238162909592155"
+---
+
+"Tirols Landeshauptmann Günther Platter und Südtirols Landeshauptmann Arno Kompatscher überreichten heute bei einem Festakt auf Schloss Tirol bei Meran, Südtirol, die Landesverdienstkreuze und Lebensrettungsmedaillen an 54 ausgezeichnete Persönlichkeiten.
+Mutige Tirolerinnen und Tiroler gewürdigt
+Zudem wurden an zwölf BürgerInnen aus Tirol und Südtirol die Lebensrettungsmedaillen verliehen. Wir alle haben dieses eine Leben und somit ist es wohl die größte Tat, eben jenes zu schützen. Die Tirolerinnen und Tiroler, die heute mit der Lebensrettungsmedaille ausgezeichnet werden, haben durch beherztes und selbstloses Eingreifen ihre Mitmenschen vor schlimmerem Unheil oder gar dem Tod bewahrt, zeigt sich LH Platter beeindruckt. Diesen mutigen Tirolerinnen und Tirolern gilt unsere höchste Anerkennung! betonen LH Platter und LH Kompatscher unisono.
+Im Anschluss an den Festakt fand ein Empfang im Schlossgarten statt, bei dem alle Ausgezeichneten gebührend gefeiert wurden."
+Bericht / Fotos: Land Tirol/Frischauf
+
+Mit dabei ein wahrer Lebensretter Simon Neuner (Piller) der eine noch schlafende Familie auf einen Brand in ihrem Einfamilienhaus am 05. Juni in Wenns aufmerksam machte und diese somit retten konnte - Hut ab, ein großes Lob für diese Zivilcourage zu dieser Rettungsaktion!

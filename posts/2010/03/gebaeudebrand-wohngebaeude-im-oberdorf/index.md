@@ -1,0 +1,7 @@
+---
+title: "Gebäudebrand - Wohngebäude im Oberdorf"
+date: 2010-03-14
+layout: post
+---
+
+Mittels Sirenen- und Pageralarm wurden die Mitglieder der FF Wenns am Sonntag den 14. März 2010 um 18:23 Uhr zu einem Gebäudebrand ins Oberdorf gerufen. Die Meldung der Leitstelle Tirol lautete: SAMMELRUF Gebäudebrand Wohngebäude, Rauch aus dem Fenster, Wenns, Oberdorf 210. Sofort rückten über 45 Mann mit TLFA 2000 und LF zum Einsatzort aus. Da die Eingangstüre der alten Frau versperrt war, mussten wir über ein Fenster in das verrauchte Gebäude einsteigen. Der Grund war eine Rauchrückstauung des Ofens im Küchenbereich. Die alte Frau konnte sich in einem noch nicht verrauchten Raum in Sicherheit bringen. Die Mitglieder der FF Wenns kontrollierten den Ofen mittels Wärmebildkamera. Nachdem das Gebäude komplett Rauchfrei war rückten die alarmierten Einsatzkräfte wieder in das Gerätehaus ein.

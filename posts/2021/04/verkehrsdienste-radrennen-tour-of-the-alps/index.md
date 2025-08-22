@@ -1,0 +1,22 @@
+---
+title: "Verkehrsdienste  Radrennen \"Tour of the Alps\""
+date: 2021-04-21
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/5456667721074975"
+---
+
+Am gestrigen Dienstag, den 20. April (Nachmittag) als auch am heutigen Mittwoch, den 21. April (Vormittag) stand die Feuerwehr Wenns im Ortsgebiet im Einsatz zur Verkehrsregelung.
+Grund dafür ist das großangelegte Radrennen "Tour of the Alps", welches am Montag (19. April) in Brixen startete.
+Dabei tangierten die Sportler in der Etappe 2 (Start Innsbruck nach Feichten) erstmals die Gemeinden des vorderen Pitztals. Am darauffolgenden Tag wurden die Gemeinden erneut in der Etappe 3 (Start Imst nach Naturns) durchfahren. 
+Dabei wurden diverse Anhaltungen und Verkehrsregelungen im Ortsgebiet durchgeführt, um ein ungehindertes Rennen der Radfahrer zu ermöglichen.
+Ohne besondere Vorkommnisse seitens des Verkehrs konnten die Profi-Radsportler die Gemeinde Wenns passieren und sich einen schweißtreibenden Schlagabtausch um die ersten Plätze liefern.
+Nach jeweils rund einer Stunde konnte die Mannschaft der FF-Wenns wieder ins Gerätehaus einrücken. 
+
+Details
+Einsatzleiter: Kdt HBI Lukas Scheiber / Kdt. Stv. OBI Stefan Gundolf 
+MTFA, RFA, LFA mit jeweils 8 Mann
+Polizei Wenns
+mehrere Polizeieskorten (Motorräder und PKW) und Rettungsdienste sowie Crewmitglieder
+
+Bericht: PP/ÖA-Team
+Fotos: MS/SG/FE/MG/LS/CW/PP/FF-Wenns

@@ -1,0 +1,14 @@
+---
+title: "ÖFAST (Atemschutztest) all unserer 48 ATS-Geräteträger:innen"
+date: 2025-03-30
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1039583471537438"
+---
+
+Die 48 ATS-Geräteträger:innen der FF Wenns absolvierten gestern am Samstag, den 29. März 2025 zwischen 07:00 - 17:00 Uhr den alljährlich ÖFAST Atemschutztest.
+
+Das Wahnsinns stolze Ergebniss - 100% Anwesenheit und alle positiv bestanden. 
+
+Ein großer Dank ergeht an all unsere ATS Träger:innen für die pünktliche und vollzählige Teilnahme und dem Team rund um ATS Beauftragten LM Deutschmann Stefan und LM Eiter Florian für die Organisation und Abwicklung dieser wichtigen Überprüfung. Neben den Beauftragten waren OFM Sailer Christopher, OFM Donner Tobias und LM Siller Simon für den reibungslosen Ablauf zur Stelle.
+
+HERZLICHEN DANK EUCH ALLEN

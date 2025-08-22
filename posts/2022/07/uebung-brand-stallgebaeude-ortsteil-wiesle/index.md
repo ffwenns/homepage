@@ -1,0 +1,16 @@
+---
+title: "Übung \"Brand Stallgebäude\" Ortsteil Wiesle"
+date: 2022-07-16
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7841036062638117"
+---
+
+Am gestrigen Freitag den 15.Juli wurde eine weitere lehrreiche Übung durchgeführt. Im entlegenen Ortsteil Wiesle, wo neben dem längeren Anfahrtsweg auch kein Hydrantennetz besteht, wurde die Übungsannahme "Brand Stall" beübt. Neben dem Innenangriff mittels Atemschutz wurde auch eine rund 300m lange Zubringerleitung vom "Wiesler Bach" in nur 8 Minuten erfolgreich aufgebaut und angesaugt. Alles in allem, war es trotz Urlaubssaison, eine tolle und vorallem lehrreiche Übung.
+
+Bei der Übung:
+TLFA 2000 unter Gkdt. Zkdt. HV Patrick Pfefferle
+LFA unter Gkdt. LM Dominik Siller
+RFA unter Gkdt. Zkdt. BM Christoph Stoll
+
+Einsatzleiter: Kdt. Stv. OBI Stefan Gundolf
+35 Mann

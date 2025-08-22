@@ -1,0 +1,23 @@
+---
+title: "Nachruf - Herr HFM Hermann Schöpf \"Oacheler\""
+date: 2021-12-08
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6669347546473647"
+---
+
+In stiller Trauer nehmen wir Abschied von unserem langjährigen Mitglied Hauptfeuerwehrmann (HFM)
+Herr
+Hermann Schöpf
+ Oacheler
+09.05.1951 05.12.2021
+der am 05. Dezember im 71. Lebensjahr, versehen mit den hl. Sakrament, zu Gott heimgegangen ist. 
+
+Gedenkzeilen zur Historie: 
+Im April 1988 trat HFM Hermann Schöpf Oachelers Hermann im Alter von 36 Jahren der Freiwilligen Feuerwehr Wenns bei und war somit mehr als 33 Jahre ein treues Mitglied der FF-Wenns. Beim Landesfeuerwehrwettbewerb in Ischgl 1989 erwarb er das Feuerwehrleistungsabzeichen in Silber. Zahlreiche Jahre stand Hermann als aktiver Atemschutzgeräteträger im Einsatz für die Sicherheit der Wenner Bevölkerung.
+
+Lieber Hermann, deine jahrelange Mitgliedschaft bei unserer Feuerwehr sowie dein herzhaftes Lachen und Dasein erfüllen uns mit großer Dankbarkeit, Humor und Respekt. Stets warst du als originaler Wenner in unserer Mitte und hattest durch deine Art und Weise stets einen Witz auf Lager. Wir sind dankbar für deine Tätigkeiten um das Feuerwehrwesen in Wenns und deine treue Mitgliedschaft! Ruhe in Frieden! 
+
+GOTT ZUR EHR, DEM NÄCHSTEN ZUR WEHR!
+
+Im Namen der gesamten Mannschaft
+Das Kommando der Freiwilligen Feuerwehr Wenns

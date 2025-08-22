@@ -1,0 +1,26 @@
+---
+title: "Besuch bei unserer Partnerfeuerwehr Kaufering zum 150-jährigen Jubiläum"
+date: 2025-06-24
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1104305081731943"
+---
+
+Am vergangenen Wochenende besuchten wir mit einer 20-köpfigen Abordnung – von Jung bis Alt – unsere Freunde und Partnerfeuerwehr in Kaufering, um gemeinsam das 150-jährige Bestandsjubiläum zu feiern .
+
+Bei bestem Kaiserwetter ️ starteten wir die Anreise, die aufgrund des Ferienverkehrs etwas länger dauerte. Nach rund drei Stunden erreichten wir Kaufering. Dort folgte ein herzlicher Empfang bei der Schreinerei Zeit, bevor wir gemeinsam die Feuerwehrhalle der Freiwilligen Feuerwehr Kaufering besichtigten. Ein besonderes Highlight war die abkühlende Aussicht über Kaufering aus 30 Metern Höhe von der Drehleiter – ein Erlebnis, das vielen in Erinnerung bleiben wird .
+
+Zur weiteren Abkühlung bei hochsommerlichen Temperaturen ging es anschließend ins Schwimmbad – und auch der Lech bot eine willkommene Erfrischung . Am Abend feierten wir gemeinsam im Festzelt , wo bei Musik , Tanz und bester Stimmung viele alte Freundschaften gepflegt und neue geknüpft wurden .
+
+Der Sonntag begann feierlich mit dem gemeinsamen Festgottesdienst in Uniform . Im Rahmen des anschließenden Festakts überreichten wir unserer Partnerfeuerwehr unsere Gastgeschenke und die besten Glückwünsche der gesamten Feuerwehr Wenns zum stolzen 150-jährigen Bestehen .
+
+Auch abseits des offiziellen Programms bot das Wochenende viele Highlights : Wie zum Beispiel die Ausstellung der Feuerwehrfahrzeuge der FF-Kaufering u. a. Rettungsorganisationen (Wasserwacht etc.) sowie die Oldtimer-Ausstellung mit historischen Feuerwehrfahrzeugen, Traktoren und anderen Gefährten .
+
+Für viele unserer Kameradinnen und Kameraden – ob zum ersten oder wiederholten Mal in Kaufering – war es ein bewegendes und sehr eindrucksvolles Wochenende . Besonders erfreulich: Auch unsere jüngeren Mitglieder konnten neue Freundschaften schließen und die lange gelebte Partnerschaft aktiv miterleben .
+
+Zum Schluss bleibt uns nur noch eines zu sagen: Bilder sagen mehr als tausend Worte .
+Ein herzliches Dankeschön an unsere Freunde der Partnerfeuerwehr Feuerwehr Markt Kaufering, stellvertretend dafür an Tobi & Markus mit der gesamten Mannschaft für die großzügige Gastfreundschaft, die vielen netten Gespräche, das gemeinsame Lachen und das gemeinsame hochleben lassen unserer Partnerschaft – kurz gesagt: für ein rundum gelungenes und unvergessliches Wochenende .
+
+Wir freuen uns schon auf ein Wiedersehen – diesmal bei uns in Wenns! ️
+
+Eure Partnerfeuerwehr
+FF-Wenns

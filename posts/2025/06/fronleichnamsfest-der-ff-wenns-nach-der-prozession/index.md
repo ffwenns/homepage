@@ -1,0 +1,15 @@
+---
+title: "Fronleichnamsfest der FF Wenns nach der Prozession"
+date: 2025-06-17
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1098898645605920"
+---
+
+️
+Wir sind 365 Tage für euch da, seid ihr am Donnerstag, den 19. Juni für uns da - und besucht uns, bei unserem traditionellen Fronleichnamsfest im Mehrzwecksaal Wenns und Vorplatz.
+
+Für Speiß und Trank sowie tolle Unterhaltung wird bestens gesorgt. Kuchen und leckeren Schweinsbraten auch zum mitnehmen. 
+
+... der Wettergott meint es immer sehr gut mit uns - es wird eine traumhafte Prozession mit einem wunderbaren Fest im Anschluss ️️️️
+
+Eure FF WENNS

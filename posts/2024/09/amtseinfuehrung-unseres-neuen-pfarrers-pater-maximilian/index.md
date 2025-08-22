@@ -1,0 +1,14 @@
+---
+title: "Amtseinführung unseres neuen Pfarrers Pater Maximilian"
+date: 2024-09-15
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/896750052487448"
+---
+
+Am vergangenen Sonntag, den 08. September 2024, wurde in der Pfarrkirche Wenns die Amtseinführung von Pater Maximilian Schwarzbauer als Pfarrprovisor gefeiert. Ebenso wurde Pastoralassistent Harald Sturm mit der Leitung des Seelsorgeraumes Vorderes Pitztal beauftragt.
+
+Aus den beiden Gemeinden Wenns und Arzl kamen viele Mitbürger:innen um ihren neuen Pfarrer zu Begrüßen. Auch Fahnenabordnungen der Feuerwehren aus Arzl, Wald, Leins und Wenns, der Schützen aus Arzl, Wald und Wenns, der MK Arzl und Wenns sowie die Bürgermeister beider Gemeinden und die Pfarrgemeinde- und Pfarrkircheräte aller vier Kirchen, gaben der Feier einen würdigen Rahmen.
+
+Wir bedanken uns nochmals bei Pfarrer Saji für seine Zeit bei uns und gratulieren unserem neuen Pfarrer Pater Maximilian und Pastoralassistent Sturm Harald recht Herzlich zur Amtseinführung. Wir freuen uns auf eine gute Zusammenarbeit! 
+
+Fotos: Hans Muigg

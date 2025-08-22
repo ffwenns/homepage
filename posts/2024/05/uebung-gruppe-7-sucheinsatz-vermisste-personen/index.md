@@ -1,0 +1,16 @@
+---
+title: "Übung Gruppe 7 Sucheinsatz vermisste Personen"
+date: 2024-05-02
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/812190210943433"
+---
+
+Am heutigen Donnerstag, den 02. Mai 2024 hielt unsere Gruppe 7 unter dem frisch gebackenen Gruppenkommandanten LM Philipp Dobler eine Übung zum Thema Sucheinsatz ab. 
+Dabei wurde angenommen, dass Personen vermisst werden, anhand verschiedener Lagemeldungen galt es die Personen, unterteilt in mehrere Suchtrupps, zielführend wiederzufinden. Zeitgleich wurden sämtlich Informationen an die im Löschfahrzeug (LF) positionierte Lageführung übermittelt, welche die Übung detailgenau mit dokumentierte. ️
+Am Ende der Übung wurden die verschiedenen Informationen zusammengetragen, besprochen und vom Gruppenkommandanten Tipps und Tricks mitgegeben. Nach rund eineinhalb Stunden rückte die Gruppe 7 wieder ins Gerätehaus ein. 
+
+Details:
+10 Mann mit MTFA, LFA 
+
+Fotos: FE/PD/ÖA-Team 
+Bericht: PP/ÖA-Team

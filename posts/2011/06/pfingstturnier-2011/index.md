@@ -1,0 +1,7 @@
+---
+title: "Pfingstturnier 2011"
+date: 2011-06-13
+layout: post
+---
+
+Bei herrlichem Wetter und hervorragenden Bedingungen fand am Pfingstsonntag den 12. Juni das traditionelle Pfingstturnier der Wenner Vereine statt. Nach zwei Siegen, einem Unentschieden und zwei Niederlagen versäumte die Mannschaft der Feuerwehr Wenns, aufgrund eines schlechteren Torverhältnisses, den Einzug ins Finale nur knapp und platzierte sich schlussentlich im Mittelfeld. Es war wieder ein unfallfreies und vom Prinzenteam ein bestens organisiertes Vereinsfussballturnier.

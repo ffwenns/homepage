@@ -1,0 +1,7 @@
+---
+title: "Fahrer- und Maschinisteneinschulung"
+date: 2013-03-25
+layout: post
+---
+
+Am Samstag den 23. März hielt BM Robert Krug eine Kraftfahrer- und Maschinisteneinschulung ab. Unteranderem wurde ein Fahrsicherheitstrainining, diverse Fahrten durch das Ortsgebiet Wenns und eine Einschulung der maschinellen sowie technischen Armaturen abgehalten. Die Schulung meisterte OFM Georg Pfefferle mit bravur und wird in den nächsten Wochen noch weitere praktische Einschulungen absolvieren, um im April den viertägigen Maschinistenlehrgang an der LFS-Tirol mit Erfolg bestehen zu können. Die erste Einschulung konnte nach rund 2 Stunden erfolgreich beendet werden.

@@ -1,0 +1,17 @@
+---
+title: "Gruppenübung „Forstunfall“ Gruppe 6"
+date: 2022-08-11
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7957446867663702"
+---
+
+Am gestrigen Mittwoch, den 10. August beübte Gruppe 6 unter LM Dominik Siller einen Forstunfall mit eingeklemmter Person im Klausboden. Beim Eintreffen wurde rasch eine Sicherung mittels Stab Pack aufgebaut, kurz darauf wurden die Baumstämme mit dem Hebekissen angehoben um die eingeklemmte Übungsperson zu entlasten. ️ Zeitgleich wurden die Stämme unterbaut. Die Übungsperson konnte im Anschluss mit dem Spineboard geborgen werden. Nach rund eineinhalb Stunden konnte die Übung erfolgreich beendet werden. 
+
+Details:
+Grkdt. LM Siller Dominik
+RFA und MTFA mit 11 Mann
+
+ 
+
+Fotos: CW/FH/ÖA-Team/DS/FF-Wenns
+Bericht: FH/ÖA-Team

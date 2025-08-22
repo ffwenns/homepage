@@ -1,0 +1,13 @@
+---
+title: "Unterstützung andere Organisation - Drehleiterbergung"
+date: 2013-10-29
+layout: post
+---
+
+Am Dienstag den 29. Oktober um 09:01 Uhr wurde die Feuerwehr Wenns (Kommandoschleife) und die Feuerwehr Imst (Drehleiter) mit dem Einsatzgrund "Unterstützung andere Organisation, Disk Tankstelle Wenns" alarmiert. Nach einem Medizinischen Notfall wurde die Feuerwehr zur Unterstützung des Roten Kreuzes angefordert um diese bei den Bergungsmaßnahmen zu unterstützen. Mithilfe der Drehleiter der FF Imst konnte der Patient vom 2. Stock rasch geborgen und zur weiteren Behandlung ins Krankenhaus gebracht werden.
+Am Einsatzort:
+FF Wenns mit MTF-A und 4 Mann
+FF Imst mit KDO-F, DLK und MTF und 10 Mann
+Rotes Kreuz Imst
+Notarzt und FF-Arzt Dr. Christoph Unger
+Einsatzleiter: Kdt. OBI Reheis Norbert

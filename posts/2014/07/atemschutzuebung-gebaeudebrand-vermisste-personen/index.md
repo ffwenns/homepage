@@ -1,0 +1,11 @@
+---
+title: "Atemschutzübung \"Gebäudebrand vermisste Personen\""
+date: 2014-07-30
+layout: post
+---
+
+Am Freitagabend den 25. Juli hielten zwei Trupps der FF Wenns eine weitere Atemschutzübung im Ortsteil Brennwald ab. Bei der Übung wurde besonders auf die richtige Vorgehensweise bei einer Personen bzw. Tierbergung aus dem stark verrauchten Wirtschaftsgebäude gelegt. Die Trupps mussten neben der Brandbekämpfung die vermissten Personen auffinden und retten.
+
+ 
+
+Fotos: BM Krug Robert

@@ -1,0 +1,11 @@
+---
+title: "Aktive Feuerwehrjugend - weitere Feuerwehrübung letzten Freitag"
+date: 2020-08-25
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/4328901120518313"
+---
+
+Am vergangenen Freitag den 21. August 2020 konnte unsere Feuerwehrjugend eine weitere Übung im 2 wöchentlichen Rhythmus abhalten. Dabei konnten im Klausboden die beiden Jugendbetreuer den Jugendlichen die wasserführenden Armaturen näher bringen. Mit dem neuen LFA konnte eine Schlauchleitung aufgebaut und dementsprechend interessant besprochen werden. Es tauchten einige Fragen seitens der Feuerwehrjugend auf, welche gleich praktisch abgeklärt werden konnten. Nach rund 1,5 Stunden wurde die Übung erfolgreich beendet und unsere 2 Jugendbetreuer mit den Mädchen und Burschen wieder ins Gerätehaus einrücken.
+
+Bericht: PP/ÖA-Team
+Fotos: AB/CB/FE/ÖA-Team

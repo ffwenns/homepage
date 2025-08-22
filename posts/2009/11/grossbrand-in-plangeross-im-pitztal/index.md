@@ -1,0 +1,9 @@
+---
+title: "Großbrand in Plangeross im Pitztal"
+date: 2009-11-15
+layout: post
+---
+
+Die Feuerwehr Wenns wurde am Sonntag den 15. November 2009 um 03:37 Uhr zur Nachbarschaftshilfe zu einem Großbrand nach Plangeross alarmiert. Die Meldung der Leitstelle Tirol lautete: SAMMELRUF Gebäudebrand: St. Leonhard/Pitztal, Plangeross, direkt oberhalb Feuerwehr. Sofort rückte die FF Wenns mit über 40 Mann zum genannten Einsatzort aus. Vom Kommandant der Feuerwehr Plangeross OBI Götsch Thomas wurde sofort die Alarmstufe 3 ausgelöst da ein Wirtschaftsgebäude in Vollbrand stand. Nur kurze Zeit später standen insgesamt 10 Feuerwehren des Pitztales und Imst im Großeinsatz. Bereits auf der Anfahrt konnte man die rießigen Flammen und die starke Rauchentwicklung erkennen. Im Ortszentrum von Plangeross stand ein Wirtschaftsgebäude in Vollbrand und das Feuer drohte auf weitere Wirtschaftsgebäude und Hotelerien überzugreifen. Durch den raschen Einsatz aller Feuerwehren konnte das Großfeuer schnell unter Kontrolle gebracht werden. Die Feuerwehren standen bis in die frühen Morgenstunden im Großeinsatz. Die FF Plangeross wird wohl noch länger am Einsatzort bei Nachlöscharbeiten beschäftigt sein.
+
+Bei der Brandbekämpfung wurden auch zahlreiche Atemschutz Trupps der Feuerwehren eingesetzt. Weiters wurden 12 Tiere beim Einsatz in Sicherheit gebracht. Alle Feuerwehren des Pitztals und die Feuerwehr Imst waren vor Ort und haben tolle Arbeit geleistet. Der Brand ist unter Kontrolle, lobt Siegfried Fadum (Abschnittskommandant) die gesamte Mannschaft.

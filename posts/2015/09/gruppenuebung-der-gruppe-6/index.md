@@ -1,0 +1,9 @@
+---
+title: "Gruppenübung der Gruppe 6"
+date: 2015-09-16
+layout: post
+---
+
+Am Mittwoch den 16. September fand eine weitere Übung der Gruppe 6 statt. Hauptbestandteil dieser Übung war unteranderem die Handhabung der wasserführenden Armaturen des Tanklöschfahrzeuges (TLFA 2000).
+Als wasserführende Armaturen werden Hilfsmittel bezeichnet die für einen Brandeinsatz zum Löschen des Brandes verwendet werden können. Zu diesen zählen sämtliche Strahlrohre, Verteiler, Wasserwerfer etc.
+Nach rund einer Stunde konnte die Übung erfolgreich beendet werden.

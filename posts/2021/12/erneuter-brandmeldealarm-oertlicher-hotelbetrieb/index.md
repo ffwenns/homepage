@@ -1,0 +1,15 @@
+---
+title: "Erneuter Brandmeldealarm örtlicher Hotelbetrieb"
+date: 2021-12-20
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6756232424451825"
+---
+
+Am heutigen 20. Dezember um 21:50 Uhr wurde die FF Wenns mittels Pager Sammelruf zu einem Brandmeldealarm alarmiert. Am Einsatzort wurde die Lage rasch erkundet und es konnte sich ein Täuschungsalarm, ausgelöst durch eine Rauchverpuffung im Heizraum, herausstellen. Nach Kontrolle und Lüftung der Räumlichkeiten sowie Rückstellung der BMA konnte der 65. Einsatz im Jahr 2021 erfolgreich beendet werden.
+
+Im Einsatz:
+KDOFA und TLFA 2000 und LFA mit 25 Mann 
+Einsatzleiter: Kdt. HBI Lukas Scheiber 
+
+ 
+Bericht/Fotos: ÖA Team FF Wenns

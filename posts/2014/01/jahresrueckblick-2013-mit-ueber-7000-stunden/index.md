@@ -1,0 +1,7 @@
+---
+title: "Jahresrückblick 2013 mit über 7000 STUNDEN"
+date: 2014-01-06
+layout: post
+---
+
+Anbei finden Sie den Jahresbericht der Feuerwehr Wenns des vergangenen Jahres 2013. Hierbei werden die Anzahl der Einsätze, Übungen und Tätigkeiten sowie die wichtigsten Ereignisse der jeweilligen Kategorie dargestellt. Dieser Jahresbericht befindet sich als Download auf unserer Facebook-Seite (Feuerwehr Wenns).

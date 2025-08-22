@@ -1,0 +1,18 @@
+---
+title: "Wasserschaden - Keller unter Wasser im Ortsteil Farmie"
+date: 2016-04-18
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1091736720901452"
+---
+
+Mittels Pager Kommandoschleife wurde gestern am Sonntagabend den 17. April um 21:37 Uhr die FF Wenns über die Leitstelle Tirol zu einem Wasserschaden alarmiert. Bei einem Einfamilienhaus im Ortsteil Farmie stand das Bad bzw. der Kellerbereich mehrere Zentimeter unter Wasser. Aufgrund der starken Regenmengen sowie einer verstopften Leitung wurde das Wasser über das WC in das Wohngebäude zurück gedrückt. 
+
+Die FF Wenns konnte den Wasserschaden im Wohngebäude mittels Nasssauger rasch beseitigen und trocken legen. Das verursachende und verstopfte Abflussrohr wurde zuerst Versuchsweise mittels HD, dann jedoch aufgrund der enormen Verstopfung durch die angeforderte Fachfirma wieder geöffnet und die Ursache behoben.
+
+Nach rund drei Stunde konnte der Einsatz erfolgreich beendet werden.
+
+Im Einsatz: 
+RF-A, TLFA 2000 und MTF-A mit 9 Mann
+Gemeindebauhof Wenns
+Fachfirma für Abflussentsorgung
+Einsatzleiter: OLM Stoll Christoph

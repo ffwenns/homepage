@@ -1,0 +1,14 @@
+---
+title: "Über drei Kilometer lange Ölspur vom Pitztalerhof (1000m) bis zum Ortsteil Tränk (1230m)"
+date: 2017-08-02
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1646696538738798"
+---
+
+Mittels Pager wurde die FF Wenns heute um 16:54 Uhr von der Polizei Imst zu einer über 3km langen Hydrauliköl-Spur vom Dorfzentrum bis zum Ortsteil Tränk alarmiert. Nach rund drei Stunden, könnte der rutschige Ölaustritt (aufgrund eines defekten Mischwagen) mit Unterstützung des Gemeindetraktor samt Kehrmaschine und der FF Wenns gebunden werden. Um 19:30 Uhr konnten wir den Einsatz beenden und wieder in die FF Halle einrücken.
+
+Im Einsatz:
+RF-A, TLFA 2000 und MTF-A mit 14 Mann (Beginn 7 Mann)
+Polizei Wenns
+Gemeindebauhof Wenns
+Einsatzleiter: HV Lukas Scheiber

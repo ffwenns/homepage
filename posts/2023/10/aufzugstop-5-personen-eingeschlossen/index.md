@@ -1,0 +1,15 @@
+---
+title: "Aufzugstop - 5 Personen eingeschlossen"
+date: 2023-10-27
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/701151215380667"
+---
+
+Heute am Freitagnachmittag den 27.10. wurde die FF Wenns um 16:14 Uhr mit der Meldung "FW-D-RETTUNG - 
+5 Personen im Aufzug eingeschlossen" zu einem Aufzugstop alarmiert. Die Personen konnten unverletzt und rasch befreit, sowie der Lift einem Techniker übergeben werden. Nach rund 10 Minuten konnten wir den Einsatz erfolgreich beenden und wieder in die Halle einrücken. 
+
+Im Einsatz:
+ Pager / Sammelruf
+ KDOFA und RFA mit 14 Mann (Rest auf Bereitschaft) 
+ Einsatzleiter: Kdt. BV Lukas Scheiber
+ ️ LS -ÖA Team FFW

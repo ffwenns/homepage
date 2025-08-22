@@ -1,0 +1,41 @@
+---
+title: "21 Abzeichen für unsere Jugendgruppe - 9x Bronze, 8x Silber, 4x Gold"
+date: 2024-04-07
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/796600982502356"
+---
+
+Hervorragende Disziplin und tolle Leistungen unserer Jugendgruppe beim Wissenstest am Samstag, den 06.04.2024 in Mils bei Imst. Bei zahlreichen Stationen mussten die Jugendlichen ihr Können und ihr Wissen unter Beweis stellen. 
+
+HERZLICHE GRATULATION zu Bronze, Silber und Gold an unseren 21 jungen Kamerad:innen. Vielen Dank auch an unsere Jugendbetreuer sowie allen Gehilfen für die perfekte Vorbereitung. 
+
+ BRONZE 
+1. Laura Bacher
+2. Viktoria Gabl
+3. Sarah Haid
+4. Viktoria Haid
+5. Nina Hammerle
+6. Mathias Köll
+7. Felix Maaß
+8. Lorenz Röck
+9. Emanuel Stoll
+
+SILBER 
+1. Frederik Eiter
+2. Martina Eiter
+3. Lukas Horntrich
+4. Fabian Lechner
+5. Kajsa Liebing
+6. Manuel Pixner
+7. Emilia Wille 
+8. Joel Zangerle 
+
+GOLD 
+1. Thomas Bacher
+2. Nico Fischer
+3. Julian Lechner
+4. Luca Schauer
+
+DANKE für Euren Dienst bei der Feuerwehr und Gratulation zum BESTANDENEN Wissenstest Abzeichen. Weiter so... 
+Herzliche Gratulation auch an die Feuerwehr Mils bei Imst für die perfekte Organisation und Danke an unseren Bürgermeister Patrick Holzknecht für seinen Besuch und die Wertschätzung der Jugendarbeit. 
+ FE, DS, SG, RH

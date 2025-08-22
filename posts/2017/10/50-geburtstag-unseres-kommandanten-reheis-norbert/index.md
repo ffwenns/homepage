@@ -1,0 +1,8 @@
+---
+title: "50. Geburtstag unseres Kommandanten Reheis Norbert"
+date: 2017-10-15
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1734250186650099"
+---
+
+Zur Feier des runden Jubiläums lud am gestrigen Samstagabend den 14. Oktober unser Kommandant Reheis Norbert. Der Ausschuss gratulierte zum halben Jahrhundert und überreichte einen aus Holz geschnitzten hl. Florian. Neben seinen Familienangehörigen und den Gruppenkameraden der Gruppe 2 nahmen auch BFK Hubert Fischer sowie ABI Adalbert Kathrein bei der Feierlichkeit teil. Wir bedanken uns für die Einladung und die schöne Feier und wünschen weiterhin alles gute - vorallem viel Glück und Gesundheit und noch viele schöne Zusammenkünfte mit der Feuerwehr ...

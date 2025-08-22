@@ -1,0 +1,13 @@
+---
+title: "Gruppenübung Gruppe 6 Krug: Atemschutzübung mit Menschenrettung in versch. Situationen"
+date: 2020-06-06
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/3961093303965765"
+---
+
+Am gestrigen Freitag den 05. Juni wurde eine Atemschutzübung in Form einer Gruppenübung von OBM Krug Robert durchgeführt.
+Dabei konnten verschiedene Szenarien durchgeübt werden. Unteranderem ein Parkour im hauseigenen Kriechtunnel, Vorfinden von Gefährlichen Stoffen (Gasflaschen) sowie die Menschenrettung aus einem angenommenen Fahrzeug (Fenster). Die Atemschutzgeräteträger konnten die Übung in allen Bereichen wie Sicherungsmaßnahmen, Umgang mit der Wärmebildkamera und Gefährliche Stoffe sowie das Bergen von Menschen usw. mit Bravour meistern.
+Nach rund 1,5 Stunden konnte die Übung im Feuerwehrhaus Wenns erfolgreich beendet werden. 
+
+Bericht: PP/ÖA-Team
+Fotos: RK/ÖA-Team

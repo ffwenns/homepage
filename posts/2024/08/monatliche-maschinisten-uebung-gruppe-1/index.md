@@ -1,0 +1,16 @@
+---
+title: "Monatliche Maschinisten-Übung Gruppe 1"
+date: 2024-08-07
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/871313268364460"
+---
+
+Am gestrigen Dienstag, den 6. August 2024 hielt unser Obermaschinist LM Simon Siller mit der Gruppe 1 unserer Maschinisten eine weitere Übung ab. Zuerst informierte der Obermaschinist über alle Neuanschaffungen und neuerlichen Umbauten in den Fahrzeugen. Weiters, vor Ort beim Areal des Recyclinghofes Wenns wurde die Gruppe aufgeteilt. Eine Station beinhaltete Fahrzeugsicherung mittels Seilwinde (durch den Einsatz einer Umlenkrolle) mithilfe unseres Rüstfahrzeuges (RFA). Bei der zweiten Station wurde mithilfe unseres Tanklöschfahrzeuges (TLFA-2000) Schaum erzeugt. Ziel der Übung war es, dass jeder Maschinist alle technischen Bediengeräte wieder bedient hat und das Wissen neuerlich aufgefrischt hat. Nach rund zwei Stunden wurde die Übung erfolgreich beendet. 
+
+Details:
+Übungsleiter: Obermaschinist LM Simon Siller 
++ Stv. HLM Martin Siller
+RFA, TLFA-2000 mit 14 Maschinisten 
+
+Fotos: LS/PP/ÖA-Team, SS/MA-FFW 
+Bericht: PP/ÖA-Team

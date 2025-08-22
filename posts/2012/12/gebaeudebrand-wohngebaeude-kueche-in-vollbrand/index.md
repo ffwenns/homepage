@@ -1,0 +1,14 @@
+---
+title: "Gebäudebrand Wohngebäude: Küche in Vollbrand"
+date: 2012-12-19
+layout: post
+---
+
+m Dienstagabend den 18. Dezember wurde die FF Wenns um 17:46 Uhr mit dem Einsatzstichwort "Gebäudebrand Wohngebäude, Oberdorf" per Pager und Sirene alarmiert. Beim Eintreffen am Einsatzort nach nur vier Minuten stand die Dachwohnung bereits in Vollbrand und die Flammen schlugen aus den Fenstern. Weiters wurde zu Einsatzbeginn eine Person vermisst.
+Rascher Löscheinsatz verhindert Großbrand
+Zwei Atemschutztrupps der FF Wenns starteten sofort die Personensuche sowie Brandbekämpfung im dritten Obergeschoss. Weiters wurde von außen sofort ein Löschangriff gestartet und somit gelang es, die Brandausbreitung auf den Dachstuhl zu verhindern. Vom Einsatzleiter Kdt. OBI Reheis Norbert wurde über die Leitstelle Tirol die Feuerwehren Jerzens und Arzl zur Unterstützung mittels Atemschutzträger sowie die FF Imst mittels ATS-Reserveflaschen nachalarmiert.
+Wohnung stand in Vollbrand
+Beim Innenangriff des Atemschutztrupps stand die komplette Küche der Wohnung in Vollbrand. Nach kurzer Zeit konnten die Atemschutztrupps der FF Wenns den Brand eindämmen und alle Räumlichkeiten nach der vermissten Person durchsuchen. Durch die negative Personensuche und die Rückmeldung das die Bewohner nicht Zuhause waren, konnte Entwarnung nach der vermissten Person gegeben werden.
+
+Durch den raschen Löscheinsatz konnte ein Vollbrand des Wohnhauses sowie ein übergreifen auf das Nachbargebäude verhindert werden. Beim Innenangriff standen sieben Atemschutztrupps der FF Wenns, Arzl, Jerzens und Imst im Einsatz bis die letzten Glutnester vollständig abgelöscht und die Wärmedämmung beseitig wurde. Weiters entstand beim Löschangriff kaum ein Wasserschaden.
+Herzlichen Dank bei den Feuerwehren Arzl, Jerzens und Imst, sowie beim Roten Kreuz und der PI Wenns für die rasche Unterstützung.

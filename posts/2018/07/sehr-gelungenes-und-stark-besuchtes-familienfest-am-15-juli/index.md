@@ -1,0 +1,17 @@
+---
+title: "Sehr Gelungenes und stark besuchtes Familienfest am 15. Juli"
+date: 2018-07-16
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2125768624164918"
+---
+
+Über 200 Personen waren bei unserem tollen Familienfest am Sonntag den 15. Juli mitdabei. Dieses Fest soll ein kleines Dankeschön an alle Kameraden und Angehörigen für Ihre Arbeit und das Engagement über das ganze Jahr hindurch sein. Von Jung bis Alt waren alle Generationen vertreten und für alle wurde etwas geboten. Sei es Hüpfburg, Marshmallow Grill, saftiges Grillhendl vom Ortsmetzger Krug, Kaffee und Kuchen uvm. machten das Familienfest wieder ein einzigartiges Erlebnis für unsere Feuerwehrfamilien. Ab 17 Uhr konnten dann alle Fußballbegeisterte der Feuerwehr LIVE beim WM Finale auf der Leinwand mitfiebern. In diesem festlichen Rahmen konnten ebenfalls ausstehende Beförderungen, Ehrungen umd Überreichung mehrerer Abzeichen durchgeführt werden (mehr Details siehe unten). 
+Ein großes Dankeschön an die Metzgerei Krug mit Helfer für die Verpflegung mit den saftigen Grillhendln sowie allen die beim Auf- & Abbau und der organisatorischen Abwicklung geholfen haben.
+Details:
+Beförderungen zum FM
+Marco Gritsch, Christopher Sailer
+Verdienstzeichen in Silber des BFV Imst
+OBM Stefan Gundolf II
+40 jährige Mitgliedschaft
+OBI Franz Eiter
+Überreichung der Abzeichen der FJLA in Bronze, FLA Südtirol in Bronze/Silber sowie ASLA in Bronze/Gold

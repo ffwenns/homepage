@@ -1,0 +1,14 @@
+---
+title: "Verkehrsdienst & Straßenabsicherung Palmsonntag"
+date: 2023-04-02
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/582744993887957"
+---
+
+Am heutigen Palmsonntag den 02.April 2023 war die FF Wenns im Zuge der Palmprozession von der St. Margarethen Kirche bis zur Pfarrkirche für die Absperrmaßnahmen zur Sicherheit aller Teilnehmer im Einsatz. Nach 45 Minuten konnte dieser erfolgreich beendet werden und wir rückten wieder ein.
+
+Im Einsatz:
+KDOFA mit 4 Mann
+Einsatzleiter: Gkdt. LM Siller Dominik
+
+Fotos: SD, LS - ÖA Team FF Wenns

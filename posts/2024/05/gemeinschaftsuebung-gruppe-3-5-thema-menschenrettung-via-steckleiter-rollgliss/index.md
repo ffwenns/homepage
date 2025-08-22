@@ -1,0 +1,16 @@
+---
+title: "Gemeinschaftsübung Gruppe 3 & 5 Thema: Menschenrettung via Steckleiter & Rollgliss"
+date: 2024-05-05
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/813693790793075"
+---
+
+️
+Am gestrigen Floriani-Samstag, den 4. Mai hielt weiters die Gruppe 3 unter Kdt. Stv. OBI Stefan Gundolf und Gruppe 5 unter Gkdt. OBI Mario Gundolf eine Gemeinschaftsübung ab. Bei dieser Übung wurden verschiedene Varianten der Menschenrettung über die Steckleiter mit Rollgliss besprochen und praktisch beübt. ️ Zudem wurde die Verwendung der Schleifkorbtrage und die Sicherung der Einsatzmannschaft mittels 5-Punktgurt beprobt. Nach rund eineinhalb Stunden wurde die Übung erfolgreich beendet und der Abend klang gemütlich aus. 
+
+Details:
+30 Mann Gruppe 3 & 5 
+Übungsleiter: OBI Stefan Gundol/OBI Mario Gundolf
+
+: LS/ÖA-TEAM, SG/MG/Gr. 3, 5
+️: PP/ÖA-TEAM

@@ -1,0 +1,8 @@
+---
+title: "Thema Aufzuganlagen und Planspiel Gebäudebrand als lehrreichen Schulungsabend für den Ausschuss"
+date: 2022-03-20
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7288570474551348"
+---
+
+Zum Abschluss eines aktiven Wochenendes (Übung Gruppe 8 und Jugend, Böschungsbrand, Hilfsgütersammlung, Hallenreinigung und Kleidungsanprobe) fand heute am Sonntagabend noch ein Schulungsabend unserer Ausschussgruppe statt. Dabei behandelte Zkdt. BM Christoph Stoll praktisch und theoretisch die Vorgehensweise bei einem Liftnotfall samt Türöffnung. Im Anschluss wurde ein Planspiel (Alarmfax Gebäudebrand im entlegenen Ortsteil Wiesle) im Team als Einsatzleiter und Gruppenkommandant durchgespielt / geplant und dann gemeinsam besprochen. Es war ein sehr lehrreicher und informativer Schulungsabend welcher nach rund 2h erfolgreich beendet wurde.

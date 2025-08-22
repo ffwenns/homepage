@@ -1,0 +1,7 @@
+---
+title: "Böschungsbrand: neben der Pitztaler Landesstraße"
+date: 2011-11-29
+layout: post
+---
+
+Ein aufmerksamer Fahrzeuglenker bemerkte neben der Landesstraße einen Böschungsbrand und informierte die Leitstelle Tirol, welche die Feuerwehr Wenns mittels Pager-Sammelruf um 22:23 Uhr alarmierte. Die Meldung der Leitstelle lautete: SAMMELRUF Kleiner Brand im Freien, km 5,5 Wenns, L16 Pitztalstraße. Wenige Minuten nach der Alarmierung rückten die alarmierten Kameraden zur Einsatzstelle im Bereich Bieracker aus. Der Böschungsbrand konnte durch den raschen Einsatz mittels Hochdruck schnell unter Kontrolle gebracht werden, und somit wurde ein weiteres ausbreiten auf die trockene Umgebung verhindert. Nach rund einer Stunde konnte die FF Wenns den Einsatz beenden und wieder in die Feuerwehrhalle einrücken.

@@ -1,0 +1,13 @@
+---
+title: "Besuch der Sommerbetreuungsgruppe des Kindergartens"
+date: 2021-08-14
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6030554233686318"
+---
+
+Am Freitag, 13.08.2021 war eine Kindergartengruppe in der Feuerwehrhalle zu Besuch, die Kinder lernten dabei spielerisch unterschiedliche Gerätschaften der Feuerwehr kennen. Außerdem durften sie eine kleine Spritztour mit unserem neuesten Auto (LFA) machen. Des Weiteren wurden die Kinder über unterschiedliche Gefahren und das jeweilige korrekte Verhalten aufgeklärt. Wir freuen uns immer wieder über die begeisterten Gesichter der Kinder und hoffen auf ein baldiges Wiedersehen in unserer Jugendgruppe. 
+
+Aus datenschutzrechtlichen Gründen wurden die Gesichter der Kinder unkenntlich gemacht.
+
+Bericht: TD/ÖA-Team der FF-Wenns
+Fotos: SG/MS/WH/FF-Wenns

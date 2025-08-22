@@ -1,0 +1,23 @@
+---
+title: "Einschulung zwei neuer Maschinisten / Monatliche Maschinistenübung"
+date: 2022-05-05
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7490672491007811"
+---
+
+Am vergangenen Donnerstag, den 28. April 2022 schulte Gerätewart OLM Markus Larcher die beiden neuen Maschinisten
+LM Florian Eiter und OFM Daniel Weber II beim Löschfahrzeug (LFA) ein. Dabei wurden sämtliche Gerätschaften durchbesprochen und
+mit dem Fahrzeug eine Bewegungsfahrt gemacht. Die jeweiligen Eigenheiten der motorisierten Geräte konnten ebenfalls vorgezeigt und bestimmt der ein oder andere Trick mitgenommen
+werden. Den beiden neuen Maschinisten alles Gute und allzeit gute Fahrt, unserem Gerätewart Markus Danke für die Einschulung. 
+
+Am Dienstag, den 03. Mai (in der Florianiwoche) wurde wiederum die erste Maschinistenprobe im Monat durchgeführt.
+Die Übungsleiter Kdt. Stv. OBI Stefan Gundolf und Gerätewart OLM Markus Larcher zeigten bzw. beprobten mit den anwesenden Maschinisten
+das Erstellen von Schaummittel über das Tanklöschfahrzeug, sowie der Aufbau eines Löschangriffs mit Netzmittel. Zusätzlich wurden die Lichtmasten unserer Fahrzeuge
+ausgiebig besprochen und beübt. Alle Fahrzeuge konnten in den Grundzügen besprochen werden.
+Nach rund eineinhalb Stunden konnte die Übung erfolgreich beendet werden. 
+
+Details:
+Übungsleiter: Kdt. Stv. OBI Stefan Gundolf, Gerätewart OLM Markus Larcher
+
+Fotos: ML/FF-Wenns
+Bericht: PP/ÖA-Team FF-Wenns

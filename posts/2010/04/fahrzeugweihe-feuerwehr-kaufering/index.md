@@ -1,0 +1,10 @@
+---
+title: "Fahrzeugweihe Feuerwehr Kaufering"
+date: 2010-04-25
+layout: post
+---
+
+Am Samstag und Sonntag den 24. und 25. April 2010 besuchte die FF Wenns mit einer kleine Abordnung mit 16 Mann unsere Partnerfeuerwehr Kaufering zu ihrer Fahrzeugweihe der neuen Einsatzfahrzeuge. An beiden Tagen wurden wir durch ein super Programm geführt welches am Samstag mit der Besichtigung eines rießen Bunkers in Igling sowie Besichtigung der Feuerwehr begann. Nach dem Kirchenzug, Festgottesdienst und der Fahrzeugweihe ging es zum gemütlichen Teil über, und in der Feuerwehrhalle wurde noch bis spät in die Nacht kräftig gefeiert. Am Sonntag (nach einer sehr kurzen Nacht) fuhren wir gemeinsam zum Fliegerhorst nach Penzing und besichtigten dort ebenfalls die Betriebsfeuerwehr und das Gelände der Bundeswehr.
+
+
+Im Namen der FF Wenns möchten wir uns recht herzlich bei der Freiwilligen Feuerwehr Kaufering für die gewaltigen Vorstellungen und für die super Organisation bedanken. Es waren wieder zwei unvergessliche Tage.

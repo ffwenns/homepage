@@ -1,0 +1,20 @@
+---
+title: "Brandmeldealarm lokaler Hotelbetrieb / Wassertransport Pitzenhöfe"
+date: 2022-09-20
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/8147444745330579"
+---
+
+Heute, Dienstag 20. September 2022 wurde um 08:23 Uhr die FF-WENNS via Pager Sammelruf zu einem Brandmeldealarm im lokalen Hotelbetrieb alarmiert. 
+Nach raschem Eintreffen unserer Feuerwehr und Erkundung durch den Einsatzleiter, konnte sich herausstellen, dass der Melder aufgrund von angebrannten Speisen auslöste. Somit rückte die FF-Wenns nach erfolgter Rückstellung der Brandmeldezentrale (Täuschungsalarm) wieder ins Gerätehaus ein. 
+Am späteren Vormittag wurde durch zwei Mitglieder der FF-Wenns Nutzwasser mit dem Tanklöschfahrzeug ins Wasserbassin Pitzenhöfe transportiert. Nach mehreren Füllungen rückte die Mannschaft wieder ins Gerätehaus ein. 
+
+Details:
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+TLFA-2000, KDOFA mit 10 Mann
+Rest auf Bereitschaft
+
+ 
+
+Fotos: LS/TD/ÖA-Team
+Bericht: PP/ÖA-Team

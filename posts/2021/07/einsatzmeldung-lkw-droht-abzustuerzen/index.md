@@ -1,0 +1,18 @@
+---
+title: "Einsatzmeldung LKW droht abzustürzen"
+date: 2021-07-13
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/5867097866698623"
+---
+
+Am heutigen Dienstag, den 13. Juli 2021 wurde die FF-Wenns via Pager Sammelruf um 14:24 Uhr zu einem abzustürzen drohenden LKW im Ortsteil Brennwald auf der L16-Pitztaler Landesstraße alarmiert.
+Nach kurzer Zeit war die FF-Wenns mit drei Fahrzeugen und 12 Mann vor Ort. Der Einsatzleiter konnte rasch die bedrohliche Situation erkennen. Der ungeladene Lastkraftwagen drohte in ein unmittelbar darunterliegendes Wohngebäude zu stürzen sollte dieser weiter abrutschen. Der LKW konnte vorerst mit Sicherungskeilen gesichert werden und wurde kurz daraufhin mithilfe der Seilwinde unseres Rüstfahrzeuges auf die L16-Pitztaler Landesstraße geborgen. Aufgrund der schlechten Witterungsverhältnisse (Starkregen, nasser Fahrbahn) kam der LKW, welcher talauswärts unterwegs war ins Schleudern und kam in entgegengesetzter Richtung von der Fahrbahn ab. Dabei wurden der Zaun durchtrennt und die Straßenbeleuchtung vor Ort abgedrückt, der LKW blieb dabei zu guter Glück mit den hinteren beiden Achsen auf der leicht abschüssigen Fahrbahn. Personen wurden beim Unfall glücklicherweise keine verletzt und die FF-Wenns konnte nach rund einer Stunde den Einsatz erfolgreich beenden. In Zusammenarbeit mit der Straßenmeisterei und der Polizei konnte die Unfallstelle abgesichert und die L16-Pitztaler Landesstraße nach kurzzeitigem Anhalten freigegeben werden. 
+
+Details:
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+RFA, TLFA-2000 und MTFA mit 12 Mann 
+Polizei mit 2 Fahrzeugen
+Straßenmeisterei
+
+Fotos: SR/LS/SG/PP/FF-Wenns
+Bericht: PP/ÖA-Team

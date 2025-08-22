@@ -1,0 +1,18 @@
+---
+title: "Monatliche Maschinistenübung Gruppe 1: Relaisbetrieb mit der Tragkraftspritze"
+date: 2025-06-04
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1089002219928896"
+---
+
+️
+Am gestrigen ersten Dienstag im Monat, dem 3. Juni 2025, führte unsere Maschinistengruppe 1 eine Übung zum Thema Relaisbetrieb mit den Tragkraftspritzen durch. Die Übung fand im Vorbereich des Bogenschießwaldes im Ortsteil Bichl statt . Unter der Leitung unseres Obermaschinisten LM Simon Siller und seinem Stellvertreter HLM Martin Siller wurde am „Grillerbach“ angesaugt und es wurde eine kleine Relaisleitung aufgebaut. Ziel der Übung war es, dass jeder Maschinist sich mit den zwei verschiedenen Tragkraftspritzen-Modellen der FF-Wenns (FOX I und FOX III) vertraut macht und insbesondere das Ansaugen sowie den Relaisbetrieb aufzufrischen. 
+
+Die interessante und lehrreiche Übung wurde nach rund drei Stunden erfolgreich beendet. Zum Abschluss spülten die Maschinisten die Tragkraftspritzen auf dem Vorplatz der FF-Halle , führten das Trockensaugen durch und nahmen die Dichtheitsprobe vor. ️
+
+Details:
+ Übungsleiter: OMA LM Simon Siller
+ RFA, LFA mit 11 Mann
+
+ Fotos: MS/FE/SG/LS/PP - MA1/ÖA-Team
+ Bericht: PP - ÖA-Team

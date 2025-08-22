@@ -1,0 +1,14 @@
+---
+title: "THL Ölspur - Hydraulikschlauch geplatzt / 200m lange Ölspur auf der L17 Piller Landesstraße"
+date: 2019-08-18
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2985484671526638"
+---
+
+Am heutigen Sonntagabend den 18. August um 19:42 Uhr wurde die FF Wenns mittels Pager Kommandoschleife zu einer rund 200m langen Ölspur auf die L17 Piller Landesstraße / km 3 alarmiert. Ein Landwirtschaftliches Gerät verlor nach einem Schlauchplatzer einiges an Hydrauliköl. Dieses konnte von der FF Wenns nach rund einer halben Stunde gebunden und die Gefahr dadurch rasch beseitigt werden. 
+
+Im Einsatz:
+MTF-A samt Ölanhänger und RF-A mit 7 Mann
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+
+Fotos und Bericht: LS - ÖA Team FF Wenns

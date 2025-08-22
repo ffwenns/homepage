@@ -1,0 +1,14 @@
+---
+title: "Geplatzte Hydrauliköl-Leitung - Ölspur Ortsteil Brennwald"
+date: 2020-09-08
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/4404205679654523"
+---
+
+Am heutigen Dienstag, den 08. September 2020 wurde die FF-Wenns via Pager Kommandoschleife um 14:37 Uhr zu einer Ölspur im Ortsteil Brennwald alarmiert. Vor Ort wurde ein Traktor mit geplatzter Hydrauliköl-Leitung vorgefunden. Rasch konnte die Ölspur gebunden werden und der Landwirt bei der Erstreparatur unterstützt werden. Nach rund 1,5 Stunden konnte die FF-Wenns wieder einrücken und die verbrauchten Materialien wieder aufrüsten. 
+
+Details:
+RFA mit 4 Mann
+
+Bericht: PP/ÖA-Team
+Fotos: PP/ÖA-Team

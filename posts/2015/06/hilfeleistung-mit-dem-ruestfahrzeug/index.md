@@ -1,0 +1,7 @@
+---
+title: "Hilfeleistung mit dem Rüstfahrzeug"
+date: 2015-06-04
+layout: post
+---
+
+Zum bereits 32. Einsatz im Jahr 2015 wurde das Kommando der FF Wenns am Mittwochabend den 03. Juni um 21:35 Uhr neuerlich zu einem Einsatz alarmiert. Das Rüstfahrzeug wurde für eine Hilfeleistung mit einem PKW auf die Zufahrtsstraße zu einer Alm gerufen. Nach rund einer Stunde konnte der Technische Einsatz erfolgreich beendet werden.

@@ -1,0 +1,10 @@
+---
+title: "Übungsstart Gruppe 7 Dobler Philipp Gerätekunde/Funk"
+date: 2025-03-21
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1032297498932702"
+---
+
+Am vergangenen Dienstag, den 18. März 2025 startete unsere Gruppe 7 unter Gkdt. LM Philipp Dobler mit der Übungstätigkeit für das heurige Jahr. Geräte-/Fahrzeugkunde, sowie Funk standen als Anfang am Programm und wurden rund eineinhalb Stunden beübt. 
+
+Fotos: PD/Gr 7 - FF-Wenns
