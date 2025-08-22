@@ -217,6 +217,11 @@ class FacebookPostImporter:
             image_filename = f"{base_name}.webp"
             image_path = post_dir / image_filename
 
+            # Skip if image already exists
+            if image_path.exists():
+                print(f"Skipping existing image: {image_path}")
+                continue
+
             if self.download_image(image_url, image_path):
                 print(f"Downloaded high-res image: {image_path}")
 
