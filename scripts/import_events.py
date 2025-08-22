@@ -81,19 +81,23 @@ def parse_datetime(dt_value, debug_title=None):
         return dt.isoformat()
     elif hasattr(dt, "hour"):
         # It's a datetime object
+        vienna_tz = pytz.timezone("Europe/Vienna")
+        
         if hasattr(dt, "tzinfo") and dt.tzinfo is not None:
-            # Has timezone info - convert UTC times to local time (Europe/Vienna)
+            # Has timezone info - convert to Europe/Vienna
             if dt.tzinfo == timezone.utc:
-                # This is a UTC time, convert to Europe/Vienna (UTC+2 in summer, UTC+1 in winter)
-                vienna_tz = pytz.timezone("Europe/Vienna")
+                # This is a UTC time, convert to Europe/Vienna
                 local_time = dt.astimezone(vienna_tz)
                 return local_time.isoformat()
             else:
-                # Keep the original timezone
-                return dt.isoformat()
+                # Convert any timezone to Europe/Vienna
+                local_time = dt.astimezone(vienna_tz)
+                return local_time.isoformat()
         else:
-            # No timezone info, assume local time
-            return dt.isoformat()
+            # No timezone info, assume it's UTC and convert to Europe/Vienna
+            utc_dt = dt.replace(tzinfo=timezone.utc)
+            local_time = utc_dt.astimezone(vienna_tz)
+            return local_time.isoformat()
     else:
         # Fallback for other types
         return str(dt)
