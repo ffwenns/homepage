@@ -53,8 +53,8 @@ class FacebookPostImporter:
         if match:
             return match.group(1).strip()
 
-        # Pattern 2: Between 3 emoji (any emoji)
-        emoji_pattern = r"^[\s\u200d]*[\U0001f600-\U0001f64f\U0001f300-\U0001f5ff\U0001f680-\U0001f6ff\U0001f1e0-\U0001f1ff\U00002600-\U000027bf\U0001f900-\U0001f9ff\U0001f018-\U0001f270]{3,}\s*(.+?)\s*[\U0001f600-\U0001f64f\U0001f300-\U0001f5ff\U0001f680-\U0001f6ff\U0001f1e0-\U0001f1ff\U00002600-\U000027bf\U0001f900-\U0001f9ff\U0001f018-\U0001f270]{3,}"
+        # Pattern 2: Between emoji and emoji (or emoji + dash patterns)
+        emoji_pattern = r"^[\s\u200d]*[\U0001f600-\U0001f64f\U0001f300-\U0001f5ff\U0001f680-\U0001f6ff\U0001f1e0-\U0001f1ff\U00002600-\U000027bf\U0001f900-\U0001f9ff\U0001f018-\U0001f270]+.*?-{3,4}\s*(.+?)\s*-{3,4}.*?[\U0001f600-\U0001f64f\U0001f300-\U0001f5ff\U0001f680-\U0001f6ff\U0001f1e0-\U0001f1ff\U00002600-\U000027bf\U0001f900-\U0001f9ff\U0001f018-\U0001f270]+"
         match = re.search(emoji_pattern, message, re.MULTILINE)
         if match:
             return match.group(1).strip()
@@ -172,8 +172,14 @@ class FacebookPostImporter:
         if not title:
             return False  # Skip posts without titles
 
+        # Clean title: remove emoji and extra dashes/spaces
+        clean_title = self.remove_emoji(title).strip()
+        clean_title = re.sub(r'^-+\s*', '', clean_title)  # Remove leading dashes
+        clean_title = re.sub(r'\s*-+$', '', clean_title)  # Remove trailing dashes
+        clean_title = clean_title.strip()
+
         # Create slug
-        slug = self.create_slug(title)
+        slug = self.create_slug(clean_title)
 
         # Parse date
         created_time = post.get("created_time", "")
@@ -195,10 +201,19 @@ class FacebookPostImporter:
         # Remove emoji from message
         clean_message = self.remove_emoji(message)
 
-        # Remove title from message (first occurrence)
-        if title in clean_message:
-            clean_message = clean_message.replace(f"--- {title} ---", "", 1)
-            clean_message = clean_message.replace(f"---- {title} ----", "", 1)
+        # Remove title patterns from message (more comprehensive removal)
+        title_patterns = [
+            rf"\s*-{{3,4}}\s*{re.escape(title)}\s*-{{3,4}}\s*",
+            rf"\s*-{{3,4}}\s*{re.escape(clean_title)}\s*-{{3,4}}\s*",
+            re.escape(title),
+            re.escape(clean_title)
+        ]
+        
+        for pattern in title_patterns:
+            clean_message = re.sub(pattern, "", clean_message, count=1)
+
+        # Remove hashtags
+        clean_message = re.sub(r'#\w+\s*', '', clean_message)
 
         clean_message = clean_message.strip()
 
@@ -227,7 +242,7 @@ class FacebookPostImporter:
 
         # Create markdown content
         markdown_content = f"""---
-title: "{title}"
+title: "{clean_title}"
 date: {date_obj.strftime('%Y-%m-%d')}
 layout: post
 facebook_url: "{facebook_url}"
