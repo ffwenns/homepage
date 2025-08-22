@@ -13,7 +13,7 @@
     }
 
     figure {
-      @apply -mt-4! lg:grid-cols-4!;
+      @apply lg:grid-cols-4!;
     }
   }
 
