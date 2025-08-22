@@ -4,12 +4,11 @@ date: 2025-08-10
 layout: post
 facebook_url: "https://facebook.com/ffwenns/posts/1141486581347126"
 ---
-
 Drei Bewerbsgruppen der FF Wenns sind am gestrigen Samstag, den 09. August 2025 zum Bezirkskuppelcup Kitzbühel, nach Erpfendorf ins Tiroler Unterland gereist! 
 
 Alle Kuppelzeiten im Überblick:
 
-WENNS-1:️
+WENNS-1:
 
 Grunddurchgang:
 -> 19,39sek ff
@@ -21,7 +20,7 @@ _1/8 Finale_
 -> 17,56sek ff
 -> 18,11sek ff
 
-WENNS-3:️
+WENNS-3:
 
 Grunddurchgang:
 -> 25,68sek +30
@@ -30,7 +29,7 @@ _1/16 Finale_
 -> 23,58sek ff
 -> 24,52sek ff
 
-WENNS-4:️
+WENNS-4:
 
 Grunddurchgang:
 -> 33,22sek +10
@@ -38,6 +37,6 @@ Grunddurchgang:
 
 Schlussendlich belegte die Gruppe WENNS-3 den 13. Rang und WENNS-4 den 20. Rang in der Gästeklasse Bronze. 
 
-WENNS-1 holte sich den überragenden 1. Rang in der Gästeklasse und oben drauf noch den TAGESSIEG. Herzliche Gratulation zu dieser gewaltigen Bewerbssaison und weiter so... 
+WENNS-1 holte sich den überragenden 1. Rang in der Gästeklasse und oben drauf noch den TAGESSIEG. Herzliche Gratulation zu dieser gewaltigen Bewerbssaison und weiter so...  
 
 Gratulation an die Feuerwehr Erpfendorf für die perfekte Organisation und Abwicklung.
