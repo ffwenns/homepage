@@ -1,0 +1,5 @@
+---
+title: Fahrzeughalle
+---
+
+In der Fahrzeughalle befinden sich die fünf Einsatzfahrzeuge, ein Ölanhänger sowie im hintern Bereich ein Hochregal mit Einsatzgerätschaften sowie Sandsäcken und Ölbindemittel für den Ernstfall. Weiters sind auch zwei Rollcontainer, welche auf dem Rüstfahrzeug flexibel beladen werden können, dort stationiert. Unser Obermaschinist HLM Siller Martin und Gerätewart OLM Markus Larcher sind für die Fahrzeuge und Gerätschaften zuständig.

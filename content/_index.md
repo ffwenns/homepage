@@ -1,0 +1,12 @@
+---
+title: "Freiwillige Feuerwehr Wenns"
+---
+
+Man könnte fast meinen, dass in Wenns das halbe Dorf mit der Feuerwehr zu tun
+hat. **Jung und Alt** stellen sich freiwillig in den Dienst der guten Sache und
+wollen im Ernstfall anderen helfen. Die Freiwillige Feuerwehr Wenns besteht
+schon seit dem Jahre 1895 und muss sich um den Nachwuchs keine Sorgen machen.
+
+Unsere Wehr steht somit schon seit 130 Jahren — 24 Stunden am Tag, 7 Tage die
+Woche, 365 Tage im Jahr —  **freiwillig und unentgeltlich** für die Sicherheit der
+Bevölkerung im Einsatz.

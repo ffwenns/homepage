@@ -1,0 +1,5 @@
+---
+title: Umkleideraum
+---
+
+Im Umkleideraum sind 100 Spinde mit der Einsatzbekleidung unserer Einsatzmannschaft gelagert. Weiters wird über einen Monitor der aktuelle Einsatz mit einem Lagebild samt Details, die Statusmeldungen der Fahrzeuge und die laufenden Termine der FF Wenns angezeigt. Weiters stehen auch fünf Handfunkgeräte im Umkleideraum für die Gruppenkommandanten zur Verfügung. Unser Bekleidungswart HLM Hammerle Walter kümmert sich um die passende Kleidung von Jung bis Alt.
