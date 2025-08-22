@@ -10,7 +10,7 @@ install:
 	npm install
 
 browse:
-	find posts -name "index.org" | fzf --preview 'cat {}'
+	find posts -name "index.md" | fzf --preview 'cat {}'
 
 import-posts:
 	source venv/bin/activate && python scripts/import_posts.py
@@ -19,7 +19,7 @@ import-events:
 	source venv/bin/activate && python scripts/import_events.py
 	
 stats:
-	echo "posts = $$(find posts -type f -iname "*.org" | wc -l)" > data/stats.toml
+	echo "posts = $$(find posts -type f -iname "*.md" | wc -l)" > data/stats.toml
 	echo "images = $$(find posts -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
 build:
