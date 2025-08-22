@@ -35,7 +35,7 @@
     {{ partialCached "head/css.html" . }}
     {{ partialCached "head/js.html" . }}
   </head>
-  <body id="page-{{ trim (replace .RelPermalink "/" "-") "-" }}" class="mx-auto mr-auto! max-w-[100rem] bg-white">
+  <body id="{{ with .Params.layout }}{{ . }}{{ else }}{{ trim (replace .RelPermalink "/" "-") "-" }}{{ end }}" class="mx-auto mr-auto! max-w-[100rem] bg-white">
     <header id="navbar" class="sticky top-0 z-10 bg-red-700 text-white">
       {{ partial "navbar.html" . }}
     </header>

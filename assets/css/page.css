@@ -5,8 +5,19 @@
     }
   }
 
-  /* home */
-  #page- {
+  #post {
+    .content {
+      p + p {
+        @apply mt-4;
+      }
+    }
+
+    figure {
+      @apply lg:grid-cols-4!;
+    }
+  }
+
+  #home {
     .content {
       p + p {
         @apply mt-4;
@@ -19,11 +30,11 @@
     }
   }
 
-  #page-mannschaft-kommando .cover {
+  #mannschaft-kommando .cover {
     @apply object-top;
   }
 
-  #page-chronik-mannschaft {
+  #chronik-mannschaft {
     main {
       @apply pt-4 xxl:pt-20;
     }
@@ -37,7 +48,7 @@
     }
   }
 
-  #page-chronik-kommando {
+  #chronik-kommando {
     main {
       @apply pt-4 xxl:pt-20;
     }
@@ -51,13 +62,13 @@
     }
   }
 
-  #page-chronik-geraetehaeuser {
+  #chronik-geraetehaeuser {
     p {
       @apply mb-4;
     }
   }
 
-  #page-chronik-grossbraende {
+  #chronik-grossbraende {
     main {
       @apply pt-4 xxl:pt-20;
     }
