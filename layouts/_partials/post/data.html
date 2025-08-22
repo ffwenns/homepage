@@ -1,0 +1,46 @@
+{{ $data := (dict "headline" "Details" "content" .) }}
+
+{{ $content := replaceRE "(Im Einsatz|Bei der Übung|Details).*:.*\n" "HUGO_TEMPLATE_SPLIT" . }}
+{{ $parts := split $content "HUGO_TEMPLATE_SPLIT" }}
+{{ $meta := slice }}
+
+{{ if gt (len $parts) 1 }}
+
+  {{ $content = trim (index $parts 0) "\n " }}
+  {{ $details := trim (index $parts 1) "\n " }}
+  {{ $lines := split $details "\n" }}
+
+  {{ range $lines }}
+    {{ $line := . }}
+    {{ $sanitized_line := replace (replace $line "<p>" "") "</p>" "" }}
+    {{ $kv := split $sanitized_line ":" }}
+
+    {{ if and (gt (len $kv) 1) (ne (trim (index $kv 0) " ") "") }}
+      {{ $key := trim (index $kv 0) " ️ \n" }}
+      {{ $value := "" }}
+      {{ range $i, $v := (after 1 $kv) }}
+        {{ if $i }}
+          {{ $value = print $value ":" }}
+        {{ end }}
+        {{ $value = print $value $v }}
+      {{ end }}
+      {{ $meta = $meta | append (dict "type" "kv" "key" (trim $key " ") "value" (trim $value " ")) }}
+    {{ else }}
+      {{ $meta = $meta | append (dict "type" "other" "value" $sanitized_line) }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ $content = trim (index $parts 0) "\n " }}
+{{ end }}
+
+{{ $data := dict "headline" "Details" "content" $content "meta" $meta }}
+
+{{ if findRE "(Einsatz).*:.*\n" . }}
+  {{ $data = (dict "headline" "Im Einsatz" "content" $content "meta" $meta) }}
+{{ end }}
+
+{{ if findRE "(Übung).*:.*\n" . }}
+  {{ $data = (dict "headline" "Bei der Übung" "content" $content "meta" $meta) }}
+{{ end }}
+
+{{ return $data }}

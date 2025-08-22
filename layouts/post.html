@@ -1,17 +1,48 @@
 {{ define "main" }}
   {{ partial "cover.html" . }}
 
+  {{ $data := partial "post/data.html" .Content }}
+
 
   <article>
-    {{ partial "german-date.html" .Date }}
+    <div class="grid gap-4 px-4 lg:grid-cols-3 xxl:px-0 xxl:pt-4">
+      <div class="order-last flex flex-col gap-4 lg:order-first lg:col-span-1">
+        {{ if .Params.facebook_url }}
+          <div class="order-last bg-blue-100 p-4 text-blue-800 lg:order-first">
+            <h3 class="mb-4 text-xl font-medium">Auf Facebook anschauen</h3>
+            <p class="whitespace-normal">
+              Dieser Beitrag wurde ursprünglich auf Facebook veröffentlicht und ist unter
+              <a href="{{ .Params.facebook_url }}" target="_blank" class="font-medium underline hover:no-underline">diesem Link</a>
+              erreichbar.
+            </p>
+          </div>
+        {{ end }}
 
-    {{ if .Params.facebook_url }}
-      <p><a href="{{ .Params.facebook_url }}" target="_blank">View on Facebook</a></p>
-    {{ end }}
+        {{- with $data.meta -}}
+          <div class="bg-gray-100 p-4 text-gray-800">
+            <h3 class="mb-4 text-xl font-medium">{{ $data.headline }}</h3>
+            <ul class="space-y-4">
+              {{- range . -}}
+                {{- if eq .type "kv" -}}
+                  <li>
+                    <strong>{{ .key | safeHTML }}:</strong>
+                    <div>{{ .value | safeHTML }}</div>
+                  </li>
+                {{- else -}}
+                  <li>{{ .value | safeHTML }}</li>
+                {{- end -}}
+              {{- end -}}
+            </ul>
+          </div>
+        {{- end -}}
+      </div>
+      <div class="lg:col-span-2">
+        {{ partial "german-date.html" .Date }}
+        {{ $data.content | safeHTML }}
 
-
-    <div>{{ .Content }}</div>
-    {{ partial "gallery.html" . }}
+        {{ partial "gallery.html" . }}
+      </div>
+    </div>
   </article>
 {{ end }}
 
