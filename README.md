@@ -17,19 +17,11 @@ Beim Bearbeiten bitte einige Dinge beachten:
 
 ## Entwicklung
 
-Es müssen folgende Abhängigkeiten installiert sein:
+Es müssen folgende Abhängigkeiten unter [Arch Linux](https://archlinux.org) installiert sein:
 
 ```
 sudo pacman -S git git-lfs python python-pip nodejs npm hugo make
 ```
-
-### Importer
-
-- schaut sich regelmäßig die aktuellen Posts auf Facebook an
-- überprüft, ob es sich um einen Beitrag mit einem Titel handelt
-- bereits importierte Beiträge werden stets überschrieben
-- das Überschreiben kann mit einer `.lock` Datei gesperrt werden
-- mit der `cover.webp` kann das Beitragsbild festgelegt werden
 
 ### Server
 
