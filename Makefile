@@ -42,10 +42,12 @@ build-prod-content:
 	hugo build --minify --renderSegments content --destination /srv/http/homepage
 
 commit:
-	# commit changes
+	git add posts/
+	git commit -m "[cron] import facebook posts" || true
+	git push origin main || echo "No changes to commit"
 
 # setup cronjob to run this command daily
-import: import-posts import-events stats commit build-prod-content
+import: import-events import-posts stats commit
 
 lfs-push:
 	git lfs push --all origin main
