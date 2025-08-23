@@ -15,6 +15,12 @@ Beim Bearbeiten bitte einige Dinge beachten:
 - Bilder im **Format webp, 1280 Pixel breit mit Qualität 80** hochladen
 - Dateinamen ohne Leerzeichen, klein geschrieben
 
+Um auf nachträgliche Änderungen durch das ÖA-Team zu reagieren, überschreibt
+der Importer die 10 aktuellsten Beiträge (mit Titel) immer. Das kann mit einer
+leeren `.lock` Datei im Ordner des Beitrags verhindert werden. Durch das
+Umbenennen eines Bildes in `cover.webp` kann das Vorschaubild manuell
+festgelegt werden.
+
 ## Entwicklung
 
 Es müssen folgende Abhängigkeiten unter [Arch Linux](https://archlinux.org) installiert sein:
