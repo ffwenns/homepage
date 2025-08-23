@@ -11,14 +11,22 @@
 
 <div class="swiper -mt-8 w-full p-4! xxl:p-0!">
   <div class="swiper-wrapper max-sm:flex-col max-sm:gap-4">
-    {{ range $posts }}
+    {{ range $index, $post := $posts }}
       <div class="swiper-slide max-sm:nth-[n+4]:hidden!">
-        <a href="{{ .RelPermalink }}" class="block">
+        {{ $fadeInClass := "" }}
+        {{ if eq $index 0 }}
+          {{ $fadeInClass = "fade-in delay-100" }}
+        {{ else if eq $index 1 }}
+          {{ $fadeInClass = "fade-in delay-200" }}
+        {{ else if eq $index 2 }}
+          {{ $fadeInClass = "fade-in delay-300" }}
+        {{ end }}
+        <a href="{{ $post.RelPermalink }}" class="{{ $fadeInClass }} block">
           <article class="relative overflow-hidden rounded select-none">
-            {{ $cover := .Resources.GetMatch "cover.webp" }}
+            {{ $cover := $post.Resources.GetMatch "cover.webp" }}
             {{ $image := $cover }}
             {{ if not $image }}
-              {{ $images := .Resources.ByType "image" }}
+              {{ $images := $post.Resources.ByType "image" }}
               {{ if $images }}
                 {{ $image = index $images 0 }}
               {{ end }}
@@ -34,9 +42,9 @@
             <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
               <div class="absolute bottom-0 left-0 p-4">
                 <span class="text-sm text-gray-300">
-                  {{ partial "german-date" .Date }}
+                  {{ partial "german-date" $post.Date }}
                 </span>
-                <h2 class="line-clamp-2 min-h-[2lh] text-xl font-medium text-white">{{ .Title }}</h2>
+                <h2 class="line-clamp-2 min-h-[2lh] text-xl font-medium text-white">{{ $post.Title }}</h2>
               </div>
             </div>
           </article>

@@ -21,9 +21,9 @@
 {{ end }}
 
 
-<div class="-mt-8 grid gap-4 p-4 md:grid-cols-2 xl:grid-cols-3 xxl:p-0">
+<div id="posts" class="-mt-8 grid gap-4 p-4 md:grid-cols-2 xl:grid-cols-3 xxl:p-0">
   {{ range $posts }}
-    <a href="{{ .RelPermalink }}" class="block">
+    <a href="{{ .RelPermalink }}" class="fade-in block">
       <article class="relative overflow-hidden rounded">
         {{ $cover := .Resources.GetMatch "cover.webp" }}
         {{ $image := $cover }}
@@ -42,7 +42,7 @@
 
 
         <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
-          <div class="absolute bottom-0 left-0 p-4">
+          <div class="meta absolute bottom-0 left-0 p-4">
             <span class="text-sm text-gray-300">
               {{ partial "german-date" .Date }}
             </span>
