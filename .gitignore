@@ -7,5 +7,5 @@ node_modules/
 /files
 /venv
 .env
-*.lock
 *.zip
+.hugo_build.lock

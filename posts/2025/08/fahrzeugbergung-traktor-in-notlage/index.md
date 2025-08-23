@@ -4,7 +4,6 @@ date: 2025-08-02
 layout: post
 facebook_url: "https://facebook.com/ffwenns/posts/1135368668625584"
 ---
-
 Am heutigen Samstagnachmittag, den 02.August 2025 um 15:26 Uhr wurden wir zu einer Fahrzeugbergung im Bereich Pitze alarmiert. 
 
 Aufgrund der Lage im Gemeindegebiet von Jerzens und dem gemeinsamen "Sonderalarmplan Pitzenhöfe" wurde neben der KDO-Schleife Jerzens auch die KDO-Schleife Wenns mitalarmiert. Unsere Kameraden aus Jerzens blieben in Bereitschaft.

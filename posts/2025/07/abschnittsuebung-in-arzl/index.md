@@ -4,7 +4,6 @@ date: 2025-07-24
 layout: post
 facebook_url: "https://facebook.com/ffwenns/posts/1127916589370792"
 ---
-
 Am Mittwochabend, den 23.07.2025, nahmen wir - direkt nach dem Brandeinsatz - an der Abschnittsübung des vorderen Pitztals in Arzl teil. 
 
 Unser TLF war bei der Brandbekämpfung sowie mit einem Atemschutztrupp im Innenangriff im Einsatz. Zeitgleich befreite unsere Rüst-Mannschaft eine eingeklemmte Person in der Bäckereistube mithilfe des hydraulischen Rettungsgeräts.

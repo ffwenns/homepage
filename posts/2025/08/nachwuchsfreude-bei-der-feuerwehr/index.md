@@ -1,10 +1,9 @@
 ---
 title: "Nachwuchsfreude bei der Feuerwehr"
-date: 2025-08-02
+date: 2025-08-01
 layout: post
 facebook_url: "https://facebook.com/ffwenns/posts/1134775818684869"
 ---
-
 Am Freitag, den 1. August 2025, landete der Feuerwehr-Storch bei unserem Kameraden OV Alexander Dobler und seiner Jasmin –
 Herzlichen Glückwunsch zur Geburt ihres zweiten Kindes – dem kleinen KILIAN! 
 

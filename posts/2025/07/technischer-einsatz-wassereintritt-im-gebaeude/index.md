@@ -4,7 +4,6 @@ date: 2025-07-29
 layout: post
 facebook_url: "https://facebook.com/ffwenns/posts/1132354088927042"
 ---
-
 Am Dienstagabend, den 29.07.2025, um 19:28 Uhr, wurde die FF Wenns mittels Pager (Kommandoschleife) zu einem technischen Einsatz im Ortsgebiet alarmiert.
 
 Grund dafür war ein ausgedehnter Wassereintritt ins Gebäude, verursacht durch ein verstopftes Hauptabflussrohr.
