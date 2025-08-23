@@ -4,57 +4,42 @@
 
 
   <div class="-mt-4 flex flex-col gap-4 p-4 lg:flex-row xxl:px-0">
-    {{ with .Resources.GetMatch "data.yaml" }}
-      {{ $data := . | transform.Unmarshal }}
+    <div class="flex-1/3 shrink-0">
+      <details name="Daten" open>
+        <summary>Details</summary>
+        <div class="content">
+          <dl>
+            {{ range $key, $value := .Params.details }}
+              <dt class="font-semibold">{{ strings.FirstUpper $key }}</dt>
+              <dd class="mb-2">{{ $value }}</dd>
+            {{ end }}
+          </dl>
+        </div>
+      </details>
 
+      <details name="Daten">
+        <summary>Beladung</summary>
+        <div class="content">
+          <ul>
+            {{ range .Params.beladung }}
+              <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      </details>
 
-      <div class="flex-1/3 shrink-0">
-        {{ if $data.details }}
-          <details name="Daten" open>
-            <summary>Details</summary>
-            <div class="content">
-              <dl>
-                {{ range $key, $value := $data.details }}
-                  <dt class="font-semibold">{{ $key }}</dt>
-                  <dd class="mb-2">{{ $value }}</dd>
-                {{ end }}
-              </dl>
-            </div>
-          </details>
-        {{ end }}
+      <details name="Daten">
+        <summary>Aufgaben</summary>
+        <div class="content">
+          <ul>
+            {{ range .Params.aufgaben }}
+              <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      </details>
+    </div>
 
-        {{ if $data.beladung }}
-          <details name="Daten">
-            <summary>Beladung</summary>
-            <div class="content">
-              <ul>
-                {{ range $data.beladung }}
-                  <li>{{ . }}</li>
-                {{ end }}
-              </ul>
-            </div>
-          </details>
-        {{ end }}
-
-        {{ if $data.aufgaben }}
-          <details name="Daten">
-            <summary>Aufgaben</summary>
-            <div class="content">
-              <ul>
-                {{ range $data.aufgaben }}
-                  <li>{{ . }}</li>
-                {{ end }}
-              </ul>
-            </div>
-          </details>
-        {{ end }}
-      </div>
-
-      {{ partial "gallery.html" $ }}
-    {{ end }}
+    {{ partial "gallery.html" $ }}
   </div>
-{{ end }}
-
-{{ define "edit" }}
-  https://github.com/ffwenns/homepage/edit/main/content/{{ replace .Path "index.org" "data.yaml" }}
 {{ end }}

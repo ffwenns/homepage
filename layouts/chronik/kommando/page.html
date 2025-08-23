@@ -5,56 +5,52 @@
   <div class="px-4 xxl:p-0">
     <details name="Kommando" open>
       <summary>Kommandanten</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "kommandanten.yaml") }}
+      {{ partial "kommando.html" .Params.kommandanten }}
     </details>
 
     <details name="Kommando">
       <summary>Kommandant Stv.</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "kommandant-stv.yaml") }}
+      {{ partial "kommando.html" .Params.kommandant_stv }}
     </details>
 
     <details name="Kommando">
       <summary>Schriftführer</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "schriftfuehrer.yaml") }}
+      {{ partial "kommando.html" .Params.schriftfuehrer }}
     </details>
 
     <details name="Kommando">
       <summary>Kassiere</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "kassiere.yaml") }}
+      {{ partial "kommando.html" .Params.kassiere }}
     </details>
 
     <details name="Kommando">
       <summary>Ehrenmitglieder</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "ehrenmitglieder.yaml") }}
+      {{ partial "kommando.html" .Params.ehrenmitglieder }}
     </details>
 
     <details name="Kommando">
       <summary>Patinnen</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "patinnen.yaml") }}
+      {{ partial "kommando.html" .Params.patinnen }}
     </details>
 
     <details name="Kommando">
       <summary>Obermaschinisten</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "obermaschinisten.yaml") }}
+      {{ partial "kommando.html" .Params.obermaschinisten }}
     </details>
 
     <details name="Kommando">
       <summary>Atemschutzbeauftragte</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "atemschutzbeauftragte.yaml") }}
+      {{ partial "kommando.html" .Params.atemschutzbeauftragte }}
     </details>
 
     <details name="Kommando">
       <summary>Gerätewarte</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "geraetewarte.yaml") }}
+      {{ partial "kommando.html" .Params.geraetewarte }}
     </details>
 
     <details name="Kommando">
       <summary>Jugendbetreuer</summary>
-      {{ partial "kommando.html" (dict "page" . "file" "jugendbetreuer.yaml") }}
+      {{ partial "kommando.html" .Params.jugendbetreuer }}
     </details>
   </div>
-{{ end }}
-
-{{ define "edit" }}
-  https://github.com/ffwenns/homepage/edit/main/content/chronik/kommando/
 {{ end }}
