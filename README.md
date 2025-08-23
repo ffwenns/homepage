@@ -26,7 +26,7 @@ festgelegt werden.
 Es müssen folgende Abhängigkeiten unter [Arch Linux](https://archlinux.org) installiert sein:
 
 ```
-sudo pacman -S git git-lfs python python-pip nodejs npm hugo make
+sudo pacman -S git git-lfs python python-pip nodejs npm hugo make caddy
 ```
 
 ### Server
