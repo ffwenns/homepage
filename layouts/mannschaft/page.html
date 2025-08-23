@@ -5,27 +5,24 @@
 
   <div class="xxl-pt-4 px-4 xxl:px-0">
     <div class="grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-4">
-      {{ with .Resources.GetMatch "data.yaml" }}
-        {{ $data := . | transform.Unmarshal }}
-        {{ range $data }}
-          <div class="relative overflow-hidden rounded">
-            {{ if .image }}
-              <img src="/images/mitglieder/{{ .image }}" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
-            {{ else }}
-              <img src="/images/avatar.png" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
-            {{ end }}
+      {{ range .Params.members }}
+        <div class="relative overflow-hidden rounded">
+          {{ if .image }}
+            <img src="/images/mitglieder/{{ .image }}" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
+          {{ else }}
+            <img src="/images/avatar.png" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
+          {{ end }}
 
 
-            <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
-              <div class="absolute bottom-0 left-0 p-4 text-white">
-                <img src="/images/dienstgrade/{{ .rank }}.svg" alt="{{ .rank }}" class="mb-2 size-8 xxl:size-12" />
+          <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
+            <div class="absolute bottom-0 left-0 p-4 text-white">
+              <img src="/images/dienstgrade/{{ .rank }}.svg" alt="{{ .rank }}" class="mb-2 size-8 xxl:size-12" />
 
-                <h3 class="text-xs font-semibold xs:text-sm sm:text-base lg:text-lg">{{ .rank }} {{ .name }}</h3>
-                <p class="line-calmp-2 mb-0 min-h-[2lh] text-xs sm:text-sm lg:text-base">{{ .role }}</p>
-              </div>
+              <h3 class="text-xs font-semibold xs:text-sm sm:text-base lg:text-lg">{{ .rank }} {{ .name }}</h3>
+              <p class="line-calmp-2 mb-0 min-h-[2lh] text-xs sm:text-sm lg:text-base">{{ .role }}</p>
             </div>
           </div>
-        {{ end }}
+        </div>
       {{ end }}
     </div>
   </div>

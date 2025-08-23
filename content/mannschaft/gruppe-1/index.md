@@ -1,4 +1,21 @@
 ---
 title: Gruppe 1 (Reserve)
+members:
+  - rank: "HLM"
+    name: "Walter Gasser"
+    role: "Ehrenmitglied, Gkdt. (Reserve)"
+    image: "Gasser_Walter1.webp"
+  - rank: "BI"
+    name: "Josef Hafele"
+    role: "Ehrenmitglied"
+    image: "Hafele_Josef.webp"
+  - rank: "V2"
+    name: "Rudolf Mattle"
+    role: "Chronist"
+    image: "Mattle_Rudolf_1.webp"
+  - rank: "V2"
+    name: "Arthur Krismer"
+    image: "Krismer_Arthur.webp"
+  - rank: "HFM"
+    name: "Werner Schranz"
 ---
-
