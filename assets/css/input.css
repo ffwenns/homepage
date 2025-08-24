@@ -77,6 +77,10 @@
     &:target + #offcanvas {
       translate: none;
     }
+
+    &:target + #offcanvas + #backdrop {
+      opacity: 0.66;
+    }
   }
 
   #offcanvas {
@@ -102,6 +106,10 @@
     li a {
       @apply block py-1 text-lg;
     }
+  }
+
+  #backdrop {
+    @apply pointer-events-none fixed top-0 z-8 size-full bg-black opacity-0 transition-all duration-300 xl:hidden;
   }
 
   #header {

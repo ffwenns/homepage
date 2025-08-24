@@ -44,6 +44,8 @@
       {{ partial "menu/mobile.html" . }}
     </nav>
 
+    <div id="backdrop"></div>
+
     <header id="header">
       <div class="flex min-h-80 flex-col justify-center gap-4 sm:min-h-96 sm:gap-8 lg:min-h-[480px]">
         <a href="/" class="fade-in mt-8 block delay-100">
@@ -98,11 +100,7 @@
                   {{ end }}
 
                   {{ with .File }}
-                    <a
-                      href="{{ block "edit" . }}https://github.com/ffwenns/homepage/edit/main/content/{{ .Path }}{{ end }}"
-                      target="_blank"
-                      class="inline-block pb-4 text-green-700 hover:no-underline"
-                    >
+                    <a href="{{ block "edit" . }}https://github.com/ffwenns/homepage/edit/main/content/{{ .Path }}{{ end }}" target="_blank" class="inline-block pb-4 ">
                       Diese Seite bearbeiten
                     </a>
                   {{ end }}
