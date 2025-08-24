@@ -42,4 +42,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
     countUp.start();
   });
+
+  const summaryElements = document.querySelectorAll("#footer summary");
+
+  summaryElements.forEach((summary) => {
+    summary.addEventListener("click", () => {
+      window.setTimeout(() => {
+        document.querySelector("#end").scrollIntoView({ behavior: "smooth" });
+      }, 320);
+    });
+  });
 });
