@@ -49,6 +49,9 @@ commit:
 # setup cronjob to run this command daily
 import: import-events import-posts stats commit
 
+backup:
+	git archive --format=tar.gz --output=../homepage_$$(date +%Y%m%d).tar.gz HEAD
+
 lfs-push:
 	git lfs push --all origin main
 
