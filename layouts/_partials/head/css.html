@@ -4,8 +4,8 @@
   {{- end }}
 {{- else }}
   {{- with resources.Get "css/output.css" }}
-    {{- with . | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" />
-    {{- end }}
+    <style>
+      {{ .Content | safeCSS }}
+    </style>
   {{- end }}
 {{- end }}
