@@ -22,20 +22,24 @@
 
 
 <div id="posts" class="-mt-8 grid gap-4 p-4 md:grid-cols-2 xl:grid-cols-3 xxl:p-0">
-  {{ range $posts }}
-    <a href="{{ .RelPermalink }}" class="fade-in block">
+  {{ range $index, $post := $posts }}
+    <a href="{{ $post.RelPermalink }}" class="fade-in block">
       <article class="relative overflow-hidden rounded">
-        {{ $cover := .Resources.GetMatch "cover.webp" }}
+        {{ $cover := $post.Resources.GetMatch "cover.webp" }}
         {{ $image := $cover }}
         {{ if not $image }}
-          {{ $images := .Resources.ByType "image" }}
+          {{ $images := $post.Resources.ByType "image" }}
           {{ if $images }}
             {{ $image = index $images 0 }}
           {{ end }}
         {{ end }}
 
         {{ if $image }}
-          <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="aspect-3/2 object-cover" loading="lazy" />
+          {{ if lt $index 6 }}
+            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="aspect-3/2 object-cover" loading="eager" fetchpriority="high" />
+          {{ else }}
+            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="aspect-3/2 object-cover" loading="lazy" />
+          {{ end }}
         {{ else }}
           <img src="/images/placeholder.svg" class="aspect-3/2 h-full w-full bg-gray-300 object-contain p-16 pb-32" />
         {{ end }}
@@ -44,9 +48,9 @@
         <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
           <div class="meta absolute bottom-0 left-0 p-4">
             <span class="text-sm text-gray-300">
-              {{ partial "german-date" .Date }}
+              {{ partial "german-date" $post.Date }}
             </span>
-            <h2 class="line-clamp-2 min-h-[2lh] text-xl font-medium text-white">{{ .Title }}</h2>
+            <h2 class="line-clamp-2 min-h-[2lh] text-xl font-medium text-white">{{ $post.Title }}</h2>
           </div>
         </div>
       </article>
