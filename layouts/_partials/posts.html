@@ -35,7 +35,7 @@
         {{ end }}
 
         {{ if $image }}
-          <img src="{{ $image.RelPermalink }}" class="aspect-3/2 object-cover" loading="lazy" />
+          <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="aspect-3/2 object-cover" loading="lazy" />
         {{ else }}
           <img src="/images/placeholder.svg" class="aspect-3/2 h-full w-full bg-gray-300 object-contain p-16 pb-32" />
         {{ end }}
