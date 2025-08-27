@@ -17,6 +17,6 @@ Auch unser Herr Pfarrer Mag. Otto Gleinser hob die Wichtigkeit der Feuerwehr im 
 
 Nach den Terminplanungen von Ausschussmitgliedern beim Punkt "Allfälliges" konnte die JHV nach rund zwei Stunden erfolgreich beendet und zum gemütlichen Teil übergegangen werden.
 
-Ein Dank ergeht natürlich auch an das entschuldigte und verhinderte Bezirkskommando BFK OBR Klaus Raffl, BFK Stv. und Kurskartenbearbeiter BR Hubert Fischer und BFI OBR Wagner Josef, bei denen wir uns ebenfalls im Rahmen der Jahreshauptversammlung recht Herzlich für die Unterstützung und Zusammenarbeit bedankten. www.feuerwehr-wenns.at
+Ein Dank ergeht natürlich auch an das entschuldigte und verhinderte Bezirkskommando BFK OBR Klaus Raffl, BFK Stv. und Kurskartenbearbeiter BR Hubert Fischer und BFI OBR Wagner Josef, bei denen wir uns ebenfalls im Rahmen der Jahreshauptversammlung recht Herzlich für die Unterstützung und Zusammenarbeit bedankten. 
 
 Robert Krug

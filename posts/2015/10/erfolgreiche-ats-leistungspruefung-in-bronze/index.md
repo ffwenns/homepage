@@ -15,5 +15,3 @@ Stufe I Bronze:
  FM Patrick Pfefferle (1er Atemschutztruppführer)
  HFM Georg Pfefferle (2er Atemschutztruppmann 1)
  FM Fabian Eiter (3er Atemschutztruppmann 2)
-
-Genauer Bericht & Fotos unter: http://www.feuerwehr-wenns.at/aktuelles/taetigkeiten/ats-leistungspruefung-in-bronze/

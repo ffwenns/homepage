@@ -10,4 +10,3 @@ Am gestrigen Freitagabend den 11.11 hielten die Gruppen 3,4 und 5 eine gemeinsam
 Bei der Übung:
 TLFA 2000 und RF-A mit 17 Mann
 Übungsleiter: OBM Gundolf Stefan 2 und LM Gundolf Stefan 1
-www.feuerwehr-wenns.at

@@ -10,4 +10,3 @@ Neben dem Aufbau der Wasserversorgung und Brandbekämpfung wurde sofort von zwei
 
 
 Bei der Übung: 3 Gruppen mit TLFA 2000, LF-A, RF-A und MTFA sowie 36 Mann
-www.feuerwehr-wenns.at/aktuelles

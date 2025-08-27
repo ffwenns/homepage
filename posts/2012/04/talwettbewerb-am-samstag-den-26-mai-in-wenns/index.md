@@ -5,7 +5,7 @@ layout: post
 ---
 
 Liebe Feuerwehrkameraden und Gemeindebürger!
-Die Freiwillige Feuerwehr Wenns möchte euch für den Gemeindewettbewerb am Samstag den 26. Mai 2012 am Sportplatz Pitzenhöfe vorinformieren und dazu recht herzlich einladen. Anmeldungen der Feuerwehren (auch Gästegruppen sind herzlich willkommen) vorzugsweise unter der E-Mail Adresse feuerwehr@ff-wenns.at oder direkt beim Kommandanten OBI Reheis Norbert unter 0664/ 23 25 357!
+Die Freiwillige Feuerwehr Wenns möchte euch für den Gemeindewettbewerb am Samstag den 26. Mai 2012 am Sportplatz Pitzenhöfe vorinformieren und dazu recht herzlich einladen. Anmeldungen der Feuerwehren (auch Gästegruppen sind herzlich willkommen) direkt beim Kommandanten OBI Reheis Norbert unter 0664/ 23 25 357!
 
 Der Bewerb beginnt am Samstag den 26. Mai um 13:00 Uhr. Genaues Programm inklusive der Startliste der jeweiligen Klassen wird den Kommandanten frühzeitig per E-Mail bzw. über den Postweg zugesendet!
 

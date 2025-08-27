@@ -16,4 +16,3 @@ FF Piller mit LF-B
 FF Wenns mit RF-A, TLFA 2000, MTF-A und 22 Mann
 Rotes Kreuz Imst und Notarzt
 Polizei
-www.feuerwehr-wenns.at/aktuelles

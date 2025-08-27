@@ -10,5 +10,3 @@ Bei einer weiteren Gruppenübung, diesmal der Gruppe 6, wurde gestern am Donners
 Bei der Übung:
 FF Wenns mit TLFA 2000, MTF-A und RF-A mit 15 Mann
 Übungsleiter: OBM Krug Robert
-
-www.feuerwehr-wenns.at

@@ -16,5 +16,3 @@ Nach den Berichten der einzelnen Funktionären wird auch das kommende Jahr berei
 Landesjugendbewerb nimmt die FF Wenns dieses Jahr teil!
 
 Nach dem Punkt "Allfälliges" konnte die JHV nach rund zwei Stunden erfolgreich beendet und zum gemütlichen Teil übergegangen werden. 
-
-www.feuerwehr-wenns.at

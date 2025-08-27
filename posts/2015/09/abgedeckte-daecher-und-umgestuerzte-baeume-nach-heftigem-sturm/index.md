@@ -13,4 +13,3 @@ Am Donnerstagabend den 17. September wurde die FF Wenns nach einem heftigen Stur
 
 Im Einsatz: RF-A. TLFA 2000 und MTF-A mit 23 Mann
 Einsatzbeginn: 17:11 Uhr / Einsatzende 21:30 Uhr
-www.feuerwehr-wenns.at/aktuelles

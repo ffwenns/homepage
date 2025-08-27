@@ -14,4 +14,3 @@ FF Wenns mit TLFA 2000, LF-A, MTF-A und RF-A und 51 Mann
 Rotes Kreuz Imst
 Bürgermeister Walter Schöpf
 Einsatzleiter: Kdt. OBI Reheis Norbert 
-www.feuerwehr-wenns.at/aktuelles

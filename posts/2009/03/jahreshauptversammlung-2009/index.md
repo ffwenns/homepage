@@ -10,7 +10,7 @@ Der Kommandant blickte über ein arbeitsreiches Jahr 2008 zurück. Mit über 25 
 
 Weiters besuchten auch zahlreiche Mitglieder einen Kurs an der Landesfeuerwehrschule Tirol. Es wurde im vergangenen Jahr aber auch bei vielen Bewerben teilgenommen wie zum Beispiel Talbewerb in Plangeroß, Bezirksbewerb in Roppen und Landeswettbewerb in Längenfeld. Unser Kdt. Norbert Reheis erreichte das Feuerwehrleistungsabzeichen in Gold (Feuerwehr Matura). Letzte Woche am 21. März fand der Wissenstest der Jugend Feuerwehr satt. Die FF Wenns war mit Bronze, Silber und Gold vertreten. Alle "Jugendlichen" die unter Gkdt. LM Bregenzer Andreas ausgebildet werden, haben diesen Wissenstest erfolgreich bestanden.
 
-Nach dem Tätigkeitsbericht des Kommandanten wurde unsere neue Homepage (www.ff-wenns.at) vorgestellt. Unser Kdt. stellte unseren neuen Internetauftritt kurz vor, und erklärte der anwesenden Mannschaft den Aufbau und Inhalt. Weiters bedankte er sich bei der Projektgruppe der 3. Handelsschule Imst für die super Erstellung der Homepage.
+Nach dem Tätigkeitsbericht des Kommandanten wurde unsere neue Homepage vorgestellt. Unser Kdt. stellte unseren neuen Internetauftritt kurz vor, und erklärte der anwesenden Mannschaft den Aufbau und Inhalt. Weiters bedankte er sich bei der Projektgruppe der 3. Handelsschule Imst für die super Erstellung der Homepage.
 
 Die Ehrungen und Beförderungen werden nicht wie bei einigen anderen Feuerwehren bei der Jahreshauptversammlung ausgeteilt, sondern bei der FF Wenns erfolgen die Ehrungen und Beförderungen immer am Florian Sonntag. (3. Mai 2009)
 Thema Feuerwehrhalle "neu"

@@ -10,5 +10,3 @@ Am gestrigen Samstagvormittag den 03. September um 09:50 Uhr rückte die FF Wenn
 Im Einsatz:
 FF Wenns mit TLFA 2000
 EL: LM Markus Larcher
-
-www.feuerwehr-wenns.at
