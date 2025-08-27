@@ -112,5 +112,9 @@
       </div>
     </footer>
     <div id="end"></div>
+
+    {{- with resources.Get "js/fslightbox.js" }}
+      <script src="{{ .RelPermalink }}" defer></script>
+    {{- end }}
   </body>
 </html>

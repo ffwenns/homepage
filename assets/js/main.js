@@ -1,4 +1,3 @@
-import { FsLightbox } from "fslightbox";
 import { CountUp } from "countup.js";
 
 console.log("Created with Hugo and Tailwind CSS");
