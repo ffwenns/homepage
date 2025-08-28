@@ -35,11 +35,27 @@
         {{ end }}
 
         {{ if $image }}
+          {{ $loadingAttr := "lazy" }}
+          {{ $fetchpriorityAttr := "" }}
           {{ if lt $index 6 }}
-            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="aspect-3/2 object-cover" loading="eager" fetchpriority="high" />
-          {{ else }}
-            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="aspect-3/2 object-cover" loading="lazy" />
+            {{ $loadingAttr = "eager" }}
+            {{ $fetchpriorityAttr = "high" }}
           {{ end }}
+          {{ $srcset := slice }}
+          {{ range $w := (slice 360 380 480 640 720 1024 1280 1440) }}
+            {{ $resized := $image.Resize (printf "%dx" $w) }}
+            {{ $srcset = $srcset | append (printf "%s %dw" $resized.RelPermalink $w) }}
+          {{ end }}
+          <img
+            src="{{ $image.RelPermalink }}"
+            srcset="{{ delimit $srcset ", " }}"
+            sizes="(max-width: 767px) calc(100vw - 2rem), (max-width: 1279px) calc((100vw / 2) - 3rem), calc((1440px / 3) - 2rem)"
+            width="{{ $image.Width }}"
+            height="{{ $image.Height }}"
+            class="aspect-3/2 object-cover"
+            loading="{{ $loadingAttr }}"
+            {{ if $fetchpriorityAttr }}fetchpriority="{{ $fetchpriorityAttr }}"{{ end }}
+          />
         {{ else }}
           <img src="/images/placeholder.svg" class="aspect-3/2 h-full w-full bg-gray-300 object-contain p-16 pb-32" />
         {{ end }}
