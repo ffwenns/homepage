@@ -1,5 +1,6 @@
 ---
 title: "Freiwillige Feuerwehr Wenns"
+description: Unsere Freizeit für Ihre Sicherheit!
 layout: home
 ---
 
