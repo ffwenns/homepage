@@ -42,7 +42,7 @@
             {{ $fetchpriorityAttr = "high" }}
           {{ end }}
           {{ $srcset := slice }}
-          {{ range $w := (slice 480 640 720 1280) }}
+          {{ range $w := (slice 480 680 720 880 960 1080 1280) }}
             {{ $resized := $image.Resize (printf "%dx" $w) }}
             {{ $srcset = $srcset | append (printf "%s %dw" $resized.RelPermalink $w) }}
           {{ end }}
