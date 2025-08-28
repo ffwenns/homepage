@@ -54,6 +54,7 @@
             height="{{ $image.Height }}"
             class="aspect-3/2 object-cover"
             loading="{{ $loadingAttr }}"
+            alt="{{ $post.Title }}"
             {{ if $fetchpriorityAttr }}fetchpriority="{{ $fetchpriorityAttr }}"{{ end }}
           />
         {{ else }}
