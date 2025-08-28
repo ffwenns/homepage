@@ -6,7 +6,6 @@
     "prettier-plugin-tailwindcss": "^0.6.14"
   },
   "dependencies": {
-    "countup.js": "^2.9.0",
     "fslightbox": "^3.7.4",
     "tailwindcss": "^4.1.11"
   },

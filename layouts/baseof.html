@@ -37,7 +37,6 @@
     </style>
 
     {{ partialCached "head/css.html" . }}
-    {{ partialCached "head/js.html" . }}
   </head>
   <body id="{{ with .Params.layout }}{{ . }}{{ else }}{{ trim (replace .RelPermalink "/" "-") "-" }}{{ end }}" class="mx-auto mr-auto! max-w-[100rem] bg-white">
     <header id="navbar" class="sticky top-0 z-10 bg-red-700 text-white">
@@ -112,6 +111,18 @@
       </div>
     </footer>
     <div id="end"></div>
+
+    <script>
+      const summaryElements = document.querySelectorAll("#footer summary");
+
+      summaryElements.forEach((summary) => {
+        summary.addEventListener("click", () => {
+          window.setTimeout(() => {
+            document.querySelector("#end").scrollIntoView({ behavior: "smooth" });
+          }, 320);
+        });
+      });
+    </script>
 
     {{- with resources.Get "js/fslightbox.js" }}
       <script src="{{ .RelPermalink }}" defer></script>
