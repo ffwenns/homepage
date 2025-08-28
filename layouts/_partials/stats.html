@@ -74,4 +74,18 @@
       --images:  {{ site.Data.stats.images }};
     }
   }
+
+  .hide-after::after {
+    display: none !important;
+  }
 </style>
+
+<script>
+  (function () {
+    var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+    if (isSafari) {
+      document.getElementById("counter-posts")?.classList.add("hide-after");
+      document.getElementById("counter-images")?.classList.add("hide-after");
+    }
+  })();
+</script>
