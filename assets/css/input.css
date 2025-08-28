@@ -86,6 +86,10 @@
           @apply block border-b border-gray-300 pb-2;
         }
       }
+
+      summary::-webkit-details-marker {
+        @apply hidden;
+      }
     }
 
     summary {
@@ -179,6 +183,10 @@
   #footer {
     a {
       @apply text-blue-800 underline hover:no-underline;
+    }
+
+    details summary::-webkit-details-marker {
+      @apply hidden;
     }
   }
 
