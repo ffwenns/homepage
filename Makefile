@@ -46,8 +46,10 @@ commit:
 	git commit -m "[cron] import facebook posts" || true
 	git push origin main || echo "No changes to commit"
 
+import: import-events import-posts stats
+
 # setup cronjob to run this command daily
-import: import-events import-posts stats commit
+autoimport: import commit
 
 backup:
 	git archive --format=tar.gz --output=../homepage_$$(date +%Y%m%d).tar.gz HEAD
