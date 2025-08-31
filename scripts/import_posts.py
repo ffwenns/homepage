@@ -47,15 +47,9 @@ class FacebookPostImporter:
         if not message:
             return None
 
-        # Pattern 1: Between 3 or 4 dashes (with optional spaces)
-        dash_pattern = r"^\s*-{3,4}\s*(.+?)\s*-{3,4}\s*"
+        # Pattern: Text between 3 or 4 dashes anywhere in the message
+        dash_pattern = r"-{3,4}\s*(.+?)\s*-{3,4}"
         match = re.search(dash_pattern, message, re.MULTILINE)
-        if match:
-            return match.group(1).strip()
-
-        # Pattern 2: Between emoji and emoji (or emoji + dash patterns)
-        emoji_pattern = r"^[\s\u200d]*[\U0001f600-\U0001f64f\U0001f300-\U0001f5ff\U0001f680-\U0001f6ff\U0001f1e0-\U0001f1ff\U00002600-\U000027bf\U0001f900-\U0001f9ff\U0001f018-\U0001f270]+.*?-{3,4}\s*(.+?)\s*-{3,4}.*?[\U0001f600-\U0001f64f\U0001f300-\U0001f5ff\U0001f680-\U0001f6ff\U0001f1e0-\U0001f1ff\U00002600-\U000027bf\U0001f900-\U0001f9ff\U0001f018-\U0001f270]+"
-        match = re.search(emoji_pattern, message, re.MULTILINE)
         if match:
             return match.group(1).strip()
 
@@ -170,6 +164,7 @@ class FacebookPostImporter:
         # Extract title
         title = self.extract_title(message)
         if not title:
+            print(f"Skipping post #{post['id']}, no title found")
             return False  # Skip posts without titles
 
         # Clean title: remove emoji and extra dashes/spaces
