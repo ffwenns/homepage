@@ -27,8 +27,8 @@ build:
 
 commit:
 	git add posts/ data/
-	git commit -m "[cron] import events and posts" || true
-	git push origin main || echo "No changes to commit"
+	git commit -m "[cron] import events and posts"
+	git push origin main
 
 backup:
 	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD
