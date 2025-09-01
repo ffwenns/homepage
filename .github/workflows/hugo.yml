@@ -84,7 +84,7 @@ jobs:
           restore-keys: hugo-
       - name: Build the site
         run: |
-          npm build
+          npm run build
           hugo build \
             --gc \
             --minify \
