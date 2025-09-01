@@ -83,7 +83,13 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys: hugo-
       - name: Build the site
-        run: make build
+        run: |
+          npm build
+          hugo build \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4
