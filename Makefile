@@ -6,17 +6,16 @@ watch:
 
 venv:
 	python -m venv venv
-	source venv/bin/activate
 
-install:
+install: venv
 	pip install -r requirements.txt
 	npm install
 
-import-posts:
-	python scripts/import_posts.py
+import-posts: 
+	source venv/bin/activate && python scripts/import_posts.py
 	
-import-events:
-	python scripts/import_events.py
+import-events: 
+	source venv/bin/activate && python scripts/import_events.py
 	
 stats:
 	echo "posts = $$(find archive/ posts/ -type f -iname "*.md" | wc -l)" > data/stats.toml
@@ -33,10 +32,3 @@ commit:
 
 backup:
 	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD
-
-lfs-push:
-	git lfs push --all origin main
-
-lfs-migrate:
-	@echo "Remember to run 'git push --force' after this command to update the remote repository."
-	git lfs migrate import --everything --include="*.webp"
