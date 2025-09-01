@@ -27,8 +27,8 @@ build:
 	hugo build --gc --minify
 
 commit:
-	git add posts/
-	git commit -m "[cron] import facebook posts" || true
+	git add posts/ data/
+	git commit -m "[cron] import events and posts" || true
 	git push origin main || echo "No changes to commit"
 
 import: import-events import-posts stats
