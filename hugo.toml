@@ -1,4 +1,4 @@
-baseURL = 'https://ffwenns.at/'
+baseURL = 'https://ffwenns.github.io/homepage/'
 languageCode = 'de-AT'
 title = 'Freiwillige Feuerwehr Wenns'
 disableKinds = ['taxonomy', 'term']
