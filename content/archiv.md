@@ -12,7 +12,7 @@ archive:
     file: ffwenns_jahresarchiv_2021.pdf
   - name: 2020
     file: ffwenns_jahresarchiv_2020.pdf
-  - name: 2018
+  - name: 2019
     file: ffwenns_jahresarchiv_2019.pdf
   - name: 2018
     file: ffwenns_jahresarchiv_2018.pdf
