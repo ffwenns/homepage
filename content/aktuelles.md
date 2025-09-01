@@ -1,5 +1,5 @@
 ---
-title: Aktuelles
+title: Aktuelle Beiträge
 layout: news
 ---
 

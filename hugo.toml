@@ -12,16 +12,6 @@ enableGitInfo = true
     source = "content"
     target = "content"
 
-[segments]
-  [segments.content]
-    [[segments.content.includes]]
-      path = '/**'
-    [[segments.content.includes]]
-      path = '/2025/**'
-    [[segments.content.excludes]]
-      path = '/202[0-4]/**'
-    [[segments.content.excludes]]
-      path = '/201*/**'
-    [[segments.content.excludes]]
-      path = '/200*/**'
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

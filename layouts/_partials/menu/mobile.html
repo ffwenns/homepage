@@ -6,18 +6,9 @@
     <summary><span>Aktuelles</span></summary>
 
     <div class="content">
-      <ul class="grid grid-flow-col grid-cols-4 grid-rows-5">
-        {{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
-        {{ $years := slice }}
-        {{ range $posts }}
-          {{ $year := .Date.Year }}
-          {{ if not (in $years $year) }}
-            {{ $years = $years | append $year }}
-          {{ end }}
-        {{ end }}
-        {{ range sort $years "value" "desc" }}
-          {{ partial "nav-link" (dict "url" (printf "/%d/" .) "text" (string .) "context" $) }}
-        {{ end }}
+      <ul>
+          {{ partial "nav-link" (dict "url" "/aktuelles/" "text" "Aktuelle Beiträge" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/archiv/" "text" "Jahresarchiv" "context" .) }}
       </ul>
     </div>
   </details>

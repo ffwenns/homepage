@@ -19,27 +19,12 @@ import-events:
 	source venv/bin/activate && python scripts/import_events.py
 	
 stats:
-	echo "posts = $$(find posts -type f -iname "*.md" | wc -l)" > data/stats.toml
-	echo "images = $$(find posts -type f -iname "*.webp" | wc -l)" >> data/stats.toml
+	echo "posts = $$(find archive/ posts/ -type f -iname "*.md" | wc -l)" > data/stats.toml
+	echo "images = $$(find archive/ posts/ -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
 build:
-	npm ci
 	npm run build
-	hugo build
-
-build-prod:
-	git pull origin main
-	git-lfs pull
-	npm ci
-	npm run build
-	hugo build --minify --destination /srv/http/homepage
-
-build-prod-content:
-	git pull origin main
-	git-lfs pull
-	npm ci
-	npm run build
-	hugo build --minify --renderSegments content --destination /srv/http/homepage
+	hugo build --gc --minify
 
 commit:
 	git add posts/

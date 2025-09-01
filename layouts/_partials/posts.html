@@ -2,15 +2,8 @@
   Usage:
   - {{ partial "posts" (dict "limit" 6)
 }}
-- show 6 latest posts - {{ partial "posts" (dict "year" 2025) }} - show all posts from 2025 - {{ partial "posts" (dict "limit" 3 "year" 2024) }} - show 3 latest posts from 2024 -
-{{ partial "posts" . }} - show all posts */}}
+- {{ partial "posts" . }} - show all posts */}}
 {{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
-
-{{/* Filter by year if specified */}}
-{{ if .year }}
-  {{ $yearStr := string .year }}
-  {{ $posts = where $posts ".Date.Year" .year }}
-{{ end }}
 
 {{/* Sort by date descending */}}
 {{ $posts = $posts.ByDate.Reverse }}
@@ -42,7 +35,7 @@
             {{ $fetchpriorityAttr = "high" }}
           {{ end }}
           {{ $srcset := slice }}
-          {{ range $w := (slice 400 480 665 720 880 960 1080 1280) }}
+          {{ range $w := (slice 480 720 1280) }}
             {{ $resized := $image.Resize (printf "%dx" $w) }}
             {{ $srcset = $srcset | append (printf "%s %dw" $resized.RelPermalink $w) }}
           {{ end }}

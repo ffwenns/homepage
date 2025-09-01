@@ -76,4 +76,10 @@
       @apply mb-4;
     }
   }
+
+  #archiv {
+    main {
+      @apply pt-4 xxl:pt-20;
+    }
+  }
 }
