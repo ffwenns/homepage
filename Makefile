@@ -5,12 +5,8 @@ watch:
 	npm run watch
 
 install:
-	python -m venv venv
-	source venv/bin/activate && pip install -r requirements.txt
+	pip install -r requirements.txt
 	npm install
-
-browse:
-	find posts -name "index.md" | fzf --preview 'cat {}'
 
 import-posts:
 	source venv/bin/activate && python scripts/import_posts.py
@@ -24,20 +20,15 @@ stats:
 
 build:
 	npm run build
-	hugo build --gc --minify
+	hugo build
 
 commit:
 	git add posts/ data/
 	git commit -m "[cron] import events and posts" || true
 	git push origin main || echo "No changes to commit"
 
-import: import-events import-posts stats
-
-# setup cronjob to run this command daily
-autoimport: import commit
-
 backup:
-	git archive --format=tar.gz --output=../homepage_$$(date +%Y%m%d).tar.gz HEAD
+	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD
 
 lfs-push:
 	git lfs push --all origin main
