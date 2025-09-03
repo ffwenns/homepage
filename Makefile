@@ -13,6 +13,9 @@ install: venv
 
 import-posts: 
 	source venv/bin/activate && python scripts/import_posts.py
+
+archive-posts:
+	source venv/bin/activate && python scripts/archive_posts.py
 	
 import-events: 
 	source venv/bin/activate && python scripts/import_events.py
@@ -26,7 +29,7 @@ build:
 	hugo build
 
 commit:
-	git add posts/ data/
+	git add archive/ posts/ data/
 	git commit -m "[cron] import events and posts"
 	git push origin main
 
