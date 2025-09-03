@@ -13,12 +13,12 @@ install: venv
 
 import-posts: 
 	source venv/bin/activate && python scripts/import_posts.py
-
-archive-posts:
-	source venv/bin/activate && python scripts/archive_posts.py
 	
 import-events: 
 	source venv/bin/activate && python scripts/import_events.py
+
+archive-posts:
+	source venv/bin/activate && python scripts/archive_posts.py
 	
 stats:
 	echo "posts = $$(find archive/ posts/ -type f -iname "*.md" | wc -l)" > data/stats.toml
