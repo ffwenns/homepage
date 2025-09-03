@@ -111,7 +111,7 @@
   #header {
     @apply bg-red-700
     bg-[url(/header.webp)] bg-cover bg-center bg-no-repeat text-center font-semibold
-    text-white bg-blend-darken;
+    text-white bg-blend-soft-light;
   }
 
   #dropdown {
