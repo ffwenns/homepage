@@ -89,6 +89,12 @@
   h1 {
     @apply mb-4 block border-b border-b-gray-300 py-2 text-3xl font-bold;
   }
+
+  article {
+    p {
+      @apply whitespace-pre-line;
+    }
+  }
 }
 
 @layer components {
@@ -208,59 +214,3 @@
     }
   }
 }
-
-/* @layer components {
-
-  article {
-    p {
-      @apply whitespace-pre-line;
-    }
-  }
-
-  main {
-  
-  }
-
-
-
-
-  .fade-in {
-    @apply translate-none opacity-100 transition-all duration-1000 starting:translate-y-full starting:opacity-0;
-  }
-
-  #posts .fade-in:nth-child(1) {
-    @apply delay-100;
-  }
-
-  #posts .fade-in:nth-child(2) {
-    @apply delay-200;
-  }
-
-  #posts .fade-in:nth-child(3) {
-    @apply delay-300;
-  }
-
-  #posts .fade-in:nth-child(4) {
-    @apply delay-400;
-  }
-
-  #posts .fade-in:nth-child(5) {
-    @apply delay-500;
-  }
-
-  #posts .fade-in:nth-child(6) {
-    @apply delay-600;
-  }
-
-  #posts .fade-in:nth-child(7) {
-    @apply delay-700;
-  }
-
-  #posts .fade-in:nth-child(8) {
-    @apply delay-800;
-  }
-
-  #posts .fade-in:nth-child(9) {
-    @apply delay-900;
-  }
-} */

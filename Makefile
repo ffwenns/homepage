@@ -16,22 +16,27 @@ import-posts:
 	
 import-events: 
 	source venv/bin/activate && python scripts/import_events.py
-
-archive-posts:
-	source venv/bin/activate && python scripts/archive_posts.py
 	
 stats:
-	echo "posts = $$(find archive/ posts/ -type f -iname "*.md" | wc -l)" > data/stats.toml
-	echo "images = $$(find archive/ posts/ -type f -iname "*.webp" | wc -l)" >> data/stats.toml
+	echo "posts = $$(find posts/ -type f -iname "*.md" | wc -l)" > data/stats.toml
+	echo "images = $$(find posts/ -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
 build:
+	npm ci
 	npm run build
 	hugo build
 
+build-prod:
+	git pull origin main
+	git-lfs pull
+	npm ci
+	npm run build
+	hugo build --destination /srv/http/homepage
+
 commit:
-	git add archive/ posts/ data/
-	git commit -m "[cron] import events and posts"
-	git push origin main
+	git add posts/ data/
+	git commit -m "[cron] import events and posts" || true
+	git push origin main || echo "No changes to commit"
 
 backup:
 	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD

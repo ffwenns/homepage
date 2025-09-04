@@ -1,0 +1,76 @@
+{{ define "nav" }}
+  <div>
+    <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
+      <h3 class="mb-4 text-2xl font-semibold text-blue-600">Aktuelles</h3>
+      <ul>
+        {{ range sort (readDir "posts") "Name" "desc" }}
+          {{ if (findRE "^20[0-9][0-9]$" .Name) }}
+            {{ $yearName := .Name }}
+            {{ $postCount := 0 }}
+            {{ range (readDir (printf "posts/%s" $yearName)) }}
+              {{ $monthName := .Name }}
+              {{ range (readDir (printf "posts/%s/%s" $yearName $monthName)) }}
+                {{ if eq .Name "index.md" }}
+                  {{ $postCount = add $postCount 1 }}
+                {{ else if .IsDir }}
+                  {{ $postDirPath := printf "posts/%s/%s/%s" $yearName $monthName .Name }}
+                  {{ range (readDir $postDirPath) }}
+                    {{ if eq .Name "index.md" }}
+                      {{ $postCount = add $postCount 1 }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ partial "nav-link" (dict "url" (printf "/%s/" $yearName) "text" (printf "%s (%d Beiträge)" $yearName $postCount) "context" $) }}
+          {{ end }}
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+{{ end }}
+
+{{ define "main" }}
+  {{ $data := partial "post/data.html" .Content }}
+
+
+  <article>
+    <div class="grid gap-4">
+      <div>
+        <div class="mb-4 text-gray-500">
+          {{ partial "german-date.html" .Date }}
+        </div>
+
+        <div class="content">
+          {{ $data.content | safeHTML }}
+        </div>
+
+        <div>
+          {{- with $data.meta -}}
+            <div class="bg-gray-100 p-4 text-gray-800">
+              <h3 class="mb-4 text-xl font-medium">{{ $data.headline }}</h3>
+              <ul class="space-y-4">
+                {{- range . -}}
+                  {{- if eq .type "kv" -}}
+                    <li class="mt-4">
+                      <strong>{{ .key | safeHTML }}:</strong>
+                      <div>{{ .value | safeHTML }}</div>
+                    </li>
+                  {{- else -}}
+                    <li>{{ .value | safeHTML }}</li>
+                  {{- end -}}
+                {{- end -}}
+              </ul>
+            </div>
+          {{- end -}}
+        </div>
+
+        {{ partial "gallery.html" . }}
+      </div>
+    </div>
+  </article>
+{{ end }}
+
+{{ define "edit" }}
+  https://github.com/ffwenns/homepage/edit/main/posts/{{ .Path }}
+{{ end }}

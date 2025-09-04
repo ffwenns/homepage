@@ -13,7 +13,7 @@
 
   #home {
     h1 {
-      @apply hidden;
+      @apply hidden!;
     }
 
     .content {

@@ -6,11 +6,11 @@
 
     {{ $firstSegment := index (split .RelPermalink "/") 1 }}
     {{ $currentYear := now.Year }}
-    <li class="{{ if or (findRE "^20[0-9][0-9]$" $firstSegment) (hasPrefix .RelPermalink "/aktuelles/") }}active{{ end }}">
+    <li class="group {{ if findRE "^20[0-9][0-9]$" $firstSegment }}active{{ end }}">
       <a href="/{{ $currentYear }}/">Aktuelles</a>
 
       <div class="content">
-        <div class="group-hover:block">
+        <div class="min-w-[40rem] group-hover:block">
           <ul class="grid grid-flow-col grid-cols-4 grid-rows-5 divide-x divide-gray-400">
             {{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
             {{ $years := slice }}

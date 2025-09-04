@@ -1,5 +1,12 @@
 {{ $video := .Resources.GetMatch "cover.mp4" }}
-{{ $image := .Resources.GetMatch "cover.webp" }}
+{{ $cover := .Resources.GetMatch "cover.webp" }}
+{{ $image := $cover }}
+{{ if not $image }}
+  {{ $images := .Resources.ByType "image" }}
+  {{ if $images }}
+    {{ $image = index $images 0 }}
+  {{ end }}
+{{ end }}
 
 {{ if $video }}
   <video src="{{ $video.RelPermalink }}" class="cover aspect-3/2 w-full object-cover sm:aspect-16/9 lg:aspect-21/9" autoplay muted loop controls playsinline></video>

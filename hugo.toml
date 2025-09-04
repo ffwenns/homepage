@@ -11,7 +11,3 @@ enableGitInfo = true
   [[module.mounts]]
     source = "content"
     target = "content"
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'

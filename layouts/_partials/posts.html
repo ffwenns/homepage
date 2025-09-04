@@ -2,8 +2,15 @@
   Usage:
   - {{ partial "posts" (dict "limit" 6)
 }}
-- {{ partial "posts" . }} - show all posts */}}
+- show 6 latest posts - {{ partial "posts" (dict "year" 2025) }} - show all posts from 2025 - {{ partial "posts" (dict "limit" 3 "year" 2024) }} - show 3 latest posts from 2024 -
+{{ partial "posts" . }} - show all posts */}}
 {{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
+
+{{/* Filter by year if specified */}}
+{{ if .year }}
+  {{ $yearStr := string .year }}
+  {{ $posts = where $posts ".Date.Year" .year }}
+{{ end }}
 
 {{/* Sort by date descending */}}
 {{ $posts = $posts.ByDate.Reverse }}
@@ -14,10 +21,10 @@
 {{ end }}
 
 
-<div id="posts" class="-mt-8 grid gap-4 overflow-clip p-4 md:grid-cols-2 xl:grid-cols-3 xxl:p-0">
+<div id="posts" class="grid gap-4 overflow-clip lg:grid-cols-2">
   {{ range $index, $post := $posts }}
     <a href="{{ $post.RelPermalink }}" class="fade-in block">
-      <article class="relative overflow-hidden rounded">
+      <article class="relative overflow-hidden">
         {{ $cover := $post.Resources.GetMatch "cover.webp" }}
         {{ $image := $cover }}
         {{ if not $image }}
@@ -35,7 +42,7 @@
             {{ $fetchpriorityAttr = "high" }}
           {{ end }}
           {{ $srcset := slice }}
-          {{ range $w := (slice 480 720 1280) }}
+          {{ range $w := (slice 480 720) }}
             {{ $resized := $image.Resize (printf "%dx" $w) }}
             {{ $srcset = $srcset | append (printf "%s %dw" $resized.RelPermalink $w) }}
           {{ end }}

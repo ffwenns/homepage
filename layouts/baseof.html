@@ -17,7 +17,14 @@
       {{ if .IsHome }}
         {{ site.Title }}
       {{ else }}
-        {{ printf "%s | %s" .Title site.Title }}
+        {{ $segments := split .RelPermalink "/" }}
+        {{ $firstSegment := index $segments 1 }}
+        {{ $secondSegment := index $segments 2 }}
+        {{ if and $firstSegment (findRE "^20[0-9][0-9]$" $firstSegment) (not $secondSegment) }}
+          {{ printf "Alle Beiträge aus %s | %s" $firstSegment site.Title }}
+        {{ else }}
+          {{ printf "%s | %s" .Title site.Title }}
+        {{ end }}
       {{ end }}
     </title>
 
@@ -46,7 +53,9 @@
 
 
       <main>
-        <h1>{{ .Title }}</h1>
+        {{ block "title" . }}
+          <h1>{{ .Title }}</h1>
+        {{ end }}
 
         {{ block "main" . }}{{ end }}
       </main>
