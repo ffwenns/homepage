@@ -11,6 +11,10 @@ install: venv
 	pip install -r requirements.txt
 	npm install
 
+pull:
+	git pull
+	git-lfs pull
+
 import-posts: 
 	source venv/bin/activate && python scripts/import_posts.py
 	
@@ -31,12 +35,15 @@ build-prod:
 	git-lfs pull
 	npm ci
 	npm run build
-	hugo build --destination /srv/http/homepage
+	hugo build --minify --destination /srv/http/homepage
 
 commit:
 	git add posts/ data/
 	git commit -m "[cron] import events and posts" || true
 	git push origin main || echo "No changes to commit"
+
+deploy:
+	rsync -avz --progress public/ ffwenns:/srv/http/homepage
 
 backup:
 	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD
