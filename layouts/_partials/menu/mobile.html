@@ -1,4 +1,4 @@
-<div class="-col-end-1 divide-y divide-gray-400 rounded-b-sm bg-gray-300">
+<div id="menu">
   {{ $firstSegment := index (split .RelPermalink "/") 1 }}
 
 
@@ -7,8 +7,8 @@
 
     <div class="content">
       <ul>
-          {{ partial "nav-link" (dict "url" "/aktuelles/" "text" "Aktuelle Beiträge" "context" .) }}
-          {{ partial "nav-link" (dict "url" "/archiv/" "text" "Jahresarchiv" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/aktuelles/" "text" "Aktuelle Beiträge" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/archiv/" "text" "Jahresarchiv" "context" .) }}
       </ul>
     </div>
   </details>

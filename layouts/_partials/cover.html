@@ -1,28 +1,8 @@
 {{ $video := .Resources.GetMatch "cover.mp4" }}
-{{ $cover := .Resources.GetMatch "cover.webp" }}
-{{ $image := $cover }}
-{{ if not $image }}
-  {{ $images := .Resources.ByType "image" }}
-  {{ if $images }}
-    {{ $image = index $images 0 }}
-  {{ end }}
-{{ end }}
+{{ $image := .Resources.GetMatch "cover.webp" }}
 
 {{ if $video }}
-  <video
-    src="{{ $video.RelPermalink }}"
-    class="cover -mt-8 aspect-3/2 w-full rounded-sm object-cover p-4 sm:aspect-16/9 lg:aspect-21/9 xxl:p-0"
-    autoplay
-    muted
-    loop
-    controls
-    playsinline
-  ></video>
+  <video src="{{ $video.RelPermalink }}" class="cover aspect-3/2 w-full object-cover sm:aspect-16/9 lg:aspect-21/9" autoplay muted loop controls playsinline></video>
 {{ else if $image }}
-  <img
-    src="{{ $image.RelPermalink }}"
-    class="cover -mt-8 aspect-3/2 w-full rounded-sm object-cover p-4 sm:aspect-16/9 lg:aspect-21/9 xxl:p-0"
-    fetchpriority="high"
-    loading="eager"
-  />
+  <img src="{{ $image.RelPermalink }}" class="cover aspect-3/2 w-full object-cover sm:aspect-16/9 lg:aspect-21/9" fetchpriority="high" loading="eager" />
 {{ end }}

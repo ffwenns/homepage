@@ -1,56 +1,65 @@
-{{ define "main" }}
-  {{ partial "h2.html" (dict "title" .Title) }}
-
-
-  <div class="px-4 xxl:p-0">
-    <details name="Kommando" open>
-      <summary>Kommandanten</summary>
-      {{ partial "kommando.html" .Params.kommandanten }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Kommandant Stv.</summary>
-      {{ partial "kommando.html" .Params.kommandant_stv }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Schriftführer</summary>
-      {{ partial "kommando.html" .Params.schriftfuehrer }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Kassiere</summary>
-      {{ partial "kommando.html" .Params.kassiere }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Ehrenmitglieder</summary>
-      {{ partial "kommando.html" .Params.ehrenmitglieder }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Patinnen</summary>
-      {{ partial "kommando.html" .Params.patinnen }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Obermaschinisten</summary>
-      {{ partial "kommando.html" .Params.obermaschinisten }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Atemschutzbeauftragte</summary>
-      {{ partial "kommando.html" .Params.atemschutzbeauftragte }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Gerätewarte</summary>
-      {{ partial "kommando.html" .Params.geraetewarte }}
-    </details>
-
-    <details name="Kommando">
-      <summary>Jugendbetreuer</summary>
-      {{ partial "kommando.html" .Params.jugendbetreuer }}
-    </details>
+{{ define "nav" }}
+  <div>
+    <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
+      <h3 class="mb-4 text-2xl font-semibold text-blue-600">Chronik</h3>
+      <ul>
+        {{ partial "nav-link" (dict "url" "/chronik/mannschaft/" "text" "Geschichte — Mannschaft" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/kommando/" "text" "Geschichte — Kommando" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/geraetehaeuser/" "text" "Geschichte — Gerätehäuser" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/grossbraende/" "text" "Geschichte — Großbrände" "context" .) }}
+      </ul>
+    </nav>
   </div>
+{{ end }}
+
+{{ define "main" }}
+  <details name="Kommando" open>
+    <summary>Kommandanten</summary>
+    {{ partial "kommando.html" .Params.kommandanten }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Kommandant Stv.</summary>
+    {{ partial "kommando.html" .Params.kommandant_stv }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Schriftführer</summary>
+    {{ partial "kommando.html" .Params.schriftfuehrer }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Kassiere</summary>
+    {{ partial "kommando.html" .Params.kassiere }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Ehrenmitglieder</summary>
+    {{ partial "kommando.html" .Params.ehrenmitglieder }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Patinnen</summary>
+    {{ partial "kommando.html" .Params.patinnen }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Obermaschinisten</summary>
+    {{ partial "kommando.html" .Params.obermaschinisten }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Atemschutzbeauftragte</summary>
+    {{ partial "kommando.html" .Params.atemschutzbeauftragte }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Gerätewarte</summary>
+    {{ partial "kommando.html" .Params.geraetewarte }}
+  </details>
+
+  <details name="Kommando">
+    <summary>Jugendbetreuer</summary>
+    {{ partial "kommando.html" .Params.jugendbetreuer }}
+  </details>
 {{ end }}

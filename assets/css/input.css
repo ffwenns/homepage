@@ -1,81 +1,139 @@
 @import "tailwindcss";
 @import "./page.css";
 
+@import "swiper/css";
+@import "swiper/css/navigation";
+
+:root {
+  --swiper-theme-color: white;
+  --swiper-navigation-size: 3rem;
+}
+
 @theme {
   --font-sans: "Roboto", sans-serif;
   --breakpoint-xs: 30rem;
   --breakpoint-xxl: 90rem;
 }
 
-@layer components {
-  .wrapper {
-    @apply mx-auto max-w-[90rem];
-  }
-
-  a[href="#navbar"] {
-    @apply relative z-10 block cursor-pointer border-l border-l-red-900 p-8 transition-all duration-300;
-
-    #close {
-      @apply absolute inset-0;
+@layer base {
+  @supports (interpolate-size: allow-keywords) {
+    :root {
+      interpolate-size: allow-keywords;
     }
 
-    #hamburger {
-      @apply relative my-[6px] select-none;
+    details {
+      transition: 0.3s all;
+    }
 
-      &,
-      &::before,
-      &::after {
-        @apply block h-[2px] w-5 bg-white transition-all duration-300;
+    ::details-content {
+      transition:
+        height 0.3s ease,
+        content-visibility 0.3s ease allow-discrete;
+      height: 0;
+      overflow: clip;
+    }
+
+    [open]::details-content {
+      height: auto;
+    }
+
+    summary {
+      @apply select-none;
+    }
+  }
+
+  .page {
+    @apply flex gap-4 p-4;
+
+    & > :first-child:not(main) {
+      @apply hidden w-1/3 shrink-0 grow-0 md:block lg:w-1/4;
+    }
+
+    nav a {
+      @apply block py-1 text-blue-600;
+
+      &:hover {
+        @apply underline;
+      }
+    }
+  }
+
+  main {
+    @apply w-full;
+
+    details {
+      @apply border-b border-gray-400;
+
+      .content {
+        @apply p-4 pb-0;
       }
 
-      &::before,
-      &::after {
-        @apply absolute content-[""];
+      ul {
+        @apply list-disc pb-4 pl-4;
       }
+    }
+
+    details:last-child {
+      @apply border-b-0;
+    }
+
+    summary {
+      @apply cursor-pointer bg-gray-300 p-4 text-xl font-semibold text-gray-600 select-none;
+    }
+
+    .content a:not([href^="#"]) {
+      @apply text-red-700 underline;
+    }
+  }
+
+  h1 {
+    @apply mb-4 block border-b border-b-gray-300 py-2 text-3xl font-bold;
+  }
+}
+
+@layer components {
+  #hamburger {
+    @apply relative my-[6px] select-none;
+
+    &,
+    &::before,
+    &::after {
+      @apply block h-[2px] w-5 bg-white transition-all duration-300;
+    }
+
+    &::before,
+    &::after {
+      @apply absolute content-[""];
+    }
+
+    &::before {
+      @apply -top-[6px];
+    }
+
+    &::after {
+      @apply top-[6px];
+    }
+
+    .open & {
+      @apply bg-transparent;
 
       &::before {
-        @apply -top-[6px];
+        @apply translate-y-[6px] rotate-45;
       }
 
       &::after {
-        @apply top-[6px];
+        @apply translate-y-[-6px] rotate-[-45deg];
       }
     }
   }
 
-  #navbar {
-    &:target {
-      a[href="#navbar"] {
-        @apply pointer-events-none;
+  #menu {
+    @apply h-0 divide-y divide-gray-400 overflow-clip bg-gray-300 transition-all duration-300;
 
-        #hamburger {
-          @apply bg-transparent;
-
-          &::before {
-            @apply translate-y-[6px] rotate-45;
-          }
-
-          &::after {
-            @apply translate-y-[-6px] rotate-[-45deg];
-          }
-        }
-      }
+    &.open {
+      @apply h-auto;
     }
 
-    & + #offcanvas {
-      translate: 0 -100%;
-    }
-
-    &:target + #offcanvas {
-      translate: none;
-    }
-
-    &:target + #offcanvas + #backdrop {
-      opacity: 0.66;
-    }
-  }
-
-  #offcanvas {
     details[open] {
       @apply bg-gray-100;
 
@@ -104,49 +162,54 @@
     }
   }
 
-  #backdrop {
-    @apply pointer-events-none fixed top-0 z-8 size-full bg-black opacity-0 transition-all duration-300 xl:hidden;
-  }
-
-  #header {
-    @apply bg-red-700
-    bg-[url(/header.webp)] bg-cover bg-center bg-no-repeat text-center font-semibold
-    text-white bg-blend-soft-light;
-  }
-
   #dropdown {
     .content {
-      @apply absolute right-0 left-0 -z-10 mx-auto block max-w-[90rem];
+      @apply absolute left-0 -z-10 mx-auto block w-full xl:left-auto xl:w-auto;
 
       & > div {
-        @apply absolute right-0 hidden min-w-[736px] divide-x divide-gray-400 rounded-b-sm bg-gray-300 group-hover:flex;
+        @apply absolute hidden w-full divide-x divide-gray-400 bg-gray-300 group-hover:flex xl:w-auto;
       }
     }
 
-    & > ul > li > a {
-      @apply block bg-red-700 p-6 text-xl font-medium;
-
-      &:after {
-        @apply block scale-x-0 border-b-2 border-white transition-all duration-300 ease-in-out content-[""];
+    & > ul > li {
+      &.active {
+        @apply bg-red-800 text-white;
       }
 
-      &:hover:after {
-        @apply xl:scale-x-100;
+      &:hover {
+        @apply bg-gray-300 text-black;
+      }
+
+      & > a {
+        @apply block p-4 font-medium;
       }
     }
 
     ul ul {
-      @apply my-4 bg-gray-300 text-black;
-    }
+      @apply my-2 bg-gray-300 text-black;
 
-    ul ul a {
-      @apply block px-6 py-2 text-lg;
+      & a {
+        @apply block px-4 py-2;
 
-      &:hover {
-        @apply underline;
+        &:hover {
+          @apply underline;
+        }
       }
     }
   }
+
+  #footer {
+    details a {
+      @apply text-blue-800 underline hover:no-underline;
+    }
+
+    details summary::-webkit-details-marker {
+      @apply hidden;
+    }
+  }
+}
+
+/* @layer components {
 
   article {
     p {
@@ -155,62 +218,11 @@
   }
 
   main {
-    details {
-      @apply border-b border-gray-400;
-
-      .content {
-        @apply p-4 pb-0;
-      }
-
-      ul {
-        @apply list-disc pb-4 pl-4;
-      }
-    }
-
-    details:last-child {
-      @apply border-b-0;
-    }
-
-    summary {
-      @apply cursor-pointer bg-gray-300 p-4 text-xl font-semibold text-gray-600 select-none;
-    }
-
-    .content a:not([href^="#"]) {
-      @apply text-red-700 underline;
-    }
+  
   }
 
-  #footer {
-    a {
-      @apply text-blue-800 underline hover:no-underline;
-    }
 
-    details summary::-webkit-details-marker {
-      @apply hidden;
-    }
-  }
 
-  @supports (interpolate-size: allow-keywords) {
-    :root {
-      interpolate-size: allow-keywords;
-    }
-
-    details {
-      transition: 0.3s all;
-    }
-
-    ::details-content {
-      transition:
-        height 0.3s ease,
-        content-visibility 0.3s ease allow-discrete;
-      height: 0;
-      overflow: clip;
-    }
-
-    [open]::details-content {
-      height: auto;
-    }
-  }
 
   .fade-in {
     @apply translate-none opacity-100 transition-all duration-1000 starting:translate-y-full starting:opacity-0;
@@ -251,4 +263,4 @@
   #posts .fade-in:nth-child(9) {
     @apply delay-900;
   }
-}
+} */

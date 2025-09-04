@@ -1,0 +1,69 @@
+{{/* Posts partial
+  Usage:
+  - {{ partial "posts" (dict "limit" 6)
+}}
+- {{ partial "posts" . }} - show all posts */}}
+{{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
+
+{{/* Sort by date descending */}}
+{{ $posts = $posts.ByDate.Reverse }}
+
+{{/* Limit if specified */}}
+{{ if .limit }}
+  {{ $posts = first .limit $posts }}
+{{ end }}
+
+
+<div id="posts" class="-mt-8 grid gap-4 overflow-clip p-4 md:grid-cols-2 xl:grid-cols-3 xxl:p-0">
+  {{ range $index, $post := $posts }}
+    <a href="{{ $post.RelPermalink }}" class="fade-in block">
+      <article class="relative overflow-hidden rounded">
+        {{ $cover := $post.Resources.GetMatch "cover.webp" }}
+        {{ $image := $cover }}
+        {{ if not $image }}
+          {{ $images := $post.Resources.ByType "image" }}
+          {{ if $images }}
+            {{ $image = index $images 0 }}
+          {{ end }}
+        {{ end }}
+
+        {{ if $image }}
+          {{ $loadingAttr := "lazy" }}
+          {{ $fetchpriorityAttr := "" }}
+          {{ if lt $index 6 }}
+            {{ $loadingAttr = "eager" }}
+            {{ $fetchpriorityAttr = "high" }}
+          {{ end }}
+          {{ $srcset := slice }}
+          {{ range $w := (slice 480 720 1280) }}
+            {{ $resized := $image.Resize (printf "%dx" $w) }}
+            {{ $srcset = $srcset | append (printf "%s %dw" $resized.RelPermalink $w) }}
+          {{ end }}
+          <img
+            src="{{ $image.RelPermalink }}"
+            srcset="{{ delimit $srcset ", " }}"
+            sizes="(max-width: 767px) calc(100vw - 2rem), (max-width: 1279px) calc((100vw / 2) - 3rem), calc((1440px / 3) - 2rem)"
+            width="{{ $image.Width }}"
+            height="{{ $image.Height }}"
+            class="aspect-3/2 object-cover"
+            loading="{{ $loadingAttr }}"
+            alt="{{ $post.Title }}"
+            {{ if $fetchpriorityAttr }}fetchpriority="{{ $fetchpriorityAttr }}"{{ end }}
+          />
+        {{ else }}
+          <img src="/images/placeholder.svg" class="aspect-3/2 h-full w-full bg-gray-300 object-contain p-16 pb-32" />
+        {{ end }}
+
+
+        <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
+          <div class="meta absolute bottom-0 left-0 p-4">
+            <span class="text-sm text-gray-300">
+              {{ partial "german-date" $post.Date }}
+            </span>
+            <h2 class="line-clamp-2 min-h-[2lh] text-xl font-medium text-white">{{ $post.Title }}</h2>
+          </div>
+        </div>
+      </article>
+    </a>
+  {{ end }}
+</div>

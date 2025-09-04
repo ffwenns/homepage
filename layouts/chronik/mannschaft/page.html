@@ -1,52 +1,64 @@
+{{ define "nav" }}
+  <div>
+    <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
+      <h3 class="mb-4 text-2xl font-semibold text-blue-600">Chronik</h3>
+      <ul>
+        {{ partial "nav-link" (dict "url" "/chronik/mannschaft/" "text" "Geschichte — Mannschaft" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/kommando/" "text" "Geschichte — Kommando" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/geraetehaeuser/" "text" "Geschichte — Gerätehäuser" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/grossbraende/" "text" "Geschichte — Großbrände" "context" .) }}
+      </ul>
+    </nav>
+  </div>
+{{ end }}
+
 {{ define "main" }}
-  {{ partial "h2.html" (dict "title" .Title) }}
-
-
-  <div class="content gap-4 px-4 lg:grid lg:grid-cols-2 xl:grid-cols-3 xxl:p-0">
-    <div>
-      <h3>Mannschaft 1927</h3>
-      {{ with .Resources.GetMatch "01_mannschaft-1927.webp" }}
+  <div class="content grid grid-cols-2 gap-4 xl:grid-cols-3">
+    {{ with .Resources.GetMatch "01_mannschaft-1927.webp" }}
+      <figure>
         <a href="{{ .RelPermalink }}" data-fslightbox="gallery">
           <img src="{{ .RelPermalink }}" alt="Mannschaft 1927" />
         </a>
-      {{ end }}
-    </div>
+        <figcaption class="my-2">Mannschaft 1927</figcaption>
+      </figure>
+    {{ end }}
 
-    <div>
-      <h3>Mannschaft 1979</h3>
-      {{ with .Resources.GetMatch "02_mannschaft-1979.webp" }}
+    {{ with .Resources.GetMatch "02_mannschaft-1979.webp" }}
+      <figure>
         <a href="{{ .RelPermalink }}" data-fslightbox="gallery">
           <img src="{{ .RelPermalink }}" alt="Mannschaft 1979" />
         </a>
-      {{ end }}
-    </div>
+        <figcaption class="my-2">Mannschaft 1979</figcaption>
+      </figure>
+    {{ end }}
 
-    <div>
-      <h3>Mannschaft 1997</h3>
-      {{ with .Resources.GetMatch "03_mannschaft-1997.webp" }}
+    {{ with .Resources.GetMatch "03_mannschaft-1997.webp" }}
+      <figure>
         <a href="{{ .RelPermalink }}" data-fslightbox="gallery">
           <img src="{{ .RelPermalink }}" alt="Mannschaft 1997" />
         </a>
-      {{ end }}
-    </div>
+        <figcaption class="my-2">Mannschaft 1997</figcaption>
+      </figure>
+    {{ end }}
 
-    <div>
-      <h3>Mannschaft 2012</h3>
-      {{ with .Resources.GetMatch "04_mannschaft-2012.webp" }}
+    {{ with .Resources.GetMatch "04_mannschaft-2012.webp" }}
+      <figure>
         <a href="{{ .RelPermalink }}" data-fslightbox="gallery">
           <img src="{{ .RelPermalink }}" alt="Mannschaft 2012" />
         </a>
-      {{ end }}
-    </div>
+        <figcaption class="my-2">Mannschaft 2012</figcaption>
+      </figure>
+    {{ end }}
 
-    <div>
-      <h3>Mannschaft 2019</h3>
-      {{ with .Resources.GetMatch "05_mannschaft-2019.webp" }}
+    {{ with .Resources.GetMatch "05_mannschaft-2019.webp" }}
+      <figure>
         <a href="{{ .RelPermalink }}" data-fslightbox="gallery">
           <img src="{{ .RelPermalink }}" alt="Mannschaft 2019" />
         </a>
-      {{ end }}
-    </div>
+        <figcaption class="my-2">Mannschaft 2019</figcaption>
+      </figure>
+    {{ end }}
+
   </div>
 {{ end }}
 

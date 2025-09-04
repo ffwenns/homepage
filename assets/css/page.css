@@ -12,6 +12,10 @@
   }
 
   #home {
+    h1 {
+      @apply hidden;
+    }
+
     .content {
       p + p {
         @apply mt-4;
@@ -29,57 +33,27 @@
   }
 
   #chronik-mannschaft {
-    main {
-      @apply pt-4 xxl:pt-20;
-    }
-
-    .content h3 {
-      @apply mb-4 cursor-pointer bg-gray-300 p-4 text-xl font-semibold text-gray-600 select-none;
-    }
-
-    .content img {
-      @apply mb-4 aspect-3/2 object-cover lg:mb-0;
+    .content {
+      img {
+        @apply aspect-3/2 object-cover;
+      }
     }
   }
 
   #chronik-kommando {
-    main {
-      @apply pt-4 xxl:pt-20;
-    }
-
     .hidden.fslightbox-source {
       @apply block!;
     }
 
     td:first-child {
-      @apply w-[40%] sm:w-1/5 xl:w-2/12;
+      @apply w-[40%] sm:w-1/3 lg:w-1/5 xl:w-2/12;
     }
   }
 
-  #chronik-geraetehaeuser {
-    p {
-      @apply mb-4;
-    }
-  }
-
+  #chronik-geraetehaeuser,
   #chronik-grossbraende {
-    main {
-      @apply pt-4 xxl:pt-20;
-    }
-
-    .content {
-      @apply gap-8 lg:columns-2;
-      column-rule: 1px solid var(--color-gray-300);
-    }
-
     p {
       @apply mb-4;
-    }
-  }
-
-  #archive {
-    main {
-      @apply pt-4 xxl:pt-20;
     }
   }
 }

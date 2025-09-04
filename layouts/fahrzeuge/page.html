@@ -1,45 +1,57 @@
-{{ define "main" }}
-  {{ partial "cover.html" . }}
-  {{ partial "h2.html" (dict "title" .Title) }}
-
-
-  <div class="-mt-4 flex flex-col gap-4 p-4 lg:flex-row xxl:px-0">
-    <div class="flex-1/3 shrink-0">
-      <details name="Daten" open>
-        <summary>Details</summary>
-        <div class="content">
-          <dl>
-            {{ range $key, $value := .Params.details }}
-              <dt class="font-semibold">{{ strings.FirstUpper $key }}</dt>
-              <dd class="mb-2">{{ $value }}</dd>
-            {{ end }}
-          </dl>
-        </div>
-      </details>
-
-      <details name="Daten">
-        <summary>Beladung</summary>
-        <div class="content">
-          <ul>
-            {{ range .Params.beladung }}
-              <li>{{ . }}</li>
-            {{ end }}
-          </ul>
-        </div>
-      </details>
-
-      <details name="Daten">
-        <summary>Aufgaben</summary>
-        <div class="content">
-          <ul>
-            {{ range .Params.aufgaben }}
-              <li>{{ . }}</li>
-            {{ end }}
-          </ul>
-        </div>
-      </details>
-    </div>
-
-    {{ partial "gallery.html" $ }}
+{{ define "nav" }}
+  <div>
+    <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
+      <h3 class="mb-4 text-2xl font-semibold text-blue-600">Fahrzeuge</h3>
+      <ul>
+        {{ partial "nav-link" (dict "url" "/fahrzeuge/kdofa/" "text" "KDOFA" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/fahrzeuge/tlfa2000/" "text" "TLFA 2000" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/fahrzeuge/rfa/" "text" "RFA" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/fahrzeuge/lfa/" "text" "LFA" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/fahrzeuge/mtfa/" "text" "MTFA" "context" .) }}
+      </ul>
+    </nav>
   </div>
+{{ end }}
+
+{{ define "main" }}
+  <details name="Daten" open>
+    <summary>Bilder</summary>
+    <div class="pb-4">
+      {{ partial "gallery.html" . }}
+    </div>
+  </details>
+
+  <details name="Daten">
+    <summary>Details</summary>
+    <div class="content">
+      <dl>
+        {{ range $key, $value := .Params.details }}
+          <dt class="font-semibold">{{ strings.FirstUpper $key }}</dt>
+          <dd class="mb-2">{{ $value }}</dd>
+        {{ end }}
+      </dl>
+    </div>
+  </details>
+
+  <details name="Daten">
+    <summary>Beladung</summary>
+    <div class="content">
+      <ul>
+        {{ range .Params.beladung }}
+          <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </details>
+
+  <details name="Daten">
+    <summary>Aufgaben</summary>
+    <div class="content">
+      <ul>
+        {{ range .Params.aufgaben }}
+          <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </details>
 {{ end }}

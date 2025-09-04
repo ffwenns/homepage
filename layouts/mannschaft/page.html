@@ -1,29 +1,46 @@
+{{ define "nav" }}
+  <div>
+    <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
+      <h3 class="mb-4 text-2xl font-semibold text-blue-600">Mannschaft</h3>
+      <ul>
+        {{ partial "nav-link" (dict "url" "/mannschaft/kommando/" "text" "Kommando" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/ausschuss/" "text" "Ausschuss" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/ehrenmitglieder/" "text" "Ehrenmitglieder" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/jugend/" "text" "Jugend" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-1/" "text" "Gruppe 1 (Reserve)" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-2/" "text" "Gruppe 2" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-3/" "text" "Gruppe 3" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-4/" "text" "Gruppe 4" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-5/" "text" "Gruppe 5" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-6/" "text" "Gruppe 6" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-7/" "text" "Gruppe 7" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-8/" "text" "Gruppe 8" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-9/" "text" "Gruppe 9 (Ausbildungsgruppe)" "context" .) }}
+      </ul>
+    </nav>
+  </div>
+{{ end }}
+
 {{ define "main" }}
-  {{ partial "cover.html" . }}
-  {{ partial "h2.html" (dict "title" .Title) }}
+  <div class="grid grid-cols-2 gap-4 xl:grid-cols-4">
+    {{ range .Params.members }}
+      <div class="relative overflow-hidden">
+        {{ if .image }}
+          <img src="/images/mitglieder/{{ .image }}" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
+        {{ else }}
+          <img src="/images/avatar.png" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
+        {{ end }}
 
 
-  <div class="xxl-pt-4 px-4 xxl:px-0">
-    <div class="grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-4">
-      {{ range .Params.members }}
-        <div class="relative overflow-hidden rounded">
-          {{ if .image }}
-            <img src="/images/mitglieder/{{ .image }}" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
-          {{ else }}
-            <img src="/images/avatar.png" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
-          {{ end }}
+        <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
+          <div class="absolute bottom-0 left-0 p-4 text-white">
+            <img src="/images/dienstgrade/{{ .rank }}.svg" alt="{{ .rank }}" class="mb-2 size-8" />
 
-
-          <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
-            <div class="absolute bottom-0 left-0 p-4 text-white">
-              <img src="/images/dienstgrade/{{ .rank }}.svg" alt="{{ .rank }}" class="mb-2 size-8 xxl:size-12" />
-
-              <h3 class="text-xs font-semibold xs:text-sm sm:text-base lg:text-lg">{{ .rank }} {{ .name }}</h3>
-              <p class="line-calmp-2 mb-0 min-h-[2lh] text-xs sm:text-sm lg:text-base">{{ .role }}</p>
-            </div>
+            <h3 class="text-xs font-semibold xs:text-sm sm:text-base">{{ .rank }} {{ .name }}</h3>
+            <p class="line-calmp-2 mb-0 min-h-[2lh] text-xs sm:text-sm">{{ .role }}</p>
           </div>
         </div>
-      {{ end }}
-    </div>
+      </div>
+    {{ end }}
   </div>
 {{ end }}

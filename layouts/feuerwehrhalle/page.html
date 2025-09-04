@@ -1,0 +1,24 @@
+{{ define "nav" }}
+  <div>
+    <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
+      <h3 class="mb-4 text-2xl font-semibold text-blue-600">Feuerwehrhalle</h3>
+      <ul>
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/fahrzeughalle/" "text" "Fahrzeughalle" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/umkleideraum/" "text" "Umkleideraum" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/atemschutzraum/" "text" "Atemschutzraum" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/schulungsraum/" "text" "Schulungsraum" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/notstromaggregat/" "text" "Notstromaggregat" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/schlauchturm/" "text" "Schlauchturm" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/florianstation/" "text" "Florianstation" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/kommandoraum/" "text" "Kommandoraum" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/lager/" "text" "Lager" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/werkstatt/" "text" "Werkstatt" "context" .) }}
+      </ul>
+    </nav>
+  </div>
+{{ end }}
+
+{{ define "main" }}
+  {{ .Content }}
+  {{ partial "gallery.html" . }}
+{{ end }}
