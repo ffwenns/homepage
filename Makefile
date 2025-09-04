@@ -43,7 +43,7 @@ commit:
 	git push origin main || echo "No changes to commit"
 
 deploy:
-	rsync -avz --progress public/ ffwenns:/srv/http/homepage
+	rsync -avz --delete --progress public/ ffwenns:/srv/http/homepage
 
 backup:
 	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD
