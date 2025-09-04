@@ -45,5 +45,8 @@ commit:
 deploy:
 	rsync -avz --delete --progress public/ ffwenns:/srv/http/homepage
 
+# schedule this task with cron
+autoimport: pull import-events import-posts stats commit build deploy
+
 backup:
 	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD
