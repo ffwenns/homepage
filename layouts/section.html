@@ -1,12 +1,10 @@
 {{ define "title" }}
   {{ if findRE "20[0-9][0-9]" .RelPermalink }}
+    {{ $currentYear := now.Year }}
     {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
     <h1 class="flex items-center justify-between gap-4">
       Alle Beiträge
       {{ $year }}
-
-
-      <a href="https://github.com/ffwenns/archiv/blob/main/files/ffwenns_jahresarchiv_{{ $year }}.pdf?raw=true" class=""><img src="/images/pdf.png" class="size-8" /></a>
     </h1>
   {{ end }}
 {{ end }}
