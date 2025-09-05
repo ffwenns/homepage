@@ -7,6 +7,9 @@
 :root {
   --swiper-theme-color: white;
   --swiper-navigation-size: 3rem;
+  --pagefind-ui-border-radius: 0 !important;
+  --pagefind-ui-image-border-radius: 0 !important;
+  --pagefind-ui-font: "Roboto", sans-serif !important;
 }
 
 @theme {
