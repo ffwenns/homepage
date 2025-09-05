@@ -25,6 +25,12 @@ stats:
 	echo "posts = $$(find posts/ -type f -iname "*.md" | wc -l)" > data/stats.toml
 	echo "images = $$(find posts/ -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
+rebuild:
+	npm ci
+	npm run build
+	hugo build --gc --minify --cleanDestinationDir
+	rsync -avz --delete --progress public/ ffwenns:/srv/http/homepage
+
 build:
 	npm ci
 	npm run build
