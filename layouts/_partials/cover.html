@@ -12,6 +12,6 @@
   <video src="{{ $video.RelPermalink }}" class="cover aspect-3/2 w-full object-cover sm:aspect-16/9 lg:aspect-21/9" autoplay muted loop controls playsinline></video>
 {{ else if $image }}
   <img src="{{ $image.RelPermalink }}" class="cover aspect-3/2 w-full object-cover sm:aspect-16/9 lg:aspect-21/9" fetchpriority="high" loading="eager" />
-{{ else if not (in .Kind "section") }}
+{{ else if and (ne .Kind "section") (ne .Kind "home") }}
   <img src="/images/placeholder.svg" class="cover aspect-3/2 w-full bg-gray-300 object-contain p-32 sm:aspect-16/9 lg:aspect-21/9" />
 {{ end }}
