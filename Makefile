@@ -29,7 +29,7 @@ rebuild:
 	npm ci
 	npm run build
 	hugo build --gc --minify --cleanDestinationDir
-	rsync -avz --delete --progress public/ ffwenns:/srv/http/homepage
+	npx pagefind --site public
 
 build:
 	npm ci
