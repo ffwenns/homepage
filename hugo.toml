@@ -11,3 +11,18 @@ enableGitInfo = true
   [[module.mounts]]
     source = "content"
     target = "content"
+
+[segments]
+  [segments.content]
+    [[segments.content.includes]]
+      path = '/mannschaft/**'
+    [[segments.content.includes]]
+      path = '/fahrzeuge/**'
+    [[segments.content.includes]]
+      path = '/feuerwehrhalle/**'
+    [[segments.content.includes]]
+      path = '/chronik/**'
+    [[segments.content.includes]]
+      path = '/2025/**'
+    [[segments.content.includes]]
+      kind = 'home'

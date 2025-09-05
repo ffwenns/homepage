@@ -28,7 +28,7 @@ stats:
 build:
 	npm ci
 	npm run build
-	hugo build
+	hugo build --minify --renderSegments content
 
 build-prod:
 	git pull origin main
@@ -38,12 +38,12 @@ build-prod:
 	hugo build --minify --destination /srv/http/homepage
 
 commit:
-	git add posts/ data/
+	git add posts/
 	git commit -m "[cron] import events and posts" || true
 	git push origin main || echo "No changes to commit"
 
 deploy:
-	rsync -avz --delete --progress public/ ffwenns:/srv/http/homepage
+	rsync -avz --progress public/ ffwenns:/srv/http/homepage
 
 # schedule this task with cron
 autoimport: pull import-events import-posts stats commit build deploy
