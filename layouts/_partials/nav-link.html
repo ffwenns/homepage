@@ -4,9 +4,7 @@
 */}}
 
 <li>
-  <a
-    href="{{ .url }}"
-    {{ if eq .context.RelPermalink .url }}class="font-semibold"{{ end }}
-    >{{ .text }}</a
-  >
+  <a href="{{ .url }}" class="{{ if eq .context.RelPermalink .url }}font-semibold{{ end }} flex flex-row justify-between">
+    {{ .text | safeHTML }}
+  </a>
 </li>

@@ -22,7 +22,12 @@
                 {{ end }}
               {{ end }}
             {{ end }}
-            {{ partial "nav-link" (dict "url" (printf "/%s/" $yearName) "text" (printf "%s (%d Beiträge)" $yearName $postCount) "context" $) }}
+            <li class="{{ if in $.RelPermalink $yearName }}font-bold bg-blue-200{{ end }} flex flex-row items-baseline  justify-between ">
+              <a href="/{{ $yearName }}/" class=" flex-grow text-xl">
+                {{ $yearName }}
+              </a>
+              <span class="text-blue-600">{{ $postCount }} Beiträge</span>
+            </li>
           {{ end }}
         {{ end }}
       </ul>

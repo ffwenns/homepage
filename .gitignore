@@ -1,4 +1,5 @@
 /assets/css/output.css
+/data/events.json
 node_modules/
 /resources
 /public
