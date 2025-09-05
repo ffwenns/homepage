@@ -35,7 +35,7 @@ build-prod:
 	git-lfs pull
 	npm ci
 	npm run build
-	hugo build --minify --destination /srv/http/homepage
+	hugo build --minify --renderSegments content --destination /srv/http/homepage
 
 commit:
 	git add posts/
