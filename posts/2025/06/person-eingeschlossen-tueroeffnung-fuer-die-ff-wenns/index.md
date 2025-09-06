@@ -5,4 +5,8 @@ layout: post
 facebook_url: "https://facebook.com/ffwenns/posts/1101306648698453"
 ---
 
-Mittels Pager wurden wir heute am Freitagvormittag, den 20.06.2025 um 07:47 Uhr mit der Meldung "Person eingeschlossen - Nachforderung Rettungsdienst, Medizinischer Notfall vermutet" zu einer Wohnanlage alarmiert. Beim Eintreffen wurde festgestellt, dass die Türe versperrt war. Mit unserem Türöffnungsset konnten wir den Zylinder rasch aufbohren und so die Türe öffnen und einen Zugang für den Rettungsdienst schaffen. Die Person war ansprechbar und wurde vom Rettungsdienst versorgt. Die Türe blieb zudem unbeschädigt und ein Reserve Zylinder wurde im Anschluss eingebaut. Die Zusammenarbeit mit allen Organisationen war wieder einmal perfekt und der Einsatz konnte nach 30 Minuten erfolgreich beendet und der Exekutive übergeben werden. Im Einsatz: KDOFA, RFA, TLFA 2000 und LFA mit 26 Mann/Frau PI Wenns mit 1 Fahrzeug Einsatzleiter: Kdt. BV Lukas Scheiber
+Mittels Pager wurden wir heute am Freitagvormittag, den 20.06.2025 um 07:47 Uhr mit der Meldung "Person eingeschlossen - Nachforderung Rettungsdienst, Medizinischer Notfall vermutet" zu einer Wohnanlage alarmiert. Beim Eintreffen wurde festgestellt, dass die Türe versperrt war. Mit unserem Türöffnungsset konnten wir den Zylinder rasch aufbohren und so die Türe öffnen und einen Zugang für den Rettungsdienst schaffen. Die Person war ansprechbar und wurde vom Rettungsdienst versorgt. Die Türe blieb zudem unbeschädigt und ein Reserve Zylinder wurde im Anschluss eingebaut. Die Zusammenarbeit mit allen Organisationen war wieder einmal perfekt und der Einsatz konnte nach 30 Minuten erfolgreich beendet und der Exekutive übergeben werden. 
+
+Im Einsatz: 
+KDOFA, RFA, TLFA 2000 und LFA mit 26 Mann/Frau PI Wenns mit 1 Fahrzeug 
+Einsatzleiter: Kdt. BV Lukas Scheiber
