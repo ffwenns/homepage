@@ -65,7 +65,7 @@
         <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent">
           <div class="meta absolute bottom-0 left-0 p-4">
             <span class="text-sm text-gray-300">
-              {{ partial "german-date" $post.Date }}
+              {{ .Date | time.Format ":date_full" }}
             </span>
             <h2 class="line-clamp-2 min-h-[2lh] text-xl font-medium text-white">{{ $post.Title }}</h2>
           </div>

@@ -11,9 +11,9 @@
     <li class="py-2">
       <div class="text-sm text-gray-600">
         {{ if .all_day }}
-          {{ partial "german-date" $startTime }}
+          {{ $startTime | time.Format ":date_full" }}
         {{ else }}
-          {{ partial "german-date" $startTime }} um
+          {{ $startTime | time.Format ":date_full" }} um
           {{ $hour }}:{{ $minute }}
         {{ end }}
       </div>

@@ -43,7 +43,7 @@
     <div class="grid gap-4">
       <div>
         <div class="mb-4 text-gray-500">
-          {{ partial "german-date.html" .Date }}
+          {{ .Date | time.Format ":date_full" }}
         </div>
 
         <div class="content">
