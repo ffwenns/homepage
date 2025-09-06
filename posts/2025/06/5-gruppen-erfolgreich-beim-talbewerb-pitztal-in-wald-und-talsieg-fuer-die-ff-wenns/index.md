@@ -11,8 +11,9 @@ Insgesamt waren 29 Gruppen inkl. Gästeklassen am Start. Die FF Wenns war mit st
 
 Unsere Gruppe Wenns 1 holte mit 44,04sek. fehlerfrei (Klasse Sicherheit ohne Alterspunkte) nicht nur Platz 1, sondern auch die Tagesbestzeit sowie im KO Bewerb mit 40,95 sek. fehlerfrei den begehrten Talsieg gegen eine starke Gruppe der Feuerwehr Arzl i.P. 1. Der Pitztaler Wanderpokal wurde das dritte Jahr infolge, erfolgreich verteidigt. Insgesamt standen drei Gruppen der FF Wenns im KO Bewerb.
 
-Weitere Stockerlplätze: alle Klasse Sicherheit
-3. Platz ohne AP: Wenns 2 - unsere starke Mädels Gruppe mit 70,11sek. und nur 5 Fehlerpunkten
+# Weitere Stockerlplätze (Klasse Sicherheit)
+
+- 3. Platz ohne AP: Wenns 2 - unsere starke Mädels Gruppe mit 70,11sek. und nur 5 Fehlerpunkten
 - 3. Platz mit AP: Wenns 3 mit 69,0 und 10 Fehler 
 - 6. Platz mit AP: Wenns 5
 - 7. Platz ohne AP: Wenns 3
