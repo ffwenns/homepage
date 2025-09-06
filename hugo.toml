@@ -27,3 +27,5 @@ enableGitInfo = true
       path = '/2025/**'
     [[segments.content.includes]]
       kind = 'home'
+    [[segments.content.includes]]
+      kind = 'section'
