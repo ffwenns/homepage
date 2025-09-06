@@ -8,32 +8,35 @@ Drei Bewerbsgruppen der FF Wenns sind am gestrigen Samstag, den 09. August 2025 
 
 Alle Kuppelzeiten im Überblick:
 
-WENNS-1:
+# WENNS-1:
 
-Grunddurchgang:
--> 19,39sek ff
--> 17,34sek ff
-_1/16 Finale_
--> 18,33sek ff
--> 19,27sek +20
-_1/8 Finale_
--> 17,56sek ff
--> 18,11sek ff
+## Grunddurchgang:
+- 19,39sek ff
+- 17,34sek ff
 
-WENNS-3:
+## 1/16 Finale
+- 18,33sek ff
+- 19,27sek +20
+  
+## 1/8 Finale
+- 17,56sek ff
+- 18,11sek ff
 
-Grunddurchgang:
--> 25,68sek +30
--> 24,75sek ff
-_1/16 Finale_
--> 23,58sek ff
--> 24,52sek ff
+# WENNS-3:
 
-WENNS-4:
+## Grunddurchgang:
+- 25,68sek +30
+- 24,75sek ff
+  
+## 1/16 Finale
+- 23,58sek ff
+- 24,52sek ff
 
-Grunddurchgang:
--> 33,22sek +10
--> 33,37sek +20
+# WENNS-4:
+
+## Grunddurchgang:
+- 33,22sek +10
+- 33,37sek +20
 
 Schlussendlich belegte die Gruppe WENNS-3 den 13. Rang und WENNS-4 den 20. Rang in der Gästeklasse Bronze. 
 
