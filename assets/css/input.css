@@ -89,10 +89,18 @@
     .content a:not([href^="#"]) {
       @apply text-red-700 underline;
     }
-  }
 
-  h1 {
-    @apply mb-4 block border-b border-b-gray-300 py-2 text-3xl font-bold;
+    h1 {
+      @apply mb-4 block border-b border-b-gray-300 py-2 text-3xl font-bold;
+    }
+
+    h2 {
+      @apply my-4 block border-b border-b-gray-300 text-2xl font-bold;
+    }
+
+    h3 {
+      @apply mt-4 block text-lg font-bold;
+    }
   }
 
   article {
