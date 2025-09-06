@@ -9,7 +9,9 @@ Am gestrigen Donnerstagabend, den 05.09.2025 nahmen 12 Mitglieder der Freiwillig
 Danke an die FF Leins für die Organisation! 
 
 Details:
-FF-Wenns mit KDOFA & 1 ATS-Trupp (3 Mann)
+ FF-Wenns mit KDOFA & 1 ATS-Trupp (3 Mann)
 
-Fotos: LFS, SS - FF-Wenns
-Bericht: PP - ÖA-Team
+ Fotos: LFS, SS - FF-Wenns
+ Bericht: PP - ÖA-Team
+
+̈reuresicherheit

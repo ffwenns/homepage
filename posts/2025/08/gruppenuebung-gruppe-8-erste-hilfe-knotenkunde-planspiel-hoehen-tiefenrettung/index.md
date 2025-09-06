@@ -12,10 +12,9 @@ Am vergangenen Freitag, den 22. August 2025, fand eine weitere Gruppenübung der
 
 Nach etwa zwei Stunden intensiver Ausbildung wurde die Übung erfolgreich abgeschlossen – mit frischem Wissen, gestärkter Teamarbeit und einem gemütlichen Ausklang am Abend. 
 
-Details:
-Übungsleiter: Gkdt. HV Patrick Pfefferle
-Erste-Hilfe-Ausbilder: LM Dominik Siller – Danke!
-9 Mitglieder der Gruppe 8
+ Übungsleiter: Gkdt. HV Patrick Pfefferle
+ Erste-Hilfe-Ausbilder: LM Dominik Siller – Danke!
+ 9 Mitglieder der Gruppe 8
 
 Fotos: DS, EP, PP – ÖA-Team
-Bericht: PP – ÖA-Team
+ Bericht: PP – ÖA-Team
