@@ -13,10 +13,10 @@ Unsere Gruppe Wenns 1 holte mit 44,04sek. fehlerfrei (Klasse Sicherheit ohne Alt
 
 # Weitere Stockerlplätze (Klasse Sicherheit)
 
-- 3. Platz ohne AP: Wenns 2 - unsere starke Mädels Gruppe mit 70,11sek. und nur 5 Fehlerpunkten
-- 3. Platz mit AP: Wenns 3 mit 69,0 und 10 Fehler 
-- 6. Platz mit AP: Wenns 5
-- 7. Platz ohne AP: Wenns 3
+3. Platz ohne AP: Wenns 2 - unsere starke Mädels Gruppe mit 70,11sek. und nur 5 Fehlerpunkten
+3. Platz mit AP: Wenns 3 mit 69,0 und 10 Fehler 
+6. Platz mit AP: Wenns 5
+7. Platz ohne AP: Wenns 3
 
 Ein toller Erfolg, TOP Leistungen und wir sind alle mega Stolz auf unsere Gruppen! 
 
