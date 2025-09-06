@@ -1,5 +1,6 @@
 baseURL = 'https://ffwenns.at/'
 languageCode = 'de-AT'
+defaultContentLanguage = 'de'
 title = 'Freiwillige Feuerwehr Wenns'
 disableKinds = ['taxonomy', 'term']
 enableGitInfo = true

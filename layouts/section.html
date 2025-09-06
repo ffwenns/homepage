@@ -2,15 +2,62 @@
   {{ if findRE "20[0-9][0-9]" .RelPermalink }}
     {{ $currentYear := now.Year }}
     {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
-    <h1 class="flex items-center justify-between gap-4">
-      Alle Beiträge
-      {{ $year }}
-    </h1>
+    <div class="flex items-baseline justify-between gap-4" id="title">
+      <h1 class="flex-grow">
+        Alle Beiträge
+        {{ $year }}
+      </h1>
+
+      <select id="view" class="hidden md:block">
+        <option value="image">Bildansicht</option>
+        <option value="table">Tabellenansicht</option>
+      </select>
+    </div>
   {{ end }}
+
+
+  <style>
+    #title {
+      background-color: white;
+      position: sticky;
+      padding-top: 1rem;
+      top: 56px;
+      z-index: 5;
+    }
+
+    #table {
+      display: none;
+    }
+
+    .tableview #table {
+      display: block;
+    }
+
+    .tableview #posts,
+    .tableview #sidebar {
+      display: none !important;
+    }
+  </style>
+
+  <script>
+    const selectElement = document.getElementById("view");
+    const bodyElement = document.body;
+
+    selectElement.addEventListener("change", (event) => {
+      const selectedValue = event.target.value;
+
+      // Add the new class based on the selected value
+      if (selectedValue === "image") {
+        bodyElement.classList.remove("tableview");
+      } else if (selectedValue === "table") {
+        bodyElement.classList.add("tableview");
+      }
+    });
+  </script>
 {{ end }}
 
 {{ define "nav" }}
-  <div>
+  <div id="sidebar">
     <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
       <h3 class="mb-4 text-2xl font-semibold text-blue-600">Aktuelles</h3>
       <ul>
@@ -51,6 +98,8 @@
 {{ define "main" }}
   {{ if findRE "20[0-9][0-9]" .RelPermalink }}
     {{ $year := index (findRE "20[0-9][0-9]" .RelPermalink) 0 }}
+
+    {{ partial "table" (dict "year" (int $year)) }}
     {{ partial "posts" (dict "year" (int $year)) }}
   {{ end }}
 {{ end }}

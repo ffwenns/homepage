@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/forms";
+
 @import "./page.css";
 
 @import "swiper/css";
@@ -49,7 +51,7 @@
     @apply flex gap-4 p-4;
 
     & > :first-child:not(main) {
-      @apply hidden w-1/3 shrink-0 grow-0 md:block lg:w-1/4;
+      @apply hidden w-1/3 shrink-0 grow-0 md:block;
     }
 
     nav a {

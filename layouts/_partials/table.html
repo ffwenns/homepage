@@ -1,0 +1,43 @@
+{{/* Posts partial
+  Usage:
+  - {{ partial "posts" (dict "limit" 6)
+}}
+- show 6 latest posts - {{ partial "posts" (dict "year" 2025) }} - show all posts from 2025 - {{ partial "posts" (dict "limit" 3 "year" 2024) }} - show 3 latest posts from 2024 -
+{{ partial "posts" . }} - show all posts */}}
+{{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
+
+{{/* Filter by year if specified */}}
+{{ if .year }}
+  {{ $yearStr := string .year }}
+  {{ $posts = where $posts ".Date.Year" .year }}
+{{ end }}
+
+{{/* Sort by date descending */}}
+{{ $posts = $posts.ByDate.Reverse }}
+
+{{/* Limit if specified */}}
+{{ if .limit }}
+  {{ $posts = first .limit $posts }}
+{{ end }}
+
+
+<div id="table" class="divide-y divide-gray-300">
+  {{ range $index, $post := $posts }}
+    <div class="align-center flex flex-row justify-between py-1 hover:bg-red-100">
+      <span class="pr-4">
+        {{- $post.Date | time.Format ":date_short" -}}
+      </span>
+      {{ with $post.Params.facebook_url }}
+        <span class="pr-4">
+          <a href="{{ . }}" class="block font-medium text-blue-800" target="_blank">Facebook</a>
+        </span>
+      {{ end }}
+      <span class="line-clamp-1 flex-grow pr-4">
+        <a href="{{ $post.RelPermalink }}" class="block font-medium text-red-800" target="_blank">{{ $post.Title }}</a>
+      </span>
+      <span>
+        <a href="https://github.com/ffwenns/homepage/edit/main/posts/{{ $post.Path }}/index.md" target="_blank">Bearbeiten</a>
+      </span>
+    </div>
+  {{ end }}
+</div>
