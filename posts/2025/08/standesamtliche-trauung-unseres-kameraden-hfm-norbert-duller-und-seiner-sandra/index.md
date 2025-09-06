@@ -12,5 +12,6 @@ Es war schöner und stimmungsvoller Tag, den wir gerne mit dem Brautpaar gefeier
 
 Eure Kameraden und Freunde der FF Wenns 
 
+Details:
 Fotos: MS - FF-Wenns
- Bericht: PP - ÖA-Team
+Bericht: PP - ÖA-Team
