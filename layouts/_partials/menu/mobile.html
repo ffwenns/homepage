@@ -1,23 +1,101 @@
-<div class="col-1 hidden"></div>
-<div class="col-2 hidden"></div>
-
 <div id="menu">
-  {{ $currentPage := . }}
-  {{ range site.Menus.main }}
-    <details name="Navigation" {{ if $currentPage.HasMenuCurrent "main" . }}open{{ end }}>
-      <summary>{{ .Name }}</summary>
+  {{ $firstSegment := index (split .RelPermalink "/") 1 }}
 
-      {{ with .Children }}
-        <div class="content">
-          <ul class="grid grid-flow-row-dense grid-cols-2">
-            {{ range . }}
-              <li class="{{ with .Params.Col }}col-{{ . }}{{ end }}">
-                <a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}font-semibold{{ end }}">{{ .Name }}</a>
-              </li>
-            {{ end }}
-          </ul>
-        </div>
-      {{ end }}
-    </details>
-  {{ end }}
+
+  <details name="Navigation" {{ if findRE "^20[0-9][0-9]$" $firstSegment }}open{{ end }}>
+    <summary><span>Aktuelles</span></summary>
+
+    <div class="content">
+      <ul class="grid grid-flow-col grid-cols-4 grid-rows-5">
+        {{ $posts := where site.RegularPages ".Params.date" "!=" nil }}
+        {{ $years := slice }}
+        {{ range $posts }}
+          {{ $year := .Date.Year }}
+          {{ if not (in $years $year) }}
+            {{ $years = $years | append $year }}
+          {{ end }}
+        {{ end }}
+        {{ range sort $years "value" "desc" }}
+          {{ partial "nav-link" (dict "url" (printf "/%d/" .) "text" (string .) "context" $) }}
+        {{ end }}
+      </ul>
+    </div>
+  </details>
+
+  <details name="Navigation" {{ if findRE "^mannschaft" $firstSegment }}open{{ end }}>
+    <summary><span>Mannschaft</span></summary>
+
+    <div class="content">
+      <div class="flex">
+        <ul class="w-1/2">
+          {{ partial "nav-link" (dict "url" "/mannschaft/kommando/" "text" "Kommando" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/ausschuss/" "text" "Ausschuss" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/ehrenmitglieder/" "text" "Ehrenmitglieder" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/jugend/" "text" "Jugend" "context" .) }}
+        </ul>
+        <ul class="w-1/2">
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-1/" "text" "Gruppe 1" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-2/" "text" "Gruppe 2" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-3/" "text" "Gruppe 3" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-4/" "text" "Gruppe 4" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-5/" "text" "Gruppe 5" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-6/" "text" "Gruppe 6" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-7/" "text" "Gruppe 7" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-8/" "text" "Gruppe 8" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-9/" "text" "Gruppe 9" "context" .) }}
+        </ul>
+      </div>
+      <ul></ul>
+    </div>
+  </details>
+
+  <details name="Navigation" {{ if findRE "^fahrzeuge" $firstSegment }}open{{ end }}>
+    <summary><span>Fahrzeuge</span></summary>
+
+    <div class="content">
+      <div class="flex">
+        <ul class="w-1/2">
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/kdofa/" "text" "KDOFA" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/mtfa/" "text" "MTFA" "context" .) }}
+        </ul>
+        <ul class="w-1/2">
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/tlfa2000/" "text" "TLFA 2000" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/rfa/" "text" "RFA" "context" .) }}
+          {{ partial "nav-link" (dict "url" "/fahrzeuge/lfa/" "text" "LFA" "context" .) }}
+        </ul>
+      </div>
+    </div>
+  </details>
+
+  <details name="Navigation" {{ if findRE "^feuerwehrhalle" $firstSegment }}open{{ end }}>
+    <summary><span>Feuerwehrhalle</span></summary>
+
+    <div class="content">
+      <ul class="grid grid-cols-2">
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/fahrzeughalle/" "text" "Fahrzeughalle" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/umkleideraum/" "text" "Umkleideraum" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/atemschutzraum/" "text" "Atemschutzraum" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/schulungsraum/" "text" "Schulungsraum" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/notstromaggregat/" "text" "Notstromaggregat" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/schlauchturm/" "text" "Schlauchturm" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/florianstation/" "text" "Florianstation" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/kommandoraum/" "text" "Kommandoraum" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/lager/" "text" "Lager" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/feuerwehrhalle/werkstatt/" "text" "Werkstatt" "context" .) }}
+      </ul>
+    </div>
+  </details>
+
+  <details name="Navigation" {{ if findRE "^chronik" $firstSegment }}open{{ end }}>
+    <summary><span>Chronik</span></summary>
+
+    <div class="content">
+      <ul>
+        {{ partial "nav-link" (dict "url" "/chronik/mannschaft/" "text" "Geschichte — Mannschaft" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/kommando/" "text" "Geschichte — Kommando" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/geraetehaeuser/" "text" "Geschichte — Gerätehäuser" "context" .) }}
+        {{ partial "nav-link" (dict "url" "/chronik/grossbraende/" "text" "Geschichte — Großbrände" "context" .) }}
+      </ul>
+    </div>
+  </details>
 </div>
