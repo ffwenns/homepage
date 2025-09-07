@@ -1,0 +1,10 @@
+---
+title: "Brandmeldealarm - Hotel Alpina"
+date: 2015-08-28
+layout: post
+---
+
+Mittels Pager-Sammelruf wurde die FF Wenns heute um 17:21 Uhr zu einem Brandmeldealarm im Hotel Alpina alarmiert. Nach dem Eintreffen des Einsatzleiters sowie TLFA Wenns am Einsatzort stellte sich eine Rauchentwicklung in der Küche als Ursache für den Alarm heraus. Es handelte sich jedoch um kein akutes Brandgeschehen und somit rückte die FF Wenns nach der genauen Kontrolle und Rückstellung der Anlage wieder in das Gerätehaus ein.
+
+Im Einsatz: FF Wenns mit 21 Mann sowie Polizei Wenns
+Einsatzleiter: OLM Christoph Stoll

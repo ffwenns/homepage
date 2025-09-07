@@ -1,0 +1,7 @@
+---
+title: "Brandsicherheitswache: beim 14. Wenner - Eisbärenfest"
+date: 2012-01-21
+layout: post
+---
+
+Am Samstag den 21. Jänner wurde von der Feuerwehr Wenns der Straßendienst und die Brandsicherheitswache beim 14. Wenner - Eisbärenfest übernommen. Die sehr gut besuchte Veranstaltung im gesamten Wenner Unterdorf verlief für die Feuerwehr ohne besonderen Vorkommnissen und die Mitglieder konnten um 23:00 Uhr wieder in die Feuerwehrhalle einrücken.

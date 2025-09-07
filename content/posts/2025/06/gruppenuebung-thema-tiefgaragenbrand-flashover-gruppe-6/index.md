@@ -1,0 +1,23 @@
+---
+title: "Gruppenübung Thema Tiefgaragenbrand & Flashover Gruppe 6"
+date: 2025-06-12
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1095043412658110"
+---
+
+Am Dienstag, den 10. Juni 2025, stand erneut eine spannende und lehrreiche Gruppenübung am Programm – dieses Mal unsere Gruppe 6 unter der Leitung von Gkdt. LM Dominik Siller. 
+
+Zu Beginn wurde im Aufenthaltsraum ein PowerPoint-Vortrag zum Thema Tiefgaragenbrand sowie zur Theorie rund um den Flashover (Rauchgasdurchzündung) abgehalten. Dabei wurden Einsatzrisiken, Taktiken und Schutzmaßnahmen im Innenangriff thematisiert. 
+
+ Im Anschluss folgte der praktische Teil vor der FF-Halle, wo die Mannschaft in zwei Hauptbereichen geschult wurde:
+ Schlauchmanagement für den Innenangriff
+ Versuch einer Rauchgasdurchzündung in der Brand Box zur praktischen Veranschaulichung der Theorie
+
+Die Kombination aus fundierter Theorie und realitätsnaher Praxis ermöglichte es allen Teilnehmer:innen, das Thema umfassend zu verstehen und wichtige Erkenntnisse für den Einsatzalltag mitzunehmen. Nach rund zwei Stunden wurde die Übung erfolgreich beendet. 
+
+Details:
+ Mannschaftsstärke: 14 Mann/Frau
+ Übungsleiter: LM Dominik Siller
+
+ Fotos: DS, FH - Gr. 6, ÖA-Team
+ Bericht: PP - ÖA-Team

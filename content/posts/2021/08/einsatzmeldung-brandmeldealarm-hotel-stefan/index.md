@@ -1,0 +1,14 @@
+---
+title: "Einsatzmeldung: Brandmeldealarm Hotel Stefan"
+date: 2021-08-03
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/5971330702942005"
+---
+
+Am Sonntag, den 01. August wurde die FF-Wenns um19:29 Uhr via Pager Sammelruf zu einem Brandmeldealarm im Hotel Stefan alarmiert. Nach kurzer Zeit konnte sich ein Täuschungsalarm, ausgelöst durch Wasserdampf, herausstellen. Die Feuerwehr Wenns konnte nach erfolgter Erkundung und Rückstellung der Brandmeldeanalage mit der Einsatzmannschaft nach rund 30 Minuten wieder ins Gerätehaus einrücken.
+Details:
+Einsatzleiter: OBI Mario Gundolf
+LFA, TLFA-2000 mit 15 Mann
+
+Fotos: ML/FF-Wenns
+Bericht: PP/ÖA-Team

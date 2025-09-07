@@ -1,0 +1,9 @@
+---
+title: "Treibstoff-Oelaustritt auf der Gemeindestraße"
+date: 2010-03-02
+layout: post
+---
+
+Zu einer 1 km langen Ölspur auf der Gemeindestraße vom Oberdorf bis zum Ortsteil Siedlung wurden einige Mitglieder der Feuerwehr Wenns am Dienstag den 02. März 2010 um 16:25 Uhr telefonisch alarmiert. Unser Kommando wurde von einer Privatperson über den Ölaustritt informiert und unser Kommandant Stv. BI Raich Otto alarmiert daraufhin telefonisch weitere fünf Mitglieder um die Ölspur zu binden.
+
+Nach rund einer Stunde konnte die Ölspur gebunden und die Einsatzbereitschaft wieder hergestellt werden.

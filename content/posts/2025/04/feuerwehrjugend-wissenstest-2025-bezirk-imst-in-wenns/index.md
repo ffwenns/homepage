@@ -1,0 +1,25 @@
+---
+title: "Feuerwehrjugend Wissenstest 2025 Bezirk Imst in Wenns"
+date: 2025-04-07
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1045923167570135"
+---
+
+Am Samstag, den 5. April 2025 fand der Wissenstest der Feuerwehrjugend im Bezirk Imst in Wenns statt, bei dem rund 170 Jugendliche ihr Wissen unter Beweis stellten. Themen wie Gerätekunde, Erste Hilfe, Funk und mehr wurden abgeprüft. 19 Mitglieder der FF-Wenns konnten Abzeichen in Bronze, Silber und Gold gewinnen – herzlichen Glückwunsch! 
+
+Neben dem Bewerb gab es spannende Stationen wie Bogenschießen, Kistensteigen und eine Feuerwehr-Olympiade. Das Küchenteam sorgte für leckeres Essen. 
+
+Bei der Schlussveranstaltung wurden die Abzeichen an die Jugendlichen verteilt. Zum Abschluss gab’s ein Geburtstagsständchen für unseren langjährigen Jugendbetreuer HLM Andreas Bregenzer zum 50er! Auch die besten Jugendgruppen vom Rahmenprogramm wurden ausgezeichnet. Ein herzliches Dankeschön an alle Helfer, Sponsoren und Beteiligten, die dieses Event in dieser Form möglich gemacht haben! 
+
+Ein großes Dankeschön an die Sponsoren der Preise (Rahmenprogramm):
+ FMZ-Kino Imst
+ Hervis Imst
+ Hochzeiger Bergbahnen Jerzens
+ Imster Bergbahnen
+ Intersport Imst
+ Fa. Staggl Arzl
+ McDonald's Imst
+ Raika Pitztal
+ Sparkasse Wenns
+ Tiroler Versicherung
+ XP-Park Jerzens

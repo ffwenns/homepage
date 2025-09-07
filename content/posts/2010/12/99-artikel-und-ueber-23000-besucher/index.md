@@ -1,0 +1,11 @@
+---
+title: "99 Artikel und über 23000 Besucher"
+date: 2010-12-31
+layout: post
+---
+
+Im abgelaufenen Jahr 2010 wurde die Homepage der FF Wenns rund 99mal aktualisiert und neue Berichte online gestellt, dabei informierten sich über 23000 Besucher mit rund 117.000 Seitenzugriffen.
+
+
+Im Durchschnitt wurde die Homepage alle 3-4 Tage aktualisiert und neue Berichte von Einsätzen, Übungen und Tätigkeiten online gestellt. Die Besucherzahl lag im Jahr 2010 bei rund 70 Besucher bzw. ca. 300 - 400 Seitenzugriffe am Tag.
+Das Kommando der Freiwilligen Feuerwehr Wenns wünscht allen Feuerwehrkameraden, Gemeindebürgern, Gästen, befreundeten Organisationen und der Gemeindeführung ein erfolgreiches, glückliches und unfallfreies Jahr 2011 und bedankt sich für die Zusammenarbeit im abgelaufenen Jahr!

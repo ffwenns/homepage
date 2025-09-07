@@ -1,0 +1,10 @@
+---
+title: "Technische Leistungsprüfung STUFE 3 in GOLD"
+date: 2017-05-27
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1559254700816316"
+---
+
+Eine weitere Truppe aus den Reihen der FF Wenns konnte heute am Samstagnachmittag den 27. Mai das Technische Leistungsabzeichen Stufe 3 in Gold erwerben und erfolgreich ablegen. Die Gruppe unter Gkdt. LM Daniel Weber meisterte die Leistungsprüfung mit Bravour... Neben Bürgermeister Walter Schöpf stellten sich auch Vertreter des Bezirksfeuerwehrkommandos unter BFK Stv. BR Stefan Rueland unter die Gratulanten!
+
+DANKE an alle Kameraden für die ständige und wichtige Aus- und Weiterbildung!

@@ -81,4 +81,8 @@ members:
     name: "Florian Eiter"
     role: "Atemschutzbeauftragter"
     image: "Eiter_Florian.webp"
+menu:
+  main:
+    parent: Mannschaft
+    weight: 200
 ---

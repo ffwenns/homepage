@@ -1,0 +1,21 @@
+---
+title: "Steinschlag L16"
+date: 2024-02-03
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/758338176328637"
+---
+
+Gestern am Freitagabend, den 02. Feber wurden wir um 21:14 Uhr zu einem Steinschlag auf die L16 Pitztal Landesstraße alarmiert. Der rund drei Tonnen schwere Stein beschädigte das Steinschlagnetz massiv, riss dieses nieder und stürzte auf die Landesstraße. Aufgrund der Totalsperre der L16, wurde vom Einsatzleiter die Kameraden der Nachbarfeuerwehren Freiwillige Feuerwehr Jerzens und Freiwillige Feuerwehr Arzl im Pitztal zur Umleitung nachalarmiert.
+
+Nachdem der Stein mittels Telelader beseitigt und eine Begehung durch die Straßenmeisterei samt Bauleitung stattgefunden hat, wurde die Straße nach rund 1h wieder freigegeben. Zuvor wurde die Fahrbahn noch gesäubert und die Einsatzstelle dem Straßenerhalter übergeben.
+
+Die Straße bleibt, wie bisher, einspurig mittels Ampelregelung befahrbar.
+
+Im Einsatz:
+KDOFA, RFA, LFA und MTFA mit 21 Mann
+FF Jerzens und FF Arzl i.P.
+Polizei Wenns
+Straßenmeisterei Ried
+Einsatzleiter: Kdt. BV Lukas Scheiber
+
+ DS, MS, LS - ÖA Team

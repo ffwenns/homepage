@@ -1,0 +1,11 @@
+---
+title: "Brandmeldealarm Pitztalerhof"
+date: 2014-10-09
+layout: post
+---
+
+Am Montag, den 06. Oktober um 17:24 wurde die FF-Wenns zu einem Brandmeldealarm in den Gasthof Pitztalerhof gerufen. Die Feuerwehr Wenns konnte bereits das erste Mal aus der neuen FF-Halle ausfahren, somit wurden Rekord Ausrückzeiten erreicht. Vor Ort stellte sich sehr schnell heraus, dass es sich um einen Täuschungsalarm handelte. Der erste Einsatz ausgehend von der neuen Feuerwehrhalle konnte nach rund 20 Minuten erfolgreich beendet werden.
+
+ 
+
+Patrick Pfefferle

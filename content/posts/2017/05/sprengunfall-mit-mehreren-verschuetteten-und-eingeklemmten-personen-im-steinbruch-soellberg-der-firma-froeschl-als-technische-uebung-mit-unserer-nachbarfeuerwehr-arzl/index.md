@@ -1,0 +1,12 @@
+---
+title: "\"SPRENGUNFALL mit mehreren verschütteten und eingeklemmten Personen im Steinbruch Söllberg der Firma Fröschl\" als Technische ÜBUNG mit unserer Nachbarfeuerwehr Arzl"
+date: 2017-05-21
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1552517911489995"
+---
+
+Am vergangenen Samstagnachmittag den 20. Mai um 16 Uhr wurde im Steinbruch Söllberg ein Sprengunfall als Übungsannahme simuliert. Der Wenner Zugskommandant OBM Robert Krug welcher auch die Übung leitete, zeichnete sich für die mustergültige Organisation und Abwicklung verantwortlich. Bei dem Sprengunfall kam es unter anderem zu einem größeren Steinschlag, welcher ein Fahrzeug und mehrere Personen verschüttete. Nach der Alarmierung der Feuerwehr Wenns wurde vom Einsatzleiter bereits auf Anfahrt die Nachbarfeuerwehr Arzl zur Unterstützung mitalarmiert. Beide Feuerwehren konnten dann die Schadenslage strukturiert abarbeiten. Nachdem die FF Wenns die eingeklemmten Personen mittels Hydraulischem Rettungsgerät aus dem Unfallfahrzeug befreite, waren unsere Arzler Kameraden zeitgleich bei der Menschenrettung mittels Hubzug und Hebekissen beschäftigt. Die verunfallten und verschütteten Personen unter den Holz- und Steinmengen konnten nach kurzer Zeit fachmännisch geborgen und gerettet werden. Nach rund einer Stunde konnte die lehrreiche Technische Gemeinschaftsübung erfolgreich beendet und die rund 30 Mann beider Wehren zu einer kleinen Stärkung in die Feuerwehhalle Wenns einrücken.
+
+In diesem Zusammenhang bedanken wir uns recht Herzlich bei der FIRMA FRÖSCHL für die Zurverfügungstellung der Örtlichkeit, unserer Nachbarfeuerwehr Arzl unter Gkdt. LM Wöber Armin für die Teilnahme, unseren Mitgliedern OBM Krug Robert und LM Folie Markus für die super Vorbereitung und allen Kameraden für die Teilnahme!
+
+Fotos: FM Hafner Florian, FF Wenns

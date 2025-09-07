@@ -1,0 +1,17 @@
+---
+title: "Waldbrand in Arzl"
+date: 2013-07-24
+layout: post
+---
+
+Am Mittwoch den 24. Juli zu Mittag wurde unsere Nachbarfeuerwehr Arzl und die FF Wenns zu einem Waldbrand am Burgstall oberhalb der Lourdeskapelle bei der Pfarrkirche Arzl mittels Sirene alarmiert.
+
+Durch die vorherrschende Hitze kam es bei der "Böllerhütte Arzl" vermutlich infolge einer Selbstentzündung zu einem Waldbrand. Vom Einsatzleiter und Kommandant der FF Arzl OBI Knabl Josef wurde die Feuerwehr Wenns mittels Tanklöschfahrzeug zur Unterstützung nachalarmiert. Durch das rasche Eingreifen der Feuerwehren konnte trotz schwieriger Geländeverhältnisse das Feuer in kurzer Zeit unter Kontrolle gebracht werden, und somit ein größerer Schaden verhindert werden.
+
+Die FF Wenns konnte den Einsatz nach rund zwei Stunden beenden. Unsere Kameraden aus Arzl rückten nach den erfolgreichen Nachlöscharbeiten in den frühen Abendstunden ebenfalls wieder in das Gerätehaus ein.
+Im Einsatz:
+Feuerwehr Arzl
+Feuerwehr Wenns
+Polizei Wenns
+AK Pitztal ABI Kathrein Adalbert
+Einsatzleiter: OBI Knabl Josef (Kdt. FF Arzl)

@@ -1,0 +1,24 @@
+---
+title: "Zwei Unwettereinsätze nach Starkregen im Gemeindegebiet Wenns"
+date: 2020-06-11
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/3981708238570938"
+---
+
+Am heutigen Donnerstag den 11. Juni wurde die FF-Wenns gleich zweimal zu Einsätzen im Gemeindegebiet alarmiert.
+Zum ersten Einsatz wurde unsere Feuerwehr um 09:26 Uhr via Pager Kleineinsatzschleife zur "Pillerbachbrücke" alarmiert. Einige Monate zuvor hatte sich hier bereits ein großer Hangrutsch ereignet. Diesmal lösten sich kleinere Mengen vom überschüssigen Erdmaterial, wodurch sich der Abfluss der Landesstraße verstopfte. Er musste durch die FF-Wenns gereinigt und von Erdmassen befreit werden. Nach der Reinigung konnte das Regenwasser wieder kontrolliert abfließen und der Verkehr ohne Behinderungen weiterfließen.
+Zum zweiten Mal wurde unsere Wehr um 12.15 Uhr via Pager Sammelruf unweit der ersten Einsatzstelle, neuerlicher Hangrutsch - Verklausung in diesem Gebiet, alarmiert! Nachdem das Erdmaterial beseitigt und die Straße gereinigt war, konnte der Einsatz an die Straßenmeisterei und Landesgeologie übergeben werden. 
+
+Details:
+Erster Einsatz:
+Einsatzleiter: OBI Stefan Gundolf I
+MTFA, RFA, TLFA-2000, LFA mit 33 Mann
+
+Zweiter Einsatz:
+Einsatzleiter: HBI Lukas Scheiber
+MTFA, RFA, TLFA 2000 und LFA mit 36 Mann
+Polizei Wenns
+Straßenmeisterei Zams
+
+Bericht: PP/LS/ÖA-Team
+Fotos: LS/SGI/TD/ML/FE/ÖA-Team

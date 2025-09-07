@@ -1,0 +1,11 @@
+---
+title: "Throwback 2019  - Florianifeier"
+date: 2020-05-03
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/3825163157558781"
+---
+
+Zum heutigen Florianisonntag ist es aufgrund der Verordnungen rund um den COVID-19 Virus leider nicht möglich eine Florianifeier abzuhalten. Trotzdem kommt bestimmt wieder die Zeit an dem wir alles nachholen können, wir wünschen jeden noch einen schönen Florianisonntag - im Gedenken an den Hl. Florian (Schutzpatron der Feuerwehr)... 
+
+Bildmaterial 2019
+(c) Breonix Foto + Design Chris Walch/FH - FF-WENNS

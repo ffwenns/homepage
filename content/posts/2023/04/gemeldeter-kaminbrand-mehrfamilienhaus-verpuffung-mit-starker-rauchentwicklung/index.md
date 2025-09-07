@@ -1,0 +1,19 @@
+---
+title: "Gemeldeter Kaminbrand Mehrfamilienhaus - Verpuffung mit starker Rauchentwicklung"
+date: 2023-04-25
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/595685762593880"
+---
+
+Am gestrigen Montag, den 24. April 2023 um 20:21 Uhr wurde die FF-Wenns via Sirene und Pager-Sammelruf zu einem Kaminbrand Mehrfamilienhaus alarmiert. 
+Rasch stellte sich heraus, dass es sich um keinen Kaminbrand sondern um eine Verpuffung der Heizungsanlage mit starker Rauchentwicklung aus dem Kamin handelt. 
+Unter Atemschutz kontrollierte die Feuerwehr mithilfe der Wärmebildkamera alle Etagen und baute zeitgleich den Brandschutz auf. 
+Nach der Freigabe durch den Rauchfangkehrer Wimmer wurde der Einsatz nach 30 min. erfolgreich beendet.
+
+Details 
+Einsatzleiter Zkdt. BM Stoll Christoph
+5 Fahrzeuge mit 51 Mann
+Rotes Kreuz Imst
+
+Bericht: PP/ÖA-Team
+Fotos: FH/LS/ÖA-Team

@@ -1,0 +1,7 @@
+---
+title: "Unwetterlage / Hochwasserstand der Pitze im Pitztal"
+date: 2014-08-13
+layout: post
+---
+
+Bereits seit Mittwochnachmittag den 13. August um 15:00 Uhr steht auch die FF Wenns mit 4 Fahrzeugen im Einsatz. Seitdem mussten Einsätze aufgrund der Regenfälle abgearbeitet werden! Die Pitze trat trotz ihres Hochwasserstandes zum Glück nur an wenigen Stellen über die Ufer und es sind sind keine Gebäude im Ortsteil Pitzenhöfe in Gefahr! Die FF Wenns steht weiterhin bei der Beobachtung im Einsatz....

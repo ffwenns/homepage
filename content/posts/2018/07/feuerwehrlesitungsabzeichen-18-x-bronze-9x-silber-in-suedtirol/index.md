@@ -1,0 +1,41 @@
+---
+title: "Feuerwehrlesitungsabzeichen 18 x Bronze, 9x Silber in Südtirol"
+date: 2018-07-03
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2101539989921115"
+---
+
+Am Samstag den 30. Juni nahmen 3 Bewerbsgruppen der Feuerwehr Wenns am Landesfeuerwehrleistungswettbewerb in Südtirol, Meran teil. Bei mehr als 35 Grad Celsius traten 2 Gruppen auf Bronze sowie 1 gruppe in Silber an. Neben einem herrlichen Panorama von Weinreben und Apfelbäumen konnten beide Bronze Gruppen das Leistungsabzeichen fehlerfrei mit einer sehr guten Zeit erreichen. Die Silber Gruppe erreichte das Abzeichen ebenfalls mit einer sehr guten Zeit und kleinen Strafpunkten. Nach der sehr Schweißtreibenden Arbeit konnte im Hotel Wessobrunn, Meran Südtirol der Körper im Pool abgekühlt werden und der erfolgreiche Bewerbstag kameradschaftlich enden. Am nächsten tag stand noch ein kleiner Ausflug zum Kalterer See in Südtirol auf dem Programm, nach diesem konnten alle Gruppen wieder in den Heimatort Wenns heimkehren. Gratulation an alle Gruppen für das errungene Abzeichen! Ein großes Dankeschön an unseren Ausbilder ABI Siegfried Fadum - ohne dich wäre dieses Ergebnis nicht möglich gewesen! 
+Gruppeneinteilung:
+Bronze - Wenns 1 (ca 88 sec fehlerfrei):
+Grkdt. FM Christoph Mark
+ME FM Marco Gritsch
+MA FM Daniel Weber II
+1er FM Marcel Mark
+2er FM Tobias Donner
+3er FM Dominik Siller
+4er FM Sebastian Thöny
+5er HV Patrick Pfefferle
+6er FM Mathias Kirschner
+
+Bronze - Wenns 2 (ca. 57 sec fehlerfrei):
+Grkdt. HLM Walter Hammerle
+ME OFM Peter Neuner
+MA OLM Markus Larcher
+1er HBI Lukas Scheiber
+2er FM Chrisopher Sailer
+3er OFM Lukas Willer
+4er FM Florian Eiter
+5er OFM Michael Röck
+6er OFM Simon Hechenberger
+
+Silber - Wenns 3 (ca. 65 sec):
+Grkdt. HBI Lukas Scheiber
+ME FM Florian Eiter
+MA OFM Lukas Wille
+1er HV Patrick Pfefferle
+2er FM Marcel Mark
+3er FM Dominik Siller
+4er FM Daniel Weber
+5er OFM Michael Röck
+6er OLM Markus Larcher

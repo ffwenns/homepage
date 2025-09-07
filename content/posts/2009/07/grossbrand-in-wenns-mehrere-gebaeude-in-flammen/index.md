@@ -1,0 +1,23 @@
+---
+title: "Großbrand in Wenns: Mehrere Gebäude in Flammen"
+date: 2009-07-05
+layout: post
+---
+
+Zu einem Großbrand am 05. Juli 2009 im Ortsteil Brennwald wurden 7 Feuerwehren mit mehr als 250 Mann und über 25 Fahrzeugen alarmiert. Die Meldung der Leitstelle Tirol lautete: Sammelruf-Alarmstufe für: Gebäudebrand, Wenns, Brennwald wurde ausgelöst!
+
+Großbrand in Wenns: (Bericht von der Tiroler Tageszeitung)
+
+Wenns - Gegen drei Uhr Früh gingen in der Nacht auf Sonntag plötzlich die Sirenen los. Ein Wirtschaftsgebäude und ein altes Wohnhaus hatten Feuer gefangen. Als die Florianijünger am Ort des Geschehens ankamen, stand das eine Gebäude vollständig, vom zweiten Gebäude das ober Stockwerk im Vollbrand. "Wir standen insgesamt mit 250 Mann im Einsatz. Die Situation war deshalb so ernst, weil im Ortsteil Brennwald viele alte Gebäude stehen, die leicht in Flammen geraten können", erklärt Einsatzleiter Norbert Reheis von der Feuerwehr Wenns.
+
+Ehepaar konnte sich retten
+
+Während das unbewohnte Wirtschaftsgebäude völlig ausbrannte, versuchten die Retter, das bewohnte angrenzende Wohnhaus zu retten. Die beiden Bewohner - ein älteres Ehepaar - konnte das Haus rechtzeitig verlassen, so dass niemand verletzt wurde. Sie brachten sogar noch die wichtigsten Wertgegenstände in Sicherheit, wie Reheis erzählt. Das Ehepaar konnte beim Sohn im Dorf unterkommen - sie werden wohl nicht mehr zurück in ihr Haus siedeln können. "Im Wirtschaftsgebäude waren unzählige Heuballen gelagert, was die Löscharbeiten natürlich erschwerte", berichtet der Einsatzleiter, dessen Männer gegen 7.30 Uhr immer noch im Einsatz standen. Sie mussten teilweise mit schwerem Atemschutz arbeiten.
+
+Über die Ursache des Brandes steht derzeit noch nichts fest. Die Brandermittler werden sich noch am Sonntag ein Bild von der Brandstelle machen. Sobald das Wirtschaftsgebäude von den Ermittlern freigegeben ist, muss es abgerissen werden. Der Schaden für das zweite Haus ist noch unbekannt - der obere Stock ist auf jeden Fall komplett ausgebrannt. Der Schaden dürfte ersten Schätzungen zufolge mehrere hunderttausend Euro betragen.
+
+Großbrand zerstört Anwesen im Pitztal: (Bericht von tirol.orf.at)
+
+Ein Großbrand hat in der Nacht auf Sonntag in Wenns ein unbewohntes Anwesen komplett zerstört. Das angrenzende Wohnhaus eines älteren Paares wurde sehr schwer beschädigt. Gegen 3.00 Uhr wurde das Feuer im Ortsteil Brennwald bemerkt. Als die Einsatzkräfte eintrafen, stand ein Teil der Gebäude schon im Vollbrand, schilderte der Wenner Feuerwehrkommandant Norbert Reheis gegenüber ORF Radio Tirol.
+
+Verletzt wurde bei dem Brand niemand. Der Schaden geht aber sicherlich in die Hunderttausende Euro, sagt der Einsatzleiter.

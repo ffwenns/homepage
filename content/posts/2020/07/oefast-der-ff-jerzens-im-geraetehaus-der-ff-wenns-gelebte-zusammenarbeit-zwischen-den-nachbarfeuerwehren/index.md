@@ -1,0 +1,18 @@
+---
+title: "ÖFAST der FF Jerzens im Gerätehaus der FF Wenns - gelebte Zusammenarbeit zwischen den Nachbarfeuerwehren"
+date: 2020-07-13
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/4120538451354582"
+---
+
+Am vergangenen Samstag den 11. Juli 2020 konnte unsere Nachbarfeuerwehr Jerzens in unserem Gerätehaus die alljährliche ÖFAST-Überprüfung durchführen.
+Parallel dazu konnten die ATS-Beauftragten der FF-Wenns die Masken reinigen und so einen flüssigen Ablauf der Überprüfungen gewährleisten. 
+Die gelebte Zusammenarbeit und das gute Teamwork untereinander, im Feuerwehrwesen konnte wieder gezeigt und weiter gefestigt werden. 
+Nach 2 Stunden konnte die Atemschutz-Fitness-Überprüfung erfolgreich abgeschlossen werden und der Abend gemütlich ausklingen.
+
+Details:
+18 Mann (Freiwillige Feuerwehr Jerzens)
+2 ATS-Beauftragte (FF-Wenns)
+
+Bericht: PP/ÖA-Team FF-Wenns
+Fotos: LS/ÖA-Team FF-Wenns

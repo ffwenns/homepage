@@ -1,0 +1,23 @@
+---
+title: "Vorbereitungstraining des BFV-Imst mit 26 Bewerbsgruppen – Ein erfolgreicher Tag in Wenns"
+date: 2025-05-26
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1082523643910087"
+---
+
+Am Samstag, dem 24. Mai 2025, fand bei idealen Bewerbsbedingungen das diesjährige Vorbereitungstraining zum Feuerwehrleistungsabzeichen auf dem Fußballplatz Pitzenhöfe in Wenns statt. 26 Bewerbsgruppen von 14 Feuerwehren aus dem Bezirk Imst sowie aus der Umgebung traten gegeneinander an und lieferten sich einen spannenden Wettkampf, der von zahlreichen Fans und Zuschauern aus Nah und Fern begeistert verfolgt wurde. 
+
+Die Feuerwehr Wenns sorgte den ganzen Tag über für das leibliche Wohl der Teilnehmer und Gäste . Mit einer Auswahl an leckeren Speisen und erfrischenden Getränken wurde jeder bestens versorgt. Für die musikalische Unterhaltung und Moderation sorgte DJ Siller von der FF Wenns , der das Event mit stimmungsvollen Klängen begleitete.
+
+Das Vorbereitungstraining diente als gezielte Vorbereitung auf den bevorstehenden Landesbewerb um das Feuerwehrleistungsabzeichen in den Kategorien Bronze und Silber . In jeweils zwei Durchgängen pro Kategorie wurden die Löschangriffe vom Bewerterteam beurteilt. Die Ergebnisse bieten den Gruppen eine wertvolle Orientierung für den Landeswettbewerb. Unsere Feuerwehr Wenns war mit zwei Gruppen vertreten: Wenns 1 trat sowohl in Bronze als auch in Silber (Leistung) an.
+Die Mädelsbewerbsgruppe – Wenns 2 absolvierte das Training in der Kategorie Bronze (Leistung, Damenklasse).
+
+Zusätzlich konnten die Teilnehmer ihre Fähigkeiten beim Staffellauf sowie beim eigens organisierten Leinencup der Bewerbsgruppe Wenns 1 unter Beweis stellen.
+Als besondere Überraschung für den besten Leinenanleger gab es den Pokal „The Golden Chicken“ mit einer Verpflegung. 
+
+Ein herzlicher Dank gilt allen Bewerbsgruppen, Bewertern, Fans und Zuschauern, sowie dem gesamten Team der Feuerwehr Wenns - an alle Helferinnen und Helfer – vom Pfiffstand über die Kassa, die Küche bis hin zum Auf- und Abbau-Team sowie der musikalischen Umrahmung. ️
+
+Alles in allem – eine gelungene Veranstaltung: als Training und für die Kameradschaft! ‍
+
+ Fotos: LS/PP – ÖA-Team
+ Bericht: PP – ÖA-Team

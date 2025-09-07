@@ -1,0 +1,14 @@
+---
+title: "50. Geburtstag unseres Jugendbetreuer HLM Andreas Bregenzer"
+date: 2025-04-05
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1044494171046368"
+---
+
+Gestern am 04. April 2025, feierte unser langjähriger Jugendbetreuer HLM Andreas Bregenzer seinen 50. Geburtstag. Zu diesem Jubiläum überraschten ihn heute der Ausschuss und die Gruppe 3 nach dem sehr erfolgreichen und äußerst gelungenen Wissenstest bei uns in Wenns. 
+
+Zum halben Jahrhundert wünschen wir dir nochmals alles, alles Gute. Weiterhin viel Gesundheit, Freude und Glück, sowie viele weitere schöne Stunden bei uns in der Feuerwehr. 
+
+Danke für deine Arbeit als jahrelanger Jugendbetreuer (23 Jahre) der FF-Wenns. 
+
+Deine Kameraden der FF-Wenns

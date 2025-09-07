@@ -1,0 +1,21 @@
+---
+title: "10km lange Dieselspur auf der L16 Pitztalstraße von Arzl bis nach Wenns"
+date: 2025-04-20
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1055912403237878"
+---
+
+Am heutigen Ostersonntag, den 20. April 2025 wurden wir mittels Pager - Kleineinsatzschleife um 10:29 Uhr von unserer Nachbarfeuerwehr Arzl i.P. mit der Meldung "THL Ölspur, L16" nachalarmiert.
+
+Eine rund 10 Kilometer lange Dieselspur von Arzl - Osterstein, erstreckte sich auf der L16 auch in unser Einsatzgebiet, bis zum Kilometer 10, kurz vor dem Sägewerk Jerzens. 
+
+Nach rund eineinhalb Stunden wurde die Gefahrenstellen erfolgreich beseitigt und der Einsatz erfolgreich beendet. Danke für die super Zusammenarbeit und allen noch frohe Ostern. 
+
+Im Einsatz:
+ FF Arzl i.Pitztal mit MTFA, TLFA 3000 und LAST 
+ FF Wenns mit KDOFA, RFA und MTFA inkl. Ölhänger und 12 Mann
+ PI Wenns mit 1 Fahrzeug
+ EL Arzl: Kdt. OBI Benjamin Wöber
+ EL Wenns: Kdt. BV Lukas Scheiber 
+
+ SG, FE, LS

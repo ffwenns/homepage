@@ -1,0 +1,12 @@
+---
+title: "Ehrenbürger stirbt im 106. Lebensjahr"
+date: 2010-12-19
+layout: post
+---
+
+Die Gemeinde Wenns trauert um ihren Ehrenbürger OSR Franz Xaver Perkhofer welcher am 18. Dezember im 106. Lebensjahr verstorben ist.
+
+
+Oberstudienrat Franz Xaver Perkhofer war ehemaliger Volkschuldirektor der Gemeinde Wenns, Ehrenbürger der Gemeinde Wenns, Ehrenkapellmeister der Muskikappele Wenns, langjäriger Organist und Chorleiter, Träger des Verdienstkreuz "Pro ecclesia et pontifice", Ehrenmitglied des Krippenvereines, Ehrenmitglied des KTLV u.a.m.
+
+Die FF Wenns bedankt sich für die zahlreichen Tätigkeiten zum Wohle der Gemeinde Wenns.

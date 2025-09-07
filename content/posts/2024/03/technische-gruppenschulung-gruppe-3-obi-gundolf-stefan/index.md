@@ -1,0 +1,12 @@
+---
+title: "Technische Gruppenschulung Gruppe 3 - OBI Gundolf Stefan"
+date: 2024-03-15
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/782671647228623"
+---
+
+Zu einer lehrreichen, technischen Gruppenschulung lud Gkdt. OBI Stefan Gundolf am Freitag, den 15.März 2024. Neben der Fahrzeugkunde beim Rüstfahrzeug wurden die unterschiedlichsten Technischen Gerätschaften, wie das Hebekissen, Spineboard usw. besprochen und praktisch beübt. Nach rund 1,5h ging die Übung, nach einer kurzen Jahresvorschau auf das Übungsjahr 2024, zum gemütlichen Teil über.
+
+Bei der Übung:
+ Gruppe 3 mit 9 Mann und RFA
+ Übungsleiter: Kdt. Stv. OBI Stefan Gundolf

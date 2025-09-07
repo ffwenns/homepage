@@ -1,0 +1,13 @@
+---
+title: "Ausrückung und Verkehrsdienst am heutigen Seelensonntag"
+date: 2023-11-05
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/705974524898336"
+---
+
+Heute am 05.11.2023 nahm die FF-Wenns beim Seelensonntag teil. Dabei erfolgte nach dem traditionellen Kirchgang die Kranzniederlegung, im Gedenken an die Gefallenen beider Weltkriege, beim Kriegerdenkmal. ️
+
+Neben dem formellen Akt mit 48 Kamerad:innen waren auch vier Mann beim Verkehrsdienst rund um die Formationen im Einsatz. Zum Abschluss versorgte uns unser Kamerad HLM Hammerle Walter mit warmen Laugenbrezen und einer Weißwurst in der Feuerwehrhalle, wo der Vormittag gemütlich ausklang. 
+
+Fotos: MG, LS/FF-Wenns
+Bericht: PP/ÖA-TEAM

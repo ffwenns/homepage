@@ -1,0 +1,14 @@
+---
+title: "Jahresrückblick 2024 - ein sehr aktives Jahr geht zu Ende"
+date: 2025-01-01
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/974830541346065"
+---
+
+Mit der traditionellen Verteilung des Jahresberichtes und des Neujahrsschnaps bzw. der Süßigkeit an alle Mitglieder, möchte sich das Kommando der Freiwillige Feuerwehr Wenns für die hervorragende Zusammenarbeit und Unterstützung im vergangene Jahr herzlich bedanken! 
+
+Machen wir gemeinsam so weiter und auf ein gutes Miteinander auch im neuen Jahr 2025.
+
+Einen guten Rutsch allen Feuerwehrfrauen und Männern und deren Familien, sowie allen Gönnern und Freunden der FF Wenns! 
+
+Anhang: Jahresrückblick FF Wenns

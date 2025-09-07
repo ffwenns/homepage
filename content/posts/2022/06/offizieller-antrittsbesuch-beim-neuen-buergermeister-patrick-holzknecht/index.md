@@ -1,0 +1,15 @@
+---
+title: "Offizieller Antrittsbesuch beim neuen Bürgermeister Patrick Holzknecht"
+date: 2022-06-10
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7667192146689177"
+---
+
+Am gestrigen Donnerstag, den 09. Juni 2022 waren unser Kommandant HBI Lukas Scheiber und Kommandant Stv. OBI Stefan Gundolf beim neuen Bürgermeister der Gemeinde Wenns Patrick Holzknecht zum offiziellen Antrittsbesuch. Weiters wurden einige Besprechungspunkte zur Gemeindeeinsatzleitung, Budgetzwischenbericht und Jubiläumsfeierlichkeiten kommende Woche gemeinsam besprochen!
+
+Wir freuen uns mit dem neuen Bgm. Patrick Holzknecht, Vize Bgm. Robert Rundl und dem gesamten Gemeinderat auf eine gute und weiterhin so feine, konstruktive Zusammenarbeit! 
+
+ 
+
+Foto: Sy/GEM
+Bericht: PP/ÖA-Team

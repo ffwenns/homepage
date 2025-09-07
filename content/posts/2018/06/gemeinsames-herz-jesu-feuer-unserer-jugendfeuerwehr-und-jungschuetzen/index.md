@@ -1,0 +1,12 @@
+---
+title: "Gemeinsames Herz-Jesu-Feuer unserer Jugendfeuerwehr und Jungschützen"
+date: 2018-06-11
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2060808233994291"
+---
+
+Am Samstagabend des 09. Juni veranstaltete die Jugendfeuerwehr gemeinsam mit den Jungschützen das traditionelle Herz-Jesu-Feuer im Magerhart.
+Als Symbol konnte wieder ein sehr eindrucksvolles Kreuz auf einem Berg ausgesteckt und anschließend entzündet werden.
+Anschließend konnten sich alle Anwesenden bei einem Grillwürstel und gegrillten Marshmallow's stärken.
+Trotz der zwischendurch etwas schwierigen Wetterbedingungen war es wieder ein sehr gelungener und schöner Abend im Zeichen der Gemeinschaft/Kameradschaft 
+Danke an alle Organisatoren der Feuerwehr und Schützen, Sponsoren sowie allen anwesenden Jugendfeuerwehr und Jungschützenmitglieder!

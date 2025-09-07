@@ -1,0 +1,16 @@
+---
+title: "Brandmeldealarm örtlicher Hotelbetrieb"
+date: 2025-01-22
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/989775543184898"
+---
+
+Am heutigen Mittwochmorgen, den 22. Jänner 2025 wurde die FF Wenns um 07:06 Uhr zu einem Brandmeldealarm, in einem örtlichen Hotelbetrieb, alarmiert. 
+
+Nach Kontrolle der betroffenen Räumlichkeiten, konnte glücklicherweise kein Brand sondern Wasserdampf als Auslösursache festgestellt werden. Nach Rückstellung der Anlage konnte die FF Wenns den Einsatz nach zwanzig Minuten beenden. 
+
+Im Einsatz:
+ Pager / Sammelruf (BMA) 
+ KDOFA, TLFA 2000 und LFA (auf Bereitschaft) mit 22 Mann/Frau
+ Polizei Wenns 
+ Einsatzleiter: Gkdt. LM Dominik Siller

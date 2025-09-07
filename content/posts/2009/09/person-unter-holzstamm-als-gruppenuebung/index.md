@@ -1,0 +1,7 @@
+---
+title: "“Person unter Holzstamm” als Gruppenübung"
+date: 2009-09-16
+layout: post
+---
+
+Am Freitag den 11. September 2009 hielt die Gruppe 5 eine Technische Übung im Klausboden ab. Übungsannahme war eine "Personenbergung unter mehreren Holzstämmen". Unsere Übungspuppe musste mittels Hebekissen aus der misslichen Lage befreit bzw. gerettet werden. Nach rund 2 Stunden konnten die Mitglieder der Gruppe 5 die Technische Übung erfolgreich beenden und wieder in das Gerätehaus einrücken.

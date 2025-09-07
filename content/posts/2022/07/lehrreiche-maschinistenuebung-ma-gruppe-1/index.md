@@ -1,0 +1,14 @@
+---
+title: "Lehrreiche Maschinistenübung MA-Gruppe 1"
+date: 2022-07-06
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7791236547618069"
+---
+
+Aufgrund der hohen Übungsbeteiligung und dem Mitgliederstand von mittlerweile 38 aktive Maschinisten wurde seit Jahresbeginn die Maschinistengruppe der FF Wenns in zwei Gruppen zu je 19 Mann aufgeteilt. Am gestrigen Dienstag den 05.Juli übte die MA Gruppe 1 mit den Pumpen im Feuerwehrdienst.
+
+Von der Tragkraftspritze (TS Fox 3), über die Schmutzwasserpumpe, die Chiemsee Pumpe bis zur Tauchpumpe wurden alle Pumpen theoretisch und praktisch beübt. Es war eine weitere sehr lehrreiche und interessante Schulung und Übung.
+
+Bei der Übung:
+LFA mit 13 Mann
+Übungsleitung: Obermaschinist HLM Siller Martin

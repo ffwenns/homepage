@@ -1,0 +1,12 @@
+---
+title: "Zukünftige Florianis auf Besuch in der Feuerwehrhalle"
+date: 2015-11-11
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/990507391024386"
+---
+
+Viel Spaß mit anschließender Jause für unseren Kindergarten
+
+Danke an OLM Martin Siller, HLM Walter Hammerle, OLM Christoph Stoll und LM Weber Daniel für die Organisation! 
+
+Unser Kindergarten war auf Besuch in der Feuerwehrhalle, um sich die Aufgabengebiete und Gerätschaften einmal genauer anzuschauen. Zahlreiche Kinder sowie ihre Betreuerinnen erlebten einen sehr netten und informativen Vormittag. Dabei konnten unsere jungen Gemeindebürger auch selbst anpacken und die Gerätschaften der FF Wenns praktisch ausprobieren. Nach zwei interessanten und sehr lustigen Stunden lud die Feuerwehr alle Beteiligten zu einer gemeinsamen Jause ein.

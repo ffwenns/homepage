@@ -1,0 +1,12 @@
+---
+title: "75. Geburtstag von unserer Rüst - Fahrzeugpatin Gasser Erika"
+date: 2022-04-06
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7361283257280069"
+---
+
+Unsere "Gotl" Erika feierte am Sonntag den 03. April ihren 75. Geburtstag. Sie hat uns dazu am Montagabend, zu einer kleinen Zusammenkunft eingeladen, um dieses Jubiläum gebührend zu feiern.
+
+Die Abordnung der FF-Wenns konnte die Glückwünsche und Geschenke der Feuerwehr überreichen und den Abend gemeinsam mit unserer Gotl Erika und ihrem Ehemann und unserem Ehrenmitglied Walter Gasser gemütlich ausklingen lassen. 
+
+An dieser Stelle nochmals Alles Gute zu deinem 75. Geburtstag, liebe Erika! Wir wünschen dir weiterhin viel Gesundheit und Freude sowie noch zahlreiche schöne, unvergessliche Stunden bei unserer Feuerwehr!

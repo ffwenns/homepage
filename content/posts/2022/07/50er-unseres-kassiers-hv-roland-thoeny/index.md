@@ -1,0 +1,15 @@
+---
+title: "50er unseres Kassiers HV Roland Thöny"
+date: 2022-07-26
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7886357788105944"
+---
+
+Am vergangenen Sonntag, den 24. Juli feiert unser Kassier Roland Thöny 50. Geburtstag. Zu diesem Jubiläum lud er zu seiner Geburtstagsfeier, der Ausschuss der FF-Wenns besuchte die Feier am Sonntag und überbrachte die Glückwünsche der gesamten Feuerwehr. Zum halben Jahrhundert wünschen wir ihm nochmals alles, alles Gute. Weiterhin viel Gesundheit, Freude und Glück, sowie viele weitere schöne Stunden bei uns in der Feuerwehr. 
+Danke für deine Arbeit als schon jahrelanger Kassier der FF-Wenns und Danke für die schöne Geburtstagsfeier mit gemütlichen Beisammensein! 
+Deine Kameraden der FF-Wenns 
+
+ 
+
+Fotos: Privat/PP/ÖA-Team
+Bericht: PP/ÖA-Team

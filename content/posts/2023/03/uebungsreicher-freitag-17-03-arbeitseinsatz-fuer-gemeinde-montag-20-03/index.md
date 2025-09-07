@@ -1,0 +1,16 @@
+---
+title: "Übungsreicher Freitag 17.03. & Arbeitseinsatz für Gemeinde Montag 20.03."
+date: 2023-03-20
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/575503054612151"
+---
+
+Am vergangenen Freitag, den 17. März 2023 hielten unsere beiden Gruppen für die Technische Leistungsprüfung am kommenden Samstag, den 25. März 2023 eine
+gemeinsame Übung ab. Dabei konnte Hauptbewerter BV Alois Ambacher und ein weiterer Bewerter - Kdt. der FF Nassereith HBI Martin Föger die beiden Gruppen beaufsichtigen und die letzten Ratschläge zur Verbesserung mitgeben. Wie beim Bewerb selber, wurde zuerst die Gerätekunde überprüft und anschließend das Bewerbs-Geschehen jeweils nach Form B (Hebekissen) Bronze und Form A (Hydraulisches Rettungsgerät) Silber durchgeführt werden. Nach den lehrreichen Durchgängen wurden wir mit einer Jause von HLM Walter Hammerle (Danke!) gestärkt ehe die nächste Übung (Bewerbsübung) anstand. Danke an Alois Ambacher und Martin Föger für die Beobachtung und korrekte Überwachung der Probetätigkeiten für die kommende Technische Leistungsprüfung. 
+Weiters hielt am Freitag unsere junge "Mädels-Bewerbsgruppe" die zweite Bewerbsprobe auf das FLA-Bronze ab. Die Gruppe besteht fast zu 80 % aus jungen Mädels, die bereits bei der zweiten Probe gute Ergebnisse erzielen konnten. Sie schauen voller Motivation und Elan auf die kommende Wettbewerbssaison. Bei den nächsten Proben wird zunächst der Ablauf beim Kuppeln ausgebaut und optimiert ehe der komplette Löschangriff beprobt wird. Weiter so! 
+
+Am Montag, den 20. März 2023 wurde in Form eines Arbeitseinsatzes für die Gemeinde der Vorplatz Musikpavillon im Zuge der Bauarbeiten gereinigt mit dem Tanklöschfahrzeug (TLFA-2000) gereinigt. Im Einsatz waren 2 Mann mit TLFA-2000, nach rund eineinhalb Stunden konnte der Einsatz erfolgreich beendet und ins Gerätehaus eingerückt werden. 
+
+Details:
+Bericht: PP/ÖA-Team
+Fotos: PP/LS/DS/FE/SG/ÖA-Team

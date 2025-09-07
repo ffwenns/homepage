@@ -1,0 +1,16 @@
+---
+title: "Verkehrsregelung beim Landeskrippentag in Wenns"
+date: 2010-12-08
+layout: post
+---
+
+Am 8. Dezember 2010 fand in Wenns der 95. Landeskrippentag und anschließend die Buchpräsentation zum 150 jährigen Bestehen des Krippenbauverein Wenns statt.
+
+Die FF Wenns war bei der Verkehrsregelung am Vor- und Nachmittag im Einsatz
+
+Bereits im Jahre 1860 fanden sich in Wenns im Pitztal einige rührige Krippenfreunde zusammen und gründeten den „Weihnachtskrippe - Gesellschafts - Verein Wenns“.
+
+Er gilt nachweislich als ältester Krippenverein der Welt.
+
+Programm und Ablauf sowie alle News finden Sie auf der Homepage des Krippenbauverein Wenns
+Die Freiwillige Feuerwehr Wenns gratuliert dem Krippenbauverein recht herzlich zum 150 jährigen Bestehen

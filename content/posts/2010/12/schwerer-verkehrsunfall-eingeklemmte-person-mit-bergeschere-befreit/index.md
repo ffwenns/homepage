@@ -1,0 +1,9 @@
+---
+title: "Schwerer Verkehrsunfall: Eingeklemmte Person mit Bergeschere befreit"
+date: 2010-12-27
+layout: post
+---
+
+Zu einem schweren Verkehrsunfall mit eingeklemmter Person auf der L16 Pitztal Landesstraße wurden die Einsatzkräfte am Montagnachmittag den 27. Dezember um 14:26 Uhr alarmiert.
+
+Die FF Wenns wurde mittels Sammelruf und Sirenenalarmierung mit der Meldung: SRF / BERGESCHERE - Verkehrsunfall mit eingeklemmter Person, km 4 Arzl/Pitztal, L16 Pitztalstraße alarmiert. Sofort rückte die Feuerwehr Wenns mit RF-A, TLFA und LF-A mit über 25 Mann zum Einsatzort bei Blons aus. Ein Fahrzeug ist von der Pitztalstraße abgekommen und rund 50 Meter in den Wald gestürzt und kam dort auf dem Dach zum liegen. Die Feuerwehren Arzl und Wald sicherten das Fahrzeug und die Feuerwehr Wenns befreite die eingeklemmte Person mittels Bergeschere und Spreizer. Der PKW- Lenker wurde nach der Erstversorgung mit Verletzungen unbestimmten Grades in das Krankenhaus geflogen.

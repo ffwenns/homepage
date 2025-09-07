@@ -1,0 +1,26 @@
+---
+title: "Technische Zugsübung der Gruppe 2 und 3 & Gruppenübung Gruppe 8 Fahrzeugkunde & Funk"
+date: 2021-08-03
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/5971299459611796"
+---
+
+Am vergangenen Dienstag, den 27. Juli konnte eine technische Zugsübung mit den Gruppen 2 (OBI Raich Otto) und 3 (OBI Stefan Gundolf) abgehalten werden. Dabei wurden die bei der letzten Zugsübung vermittelten Übungsinhalte praktisch umgesetzt und vertieft. Die Übungsannahme dafür war ein Verkehrsunfall mit eingeschlossener Person beim alten Müllplatz in Wenns. Das Übungsfahrzeug drohte weiter abzurutschen, so die Übungsannahme. Dabei wurde zuerst die Einsatzstelle abgesichert und zeitgleich das Auto mittels Keil und Hubzug gesichert. In weiterer Folge wurde die Beleuchtung aufgebaut und eine Verkehrsregelung eingerichtet. Nach ca. einer halben Stunde konnte die Übung erfolgreich gestoppt werden und sämtliche Positionen durchbesprochen werden. Nach gesamt 1,5 Stunden konnte der Übungserfolg erzielt werden und die Übung beendet werden.
+
+Am Freitag, den 30. Juli konnte wiederum Gruppe 8 unter OLM Daniel Weber I eine weitere Übung abhalten. Kurzfristig musste aufgrund der schlechten Witterungsverhältnisse das Schlechtwetterprogramm gemacht werden. Dabei konnten jeweils zwei unterschiedliche Stationen aufgebaut werden. Bei der ersten Station konnte OLM Daniel Weber die Fahrzeuggerätschaften genauer besprechen und bei der zweiten Station brachte HV Patrick Pfefferle die Themen rund um den Digital Funk und Arbeitsfunk den Anwesenden näher. Nach rund einer Stunde konnte auch diese Übung erfolgreich beendet werden.
+
+Details Zugsübung 27.07.21:
+Übungsleiter (Einsatzleiter): Zkdt. HV Patrick Pfefferle
+Übungsbeobachter: Zkdt. OBM Robert Krug / Zkdt. OLM Daniel Weber I
+RFA und LFA mit rund 20 Mann
+
+Fotos: Walter Hammerle/FF-Wenns
+Bericht: PP/ÖA-Team
+
+Details Gruppenübung Gruppe 8 - 30.07.21:
+Station 1 Fahrzeugkunde mit OLM Daniel Weber I
+Station 2 Funk mit HV Patrick Pfefferle
+Rund 15 Frau/Mann
+
+Fotos: HB/NZ/FF-Wenns
+Bericht: PP/ÖA-Team

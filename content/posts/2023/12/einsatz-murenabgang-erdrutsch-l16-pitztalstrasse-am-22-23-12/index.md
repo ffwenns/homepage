@@ -1,0 +1,22 @@
+---
+title: "Einsatz Murenabgang/Erdrutsch - L16 Pitztalstraße am 22./23.12."
+date: 2023-12-23
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/732942082201580"
+---
+
+Mittels Kommandoschleife gestern am Freitag sowie Kleineinsatz heute am Samstag, wurden wir jeweils zu Murenabgängen und Erdrutsche im Bereich der L16 Pitztal Landesstraße zwischen Wenns und Jerzens alarmiert. 
+
+Neben dem entfernen der Geröllmassen gestern am Abend, wurde heute die Straßenmeisterei sowie Landesgeologie unterstützt. Weiters musste auf der L16 zwischen Wenns (Recyclinghof) und Jerzens (Fischteich) eine Totalsperre eingerichtet werden. Umleitung erfolgt über die L243 Jerzner Landesstraße. Die Dauer der Sperre ich derzeit noch nicht abschätzbar, wir werden euch aber umgehend informieren. 
+
+Im Einsatz:
+ KDOFA, RFA, TLFA 2000 und MTFA 
+ Pager - KDO / Kleineinsatz
+ PI Wenns
+- Straßenmeisterei Zams
+- Straßenmeister
+- Landesgeologe
+- Bgm. Patrick Holzknecht
+- Einsatzleiter: Kdt. BV Lukas Scheiber 
+
+ DS, LS - ÖA Team FF Wenns

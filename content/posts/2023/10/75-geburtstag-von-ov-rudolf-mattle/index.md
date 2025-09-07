@@ -1,0 +1,15 @@
+---
+title: "75. Geburtstag von OV Rudolf Mattle"
+date: 2023-10-27
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/700958718733250"
+---
+
+Am Montag, den 23. Oktober konnte eine Abordnung des Ausschusses der FF-Wenns die Glückwünsche zum 75. Geburtstag von Rudolf Mattle überbringen. 
+Der Abend war gefüllt mit schönen Erzählungen von anno dazumal im Leben von Rudl über seine berufliche Tätigkeit als Hauptschullehrer, passionierter Historiker, bis zum heurigen Gartenjahr und deren Ernte. 
+Kurz gesagt, ein echtes Vorbild für viele von uns und ein gefülltes Leben für die Feuerwehr und das Dorfleben in Wenns. 
+Rudolf Mattle konnte sage und schreibe über 27 Jahre lang bei der Wenner Feuerwehr das Amt des Schriftführers bekleiden und ist nach wie vor aktiver Chronist.
+Neben der langjährigen Tätigkeit bei der Feuerwehr, ist er seit langem Dorfchronist der Gemeinde Wenns und Gründer der Landesmusikschule in Wenns. 
+Ein herzliches Vergelt's Gott für deine ersprießlichen Tätigkeiten, für die Zukunft alles Gute und vor allem viel Gesundheit! Auf noch zahlreiche weitere schöne Stunden im Kreise unserer Feuerwehr! 
+
+Foto/Bericht: PP/ÖA-Team

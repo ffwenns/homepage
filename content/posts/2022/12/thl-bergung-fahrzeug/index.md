@@ -1,0 +1,15 @@
+---
+title: "THL Bergung Fahrzeug"
+date: 2022-12-17
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/8583910451684004"
+---
+
+Am gestrigen Freitag, den 16. Dezember 2022 wurde die FF-Wenns um 16:50 Uhr via Kleineinsatz Schleife zu einer Fahrzeugbergung im Ortsteil Greith alarmiert. Durch den andauerenden starken Schnefall waren die Straßenverhältnisse sehr rutschig und teilweise schwer einzuschätzen. ️ Der PKW am Einsatzort rutschte aufgrunddessen von der Fahrbahn auf eine darunterliegende Mauer und blieb dort hängen. Mittels Hubzug wurde das Fahrzeug gegen weiteres abrutschen gesichert. Durch den Einsatz von Hebekissen wurde das Fahrzeug angehoben und konnte aus der misslichen Lage befreit werden. Personen wurden beim Einsatz keine verletzt und konnten sich selbst aus dem Fahrzeug befreien. Nach rund 1 Stunde wurde der Einsatz erfolgreich beendet. ️
+
+Details:
+Einsatzleiter: OBI Mario Gundolf
+KDOFA, MTFA, RFA mit 15 Mann/Frau
+
+Bericht: PP/ÖA-Team
+Fotos: FH/TD/PP/ÖA-Team

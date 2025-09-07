@@ -1,0 +1,7 @@
+---
+title: "Volksschule auf Besuch"
+date: 2010-03-12
+layout: post
+---
+
+Am Mittwochvormittag den 10. März 2010 von 08:30 Uhr bis 09:45 Uhr war die 3. Klasse der Volksschule Wenns auf Besuch in der Feuerwehrhalle. Da die Schüler zur Zeit in Sachuntericht die Hilfsorganisationen besprechen wurde die FF Wenns gebeten um ihnen die Feuerwehr genauer vorzustellen. Unter der Leitung der Lehrerin Partl Michaela und von der Feuerwehr die Mitglieder Kdt. Stv. Raich Otto, Siller Martin und Hammerle Walter wurde den Schülern die Feuerwehrhalle, Fahrzeuge und die Gerätschaften vorgestellt und kurz besprochen. Nach dem theoretischen Teil wurden alle zu einem Würstel mit Brot in den Kameradschaftsraum eingeladen.

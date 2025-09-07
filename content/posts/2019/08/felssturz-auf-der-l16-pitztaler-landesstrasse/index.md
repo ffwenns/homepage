@@ -1,0 +1,19 @@
+---
+title: "Felssturz auf der L16-Pitztaler-Landesstraße"
+date: 2019-08-07
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2957479410993831"
+---
+
+Am heutigen Mittwoch den 07. August wurde die FF Wenns via Pager Sammelruf zu einem Felssturz auf der L16-Pitztaler-Landesstraße nach dem Ortsteil Bieracker alarmiert.
+Vor Ort konnten mehrere größere Felsen/Steine von der Straße entfernt werden sowie der Felshang oberhalb von weiteren herabfallenden Geröll befreit werden.
+Nach rund 30 Minuten konnten die Aufräumarbeiten beendet werden und die FF-Wenns wieder ins Gerätehaus einrücken.
+
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+Im Einsatz:
+RF-A, TLFA-2000, LFA und MTFA mit ca. 25 Mann
+Weitere 15 Mann der FF-Wenns auf Bereitschaft
+Polizei mit 1 Fahrzeug und 2 Mann
+
+Bericht: PP/ÖA-Team
+Fotos: LS/PP/ÖA-Team

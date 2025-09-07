@@ -1,0 +1,12 @@
+---
+title: "Wenner Vereine spenden für Kirchenvorplatz - Renovierung 2643,48 Euro"
+date: 2017-06-01
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1564085440333242"
+---
+
+Am gestrigen Mittwochabend den 31. Mai übergaben einige Vereinsvertreter und Funktionäre der Gemeinde Wenns (Günther Moser - Musikkapelle, Günther Gundolf - Schützenkompanie, Lukas Scheiber - Feuerwehr, Lukas Wille - Jungbauern sowie Patrick Holzknecht - Vereinsverantwortlicher) einen Spendenbeitrag in der Höhe von 2643,48 an unseren Pfarrer Mag. Otto Gleinser und dem Kirchenrat Mag. Gallus Reinstadler. Das Geld kam in den letzten 30 Jahren aus Verleihungsgebühren der gemeinsam angekauften Festzeltgarnituren zusammen und wurde vom Ortsstellenleiter der Bergwacht Wenns - Herrn Schlatter Franz sen. zusammengetragen und verwaltet. Ihm gebührt zweifelsohne der größte Dank, den ohne Schlatter Franz wären die Garnituren nicht über diesen langen Zeitraum so sauber und ordnungsgemäß verwaltet worden und dieser Spendenbeitrag zusammengekommen. Leider konnte Franz aus gesundheitlichen Gründen nicht am Fototermin teilnehmen - wir - die FF Wenns wünschen ihm jedoch auf diesem Wege die besten Genesungswünsche und bedanken uns einmal für seine Jahrzehnte Jahre lange verlässliche Arbeit für unsere Dorfgemeinschaft. 
+
+Der Spendenbeitrag der Vereine wird für die Vorplatz - Renovierung unserer Pfarrkirche verwendet und kommt somit einem guten Zweck und der Allgemeinheit zugute!
+
+Foto: Breonix Foto + Design Chris Walch

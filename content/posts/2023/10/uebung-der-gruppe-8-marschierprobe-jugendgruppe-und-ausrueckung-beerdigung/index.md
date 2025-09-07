@@ -1,0 +1,14 @@
+---
+title: "Übung der Gruppe 8, Marschierprobe Jugendgruppe und Ausrückung Beerdigung"
+date: 2023-10-29
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/702212568607865"
+---
+
+Neben dem Aufzugstopp am Freitagnachmittag fand dann am Abend eine Marschierprobe der Jugendgruppe im Recyclinghof sowie eine Übung der Gruppe 8 unter Gkdt. HV Patrick Pfefferle in Obermühlbach statt. Dabei wurde im Rahmen einer Suchaktion, die wichtigsten Punkte im Zuge einer Personensuche (Vermisste Person) besprochen und im Anschluss praktisch beübt. 
+
+Am Samstag rückten wir dann mit 55 Mann/Frau zur Beerdigung von HFM Röck Josef aus und am Abend waren wir dann noch bei der Abschnittsübung (siehe Bericht vorher) in Jerzens vertreten. DANKE allen Kamerad:innen für ihren treuen Dienst. Im Anschluss waren noch zahlreiche Mitglieder der FF Wenns beim Schützenball der Schützenkompanie Wenns vertreten. 
+
+ 
+
+ FE, SS, LS ️ LS - ÖA Team FF Wenns

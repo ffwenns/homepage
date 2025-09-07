@@ -1,0 +1,16 @@
+---
+title: "Verkehrsunfall Fahrzeugbergung"
+date: 2020-03-10
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/3637230216352077"
+---
+
+Am heutigen Dienstag den 10. März wurde die FF-Wenns zum 2. Einsatz an diesem Tag um 20:35 Uhr via Pager Sammelruf zu einem Verkehrsunfall - Fahrzeugbergung alarmiert.
+Aufgrund der schlechten Sicht ist ein Kraftfahrzeug von der Gemeindestraße abgekommen. Nach rascher Ausrückzeit der FF-Wenns konnte das Fahrzeug gesichert und wieder auf befestigten Untergrund gebracht werden. Es wurden keine Personen verletzt. Nach rund einer halben Stunde konnte die FF-Wenns wieder ins Gerätehaus einrücken.
+
+Im Einsatz:
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+RFA, MTFA mit 12 Mann
+TLFA-2000 und LFA mit 14 Mann auf Anfahrt
+Rotes Kreuz auf Anfahrt
+Polizei Imst auf Anfahrt

@@ -1,0 +1,11 @@
+---
+title: "I Love Wenns – Wirtschaftstag"
+date: 2013-08-25
+layout: post
+---
+
+Auch beim diesjährigen I love Wenns - Wirtschaftstag am Samstag den 24. August beteiligte sich die Feuerwehr Wenns wieder tatkräftig. Neben der Vorführung unseres Tanklöschfahrzeuges wurde auch die Kübelspritzwand für die jungen Gemeindebürger aufgebaut, sowie auch der Straßen-Absperrdienst durchgeführt. Die Feuerwehr Wenns war mit sechs Mann beim 4.  I Love Wenns – Wirtschaftstag beteiligt.
+
+Weitere Informationen und Bilder finden Sie auf der Facebook Fan Seite I LOVE Wenns
+
+Bericht von FM Fabian Eiter

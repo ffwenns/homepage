@@ -1,0 +1,9 @@
+---
+title: "Kindergarten besucht Feuerwehr"
+date: 2013-06-06
+layout: post
+---
+
+Der Kindergarten "Neue Volksschule" aus Wenns war am Mittwochvormittag den 05. Juni zu Gast bei der Feuerwehr, um sich die Aufgabengebiete und Gerätschaften einmal genauer anzuschauen. 16 Kinder sowie ihre Betreuerinnen erlebten einen sehr netten und informativen Vormittag. Dabei konnten die Jungbürger auch selbst anpacken und die Gerätschaften der FF Wenns praktisch ausprobieren. Nach zwei interessanten und sehr lustigen Stunden lud die Feuerwehr alle Beteiligten zu einer Jause ein.
+
+Die Fotos sagen mehr als 1000 Worte...

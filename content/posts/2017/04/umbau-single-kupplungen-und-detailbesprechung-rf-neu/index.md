@@ -1,0 +1,8 @@
+---
+title: "Umbau Single - Kupplungen und Detailbesprechung RF Neu"
+date: 2017-04-10
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1503439786397808"
+---
+
+Am heutigen Montag den 10. April war unser Obermaschinist OLM Siller Martin und unser RF Beauftragter LM Gundolf Stefan 1 bei einer Detailbesprechung des neuen RF bei der Firma Empl im Zillertal. Alle neuen Gerätschaften des Hydraulischen Rettungsgerätes wurden auf Single Kupplungen umgebaut und so wurden heute am Abend auch die bestehenden und beigesellten Gerätschaften von unsern Fachmännern umgerüstet....

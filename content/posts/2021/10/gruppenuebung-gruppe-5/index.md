@@ -1,0 +1,15 @@
+---
+title: "Gruppenübung Gruppe 5"
+date: 2021-10-02
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6296449327096806"
+---
+
+Am gestrigen Freitag, den 01. Oktober konnte die Gruppe 5 unter Gundolf Mario eine technische Probe abhalten. Dabei wurde die verletzte Person (Übungspuppe) aus dem verunfallten Fahrzeug mittels Bergeschere und Spreizer geborgen. Die Person wurde mittels Spineboard so schonend wie möglich geborgen. Es konnten interessante neue Inhalte rund um einen Verkehrsunfall vermittelt werden. Nach rund einer Stunde rückte die Mannschaft mit dem Gerät wieder ins Gerätehaus ein. 
+
+Details:
+Übungsleiter: OBI Gundolf Mario
+RFA und rund 8 Mann
+
+Fotos: ML/FF-WENNS
+Bericht: PP/ÖA-Team

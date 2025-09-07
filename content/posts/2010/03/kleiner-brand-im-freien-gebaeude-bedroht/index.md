@@ -1,0 +1,7 @@
+---
+title: "Kleiner Brand im Freien - Gebäude bedroht"
+date: 2010-03-20
+layout: post
+---
+
+Am Samstag den 20. März 2010 wurden die Mitglieder der Feuerwehr Wenns abermals mittels Sirene und Pager zu einem Einsatz ins Unterdorf alarmiert. Die Meldung der Leitstelle Tirol lautete: SAMMELRUF kleiner Brand im Freien - Gebäude bedroht: Wenns, Unterdorf 1 - Metzgerei Krug. Nach der Alarmierung um 10:28 Uhr rückte sofort TANK und PUMPE Wenns zum Einsatzort unterhalb der Metzgerei Krug aus. Ein Misthaufen mit trockenem Heu und Stroh geriet durch Ablagerungen von Asche in Brand und das Feuer drohte auf angrenzende Objekte überzugreifen und dazu entstand noch eine starke Rauchentwicklung. Durch den raschen Einsatz konnte ein Übergreifen verhindert werden und der Brand konnte nach rund einer Stunde völlig abgelöscht werden.

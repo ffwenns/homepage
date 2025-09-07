@@ -1,0 +1,7 @@
+---
+title: "Arthur Krismer feierte seinen 80er"
+date: 2010-05-19
+layout: post
+---
+
+Am Dienstag den 18. Mai 2010 feierte unser Altkommandant und Altschriftführer der Feuerwehr Wenns - OV Arthur Krismer seinen 80. Geburtstag. Er war von 1957-1961 insgesamt 4 Jahre Kommandant der FF Wenns und nach seiner Funktion als Kdt. noch jahrelang als Schriftführer tätig. Am Dienstag gratulierten ihm die Kameraden zu seinem 80. Geburtstag und überbrachte die Geschenke der FF Wenns! Wir wünschen ihn weiterhin alles Gute, vor allem viel Gesundheit!

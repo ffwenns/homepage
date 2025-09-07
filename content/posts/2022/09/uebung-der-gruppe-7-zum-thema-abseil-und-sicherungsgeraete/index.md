@@ -1,0 +1,12 @@
+---
+title: "Übung der Gruppe 7 zum Thema Abseil- und Sicherungsgeräte"
+date: 2022-09-18
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/8139298529478534"
+---
+
+Am vergangenen Donnerstag den 15.10 absolvierte die Gruppe 7 unter LM Gabl Florian eine weitere Gruppenübung. Neben der richtigen Bedienung der Abseil- und Sicherungsgeräte wurden diese auch praktisch samt 5-Punkt-Gurt beübt. Nach rund einer Stunde ging die informative Gruppenübung zum gemütlichen Teil über.
+
+Bei der Übung:
+Gruppe 7 mit 8 Mann unter Gkdt. LM Gabl Florian
+RFA Wenns

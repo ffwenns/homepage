@@ -1,0 +1,20 @@
+---
+title: "Technischer Einsatz – Wassereintritt im Gebäude"
+date: 2025-07-29
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1132354088927042"
+---
+Am Dienstagabend, den 29.07.2025, um 19:28 Uhr, wurde die FF Wenns mittels Pager (Kommandoschleife) zu einem technischen Einsatz im Ortsgebiet alarmiert.
+
+Grund dafür war ein ausgedehnter Wassereintritt ins Gebäude, verursacht durch ein verstopftes Hauptabflussrohr.
+
+Beim Eintreffen standen rund 60 m² Fläche etwa 8 cm unter Wasser.
+
+Mittels Nasssauger und Tauchpumpe wurde das Wasser rasch abgepumpt. Parallel dazu konnte das verstopfte Rohr lokalisiert und mithilfe des HD-Rohres vom TLF freigelegt werden.
+
+Durch das rasche Eingreifen konnte weiterer Schaden verhindert werden.
+
+ Im Einsatz:
+ 17 Mitglieder der FF Wenns
+ LFA & TLFA 2000
+ Einsatzleiter: Kdt. BV Lukas Scheiber

@@ -1,0 +1,20 @@
+---
+title: "Feuerwehrjugend Wissenstest in Zaunhof"
+date: 2018-03-25
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1955681144507001"
+---
+
+Der diesjährige Feuerwehrjugend - Wissenstest fand am 24. 
+März in der ehemaligen Volksschule in Zaunhof statt.
+
+104 Teilnehmer aus den Jugendgruppen des Bezirkes Imst nahmen an dieser Prüfung teil. Alle angetretenen Burschen und Mädchen der Feuerwehrjugend konnten den Wissenstest erfolgreich absolvieren und erzielten dabei hervorragende Leistungen. Für die Abzeichen in Bronze, Silber und Gold werden unter anderem die Themen wie Gerätekunde, Dienstgrade, Erste Hilfe, Planspiel, Knotenkunde, Exerzieren und Verhalten vor einer Gruppe, Funk sowie theoretische Fragen über das Feuerwehrwesen abverlangt.
+
+Die Feuerwehr Wenns war mit rund 30 Jugendlichen beim Wissesntest vertreten, wobei davon 16 am Wissenstest (2x Gold, 5x Silber, 9x Bronze) teilnahmen.
+
+Beim Rahmenprogramm konnten die Jugendlichen bei einer Feuerwehr Olympiade bestehend aus mehreren Disziplinen, wie Basketball, Dart etc. ihre Geschicklichkeit und Können unter Beweis stellen.
+Die Schlussveranstaltung fand im Anschluss an den Bewerb am Vorplatz des Gerätehauses der FF Zaunhof statt. 
+
+Nach den Ansprachen der Ehrengäste fand die Preisverteilung von der Feuerwehr Olympiade statt, bevor die Wissenstestabzeichen in Bronze, Silber und Gold an die Jugendlichen übergeben wurden.
+
+Das Kommando der FF-Wenns bedankt sich herzlich bei der unseren Jugendbetreuern HLM Bregenzer Andreas und FM Eiter Fabian, die mit unseren Burschen und Mädchen auf den Wissenstest trainiert haben. Ein weiterer großer Dank ergeht an die Firma Auderer Busreisen, welche einen Transport zum und vom Wissenstest ermöglicht hat!

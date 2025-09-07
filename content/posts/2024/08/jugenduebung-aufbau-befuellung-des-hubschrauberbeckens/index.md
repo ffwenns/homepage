@@ -1,0 +1,16 @@
+---
+title: "Jugendübung: Aufbau & Befüllung des Hubschrauberbeckens"
+date: 2024-08-24
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/882130047282782"
+---
+
+Am gestrigen Freitag, den 23. August 2024 übte unsere Feuerwehrjugend den Aufbau und das Befüllen des Hubschrauberbeckens. Das Becken wird bei einem Waldbrand etc. in Stellung gebracht und aufgebaut um Löschwasser zielführend mittels Hubschrauber zum Brand fliegen zu können. Neben der lehrreichen Übung durften sich die Jugendlichen die passende Abkühlung im kühlen Nass auf einen heißen Sommertag holen. Nach rund eineinhalb Stunden wurde die Übung erfolgreich beendet. 
+
+Details:
+Übungsleiter: Jugendbetreuer der FF-Wenns Fabian & Andy 
+12 Burschen & Mädchen 
+TLFA-2000, LFA 
+
+Fotos: FE/FJ Wenns
+Bericht: PP/ÖA-Team

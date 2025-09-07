@@ -1,0 +1,21 @@
+---
+title: "Arbeitseinsatz und geplatzter Hydraulikschlauch am heutigen Freitag"
+date: 2024-09-27
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/906185738210546"
+---
+
+Um 07:26 Uhr rückte unser Tanklöschfahrzeug zu einem Arbeitseinsatz in das Ortsteil Matzlewald aus. Dort musste ein Wasserrohr freigelegt werden.
+
+Im Einsatz:
+ TLFA 2000 mit 2 Mann
+ Einsatzleiter: LM Dominik Siller 
+
+Telefonisch wurde dann am Nachmittag, um 13:22 Uhr unser Kommandant zu einem Ölaustritt nach einem geplatzen Hydraulikschlauch bei einem Bagger von der Polizei Wenns informiert. Die FF Wenns konnte auch diesen Einsatz im Oberdorf nach rund einer halben Stunde erfolgreich beenden.
+
+Im Einsatz:
+ RFA mit 3 Mann/Frau
+ Polizei Wenns 
+ Einsatzleiter: Kdt. BV Lukas Scheiber 
+
+ DS, LS - FF Wenns

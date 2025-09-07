@@ -1,0 +1,24 @@
+---
+title: "Erfolgreiche Teilnahme bei der Atemschutzleistungsprüfung in Imst 1x Silber & 1x Gold"
+date: 2024-10-27
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/928674892628297"
+---
+
+Herzliche Gratulation unseren zwei ATS-Trupps der FF-Wenns bei der Atemschutzleistungsprüfung am vergangenen Wochenende 19.10.2024 in Imst!
+
+SILBER 
+LM Florian Eiter
+HFM Daniel Deutschmann
+OFM Fabian Mark
+
+GOLD 
+LM Florian Eiter
+OFM Christoph Lechleitner
+OFM Sebastian Mathoi
+
+Danke für eure Bereitschaft zur wichtigen Aus- und Weiterbildung und zum absolvierten Bewerb. Danke auch unseren zwei Ausbilder LM Deutschmann Stefan, LM Markus Folie und OFM Tobias Donner für die perfekte Vorbereitung! 
+Ein weiterer Trupp ist bereits fleißig am Proben für die Leistungsprüfung am 16.11.2024 in Fügen i. Zillertal. gutes Gelingen! 
+
+️ Bericht: PP/ÖA-Team
+ Fotos: FE/DS/FM/FFW TD/PP/ÖA-Team

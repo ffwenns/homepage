@@ -1,0 +1,13 @@
+---
+title: "Hallenreinigung & Sandsack Abfüllung für KAT-Lager"
+date: 2024-11-09
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/938462568316196"
+---
+
+Am gestrigen Freitagabend den 8. November fand eine Hallenreinigung + Sandsack Abfüllung für unser KAT-Lager der FF Wenns statt. Die Fahrzeughalle samt Regale wurden wieder blitzblank sauber geputzt und glänzen wieder, weiters wurden die LKW-befahrbaren Schutzmatten für den Winter ausgelegt ... Zusätzlich wurden neun (9) Paletten Sandsäcke abgefüllt und das KAT-Lager damit befüllt, um im Einsatzfall bestens gerüstet zu sein 
+Danke allen tatkräftigen Helfer:innen und allen die bei den Vorbereitungen mitgewirkt haben! 
+ 
+
+ Fotos: LS/ÖA-Team
+ Bericht: PP/ÖA-Team

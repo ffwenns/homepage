@@ -1,0 +1,8 @@
+---
+title: "Funkübung unserer Feuerwehrjugend"
+date: 2015-03-07
+layout: post
+---
+
+Auch heute am Freitag den 06. März bewies unsere 16 Mann starke Feuerwehrjugend, bei einer Funkübung, wieder ihr Können. Teil dieser Übung war es alle Mitglieder unserer Feuerwehrjugend die Funk-Regeln und den Umgang mit einem Funkgerät anzulernen und das vorhandene Wissen zu erweitern. Durch eine großflächige Verteilung unserer Mitglieder im Ortsgebiet Wenns mit unseren Handfunkgeräten konnte jedes Mitglied ein Funkgespräch mit der Florian-Station Wenns (Fixstation), absolvieren. Jedes Gespräch wurde genau kontrolliert und am Ende bei der Übungs-Nachbesprechung ausgiebig besprochen.
+Auch hier stand das Motto "Spaß und Ausbildung in der Feuerwehrjugend" an vorderster Stelle!

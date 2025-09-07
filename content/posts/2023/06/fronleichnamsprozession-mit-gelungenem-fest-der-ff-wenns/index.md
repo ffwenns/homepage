@@ -1,0 +1,11 @@
+---
+title: "Fronleichnamsprozession mit gelungenem Fest der FF-Wenns"
+date: 2023-06-09
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/622410046588118"
+---
+
+Gestern am 08.Juni 2023 fand unser traditionelles Fronleichnamsfest statt. Mit 72 Kamerad:innen waren wir vom Straßendienst über die Prozession bis zur Festmannschaft vertreten. Durch starke Regenschauer während der Prozession, wurde diese bei der ersten Station (beim Gemeindeamt) abgebrochen. In nur 20 Minuten haben wir so das gesamte Fest, welches beim Pavillon vorbereitet wurde, in den Mehrzwecksaal verlegt. DANKE für die gewaltige Zusammenarbeit und Mithilfe unserer Mannschaft. Ihr seid Spitze! Danke auch an alle Formationen (Musikkapelle und Schützenkompanie) und allen Prozessionsteilnehmer, welche trotzdem zu unserem Fronleichnamsfest gekommen sind. Über 400 Portionen köstlicher Schweinsbraten mit Semmelknödel und Kraut wurden trotz der gesamten Umsiedelung ausgegeben. Die 26 leckeren Torten waren um 12:00 Uhr Mittags bereits ausverkauft. Bei der Weinlaube gab es zudem einen edlen Tropfen zum Genießen. Um 16:00 Uhr am Nachmittag waren beide Festplätze (Pavillon und Mehrzwecksaal) komplett aufgeräumt und das Fest klang gemütlich aus. 
+
+Bericht: LS/ÖA-Team
+Fotos: PP/LS/DS/MS/ÖA-Team

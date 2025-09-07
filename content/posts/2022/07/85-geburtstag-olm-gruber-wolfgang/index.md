@@ -1,0 +1,10 @@
+---
+title: "85.Geburtstag OLM Gruber Wolfgang"
+date: 2022-07-07
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7796238420451215"
+---
+
+Unser Kamerad Wolfgang feierte kürzlich seinen 85.Geburtstag und heute am Donnerstagabend den 07.Juli waren wir mit einer Abordnung auf Besuch, um die Glückwünsche der FF Wenns zu überbringen.
+
+Wolfgang war ganze 25 Jahre im Ausschuss als Obermaschinist tätig. In seine Zeit als Obermaschinist viel das TLF (1975), RF Unimog (1986), LF Mercedes (1992) und das TLF (1996). Wir wünschen dir lieber Wolfgang und deiner Frau noch einige schöne Jahre in bester Gesundheit und bedanken uns nochmals für deinen Einsatz bei der FF Wenns. Alles Gute zum Geburtstag!

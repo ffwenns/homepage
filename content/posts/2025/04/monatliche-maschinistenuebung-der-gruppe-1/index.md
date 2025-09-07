@@ -1,0 +1,13 @@
+---
+title: "Monatliche Maschinistenübung der Gruppe 1"
+date: 2025-04-01
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1041224044706714"
+---
+
+Am heutigen Dienstag, den 01.April 2025 starteten auch unsere Maschinisten der Gruppe 1 unter Obermaschinist LM Simon Siller mit den monatlichen Maschinistenübungen. Bei der lehrreichen Schulung, wurden in einer Station alle Aggregate besprochen und praktisch beübt, sowie in der zweiten Station eine Funkschulung für die Maschinisten durchgeführt. 
+
+Nach rund eineinhalb Stunden konnte die Übung erfolgreich beendet werden.
+
+Details:
+ Übungsleiter: OMA LM Simon Siller, BM Christoph Stoll und OFM Marco Gritsch mit 16 Mann

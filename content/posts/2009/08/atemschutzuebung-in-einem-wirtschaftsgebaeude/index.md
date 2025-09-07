@@ -1,0 +1,12 @@
+---
+title: "Atemschutzübung in einem Wirtschaftsgebäude"
+date: 2009-08-23
+layout: post
+---
+
+Am Freitag den 21. August 2009 wurde von unserem Atemschutz Beauftragten OLM Krug Robert eine Atemschutzübung in einem Wirtschaftsgebäude im Ortsteil Brennwald vorbereitet. Zwei ATS Trupps mussten unsere Übungspuppe und einige Mitglieder der Jugendfeuerwehr aus dem stark verrauchten Stallgebäude bergen. Nach rund 2 Stunden konnten wir die Übung beenden und wieder in die Feuerwehrhalle einrücken.
+
+Trupp TLFA: Gundolf Mathias, Wille Franz, Dürr Marcel
+Trupp LF: Gundolf Stefan 1, Siller Martin, Scheiber Lukas
+
+ATS Überwachung: Krug Robert

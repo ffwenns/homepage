@@ -1,0 +1,10 @@
+---
+title: "3. Platz beim Landeswettbewerb in Satteins"
+date: 2012-07-08
+layout: post
+---
+
+Der diesjährige Landesfeuerwehrwettbewerb von Vorarlberg wurde von der Feuerwehr Satteins veranstaltet und durchgeführt. Über 300 gemeldete Bewerbsgruppen nahmen beim Wettkampf um das Feuerwehrleistungsabzeichen in Bronze und Silber teil. Die Gruppe Wenns trat zwei Mal erfolgreich im Wettbewerb um das FLA in SILBER an. In der Kategorie SILBER Vorarlberg konnte die Gruppe das Abzeichen trotz einiger Fehlerpunkte mit Bravur bestehen. Beim Bewerb um das Bundesleistungsabzeichen in Silber konnte sich die Gruppe mit einem Fehlerfreien Durchgang den hervorragenden 3. Platz sichern.
+Teilnehmer der Gruppe Wenns:
+FM Neuner Peter, FM Gabl Thomas, FM Hechenberger Philipp, LM Stoll Christoph,
+OV Scheiber Lukas, FM Wille Lukas, FM Larcher Markus, FM Röck Michael, FM Krug Martin

@@ -1,0 +1,16 @@
+---
+title: "Maschinistenübung zu Pfingstmontag \"Alles wird beübt!\""
+date: 2021-05-25
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/5632443543497391"
+---
+
+Am gestrigen Pfingstmontag, den 24. Mai 2021 konnten unsere fleißigen Maschinisten eine weitere Übung abhalten. Dieses Mal war eine weitere Gruppe von einigen Maschinisten an der Reihe, die wegen der vorherrschenden Pandemie aus den Mitte 30 Maschinisten geteilt wurde, um in gruppenstärke eine Übung abhalten zu können. Obermaschinist HLM Martin Siller und sein Helfer Gerätewart OLM Markus Larcher konnten bei dieser Probe den Maschinisten erneut, die Fahrzeuge RFA, TLFA-2000 und LFA näher bringen. Dem Motto getreu "alles kann und soll in die Hand genommen und beprobt werden". So konnte jeder Maschinist seinen Wissensstand zu den einzelnen Gerätschaften gewinnbringend auffrischen. Neben Seilwinde, Verkehrsleiteinrichtung, Schaum-Adapter, Einbaupumpe konnte noch vieles mehr in den zwei Stunden beübt werden. 
+
+Details:
+Übungsleiter: Obermaschinist HLM Martin Siller 
+Fahrzeuge: RFA, TLFA-2000 und LFA
+9 Maschinisten
+
+Fotos: MS/FF-Wenns
+Bericht: PP/ÖA-Team

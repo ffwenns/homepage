@@ -1,0 +1,15 @@
+---
+title: "Brandmeldealarm Hotel Alpina"
+date: 2018-01-25
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1873321106076339"
+---
+
+Heute Vormittag um 07:10 Uhr wurde die FF Wenns mittels Sammelruf zu einem Brandmeldealarm beim Hotel Alpina alarmiert. Nach Kontrolle vor Ort konnte ein Täuschungsalarm festgestellt werden. Nach dem Rückstellen der Anlage konnte die Mannschaft wieder ins Gerätehaus einrücken. 
+
+Vor Ort:
+TLFA 2000 mit 10 Mann
+Polizei Wenns
+Einsatzleiter: OLM Stoll Christoph
+
+Auf Bereitschaft: LF-A unter Kdt. Stv. OBI Stefan Gundolf und 9 Mann

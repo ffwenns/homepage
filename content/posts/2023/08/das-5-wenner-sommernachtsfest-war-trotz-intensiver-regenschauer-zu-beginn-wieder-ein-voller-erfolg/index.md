@@ -1,0 +1,8 @@
+---
+title: "Das 5. Wenner Sommernachtsfest, war trotz intensiver Regenschauer zu Beginn, wieder ein voller Erfolg"
+date: 2023-08-13
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/658676752961447"
+---
+
+Eine tolle Kulisse im Wenner Unterdorf, hunderte Besucher und eine super Stimmung trotz der starker Regenfälle bis 22:00 Uhr. Das 5.Wenner Sommernachtsfest war wieder ein voller Erfolg. Bei sieben Ständen war für jeden Geschmack etwas dabei, von der Cocktailbar bis zur Weinlaube. Neben der Musikkapelle Wenns sorgte die Gruppe Bergalarm für super Stimmung. Mitdabei auch die Freiwillige Feuerwehr Wenns, welche neben den Absperrmaßnahmen, die Firefighter Bar vor der Bunkerbar am Samstag auch die Reinigung mittels Tanklöschfahrzeug vom Autoplatz bis zur Pfarrkirche samt Müllentsorgung am Sonntag übernahm. Alle elf Vereine bedanken sich bei allen Besucher:innen fürs Kommen.

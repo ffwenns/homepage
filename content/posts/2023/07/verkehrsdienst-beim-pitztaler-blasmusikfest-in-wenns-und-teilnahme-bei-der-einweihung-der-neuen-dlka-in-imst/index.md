@@ -1,0 +1,15 @@
+---
+title: "Verkehrsdienst beim Pitztaler Blasmusikfest in Wenns und Teilnahme bei der Einweihung der neuen DLKA in Imst"
+date: 2023-07-30
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/651192923709830"
+---
+
+Am gestrigen Samstag den 29.Juli standen 10 Mann der FF Wenns beim Verkehrsdienst anlässlich des Pitztaler Blasmusikfest in Wenns im Einsatz. Neben der L16 und L17 mussten auch Absperrungen auf der Gemeindestraße durchgeführt werden. Trotz Regenschauer war es eine erfolgreiche Veranstaltung der Musikkapelle Wenns und die Freiwillige Feuerwehr Wenns konnte den Verkehrsdienst nach eineinhalb Stunden erfolgreich beenden.
+
+Im Einsatz:
+ Telefonisch 
+ KDOFA und LFA mit 10 Mann
+ Einsatzleiter: Gkdt. LM Siller Dominik
+
+Weiters waren wir auch mit 6 Mann bei der Einweihung der neuen Drehleiter in Imst vertreten. Herzlichen Dank für die Einladung und Gratulation zur schönen Segnung mit anschließendem Sommernachtsfest der Stadtfeuerwehr Imst - offizieller Auftritt. Wir wünschen allzeit eine gute und unfallfreie Fahrt und gratulieren zum tollen Fahrzeug. Die neue Drehleiter war bereits neben einer Übung, auch bei einem Sturmereignis bei uns in Wenns erfolgreich im Einsatz.

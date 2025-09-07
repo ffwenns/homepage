@@ -1,0 +1,16 @@
+---
+title: "Zahlreiche Unwetter-/Sturmeinsätze im Ortsgebiet Wenns"
+date: 2018-08-06
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2169975729744207"
+---
+
+Am heutigen Montag ab ca. 18:00 Uhr wurde die Feuerwehr Wenns via Pager Sammelruf sowie Sirenen-Alarmierung zu mehreren Verklausungen und Unwettereinsätzen in und rund um Wenns alarmiert. Nach dem starken Unwetter traten zahlreiche Dorfbäche über die Ufer. Durch den raschen Einsatz mittels Sandsäcke konnten größere Wasserschäden vermieden werden. Der Ortskern in Wenns neben dem GH Pitztalerhof musste für kurze Zeit gesperrt werden, da die Landesstraße mit felsigem Material zugespült wurde.
+
+Nach rund 2 Stunden konnten alle 9 Einsätze beendet und mittels 60 Mann der Feuerwehr Wenns Schlimmeres verhindert werden.
+
+Vor Ort:
+RF-A, TLF-A 2000, LF-A, MTF-A mit rund 60 Mann
+Einsatzleiter: Kommandant HBI Lukas Scheiber
+Bezirksfeuerwehrkommandant OBR Hubert Fischer
+Polizei Wenns mit 2 Mann

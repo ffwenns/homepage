@@ -1,0 +1,18 @@
+---
+title: "Drohender Hangrutsch und Unwettereinsätze"
+date: 2015-05-22
+layout: post
+---
+
+Die FF Wenns stand in den Nachtstunden des 22. Mai auf der L16 Pitztallandesstraße nach dem Ortsteil Bieracker zwischen Arzl und Wenns nach einem großen Steinschlag und drohendem Hangrutsch im Einsatz.
+
+Weiters mussten zwei weitere Einsätze nach Verlausungen und Steinschlägen im Bereich nach der Pillerbachbrücke zwischen Wenns und Jerzens auf der L16 abgearbeitet werden.
+
+Im EINSATZ: FF WENNS mit 21 Mann und 4 Fahrzeugen, Polizei Imst, Straßenmeisterei Imst, Geologe
+
+ 
+SPERRE L16 ZWISCHEN WENNS und ARZL bis mindestens Freitag den 29.Mai 2015
+Nach zahlreichen großen Steinschlägen und einem rund 15 Meter langen drohenden Hangrutsch oberhalb der L16 Pitztalstraße zwischen WENNS (Bieracker) und ARZL (Blons) wurde eine TOTAL - STRASSENSPERRE der L16 durch die Poilzei und Straßenmeisterei veranlasst! Nach Angaben der Behörden und der Straßenverwaltung bleibt die L16 Pitztalerlandesstraße zwischen Wenns und Arzl bis mindestens Freitag den 29.Mai 2015 aufgrund des Felssturzes und bedrohlichen Hangrutsch in beiden Richtungen für alle Fahrzeuge gesperrt!
+
+UMLEITUNG über die L243 Jerzener Landesstraße bzw. L17 Pillerlandesstraße!!
+Wir werden euch laufend über die Neuigkeiten informieren...

@@ -1,0 +1,8 @@
+---
+title: "Einschulung neuer RF Maschinist HFM Florian Hafner"
+date: 2025-05-31
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1086257470203371"
+---
+
+Unser Obermaschinist LM Simon Siller schulte am heutigen Samstagvormittag, den 31.Mai 2025 einen neuen Maschinisten auf das Rüstfahrzeug (RF) ein. Mit HFM Florian Hafner haben wir nun einen weiteren kompetenten Maschinisten und Kraftfahrer am Rüstfahrzeug in unseren Reihen. Wir wünschen stets eine gute und unfallfreie Fahrt.

@@ -1,0 +1,17 @@
+---
+title: "Maschinistenübungen - Maschinistengruppe 2"
+date: 2023-05-03
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/600385005457289"
+---
+
+Unsere zweite Gruppe der Maschinisten startete gestern am Dienstag, den 02. Mai mit ihrer ersten Maschinistenübung. Im Ortsteil Pirchach wurde eine Löschleitung (vom Hydranten mittels Tragkraftspritze) aufgebaut und geübt. Weiters wurden auch die speziellen Gegebenheiten in diesem Bereich besprochen. Nach rund einer Stunde ging die lehrreiche Übung der MA 2 Gruppe zum gemütlichen Teil über.
+
+Bei der Übung:
+RFA und MTFA mit 13 Mann
+Übungsleiter: Obermaschinist HLM Siller Martin und Stv. LM Siller Simon
+
+ 
+
+Fotos: FE/FF-Wenns
+Bericht: PP/ÖA-Team

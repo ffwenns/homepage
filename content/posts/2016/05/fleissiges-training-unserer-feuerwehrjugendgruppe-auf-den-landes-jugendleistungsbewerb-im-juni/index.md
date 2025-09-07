@@ -1,0 +1,8 @@
+---
+title: "Fleißiges Training unserer Feuerwehrjugendgruppe auf den Landes-Jugendleistungsbewerb im Juni"
+date: 2016-05-17
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1112740485467742"
+---
+
+Unsere Jugendgruppe bereitet sich bereits seit geraumer Zeit auf den 32. Landes-Feuerwehrjugendleistungsbewerb in Prutz vor. Mit dabei 3 Kameraden der FF-Mils bei Imst um die Löschgruppe der Feuerwehrjugend Wenns auf 10 Mann aufzufüllen. Bei diesem Wettbewerb geht es vor allem um Schnelligkeit sowie um eine dementsprechende konsequente Disziplin bei der zu verrichtenden Arbeit. Die Jugendfeuerwehrmitglieder müssen dabei verschiedene Hürden wie Kriechtunnel etc. überwinden. Zusätzlich muss eine hohe Präzision sowie ein großes Wissen bei der Kübelspritzwand sowie bei der Geräteablage bzw. Knotenkunde unter Beweis gestellt werden. Die Jugend Löschgruppe meistert ihre Aufgabe bisher mit Bravur und blickt schon voller Elan und Motivation dem Landes-Feuerwehrjugendleistungsbewerb am 25.06.2016 in Prutz entgegen.

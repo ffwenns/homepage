@@ -1,0 +1,7 @@
+---
+title: "Nikolausmarkt in Wenns"
+date: 2009-11-29
+layout: post
+---
+
+Auch die Freiwillige Feuerwehr Wenns war beim diesjährigen Nikolausmarkt am Sonntag den 29. November 2009 mit einem Verkaufsstand vertreten. Einige Mitglieder der FF Wenns verköstigten die Besucher und Gäste mit Glühwein und heißen Kastanien. Der Nikolausmarkt begann um 14:00 Uhr und endete mit dem Krampuslauf um 17:00 Uhr. Das Kommando der FF Wenns bedankt sich bei allen helfenden Mitgliedern und allen Besuchern und wünscht schon jetzt eine schöne und ruhige Adventszeit.

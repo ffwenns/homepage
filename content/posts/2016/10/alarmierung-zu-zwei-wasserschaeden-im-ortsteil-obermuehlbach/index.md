@@ -1,0 +1,17 @@
+---
+title: "Alarmierung zu zwei Wasserschäden im Ortsteil Obermühlbach"
+date: 2016-10-17
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1259682340773555"
+---
+
+Mittels Pager Sammelruf wurde die FF Wenns heute am Montagabend den 17. Oktober um 19:21 Uhr mit der Meldung: "SAMMELRUF Wasserschaden, Druckleitung defekt - Wasser/Gestein rinnt in EFH" - zu zwei Wasserschäden alarmiert! Nach wenigen Minuten rückte die FF Wenns zum Einsatzort aus und konnte das bereits in das Wohn- und in die Garagenräumlichkeiten eingetretene Wasser und Geröll auffangen und den Wasserschaden stoppen. Durch eine defekte Leitung wurden einige Kubikmeter Geröll und Schlamm zu den beiden unterhalb liegenden Wohnhäusern gespült. Die Mannschaft leuchtete die Einsatzstelle aus, leitete bzw. stoppte die Wassermengen und beseitigte das gesamte Material sowie den entstandenen Wasserschaden!
+
+Nach rund zwei Stunden konnte der Einsatz erfolgreich beendet werden! 
+
+Im Einsatz:
+FF Wenns mit RF-A, TLFA 2000, LF-A und MTF-A und 28 Mann
+Einsatzleiter: LM Markus Larcher 
+Gemeinde Wenns (HFM Stoll Reinhold und OFM Gundolf Mathias)
+
+Fotos: Siller M., Hafner F., Scheiber L.

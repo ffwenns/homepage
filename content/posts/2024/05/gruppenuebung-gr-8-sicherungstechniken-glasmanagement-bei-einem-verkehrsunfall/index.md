@@ -1,0 +1,12 @@
+---
+title: "Gruppenübung Gr. 8 - Sicherungstechniken & Glasmanagement bei einem Verkehrsunfall"
+date: 2024-05-13
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/818772763618511"
+---
+
+Am vergangenen Freitag, den 10. Mai 2024 übte Gruppe 8 unter HV Patrick Pfefferle verscheidene Sicherungstechniken an einem ausrrangierten Übungsfahrzeug. Unteranderem wurde die Verwendung des "Stab Fast" und alternative Sicherungsmethoden besprochen und praktisch beübt. Im weiteren Verlauf wurden die Fahrzeugscheiben mittels Glasmanagement Set entfernt und die beste Handhabung im Falle eines Verkehrsunfalles wurde für alle Übungsteilnehmer klar deutlich. Nach rund zwei Stunden wurde die lehrreiche Übung erfolgreich beendet. 
+
+Details:
+Übungsleiter: Gkdt. HV Patrick Pfefferle
+RFA mit 11 Mann/Frau

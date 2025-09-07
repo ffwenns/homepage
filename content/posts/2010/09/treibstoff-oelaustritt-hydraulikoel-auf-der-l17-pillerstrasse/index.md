@@ -1,0 +1,7 @@
+---
+title: "“Treibstoff-/Oelaustritt” - Hydrauliköl auf der L17 Pillerstraße"
+date: 2010-09-14
+layout: post
+---
+
+Lange hatte es nicht gedauert bis das Kommando der Feuerwehr Wenns mit der Einsatzmeldung "Treibstoff-/Ölaustritt klein" am 14. September um 18:03 Uhr neuerlich alarmiert wurde. Ein technischer Defekt bei einer Landwirtschaftlichen Maschine verursachte einen großen Hydraulikölaustritt auf der L17 Pillerstraße vom Pitztalerhof bis ins Oberdorf. Daraufhin rückten 10 Mann der Feuerwehr Wenns aus um den Ölaustritt zu binden. Es handelt sich um Hydrauliköl von einem Traktor welches von den Kameraden der FF Wenns nach rund zwei Stunde beseitigt wurde.

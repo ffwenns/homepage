@@ -1,0 +1,16 @@
+---
+title: "Sammelruf Flurbrand/Zweckfeuer"
+date: 2018-03-31
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1964472940294488"
+---
+
+Am heutigen Karsamstag wurde die FF-Wenns via Pager-Sammelruf um 20.02 Uhr zu einem Flurbrand nachalmiert. Zuvor wurde ebenfalls die FF-Wald und FF-Arzl alarmiert, welche auf der Anfahrt storniert werden konnten. Das Zweckfeuer wurde mit der FF-Leins abgelöscht und beide Feuerwehren konnten wieder ins Gerätehaus einrücken.
+
+Details:
+Einsatzleiter: Kdt. Stv. OBI Stefan Gundolf
+Im Einsatz: 
+FF-Wenns: TLFA-2000, LFA, MTFA mit rund 35 Mann
+FF-Leins: KLFA mit rund 10 Mann
+FF-Arzl und FF-Wald
+Polizei Imst

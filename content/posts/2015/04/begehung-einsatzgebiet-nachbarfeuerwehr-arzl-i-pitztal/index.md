@@ -1,0 +1,15 @@
+---
+title: "Begehung Einsatzgebiet Nachbarfeuerwehr Arzl i. Pitztal"
+date: 2015-04-07
+layout: post
+---
+
+Wie bereits allgemein bekannt, muss auf der L 16 – Pitztaler Landesstraße im Bereich der Arzler Schwalbengasse bis zum Ortsende von Arzl in Richtung Wenns der bestehende Mischwasserkanal auf der Pitztaler Landesstraße erneuert werden. In der heuer durchgeführten 2. Bauphase werden im Zeitraum zwischen 07. April und 30. Juli 2015 die Grabarbeiten stattfinden.
+
+Aufgrund dieser Arbeiten ist von 20. April bis 09. Mai 2015 eine Totalsperre der L 16 - Pitztaler Landesstraße notwendig, von 07. April bis 19. April 2015 und von 10. Mai 2015 bis Bauende ist eine freie Fahrspur mit Ampelregelung und einer 3,5 Tonnenbeschränkung vorgesehen. Der Schwerverkehr muss während der Arbeitstage auf die L 243 Jerzener Landesstraße umgeleitet werden.
+
+Da die Straßensperre auch für die Einsatzfahrzeuge unserer Nachbarfeuerwehr unumgänglich ist, wird die FF Wenns selbstverständlich in den nächsten drei Monaten die von der Straßensperre betroffenen 7 Ortsteile der Gemeinde Arzl (Timls, Neudegg, Hochasten, Arzlair, Plattenrain, Steinhof und Blons) mitbetreuen. Von Seiten der Leitstelle Tirol wird die FF Wenns bei Einsätzen in diesem Bereich automatisch mitalarmiert.
+
+Für solche möglichen realen Einsätzen fand am Dienstagabend den 07. April eine gemeinsam Begehung der einzelnen Ortsteile sowie die Besichtigung der Wasserentnahmestellen und der Gefahrenpotenziale statt.
+
+Herzlichen Dank an die Kameraden der Nachbarfeuerwehr Arzl unter Kommandant OBI Josef Knabl und seinem Stellvertreter BI Markus Raggl für die gemeinsame Besichtigung und die anschließende kameradschaftliche Zusammenkunft.

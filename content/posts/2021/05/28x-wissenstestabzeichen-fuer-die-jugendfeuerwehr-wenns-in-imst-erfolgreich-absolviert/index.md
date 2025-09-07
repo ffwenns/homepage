@@ -1,0 +1,58 @@
+---
+title: "28x Wissenstestabzeichen für die Jugendfeuerwehr Wenns in Imst erfolgreich absolviert"
+date: 2021-05-17
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/5588368367904909"
+---
+
+Insgesamt 89 Jugendfeuerwehrmitglieder (Mädchen und Burschen) konnten am vergangenen Samstag, den 15. Mai 2021 die Wissenstestabzeichen in den Stufen Bronze, Silber und Gold im Gerätehaus der Stadtfeuerwehr Imst ablegen. 
+Im Jahr 2020 war eine Durchführung rund um den Wissenstest aufgrund COVID-19 gänzlich unmöglich. 
+Heuer, unter Einhaltung der Corona Maßnahmen, konnten alle Jugendbetreuer, Mädchen und Burschen der Jugendfeuerwehren aufatmen und die dementsprechenden Prüfungen ablegen.
+Oftmals konnte der Wissenstest für zwei der drei Kategorien abgelegt werden um nicht eine Stufe auslassen zu müssen und somit in der weiteren Laufbahn gebremst zu werden.
+Gerätekunde, Dienstgrade und Funktionsabzeichen, Funkgeräte und Funkgespräche uvm. mussten die "Jungen-Florianis" vorher beüben und vor Ort ihr Wissen unter Beweis stellen. 
+Unsere Jugendfeuerwehrmitglieder aus Wenns konnten 5x Bronze, 11x Silber und 12x Gold erwerben und mit Bravur bestehen.
+In diesem Sinne wünschen wir unseren jungen Mädchen und Burschen - Herzliche Gratulation für die erbrachten tollen Leistungen, alles Gute und viel Freude weiterhin im Feuerwehrwesen rund um unsere Feuerwehr! 
+Weiters gilt ein großer Dank unseren zwei Jugendbetreuern HLM Andreas Bregenzer und LM Fabian Eiter mit allen Helfern die sich selbst in der schwierigen Zeit stets um die Ausbildung unserer Jugend bemühten! Danke! 
+
+Absolventen Wissenstest 2021
+5x Bronze
+Schlatter Paul
+Pixner Michael
+Auer Jakob
+Köll Melina
+Kirschner Martina
+
+11x Silber
+Auer Jakob
+Köll Melina
+Kirschner Martina
+Bacher Hannes
+Pixner Barbara
+Schlatter Lena
+Neurauter Jakob
+Gundolf Magnus
+Gundolf Julia
+Hackl Sandro
+Zangerle Noah
+
+12x Gold
+Auer Jakob
+Köll Melina
+Kirschner Martina
+Bacher Hannes
+Pixner Barbara
+Schlatter Lena
+Neurauter Jakob
+Gundolf Magnus
+Gundolf Julia
+Hackl Sandro
+Zangerle Noah
+Kuen Nina
+Neuner Carolin
+Gundolf Theresa
+Zimmermann Nelio
+
+HERZLICHE GRATULATION! WEITER SO!!! 
+
+Foto: FJ-Wenns
+Bericht: PP/ÖA-Team

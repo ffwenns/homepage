@@ -1,0 +1,62 @@
+---
+title: "13x Bronze & 11x Silber Technische Leistungsprüfung der FF-Wenns Form A/B"
+date: 2023-03-26
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/579040584258398"
+---
+
+Am gestrigen Samstag, den 25. März 2023 konnten 24 Mann der FF-Wenns die Technische Leistungsprüfung in Form A (Hydraulisches Rettungsgerät) in Silber und Form B (Hebekissen) in Bronze erfolgreich absolvieren. 
+
+Bei beiden Formen muss jeder 3 Geräte aus 116 verschiedenen Karten ziehen und diese in den beiden Fahrzeugen (Tanklöschfahrzeug & Rüstfahrzeug) entsprechend zeigen. Hierbei dürfen die Teilnehmer nur bis zu einer Handbreite daneben liegen. Die Gruppenkommandanten müssen neben den Befehlen Testfragen absolvieren. Ab der Stufe Silber bekommen die Maschinisten zusätzlich Sonderaufgaben. Es werden dabei alle Positionen der Mannschaftsebene ausgelost, was bedeutet, dass alle Teilnehmenden die Abläufe acht verschiedener Positionen beherrschen müssen.
+
+Nach zahlreichen Übungen im Vorfeld erreichte die 1. Gruppe in Bronze Form B das Abzeichen mit einer Zeit von 296 Sek. und 14 Fehlerpunkten. Die 2. Gruppe in Silber Form A erreichte das Abzeichen mit einer Zeit von 358 Sek. und 1 Fehlerpunkt. 
+
+Die Unterschiede beider Formen liegen hauptsächlich darin, dass bei Form A das hydraulische Rettungsgerät zum Einsatz kommt, um die "eingeklemmte" Person zu befreien. Bei Form B wird das Fahrzeug mittels Hubzug gesichert und die sich darunter befindende Person mithilfe des Hebekissens befreit. Bei beiden Formen wird jeweils Beleuchtung, Verkehrsabsicherung und ein doppelter Brandschutz aufgebaut.
+
+Wir gratulieren beiden Gruppen recht herzlich zu den errungenen Leistungen – weiter so! 
+
+Die anwesenden Ehrengäste Hausherr Bgm. Patrick Holzknecht, BFK OBR Hubert Fischer, BFK Stv. BR Roland Thurner, ABI Christian Melmer und ABI Thomas Friedl gratulierten den anwesenden Kameraden ebenfalls recht herzlich und zeigten sich über die Leistungen beider Gruppen sehr erfreut. 
+
+Neben den Ehrengästen wurde auch Mel Burger als Pressevertreterin begrüßt. 
+
+Danke an das Bewerterteam unter der Leitung von Hauptbewerter Alois Ambacher (Martin Föger (Nassereith) und Thomas Schultes (Jerzens)) für die korrekte und faire Bewertung beider Gruppen! 
+
+Im Anschluss lud die FF-Wenns zu einem gemütlichen Mittagessen ein, welches von Jacky's Pizza Grill zubereitet wurde – vielen Dank! 
+
+Details:
+1. Gruppe Form B Bronze
+Tanklöschfahrzeug
+Gkdt. HBI Lukas Scheiber
+MA BM Daniel Weber I
+1er FM Patrick Köll
+2er HV Roland Thöny
+3er FM Noah Mathoi
+4er FM Johannes Schlatter
+
+Rüstfahrzeug
+Gkdt. HV Patrick Pfefferle
+MA OBI Stefan Gundolf
+1er FM Mathias Kirschner
+2er FM Philipp Dobler
+5er HFM Simon Grutsch
+6er HFM Philipp Hechenberger
+
+2. Gruppe Form A Silber
+Tanklöschfahrzeug
+Gkdt. HBM Robert Krug
+MA TLF FM Marco Gritsch
+1er OFM Christian Walch
+2er LM Florian Eiter
+3er OFM Florian Hafner
+4er OFM Tobias Donner
+
+Rüstfahrzeug
+Gkdt. LM Dominik Siller
+MA FM Simon Siller
+1er FM Marcel Mark
+2er LM Fabian Eiter
+5er OFM Fabian Mark
+6er OFM Michael Pfurtscheller
+
+Bericht: PP/ÖA-Team
+Fotos: CW/FH/LS/PP/DS/SD/ÖA-Team/FF-Wenns

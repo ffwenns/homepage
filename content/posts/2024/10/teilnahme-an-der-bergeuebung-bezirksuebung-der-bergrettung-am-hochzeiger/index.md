@@ -1,0 +1,17 @@
+---
+title: "Teilnahme an der Bergeübung (Bezirksübung der Bergrettung) am Hochzeiger"
+date: 2024-10-07
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/913636290798824"
+---
+
+️
+Am vergangenen Samstag, den 05. Oktober 2024, neben der Funktionskontrolle der Sirenen im Dorfgebiet anlässlich des Zivilschutzprobealarms, nahm ein Großteil unserer Jugendgruppe an der Bergeübung (Bezirksübung der Bergrettung) am Hochzeiger teil. ️️ Unsere Jugendlichen, Begleiter und Jugendbetreuer wurden als Liftbesucher eingesetzt und wurden vom simuliert in Not geratenen Sessellift durch die Bergretter geborgen und versorgt.️ Trotz der winterlichen Verhältnissen auf den Bergen, konnte die Übung erfolgreich abgehalten werden. ️ Kurz nach Mittag wurde die Übung erfolgreich beendet. 
+
+Details:
+Zuständiger Feuerwehrjugend Wenns: OLM Fabian Eiter 
+15 Mann/Frau 
+KDOFA (Shuttle), MTFA 
+
+Fotos: (c) Mitarbeiter Hochzeiger Bergbahnen (HBB) 
+Bericht: PP/ÖA-Team FF-Wenns

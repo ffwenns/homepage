@@ -1,0 +1,8 @@
+---
+title: "Rostsanierung TLFA in Eigenregie  enorme Kostenersparnis von 5.862,26 für die Gemeinde"
+date: 2021-12-30
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/6827973463944387"
+---
+
+Durch die Eigenleistung konnten die vier Mitglieder bei der Rostsanierung des Tanklöschfahrzeuges in Summe 5.862,26 für die Gemeinde Wenns einsparen. Von den budgetierten 6.200 der Rostsanierung (über eine Fachfirma) blieb es durch die gesamten Eigenleitungen bei 337,74 an Materialkosten. Herzlichen Dank allen Mitgliedern, die hierfür extra Urlaub genommen haben. DANKE ALLEN Mitglieder/innen für Ihren Einsatz über das ganze Jahr hindurch!

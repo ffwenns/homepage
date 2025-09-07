@@ -1,0 +1,19 @@
+---
+title: "LKW-Bergung - LKW drohte weiter abzurutschen"
+date: 2020-06-05
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/3957047077703721"
+---
+
+Die FF-Wenns wurde am heutigen Freitag den 05. Juni zu einer LKW-Bergung im Gemeindegebiet Wenns via Pager Sammelruf alarmiert.
+Nach rascher Erkundung vor Ort durch Einsatzleiter Kommandant HBI Lukas Scheiber konnte festgestellt werden, dass es sich hierbei um Gefahr im Verzug handelt. Der LKW vor Ort drohte in das darunterliegende Wohngebäude abzurutschen, so wurde das Kraftfahrzeug via Seilwinde unseres Rüstfahrzeuges (RF) umgehend geborgen.
+Nach rund einer halben Stunde konnte die Mannschaft und Gerät wieder ins Gerätehaus einrücken. 
+
+Details:
+Einsatzleiter: Kdt. HBI Lukas Scheiber
+RFA mit 6 Mann
+TLFA mit 9 Mann
+MTFA mit 4 Mann
+
+Bericht: PP/ÖA-Team
+Fotos: LS/DS/ÖA-Team

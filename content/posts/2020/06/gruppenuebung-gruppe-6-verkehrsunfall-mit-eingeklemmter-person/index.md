@@ -1,0 +1,14 @@
+---
+title: "Gruppenübung Gruppe 6 \"Verkehrsunfall mit eingeklemmter Person\""
+date: 2020-06-18
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/4010113469063748"
+---
+
+Am gestrigen Mittwoch den 17. Juni konnte die Gruppe 6 unter OBM Robert Krug eine weitere Gruppenübung abhalten.
+Dabei wurde ein Verkehrsunfall mit einer eingeklemmten Person angenommen. Nach der Sicherung mittels Stab Fast und Hubzug wurde die Befreiungsaktion mittel Bergeschere und Spreizer eingeleitet. Ziel dieser Übung war es den schweren Verkehrsunfall rasch und effizient abzuarbeiten. Nach rund 1,5 Stunden wurde der Übungserfolg erzielt und jeder Teilnehmer konnte einen Lernerfolg mit dem Umgang der hydraulischen Rettungsgeräte erlangen. 
+
+Ein großes Dankeschön gilt dem Übungsbereitsteller Simon Hechenberger! 
+
+Bericht: PP/ÖA-Team
+Fotos: FH/TD/CW/ÖA-Team

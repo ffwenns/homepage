@@ -1,0 +1,13 @@
+---
+title: "Tätigkeit mit Tanklöschfahrzeug für Gemeinde - Spülung Kanalleitung"
+date: 2025-06-30
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1109781634517621"
+---
+
+Am heutigen Montagvormittag, den 30. Juni 2025 wurde mit unserem Tanklöschfahrzeug 2000 eine Tätigkeit für die Gemeinde durchgeführt. Dabei wurde gemeinsam mit dem Bauhof der Gemeinde Wenns die Kanalleitungen im Ortsteil Brennwald mittels Hochdruck (HD) gespült, um in weiterer Folge eine Dichtheitsprobe durchführen zu können. 
+Nach rund einer Stunde rückte das Tanklöschfahrzeug und Mannschaft wieder ins Gerätehaus ein. 
+
+Details:
+ TLFA-2000
+ Einsatzleiter: Zkdt. HV Patrick Pfefferle

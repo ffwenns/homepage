@@ -13,4 +13,8 @@ members:
     name: "Walter Gasser"
     role: "Ehrenmitglied, Gkdt. (Reserve)"
     image: "Gasser_Walter1.webp"
+menu:
+  main:
+    parent: Mannschaft
+    weight: 30
 ---

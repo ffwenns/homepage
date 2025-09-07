@@ -1,0 +1,18 @@
+---
+title: "Gelungene Herbstübung im Klärwerk Wenns"
+date: 2018-09-29
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2269131839828595"
+---
+
+Am gestrigen Freitag den 28. September konnte um 20 Uhr die heurige Herbstübung im Klärwerk Wenns stattfinden.
+Übungsannahme "Gebäudebrand mit mehreren vermissten eingeschlossenen Personen" - dabei wurden 2 ATS-Trupps für die Personenrettung sowie den Innenangriff zur Brandbekämpfung eingesetzt. Mittels der Tragkraftspritze wurde vom anliegenden Bach angesaugt und mehrere Außenangriffe vorbereitet, um die umliegenden Wälder sowie Gebäudeteile zu schützen.
+Es galt besonders erhöhte Achtsamkeit durch erhöhte Gefahrenpotenziale wie Absturz, Gas, Explosion sowie vorhandene Chemikalien.
+Die Übung konnte nach rund 1,5 Stunden erfolgreich beendet werden und gemütlich ausklingen.
+Ein herzliches Vergelt's Gott an den GF Dietmar Röck für die zur Verfügung Stellung des Übungsobjektes sowie der anschließenden Verpflegung der Mannschaft! 
+
+Details:
+54 Mann (ohne Jugend) mit MTFA, LFA, TLFA-2000, RFA
+Übungsleiter: Kdt. Stv. OBI Stefan Gundolf
+
+Bilder & Bericht: ÖA-Team der FF-Wenns

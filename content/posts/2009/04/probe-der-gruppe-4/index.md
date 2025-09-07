@@ -1,0 +1,7 @@
+---
+title: "Probe der Gruppe 4"
+date: 2009-04-25
+layout: post
+---
+
+Am 24. April 2009 stand eine Übung der Gruppe 4 auf dem Programm. Übungsannahme war eine Personenbergung aus dem Bachbett vom "Pillerbach". Die Mannschaft unter Gkdt. LM Stoll Christoph musste eine kleine Seilbahn über den Bach errichten, um zu der verletzten Person (Lukas Scheiber) zu kommen. Die verletzte Person wurde mittels Korbtrage geborgen. Nach ca. 2 Stunden rückte die Mannschaft wieder in das Gerätehaus ein.

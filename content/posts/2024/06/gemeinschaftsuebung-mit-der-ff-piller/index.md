@@ -1,0 +1,17 @@
+---
+title: "Gemeinschaftsübung mit der FF-Piller"
+date: 2024-06-26
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/845671267595327"
+---
+
+Am gestrigen Dienstagabend, den 25. Juni 2024 wurde die FF-Wenns (Gruppe 3 + 5 Gundolf Stefan/Gundolf Mario) zu einer Gemeinschaftsübung der FF-Piller eingeladen. Die FF-Wenns richtete sich beim Bereitstellungsraum Klausboden für die Übungsalarmierung ein. Bei der Übung wurde mittels TS beim Pillersee angesaugt und eine Relaisleitung aufgebaut. Ein LF-Atemschutztrupp wurde zudem vor Ort eingesetzt. Nach rund eineinhalb Stunden wurde die lehrreiche und interessante Übung erfolgreich beendet. Danke der FF-Piller für die Einladung zu der Gemeinschaftsübung! 
+
+Details:
+Übungsleiter FF-Wenns: Kdt. Stv. OBI Stefan Gundolf 
+LFA, KDOFA Wenns mit 13 Mann 
+Übungsleitung FF-Piller 
+LFBA Piller 
+
+Fotos: SG/Gruppe 3 FF-Wenns 
+Bericht: PP/ÖA-Team

@@ -1,0 +1,7 @@
+---
+title: "Einweihung MTF in Fliess"
+date: 2013-08-31
+layout: post
+---
+
+Am vergangenen Samstag den 31. August feierte die Freiwillige Feuerwehr unserer Nachbargemeinde Fließ die Einweihung des neuen Mannschaftstransportfahrzeuges. Die FF Fließ kaufte das selbe Fahrzeug wie die FF Wenns und somit standen wir, speziell unser Obermaschinist LM Siller Martin mit Rat und Tat zur Seite. Von der Anschaffung bis zur Abnahme unterstützten wir unsere Kameraden der Freiwilligen Feuerwehr Fließ und wurden dadurch auch bei der feierlichen Einweihung des neuen MTF eingeladen. Die FF Wenns war mit acht Mitgliedern bei der Fahrzeugweihe bis spät in die Nacht vertreten.

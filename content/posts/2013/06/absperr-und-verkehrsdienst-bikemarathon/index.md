@@ -1,0 +1,7 @@
+---
+title: "Absperr- und Verkehrsdienst Bikemarathon"
+date: 2013-06-10
+layout: post
+---
+
+Neun Mann der Freiwilligen Feuerwehr Wenns waren am Sonntag den 09. Juni beim Absperr- und Straßendienst für den Pitztal Bike - Marathon im Einsatz. Es mussten mehrere Verkehrswege entlang der L16 Pitztaler Landesstraße sowie L17 Piller Landesstraße gesperrt bzw. abgesichert werden. Die FF Wenns war mit RF-A und MTF-A im gesamten Ortsgebiet rund fünf Stunden im Einsatz.

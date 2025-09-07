@@ -1,0 +1,9 @@
+---
+title: "Gruppenübung \"Person unter Fahrzeug eingeklemmt\""
+date: 2014-06-28
+layout: post
+---
+
+Mit der Übungsannahme "Person unter Fahrzeug eingeklemmt" wurde die Gruppenübung am Freitag den 27. Juni gestartet. Vor Ort wurde zuerst die Straßen-Absicherung, sowie die Vorbereitung der benötigten technischen Geräte vorgenommen. Anschließend konnte das Fahrzeug mittels einer Sicherungs-Kette und der Seilwinde des Rüstfahrzeuges gesichert werden. Die Person, in der Übung als Puppe dargestellt konnte befreit werden indem von rechts mittels dem Spreizer und links mittels Hebekissen das Fahrzeug langsam angehoben wurde, bis die Person zur weiteren ärztlichen Versorgung geborgen werden konnte. Nach rund einer Stunde konnte die lehrreiche Übung beendet werden.
+
+Fotos: BM Robert Krug - Danke!

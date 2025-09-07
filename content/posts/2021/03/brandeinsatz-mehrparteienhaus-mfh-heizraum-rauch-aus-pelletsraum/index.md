@@ -1,0 +1,23 @@
+---
+title: "Brandeinsatz Mehrparteienhaus (MFH) \"Heizraum - Rauch aus Pelletsraum\""
+date: 2021-03-24
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/5308257999249282"
+---
+
+Am heutigen Mittwoch, den 24. März 2021 um 14:58 Uhr wurde die FF-Wenns via Sirenenalarmierung und Sammelruf Pager zu einem Brandgeschehen in ein Mehrparteienhaus im Ortsteil Unterdorf alarmiert.
+Mit der Einsatzmeldung "Heizraum - Rauch aus Pelletsraum" rückten rund 24 Mann mit TLFA-2000, LFA und MTFA zum Einsatzort aus. 
+Unter dem Einsatz von schwerem Atemschutz konnte der Heizraum und die damit verbundene Pelletslagerung mithilfe der Wärmebildkamera kontrolliert werden. Beim Befüllungsvorgang wurde durch ein technisches Gebrechen anstelle der reinen Umluft, Rauch in die Pelletslagerung gezogen. 
+Nach rund 1 Stunde konnte die Feuerwehr Wenns die Gefahr bannen und die Heizung dem Hausmeister/Servicetechniker übergeben. 
+Beim Einsatz kamen keine Personen zu schaden.
+
+Details:
+Einsatzleiter: Kdt. Stv. OBI Stefan Gundolf/Gkdt. OBI Mario Gundolf
+TLFA-2000 mit 9 Mann
+LFA mit 9 Mann
+MTFA mit 6 Mann
+Polizei Wenns mit 1 Fahrzeug und 2 Mann
+Rotes Kreuz Imst mit 2 Fahrzeugen und 3 Mann
+Feuerwehr Imst mit KDOFA, DLK und TLFA auf Anfahrt (wurden nicht mehr benötigt)
+
+Bericht & Fotos: PP/ÖA-Team der FF-WENNS

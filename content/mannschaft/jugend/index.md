@@ -49,4 +49,8 @@ members:
     name: "Polina Brazhenko"
     role: ""
     image: ""
+menu:
+  main:
+    parent: Mannschaft
+    weight: 40
 ---

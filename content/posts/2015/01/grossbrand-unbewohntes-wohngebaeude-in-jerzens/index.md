@@ -1,0 +1,19 @@
+---
+title: "Großbrand unbewohntes Wohngebäude in Jerzens"
+date: 2015-01-29
+layout: post
+---
+
+Heute Nacht wurde die Feuerwehr Wenns um 03:14 Uhr mittels Sirene zur Nachbarschaftshilfe zu einem Großbrand eines unbewohnten Wohngebäudes nach Jerzens alarmiert. Die alarmierten Feuerwehren des vorderen Pitztales konnten ein übergreifen der Flammen auf das direkt an das Wohnhaus angebaute Wirtschaftsgebäude samt Stall und Stadel sowie auf ein angrenzendes Wohngebäude verhindern. Der Brand konnte durch die gute Zusammenarbeit der Einsatzkräfte nach rund einer Stunde unter Kontrolle gebracht werden.
+Im Einsatz:
+Feuerwehr Jerzens mit RLFA 2000, LF, KLF, Last und 40 Mann
+Feuerwehr Wenns mit TLFA 2000, LF-A und MTF-A und 40 Mann
+Feuerwehr Leins mit KLF und 15 Mann
+Feuerwehr Zaunhof mit TLF 1500, KLF und 20 Mann
+Rotes Kreuz Imst
+Polizei Imst
+Bezirksfeuerwehrinspektor OBR Wagner Josef
+Bezirksfeuerwehrkommandant Stv. BR Fischer Hubert
+Einsatzleiter: OBI Schultes Fabian (Kdt. FF Jerzens)
+
+Bericht ORF Tirol

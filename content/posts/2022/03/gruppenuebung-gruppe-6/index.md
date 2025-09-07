@@ -1,0 +1,16 @@
+---
+title: "Gruppenübung Gruppe 6"
+date: 2022-03-11
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7247815705293492"
+---
+
+Am heutigen Freitag , den 11. März 2022 hielt die Gruppe 6 unter Grkdt. LM Siller Dominik die erste Übung im neuen Jahr ab . Dabei wurde eine Funk- und Wärmebildkamera Schulung abgehalten. Es wurden viele verschiedene Beispiele besprochen und beübt. Schulungen und Übungen sind wichtig für den Einsatz im Ernstfall.Vielen Dank an BM Daniel Weber und LM Stefan Deutschmann für die reibungslose Übungsvorbereitung und lehrreiche Übung. 
+Nach rund zwei Stunden wurde die Übung erfolgreich beendet. 
+
+Details:
+Gruppe 6 (LM Siller Dominik)
+ 10 Mann
+
+Fotos: FH / ÖA Team FF-Wenns
+Bericht: FH/ÖA-Team FF-Wenns

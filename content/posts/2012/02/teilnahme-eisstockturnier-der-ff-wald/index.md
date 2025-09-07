@@ -1,0 +1,7 @@
+---
+title: "Teilnahme: Eisstockturnier der FF Wald"
+date: 2012-02-11
+layout: post
+---
+
+Am Samstag den 10. Feber trafen sich zahlreiche Feuerwehrmitglieder aus dem Pitztal sowie aus Imst, Tarrenz und Karrösten zum alljährlichen Eisstockturnier der Feuerwehr Wald. Auch die Feuerwehr Wenns war mit einer Gruppe vertreten. Die Gruppe bestand aus: Stoll Christoph, Scheiber Lukas, Larcher Markus und Reich Daniel. Sieger des Turniers war die Gruppe der Feuerwehr Tarrenz. Die Mannschaft der FF Wenns platzierte den 7. Rang und möchten sich beim Kommando der Feuerwehr Wald recht herzlich für die Organisation bedanken.

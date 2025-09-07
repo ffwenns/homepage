@@ -1,0 +1,14 @@
+---
+title: "Die Löschgruppe Praxis/Theorie - Übung Gruppe 8"
+date: 2024-09-07
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/891906656305121"
+---
+
+Am gestrigen Freitag, den 6. September 2024 fand neben der Jugendübung eine Übung unserer Gruppe 8 unter Gkdt. HV Patrick Pfefferle statt. Dabei wurden die Positionen der Löschgruppe im Detail besprochen und praktisch beübt. Beim Piller-Bach vor Ort, in Matzlewald, wurde angesaugt und ein entsprechender Löschangriff mit 2 C-Rohren vorbereitet. Nach rund eineinhalb Stunden rückte die Gruppe 8 wieder ins Gerätehaus ein und die Übung wurde beendet. 
+
+Übungsleiter: HV Patrick Pfefferle 
+LFA mit 6 Mann/Frau 
+
+Fotos: PP/ÖA-Team 
+Bericht: PP/ÖA-Team

@@ -1,0 +1,16 @@
+---
+title: "Stufenweise Umrüstung der alten Einsatzhelme auf den Heros titan samt Farbbedeutung"
+date: 2019-07-19
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2906887416053031"
+---
+
+Nach über 20 Jahren treuen Dienst werden unsere alten Einsatzhelme nun stufenweise erneuert und durch den Heros titan ersetzt. Jährlich werden wir nun rund fünfzehn bis zwanzig neue Helme ankaufen und so die ältesten Vorgängermodelle stufenweise austauschen. Die Sicherheit der Helfer im Einsatzfall sowie im Atemschutzinnenangriff hat größte Priorität. Die Bedeutung der verschiedenen Helmfarben sind aus Einsatztaktischen Gründen so gewählt und richten sich gründsätzlich nach den Vorgaben des Landesfeuerwehrverbandes Tirol.
+
+Bedeutung:
+GELB: Kommandant und Kommandant Stv.
+SILBER: Zugs- und Gruppenkommandanten
+NEUTRAL mit silbernen Aufkleber: KA und SF sowie Beauftragte (interne Regelung)
+NEUTRAL mit roten Aufkleber: gesamte restliche Mannschaft
+
+Im vierten Bild werden die 4 Generationen von Helme der letzten 100 Jahre abgebildet

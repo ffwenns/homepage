@@ -1,0 +1,23 @@
+---
+title: "Infoveranstaltung/Schulung \"Feuerwehr und Polizei an der Brandstelle\" für ATS Träger und Führungskräfte"
+date: 2024-03-07
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/777958864366568"
+---
+
+Am gestrigen Mittwoch, den 06.03.2024 fand eine Schulung bzw. Infoveranstaltung "Feuerwehr und Polizei an der Brandstelle" im Mehrzwecksaal Wenns statt. Gruppeninspektor und Bezirksbrandermittler Robert Eiter von der PI Silz absolvierte für die Pitztaler Feuerwehren einen Schulungsabend im Sinne der Zusammenarbeit von Feuerwehr und Polizei an der Brandstelle. Wir bedanken uns bei Robert für den Vortrag und allen Nachbarfeuerwehren für die Teilnahme und den kameradschaftlichen Abend. 
+
+Insgesamt waren 102 Mann/Frau folgender Feuerwehren anwesend:
+- FF Arzl (17 Mann)
+- FF Wald (8 Mann)
+- FF Leins (2 Mann)
+- FF Wenns (51 Mann/Frau)
+- FF Jerzens (5 Mann)
+- FF Neurur (2 Mann)
+- FF Zaunhof (8 Mann/Frau) 
+- FF Plangeross (3 Mann)
+- FF St. Leonhard (6 Mann) sowie von der PI Wenns der Postenkommandant Eiter Martin.
+
+Wir bedanken uns für die Schulung und für die stets gute und unkomplizierte Zusammenarbeit mit der Exekutive.
+
+ FH, LS - ÖA Team FF Wenns

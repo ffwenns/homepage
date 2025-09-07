@@ -1,0 +1,7 @@
+---
+title: "Großer Murenabgang zwischen Wenns und Jerzens: Totalsperre der L16"
+date: 2010-07-12
+layout: post
+---
+
+Am Montagabend den 12. Juli um 21:20 Uhr wurde die FF Wenns mittels Piepser zu einem großen Murenabgang zwischen Wenns und Jerzens alarmiert. Die Meldung der Leitstelle Tirol lautete: SAMMELRUF Überschwemmung hoher Wasserstand - Infrastruktur, Jerzens Höhe Sägewerk. Die L16 Pitztalstraße wurde durch eine große Mure total versperrt und der Pitzenbach drohte sich aufzustauen. Die Feuerwehr Wenns stand mit 3 Fahrzeugen und 25 Mann bis knapp 02:00 Uhr in der Früh im Einsatz. Aufgrund von starken Beschädigungen der L16 wurde die Straße für den gesamten Verkehr gesperrt. Ebenso die Straße durch das Gemeindegebiet von Jerzens und somit ist das hintere Pitztal über die Verkehrswege nicht mehr erreichbar. Die Feuerwehr Jerzens stand bei den starken Überschwemmungen und Muren im Ortsgebiet im Einsatz und die Feuerwehr Wenns arbeitete den Einsatz mit Hilfe von zwei Radladern auf der Landesstraße ab.

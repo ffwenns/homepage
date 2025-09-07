@@ -1,0 +1,7 @@
+---
+title: "Technische Hilfeleistung"
+date: 2014-09-07
+layout: post
+---
+
+Am Samstag den 06. September wurde die FF-Wenns zu einer besonderen Technischen Hilfeleistung gerufen. Vor Ort befand sich ein Behinderten-Transporter bei dem sich die Abladerampe nicht mehr öffnen ließ. Die Personen im Fahrzeug waren bereits seit einiger Zeit in dem Fahrzeug eingeschlossen. Jedoch nach kürzester Zeit konnte der Fehler der Rampe behoben werden und die Personen mit den Rollstühlen ins Freie gebracht werden. Alle Personen im Inneren des Fahrzeuges waren Überglücklich über die Hilfe der Feuerwehr Wenns und somit wurde noch ein Gruppen-Einsatz Foto geschossen und der Einsatz konnte nach rund einer Stunde erfolgreich beendet werden.

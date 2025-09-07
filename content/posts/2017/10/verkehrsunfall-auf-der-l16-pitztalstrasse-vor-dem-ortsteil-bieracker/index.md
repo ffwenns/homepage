@@ -1,0 +1,8 @@
+---
+title: "Verkehrsunfall auf der L16 Pitztalstraße vor dem Ortsteil Bieracker"
+date: 2017-10-27
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/1750511915023926"
+---
+
+Der zweite Einsatz am heutigen Abend war neuerlich ein Verkehrsunfall auf der L16 Pitztalstraße - diesmal zwischen dem Ortsteil Bieracker und Blons! Ein PKW kam dabei ins schleudern und es wurden glücklicherweise keine Personen verletzt. Bei der Bergung und den Aufräumarbeiten wurden wir von einem Abschleppunternehmen unterstützt.

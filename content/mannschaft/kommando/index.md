@@ -17,4 +17,8 @@ members:
     name: Roland Thöny
     role: Kassier
     image: Thöny_Roland.webp
+menu:
+  main:
+    parent: Mannschaft
+    weight: 100
 ---

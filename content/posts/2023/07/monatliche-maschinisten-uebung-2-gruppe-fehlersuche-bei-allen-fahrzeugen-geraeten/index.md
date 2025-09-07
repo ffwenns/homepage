@@ -1,0 +1,12 @@
+---
+title: "Monatliche Maschinisten Übung / 2.Gruppe - \"Fehlersuche bei allen Fahrzeugen & Geräten\""
+date: 2023-07-06
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/638076711688118"
+---
+
+Am Dienstag, den 4. Juli 2023 hielten unser Obermaschinist HLM Martin Siller und sein Stv. LM Simon Siller die monatliche Maschinistenübung mit der MA - Gruppe 2 ab. 
+Dabei wurden verschiedene Fehler bei allen Fahrzeugen, Stromerzeuger, Bergeschere usw. eingebaut. Für die Maschinisten galt es die Fehler zu finden und so rasch als möglich zu beheben. Im Anschluss wurden alle Fehler besprochen und die verschiedenen Lösungsmöglichkeiten aufgezeigt. 
+Nach rund zwei Stunden wurde die Übung erfolgreich beendet. 
+Übungsleiter: HLM Martin Siller, LM Simon Siller
+Fotos: LS -ÖA Team / FF-Wenns

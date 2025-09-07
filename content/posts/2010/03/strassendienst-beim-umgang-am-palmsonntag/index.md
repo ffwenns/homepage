@@ -1,0 +1,7 @@
+---
+title: "Straßendienst beim Umgang am Palmsonntag"
+date: 2010-03-28
+layout: post
+---
+
+Am Sonntag den 28. März 2010 wurde von vier Mitgliedern der Feuerwehr Wenns der Straßendienst beim Umgang des diesjährigen Palmsonntages übernommen. Während des Umganges wurde der Straßendienst zwischen der St. Margarethenkirche und der Pfarrkirche geregelt. Nach rund zwei Stunden konnten die Mitglieder wieder in die Feuerwehrhalle einrücken.

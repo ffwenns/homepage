@@ -1,0 +1,7 @@
+---
+title: "Kinder: Jugendverein besucht die Feuerwehr"
+date: 2012-05-20
+layout: post
+---
+
+Der Kinder- und Jugendverein aus Wenns war am Samstag den 19. Mai zu Gast bei der Feuerwehr, um sich die Aufgabengebiete und Gerätschaften einmal genauer anzuschauen. Über 20 Kinder und Jugendliche sowie ihre Eltern erlebten einen sehr netten und informativen Nachmittag. Dabei konnten die Jungbürger auch selbst anpacken und die Gerätschaften der FF Wenns praktisch ausprobieren. Nach zwei interessanten Stunden lud die Feuerwehr unter Obermaschinist LM Siller Martin alle Beteiligten zu einer Jause ein.

@@ -1,0 +1,24 @@
+---
+title: "Zwei weitere Trupps - ASLA SILBER beim Atemschutzleistungsbewerb in Imst"
+date: 2022-10-19
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/8290352097706509"
+---
+
+Nach zwei Trupps Stufe SILBER im Frühjahr in Landeck folgten am vergangenen Samstag den 15.Oktober zwei weitere Trupps der FF Wenns in der Stufe 2 im Bezirk Imst. Nach wochenlangen Übungen konnten beide Trupps den Bewerb, alle 5 Stationen, mit Bravour meistern. 
+
+Ein großer Dank nochmals an die Ausbilder LM Deutschmann Stefan, BM Weber Daniel 1, LM Eiter Florian und FM Tobias Donner für die perfekte Vorbereitungen. Herzliche Gratulation an beide Trupps - Weiter so!
+ 
+Trupp Wenns 1 (Silber)
+• 1er OFM Sebastian Mathoi
+• 2er FM Christopher Sailer
+• 3er LM Florian Eiter
+
+Trupp Wenns 2 (Silber)
+• 1er OFM Christoph Lechleitner
+• 2er OFM Chris Walch
+• 3er LM Florian Eiter (am Vortrag / krankheitsbedingt eingesprungen) 
+
+ 
+Bericht : LS/ÖA-Team FF-Wenns
+Fotos : TD, LS/FF Wenns

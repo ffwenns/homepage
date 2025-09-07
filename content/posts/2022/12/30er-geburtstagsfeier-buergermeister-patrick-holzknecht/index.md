@@ -1,0 +1,13 @@
+---
+title: "30er Geburtstagsfeier - Bürgermeister Patrick Holzknecht"
+date: 2022-12-08
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/8520324044709312"
+---
+
+Am gestrigen Mittwoch, den 07. Dezember 2022 feierte unser Bürgermeister Patrick Holzknecht seinen 30. Geburtstag. Zu diesem Jubiläum lud er unteranderem auch die Obleute der Feuerwehr, Schützen und Musikkapelle zur Feier im Mehrzwecksaal ein. Unser Kommandant und sein Stellvertreter überbrachten die Glückwünsche der FF-Wenns. An dieser Stelle nochmals alles Gute zum 30. Geburtstag lieber Patrick, bleib stets gesund und auf eine weiterhin gute Zusammenarbeit! 
+Deine FF-Wenns 
+
+ 
+
+Foto/Bericht: PP/ÖA-Team

@@ -1,0 +1,8 @@
+---
+title: "Nachwuchs bei der FF Wenns - Gratulation zum kleinen Martin"
+date: 2018-07-19
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2132595200148927"
+---
+
+Am gestrigen Mittwoch den 18. Juli landete unser Feuerwehrstorch bei unserem Kameraden Zugskommandant und Gruppenkommandant der Gruppe 4 BM Stoll Christoph und seiner Frau Kathrin und brachten Ihnen den kleinen Feuerwehrmann Martin. Am Abend waren dann die Kameraden zum "Storch aufstellen" zu Gast und heute wird die Geburt passend gefeiert. Die FF Wenns gratuliert recht herzlich zum Nachwuchs und wünscht der Familie alles erdenklich gute für die gemeinsame Zukunft

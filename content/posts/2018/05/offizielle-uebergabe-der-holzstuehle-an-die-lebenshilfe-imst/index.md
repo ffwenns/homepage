@@ -1,0 +1,8 @@
+---
+title: "Offizielle Übergabe der Holzstühle an die Lebenshilfe Imst"
+date: 2018-05-30
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/2044282998980148"
+---
+
+Da wir bei der Grillpool Challenge wie im Video vorher erklärt, nicht teilgenommen haben und doch immer ein offenes Ohr für soziale Zwecke haben, konnten wir heute in Vertretung von Kdt. Stv. Gundolf Stefan die benötigten Holzstühle an die Lebenshilfe Imst/Werkstätte Brennbichl ausliefern. Der Ausschuss beschloss bereits vor unserer Nominierung bei dieser Challenge nicht mitzumachen. Stattdessen konnten wir mit der Firma Brege Möbel eine soziale Wohltat auf die Stühle stellen Wir hoffen damit die dortigen Menschen zu unterstützen und konnten bereits bei Übergabe eine sehr große Freude verspüren.

@@ -1,0 +1,19 @@
+---
+title: "DO 16.06 traditionelles Fronleichnamsfest - SAMSTAG 18.06 TALBEWERB samt JUBILÄUMSFEIER und SO 19.06 Fahrzeugsegnung in WENNS"
+date: 2022-06-11
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/7674277805980611"
+---
+
+Kommende Woche feiert die FF Wenns ihr 125-Jahr-Jubiläum.
+Der Startschuss fällt mit dem traditionellen Fronleichnamsfest am kommenden Donnerstag den 16.Juni ab 11 Uhr nach der Prozession bei der FF Halle. Kuchen und Schnitzel samt selbstgemachten Erdäpfelsalat oder Pommes auch zum mitnehmen.
+
+Am SAMSTAG den 18.JUNI 2022 findet ab 13:00 Uhr der TALBEWERB PITZTAL am Vorplatz der FF Halle Wenns statt. Anmeldeschluss per FDIS morgen 12.06.2022 / Mitternacht!
+WIR FREUEN UNS auf einen spannenden und vorallem kameradschaftlichen Bewerb mit anschließender JUBILÄUMSFEIER ab 20:00 Uhr. Live Musik und gute Unterhaltung mit den Frechen Engel sowie toller Stimmung mit DJ in der Fire-Fighter-Bar am Sportplatz. Kinderprogramm mit Hüpfburg, Spritzwand und Kinderschminken am Nachmittag... 
+
+Am Sonntag den 19.Juni treffen wir uns um 09:30 Uhr beim Gemeindezentrum, nach dem Einzug findet um 10 Uhr die Fahrzeugsegnung im Rahmen einer Feldmesse beim Musikpavillon statt. Anschließend Frühschoppen mit der Musikkapelle Wenns und Festausklang am überdachten Vorplatz der FF Halle Wenns.
+
+https://www.facebook.com/events/588145992574131
+
+EINTRITT an allen Tagen FREI - 
+für Speiß und Trank wird bestens gesorgt!

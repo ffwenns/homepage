@@ -1,0 +1,8 @@
+---
+title: "Toller 8h Erste-Hilfe- Auffrischungskurs"
+date: 2023-01-14
+layout: post
+facebook_url: "https://facebook.com/ffwenns/posts/8717752434966471"
+---
+
+25 Mann / Frau der FF Wenns waren am heutigen Samstag den 14.01 beim Rotes Kreuz Bezirk Imst - Ortsstelle Imst zu Gast. Herzlichen Dank an Manuela, Fabienne und unserem Mitglied und Gkdt. Siller Dominik für die Organisation und den Referenten für die interessante und lehrreiche Abwicklung. Es war ein toller und abwechslungsreicher Tag und wir bedanken uns beim Roten Kreuz Imst für diese Möglichkeit der Weiterbildung und für die perfekte Zusammenarbeit über das ganze Jahr. Der Kurs war zudem eine Voraussetzung für die Technische Leistungsprüfung, welche wir ebenfalls im Frühjahr wieder mit zwei Gruppen starten.
