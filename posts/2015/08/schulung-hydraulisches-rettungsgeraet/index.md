@@ -1,7 +1,0 @@
----
-title: "Schulung Hydraulisches Rettungsgerät"
-date: 2015-08-19
-layout: post
----
-
-Für die neuen aktiven Mitglieder der FF Wenns fand am Mittwochabend eine weitere Technische - Schulung statt. Diesmal wurde speziell das Hydraulische Rettungsgerät mit Bergeschere, Spreizer und Rettungszylinder sowie die benötigten Materialien bei einem Verkehrsunfall besprochen. Nach der lehrreichen theoretischen Schulung findet am kommenden Freitag eine praktische Übung zum Thema Hydraulisches Rettungsgerät statt.

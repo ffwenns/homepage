@@ -1,7 +1,0 @@
----
-title: "Übungsannahme \"Person eingeklemmt\""
-date: 2013-04-06
-layout: post
----
-
-Am Freitag den 05. April rückten rund 10 Mann der Gruppe 5 mit TLFA-2000 und RF-A zum Recyclinghof Wenns aus. Die Übungsannahme lautete, dass sich eine oder mehrere eingeklemmte Personen unter einem Müllcontainer befinden. Vorort wurde zuerst eine theoretische Einschulung vorgenommen bevor die Mitglieder mit dem praktischen Teil fortfahren konnten. Anschließend wurde am Übungsort die Beleuchtung mit Lichtflutern und Stativen aufgebaut. Mittels Hebekissen, Hubzug,Rettungszylinder und Stab-Fast wurde der Müllcontainer von allen Seiten gesichert. Mit dem Spreizer wurde der Container langsam angehoben bis die eingeklemmte Person befreit und betreut werden konnte. Die Übung konnte nach rund 2 Stunden erfolgreich beendet werden.

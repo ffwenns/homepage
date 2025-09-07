@@ -1,9 +1,0 @@
----
-title: "Fleißige Übungen der Jugendgruppe"
-date: 2014-02-21
-layout: post
----
-
-Auch während der großen Umbau- und Neubauarbeiten bei der Feuerwehrhalle laufen die Übungen der Freiwilligen Feuerwehr Wenns normal weiter. Die wöchentliche Zusammenkünfte der aktiven Jugendgruppe und die restlichen Schulungen der FF Wenns werden während den Bauarbeiten in den nächsten Monaten im Sitzungszimmer der Gemeinde Wenns durchgeführt. Danke an Bürgermeister OSR Walter Schöpf für die sofortige Zusage der Räumlichkeiten.
-
-Aufgrund der schlechten Witterungsverhältnisse wurde anstatt einer Praktischen Übung weitere Vorbereitungen für den Wissenstest, welcher am Samstag den 29. März in Mötz stattfinden wird, im Sitzungszimmer durchgeführt.

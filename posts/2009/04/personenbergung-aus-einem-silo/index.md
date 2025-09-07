@@ -1,7 +1,0 @@
----
-title: "Personenbergung aus einem Silo"
-date: 2009-04-18
-layout: post
----
-
-Am Freitag den 17. April 2009 stand eine Personenbergung der Gruppe 5 aus einem Silo auf dem Programm. Gkdt. LM Gundolf Stefan und ATS Beauftragter LM Krug Robert bereiteten diese Übung bei einem Bauernhof im Ortsteil "Brennwald" vor. Eine Person die in den Silo gestürzt war, musste mittels Korbtrage und unter schwerem Atemschutz aufgezogen und geborgen werden. Nach 2 Stunden rückten die Mitglieder der Gruppe 5 wieder in das Gerätehaus ein.

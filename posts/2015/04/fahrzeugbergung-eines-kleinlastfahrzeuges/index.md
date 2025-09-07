@@ -1,9 +1,0 @@
----
-title: "Fahrzeugbergung eines Kleinlastfahrzeuges"
-date: 2015-04-01
-layout: post
----
-
-Neben der Alarmierung zu einer Geologischen Aktivität beim Pitzenbach aufgrund eines umgestürzten Baumes gemeinsam mit den Kameraden der FF Jerzens um 23:08 Uhr wurde die FF Wenns zwei Stunden später um 00:17 Uhr am 01. April mittels Pager-Sammelruf zum 15. Einsatz innerhalb der letzten 10 Stunden alarmiert. Dabei wurden wir zu einer Fahrzeugbergung unterhalb der L16 Pitztallandesstraße bei km 7 alarmiert. Der Kleinlaster wurde von der FF Wenns sofort gesichert und konnte anschließend mittels Seilwinde des Rüstfahrzeuges rasch geborgen werden.
-Im Einsatz: RF-A, TLFA 2000 und MTF-A mit 22 Mann
-Einsatzleiter: OLM Stoll Christoph

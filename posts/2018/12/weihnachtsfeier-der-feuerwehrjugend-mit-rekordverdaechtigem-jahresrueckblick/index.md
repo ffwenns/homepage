@@ -1,9 +1,0 @@
----
-title: "Weihnachtsfeier der Feuerwehrjugend mit rekordverdächtigem Jahresrückblick"
-date: 2018-12-02
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/2392150850860026"
----
-
-Am gestrigen Samstagabend luden unsere Jugendbetreuer LM Fabian Eiter & HLM Andreas Bregenzer alle aktuellen Jugendmitglieder mit ihre Eltern zu einer gemeinsamen Weihnachtsfeier in die Feuerwehrhalle Wenns. Bei einem erfrischend warmen Punsch und einigen Snacks konnten alle Anwesenden, das ganze Jahr voller intensiver Jugendarbeit in Form eines Videos revue passieren lassen. Auch Kommandant HBI Lukas Scheiber und Kommandant Stv. OBI Stefan Gundolf konnten die Jugendgruppe nur in höchsten Tönen für ihre Arbeit und Bereitschaft zur Weiterbildung loben und danken.
-An dieser Stelle nochmals ein großes Dankeschön an unsere beiden Jugendbetreuer sowie an unseren höchst motivierten Mädels und Burschen der Jugendgruppe Weiter so, ihr seits unsere Zukunft!

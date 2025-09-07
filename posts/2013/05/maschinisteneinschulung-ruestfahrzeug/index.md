@@ -1,7 +1,0 @@
----
-title: "Maschinisteneinschulung Rüstfahrzeug"
-date: 2013-05-14
-layout: post
----
-
-Neben den beginnenden Bewerbs- und Gruppenproben wurde am Dienstag den 14. Mai eine weitere Kraftfahrer- und Maschinisteneinschulung für das Rüstfahrzeug (RF-A) durchgeführt. Unser Rüst Spezialist und Beauftragter HFM Gundolf Stefan und Obermaschinist LM Siller Martin führten mit drei weiteren Kameraden eine Schulung und Übung auf dem Sondergerät durch. Das Hauptaugenmerk wurde dabei auf die Bedienung und das Arbeiten mit der Seilwinde gelegt. Nach rund zwei Stunden konnten die praktischen und sehr lehrreichen Übungen erfolgreich beendet werden.

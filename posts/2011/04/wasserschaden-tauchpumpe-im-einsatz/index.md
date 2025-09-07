@@ -1,7 +1,0 @@
----
-title: "Wasserschaden: Tauchpumpe im Einsatz"
-date: 2011-04-22
-layout: post
----
-
-Am Freitagnachmittag wurde aufgrund einer kleinen Überschwemmung, auf der Baustelle von unserem Kommandant Stellvertreter BI Raich Otto, die Tauchpumpe der FF Wenns eingesetzt. Die Auspumparbeiten wurden von Kdt. Stv. Otto am späten Abend abgeschlossen und somit konnte das durchnässte Erdreich trocken gelegt werden.

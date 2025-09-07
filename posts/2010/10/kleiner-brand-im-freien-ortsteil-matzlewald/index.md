@@ -1,7 +1,0 @@
----
-title: "Kleiner Brand im Freien - Ortsteil Matzlewald"
-date: 2010-10-22
-layout: post
----
-
-Am Freitagvormittag den 22. Oktober um 11:51 Uhr wurde die Feuerwehr Wenns mit der Einsatzmeldung "Kleiner Brand im Freien - oberhalb der Ortschaft Matzlewald" alarmiert. Die alarmierten Kameraden unter Einsatzleiter LM Siller Martin rückten daraufhin mit TLFA 2000 zum Einsatzort aus. Es handelte sich um einen kleinen Baum- und Waldbodenbrand welcher nach rund einer halben Stunde gelöscht wurde.

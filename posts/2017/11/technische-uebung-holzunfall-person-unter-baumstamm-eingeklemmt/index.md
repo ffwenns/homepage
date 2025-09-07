@@ -1,8 +1,0 @@
----
-title: "Technische Übung - Holzunfall / Person unter Baumstamm eingeklemmt"
-date: 2017-11-16
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/1775776615830789"
----
-
-Eine weitere Technische Übung der Gruppe 5 und 6 unter Zugskommandant OBM Robert Krug fand heute am Donnerstagabend den 16. November 2017 statt. Simuliert wurde ein Holzunfall mit einer eingeklemmten Person unter einem Baum im Bereich Matzlewald. Mittels Hebekissen und Hydraulischem Rettungsgerät wurde die Person aus der misslichen Lage befreit sowie der Baum mittels Hubzug und Seilwinde gesichert. Die Technische Übung dauerte rund 1,5h und es beteiligten sich 15 Mann mit RF-A und MTF-A.

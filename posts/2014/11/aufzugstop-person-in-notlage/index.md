@@ -1,7 +1,0 @@
----
-title: "Aufzugstop - Person in Notlage"
-date: 2014-11-20
-layout: post
----
-
-Mittels Pager Sammelruf wurde die FF Wenns am Montag den 17. November um 15:11 Uhr mit der Meldung "Aufzugstop Person in Notlage / Person in Litt eingeschlossen" alarmiert. Die FF Wenns rückte mit RF-A und MTF-A zum Einsatzort ins Oberdorf aus und konnte die eingeschlossene Person in Kurze unverletzt befreien.

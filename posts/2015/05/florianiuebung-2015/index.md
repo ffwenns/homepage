@@ -1,9 +1,0 @@
----
-title: "Florianiübung 2015"
-date: 2015-05-02
-layout: post
----
-
-Die traditionelle Florianiübung wurde am 01. Mai 2015 im Dorfzentrum von Wenns abgehalten. Übungsannahme war ein Gebäudebrand mit einigen vermissten Personen in einem landwirtschaftlich Gebäude. Bei der Florianübung 2015 beteiligten sich trotz starken Regenwetters über 56 Mann der Feuerwehr Wenns welche von Einsatzleiter BM Krug Robert bestens eingeteilt wurden.
-
-Aufgabe war es, die vermissten Personen mittels 2 Atemschutz-Trupps zu bergen, den Vollbrand im Wirtschaftsgebäude zu löschen und die umliegenden Gebäude zu schützen. Nach ca. 2 Stunden konnte die Übung sehr erfolgreich beendet werden und die Mannschaft konnte nach der Übungsbesprechung zu einer Stärkung in die Feuerwehrhalle einrücken. Der Einsatzleiter und die Übungsbeobachter zeigten sich vom Ablauf und der Arbeit der Kameraden bei der Übung sehr zufrieden.

@@ -1,7 +1,0 @@
----
-title: "Überhitzter Heustock"
-date: 2015-07-14
-layout: post
----
-
-Zu einem Überhitzten Heustock wurde das Kommando der FF Wenns am Freitag den 10. Juli alarmiert. Nach sofortiger Kontrolle mittels Heusonden konnte die Lage kontroliert und entschärft werden. Die FF Wenns rückte nach rund einer Stunde wieder in das Gerätehaus ein.

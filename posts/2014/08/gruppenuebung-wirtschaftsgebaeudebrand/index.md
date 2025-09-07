@@ -1,9 +1,0 @@
----
-title: "Gruppenübung “Wirtschaftsgebäudebrand”"
-date: 2014-08-16
-layout: post
----
-
-Am Freitagabend den 15. August fand im Ortsteil Oberdorf eine allgemeine Atemschutz- sowie Gruppenübung statt. Hierbei wurde mittels zwei Atemschutztrupps ein Innenangriff vorbereitet. Das Hauptaugenmerk wurde auf die Personen- bzw. Tierrettung gelegt. Diese Aufgabe wurde durch starke Rauchentwicklung erheblich erschwert, jedoch nach kürzester Zeit konnten alle Personen erfolgreich geborgen werden. Anschließend begann die Brandbekämpfung von innen mittels HD-Hochdruckschlauch und von außen mittels C-Strahlrohren. Hierbei wurden auch die Nachbargebäude versucht abzukühlen und ein Übergreifen der Flammen zu verhindern. Während die Brandbekämpfung und Menschenrettung ihren Lauf nahm wurde sämtliches Beleuchtungsmaterial sowie die Straßenverkehrsregelung (Einbahnregelung) aufgebaut und durgeführt. Nach rund 2 Stunden konnten die 45 Mann samt TLF-A 2000, RF-A, LF-A und MTF –A die Übung erfolgreich beenden.
-Ein herzliches Dankeschön an HFM Christian Köll für die Bereitstellung des Übungsobjektes!
-Fotos und Bericht: FM Fabian Eiter

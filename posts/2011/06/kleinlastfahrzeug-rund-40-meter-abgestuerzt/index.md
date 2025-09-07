@@ -1,7 +1,0 @@
----
-title: "Kleinlastfahrzeug rund 40 Meter abgestürzt"
-date: 2011-06-22
-layout: post
----
-
-Zu einem schweren Verkehrsunfall wurde die Feuerwehr Wenns am Mittwochabend den 22. Juni um 21:11 Uhr mit der Meldung "Treibstoff/Ölaustritt klein" per Pager Kommandoschleife alarmiert. Rund drei Minuten später wurde vom Einsatzleiter OBI Reheis Norbert die Pager Sammelrufschleife nachalarmiert, da aus noch ungeklärter Ursache ein Kleinlastfahrzeug von der L16 Pitztalstraße abgekommen ist, und rund 40 Meter in einem darunter liegendem Maisfeld zum liegen kam. Der Fahrzeuginsasse kam wie durch ein Wunder mit leichten Verletzungen davon und wurde vom Roten Kreuz erstversorgt und in das Krankenhaus Zams eingeliefert. Die Aufgabe der FF Wenns bestand darin, das Fahrzeug zu sichern sowie die ausgetretenen Flüssigkeiten zu binden. Weiters wurde mit Unterstützung einer Abschleppfirma das Unfallfahrzeug geborgen. Das mit Öl verschmutze Erdreich im Maisfeld wurde von der FF Wenns abgetragen und entsorgt. Nach rund zwei Stunden konnte der Einsatz beendet werden und die Kameraden konnten den Aufbau für das Fronleichnamsfest abschließen.

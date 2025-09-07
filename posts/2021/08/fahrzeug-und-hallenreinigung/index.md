@@ -1,8 +1,0 @@
----
-title: "Fahrzeug- und Hallenreinigung"
-date: 2021-08-27
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/6098692106872530"
----
-
-Am heutigen Freitagabend den 27.August fand eine weitere Hallen- und Fahrzeugreinigung der FF Wenns statt. Alle Fahrzeuge samt Anhänger, zahlreiche Einsatzgerätschaften, die Fahrzeughalle samt Regale wurden wieder blitzblank sauber geputzt und glänzen wieder... Weiters wurden auch alle Geräte auf die Funktion überprüft, um im Einsatzfall bestens gerüstet zu sein

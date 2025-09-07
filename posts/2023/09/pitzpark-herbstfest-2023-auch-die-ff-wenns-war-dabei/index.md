@@ -1,8 +1,0 @@
----
-title: "PitzPark Herbstfest 2023 - auch die FF Wenns war dabei..."
-date: 2023-09-02
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/669527751876347"
----
-
-Neben der Atemschutzübung und Geburtstagsfeier gestern am Freitag war die Freiwillige Feuerwehr Wenns auch heute am Samstag den 02.09.2023 mit unserem TLFA 2000 samt Spritzwand beim PitzPark Herbstfest vertreten. Die Kinder hatten beim "Wasser spritzen" und "Feuerwehrauto schauen" eine große Freude und beste Unterhaltung. Bei einem umfassenden Rahmenprogramm klang der Nachmittag gemütlich aus. Danke unseren Kamerad:innen unter LM Fabian Eiter für die Abwicklung.

@@ -1,7 +1,0 @@
----
-title: "Besuch beim Winzerhaus Kattner in Niederösterreich"
-date: 2012-08-31
-layout: post
----
-
-Nach der bereits jahrelangen Bekanntschaft zum Winzerhaus Kattner folgte die FF Wenns der Einladung und verbrachte zwei super Ausflugstage im Traisental. Begonnen hat die Bekanntschaft bereits vor über 30 Jahren, welche von Kassier Anton Hubmann aufgebaut wurde. Seit dort kommt der Winzer Kattner jährlich zu unserem Fronleichnamsfest und verköstigt dort seine neuesten Produkte. Bereits letztes Jahr zu Fronleichnam wurde daher ein Gegenbesuch auf Ende August fixiert.

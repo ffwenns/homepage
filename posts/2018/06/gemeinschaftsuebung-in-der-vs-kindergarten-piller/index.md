@@ -1,8 +1,0 @@
----
-title: "Gemeinschaftsübung in der VS/Kindergarten Piller"
-date: 2018-06-29
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/2092977984110649"
----
-
-Am heutigen Freitagvormittag den 29.Juni war die FF Wenns mit TLFA 2000, MTF und einem Atemschutztrupp bei einer Übung in der Volksschule/Kindergarten Piller. Die Feuerwehr Piller war mit ihrem LFB und ebenfalls einem Atemschutztrupp vertreten. Bereits nach kurzer Zeit konnten alle Kinder aus dem Gebäude gerettet werden. Anschließend lud die FF-Piller zu einer kleinen Jause. Danke für die perfekt funktionierende Gemeinschaftsübung.

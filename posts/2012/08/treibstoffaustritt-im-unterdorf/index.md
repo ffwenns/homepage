@@ -1,7 +1,0 @@
----
-title: "Treibstoffaustritt im Unterdorf"
-date: 2012-08-17
-layout: post
----
-
-Zu einem kleinen Treibstoffaustritt wurde die FF Wenns telefonisch am 07. August um 16:50 Uhr Nachmittags in das Ortsteil Unterdorf gerufen. Eine Landwirtschaftliche Maschine verlor mehrere Liter Treibstoff, welcher von der FF Wenns rasch gebunden wurde. Nach rund einer halben Stunde konnten die Kameraden mit dem MTFA wieder einrücken.

@@ -1,7 +1,0 @@
----
-title: "Feuerwehrball 2010 in Jerzens"
-date: 2010-04-07
-layout: post
----
-
-Zum traditionellen Osterball lud das Kommando der Freiwilligen Feuerwehr Jerzens die umliegenden Feuerwehren und die Bevölkerung recht herzlich ein. Für eine super Stimmung im Gemeindesaal Jerzens war bestens gesorgt. Dies ließen sich über 15 Mitglieder der FF Wenns nicht entgehen und fuhren gemeinsam mit dem Taxi zum Ball. Neben der Feuerwehr Wenns waren auch die Feuerwehren aus Arzl, Wald, Leins, Zaunhof und sogar einige Mitglieder der Feuerwehr Silz vertreten. Das Kommando der FF Wenns möchte sich recht herzlich bei der Feuerwehr Jerzens für die super Organisation des Osterballes bedanken. Wir hoffen weiterhin ob bei Einsätzen, Übungen oder sonstigen Tätigkeiten auf eine gute Zusammenarbeit.

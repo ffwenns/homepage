@@ -1,7 +1,0 @@
----
-title: "Brandsicherheitswache und Straßendienst"
-date: 2010-12-11
-layout: post
----
-
-Bei der Jubiläumsfeier des Krippenbauverein Wenns, welcher heuer den 150. Geburtstag feiert, wurde von der FF Wenns eine Brandsicherheitswache im Turnsaal der Hauptschule Wenns abgehalten. Weiters wurde der Verkersdienst im Bereich der Pfarrkirche und bei der Hauptschule durchgeführt. Nach rund vier Stunden konnte die BSW sowie der Straßendienst ohne besonderen Vorkommnissen beendet und die Einsatzbereitschaft um 23:50 Uhr wieder hergestellt werden.

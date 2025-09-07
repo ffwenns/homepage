@@ -1,8 +1,0 @@
----
-title: "Impressionen Tag der offenen Tür bei unserer Partnerfeuerwehr Kaufering"
-date: 2018-06-19
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/2075164589225322"
----
-
-Wie bereits erwähnt besuchte eine Abordnung der FF-Wenns am Sonntag den 17. Juni den Tag der offenen Tür unserer Partnerfeuerwehr Kaufering im Landkreis Landsberg am Lech (Bayern/Deutschland). Die Feuerwehr Wenns konnte bei einer immer sehr erlebnisreichen Fahrt mit der Drehleiter sowie mit dem Fahrzeug Mercedes Unimog (selber Typ wie früher der RÜST RF der FF-Wenns) durch die Partnerfeuerwehr dabei sein. Auch die Einsatzübungen waren spektakuläre und perfekt ausgeführte Ereignisse. Ein großes Dankeschön dafür! Anbei noch einige Fotos und Impressionen vom sehr gelungen Tag der offenen Tür.

@@ -1,7 +1,0 @@
----
-title: "Neue Einsatzmittel bei einem Wasserschaden"
-date: 2013-04-10
-layout: post
----
-
-Ein Wassereintritt nach einem Unwetter, Rohrbrüche oder etwa eine abgerissene Leitung können die Ursachen für einen Wasserschaden in ihrem Wohn- bzw. Wirtschaftsgebäude sein. Darum hat die Feuerwehr Wenns gleich zwei neue Gerätschaften angekauft um solche Einsätze noch effizienter abzuarbeiten. Die alte Schmutzwasserpumpe vom Rüstfahrzeug wurde aus Altersgründen bereits letztes Jahr ausgetauscht. Um den Wasserschaden komplett zu Beseitigen wurde heuer zusätzlich ein leistungsstarker Nasssauger, welcher das Wasser zu Gänze "aufsaugen" kann, angekauft.

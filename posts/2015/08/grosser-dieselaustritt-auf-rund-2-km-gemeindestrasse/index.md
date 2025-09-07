@@ -1,7 +1,0 @@
----
-title: "Großer Dieselaustritt auf rund 2 km Gemeindestraße"
-date: 2015-08-11
-layout: post
----
-
-Am Samstagabend um 19:18 Uhr wurde die FF Wenns mittels Kommando-Schleife zu einem Treibstoffaustritt alarmiert und stand rund 3 Stunden neben dem Gemeindetraktor und der Firma Haim (Spezialfahrzeug) mit 4 Fahrzeugen im Einsatz um die Ursache zu beheben sowie den großen Dieselaustritt zu binden und die rutschige Fahrbahn zu reinigen.

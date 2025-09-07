@@ -1,7 +1,0 @@
----
-title: "Unwetter verursacht Vermurungen"
-date: 2013-09-07
-layout: post
----
-
-Ein heftiger Platzregen ging kurz vor 20 Uhr in Landeck und Zams nieder. Die Feuerwehren standen stundenlang im Dauereinsatz. Später zog das heftige Unwetter weiter in Richtung Pitztal. In Wenns traten mehrere Bäche über die Ufer und kleine Murenabgänge mussten von der telefonisch alarmierten Mannschaft beseitigt werden. Weiters waren Abflüsse verstopft und es kam zu einer Verklausung. Die Mannschaft konnte um 23:00 Uhr wieder in das Gerätehaus einrücken.

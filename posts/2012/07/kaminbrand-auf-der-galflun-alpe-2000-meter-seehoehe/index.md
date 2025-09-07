@@ -1,7 +1,0 @@
----
-title: "Kaminbrand auf der: Galflun Alpe - 2000 Meter Seehöhe"
-date: 2012-07-01
-layout: post
----
-
-Zu einem Kaminbrand auf der Galflun Alpe (knapp 2000 Meter Seehöhe) wurde die Freiwillige Feuerwehr Wenns am Sonntagabend den 01. Juli per Sirene und Pager um 17:44 Uhr alarmiert. Da die FF Wenns bereits mehrmals in den vergangenen Jahren zu einem Einsatz zur Galflun Alpe alarmiert wurde, war die schwierige Einsatzlage bekannt. Neben der Meldung, das meterhohe Flammen aus dem Kamin schlagen, den langen Anfahrtsweg und vorallem dem Wassermangel in der Nähe der Alpe, wurde vom Einsatzleiter zusätzlich der Sirenenalarm ausgelöst. Nach wenigen Minuten waren alle Fahrzeuge ausgerückt und konnten den gemeldeten Einsatzort auf 1960 Meter rasch erreichen. Beim Eintreffen konnte der Brand rasch gelöscht werden. Mit der Wärmebildkamera wurde die Lage kontrolliert und das gesamte Ofenmaterial geleert sowie das Kaminrohr gesäubert. Nach rund einer Stunde konnte der Kaminbrand völlig abgelöscht werden und nach Rücksprache mit dem Rauchfangkehrer sowie Kontrolle des gesamten Gebäudes rückte die FF Wenns wieder ein.

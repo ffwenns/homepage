@@ -1,7 +1,0 @@
----
-title: "Brandgeruch im Freien - Richtung Larcheralm"
-date: 2013-09-18
-layout: post
----
-
-Zum zweiten Einsatz an diesem Tag wurde die Feuerwehr Wenns um 13:39 Uhr mit der Meldung "Brandgeruch im Freien - Richtung Larcheralm im Wald" mittels Pager und Sirene alarmiert. Nach Rücksprache mit der Leitstelle Tirol rückte die FF Wenns wenige Minuten nach der Alarmierung mit MTF-A und TLFA 2000 zur rund 2000 Meter hoch gelegenen Galflunalpe aus. Beim Eintreffen des MTF am Einsatzort wurde festgestellt dass die enorme Rauchentwicklung durch kontrolliert, angezündete Sträucher entstand. Nach der genauen Kontrolle und kleinen Ablöscharbeiten konnte der Einsatz nach rund einer Stunde beendet werden. Der anwesende Landwirt blieb zur Kontrolle bis alle Sträucher komplett abgebrannt waren am Einsatzort.

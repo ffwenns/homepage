@@ -1,8 +1,0 @@
----
-title: "Brandmeldealarm durch Schweißarbeiten"
-date: 2017-05-22
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/1553511148057338"
----
-
-Beim 30. Einsatz im Jahr 2017 wurden wir heute Nachmittag um 16:24 Uhr mittels Piepser zu einem Brandmeldealarm zum GH Pitztalerhof alarmiert. Die BMA schlug aufgrund von Schweißarbeiten und der dadurch entstandenen Rauchentwicklung Alarm. Glücklicherweise konnte kein Brandgeschehen aufgefunden werden. Nach der Kontrolle vor Ort rückte die FF Wenns wieder in das Gerätehaus ein.

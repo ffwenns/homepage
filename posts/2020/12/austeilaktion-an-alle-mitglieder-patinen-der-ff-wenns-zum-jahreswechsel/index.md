@@ -1,9 +1,0 @@
----
-title: "Austeilaktion an alle Mitglieder & Patinen der FF-Wenns zum Jahreswechsel"
-date: 2020-12-30
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/4929374543804298"
----
-
-Passend zum Jahreswechsel teilte das Kommando der Feuerwehr Wenns als Dankeschön für die gute Zusammenarbeit im vergangenen Jahr an alle Mitglieder und Fahrzeug-/Fahnenpatinnen ein kleines Präsent aus. Dieses soll als kleine Aufmunterung dienen, da man im Jahr 2020 fast gänzlich auf kameradschaftliche Feste und Zusammenkünfte verzichten musste. Für die unter 20-Jährigen wurden Süßigkeiten, für die über 20-Jährigen ein passendes "Neujahrschnapsflascherl" mit dem Jahresbericht (Jahresrückblick) 2020 verteilt. 
-Die Verteilung erfolgte unter Einhaltung der aktuell geltenden COVID-19 Vorschriften im Zuge eines gemütlichen Spaziergangs.

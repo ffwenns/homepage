@@ -1,7 +1,0 @@
----
-title: "Großer Steinschlag im Ortsteil Larchach"
-date: 2010-08-05
-layout: post
----
-
-Die Feuerwehr Wenns wurde am Mittwochabend telefonisch zu einem Steinschlag im Ortsteil Larchach, wo große Steine zu Tal gedonnert sind alarmiert. Die Gesteinsblöcke hatten bereits ein Bienenhaus erfasst, welches ca. 20 Meter unterhalb des früheren Standortes lag. Auf Anforderung der Gemeinde wurde die Lage erkundet und die Straße unterhalb gesperrt. Der gesamte Hang wird von einer Geologin beurteilt und das weitere Vorgehen der Feuerwehr und Gemeinde entschieden. Die FF Wenns welche mit 7 Mann ausgerückt war konnte nach rund einer Stunde wieder einrücken.

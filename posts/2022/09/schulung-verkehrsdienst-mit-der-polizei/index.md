@@ -1,8 +1,0 @@
----
-title: "Schulung Verkehrsdienst mit der Polizei"
-date: 2022-09-29
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/8191634314244955"
----
-
-21 Mann der FF Wenns nahmen heute am Abend den 29.September an der Schulung des Abschnitt Pitztal im Gemeindesaal Arzl teil. Der Bezirksbrandermittler GI Robert Eiter von der Polizei führte die Schulung zum Thema "Verkehrsdienst - Zusammenarbeit Polizei und Feuerwehr" durch. Nach rund zwei Stunden ging die Schulung, welche auch als Voraussetzung für Verkehrsdienste gilt, zu Ende.

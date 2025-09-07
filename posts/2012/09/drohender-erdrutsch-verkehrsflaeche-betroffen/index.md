@@ -1,7 +1,0 @@
----
-title: "Drohender Erdrutsch: Verkehrsfläche betroffen"
-date: 2012-09-15
-layout: post
----
-
-Zu einem Felssturz wurde das Kommando der FF Wenns am Samstagabend den 15. September telefonisch in das Ortsteil Larchach gerufen. Mehrere Kubikmeter Fels und Gestein rutschten ab und bedrohten einen darunter liegenden Güterweg. Nach der Begutachtung durch die Feuerwehr und die Gemeinde Wenns konnte vorerst Entwarnung gegeben werden. Die Lage wird von einem Geologen in den kommenden Tagen beurteilt. Für die Wohnsiedlung besteht vorerst keine Gefahr.

@@ -1,7 +1,0 @@
----
-title: "Baum- und Waldbodenbrand nach einem Blitzeinschlag"
-date: 2011-08-21
-layout: post
----
-
-Nach einem Wespennesteinsatz und einer Fahrbahnreinigung in den Pitzenhöfen wurde die FF Wenns am Sonntag den 21. August um 18:34 Uhr mittels Sammelruf zu einem weiteren Einsatz alarmiert. Die Meldung der Leitstelle Tirol lautete: SAMMELRUF: Kleiner Brand im Freien, Venetalpe, Wenns - Samnaungruppe im Bereich Jägerstand Venet. Nach wenigen Minuten rückte die Feuerwehr Wenns mit TLFA 2000 und LF-A zum genannten Einsatzort auf über 1900 Meter Seehöhe aus. Im Wald unterhalb der Venetalpe schlug vor drei Tagen, nach einem heftigen Unwetter, ein Blitz in einen Baum ein. Ein Wanderer konnte heute eine starke Rauchentwicklung in diesem Gebiet wahrnehmen und informierte die Leitstelle Tirol. Der brennende Baum- und Waldbodenbrand konnte von der FF Wenns nach rund einer Stunde gelöscht sowie der Baum gefällt werden.

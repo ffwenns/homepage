@@ -1,7 +1,0 @@
----
-title: "Wespennesteinsatz gemeinsam mit der FF Piller"
-date: 2011-07-06
-layout: post
----
-
-Am Mittwochabend den 06. Juli wurde die FF Wenns telefonisch zu einem weiteren Wespennest zur Unterstützung der FF Piller gerufen. Bei einem Einfamilienhaus am Piller musste von der Feuerwehr Wenns und Piller ein Wespennest entfernt werden. Nach rund einer halben Stunde konnte das Nest erfolgreich entfernt werden und die Feuerwehren konnten wieder einrücken.

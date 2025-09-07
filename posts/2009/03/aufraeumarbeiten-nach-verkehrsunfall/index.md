@@ -1,7 +1,0 @@
----
-title: "Aufräumarbeiten nach Verkehrsunfall"
-date: 2009-03-26
-layout: post
----
-
-Aufgrund eines Autounfalls im Unterdorf wurde die FF Wenns am 26. März um zum binden einer Ölspur gerufen. Nach Telefonischer Alarmierung rückten drei Mitglieder mit dem Rüstfahrzeug zum genannten Einsatzort aus. Da das beschädigte Auto nicht mehr fahrtüchtig war, musste es von einem KFZ Händler abgeschleppt werden. Auf diesem Weg zur KFZ Werkstätte verlor der PKW weiter Öl. Die lange Ölspur vom Unfallort bis zur Pfarrkirche und der Ölaustritt beim Unfallort wurde mittels Ölbindemittel gebunden. Nach einer Stunde konnte die alarmierte Mannschaft den Einsatz beenden und die Einsatzbereitschaft wieder herstellen.

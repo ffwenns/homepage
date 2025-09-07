@@ -1,7 +1,0 @@
----
-title: "Arbeitseinsatz: Verkehrsdienst bei Viehausstellung"
-date: 2011-04-10
-layout: post
----
-
-Am 10. April wurde von acht Mann der Feuerwehr Wenns der Verkehrsdienst bei der Jubiläumsausstellung des Grauviehverbandes durchgeführt. Die Aufgaben der FF Wenns bestanden darin, den Straßenverkehr auf der L17 Pillerstraße im Ortsteil Ofen (Tobadillerhof) zu regeln sowie den Parkplatzdienst zu unterstützen. Nach rund acht Stunden (08:00 bis 16:00 Uhr) konnten die Mitglieder wieder in die Feuerwehrhalle einrücken und den Einsatz beenden. Neben dem Verkehrsdienst waren auch einige Kameraden der FF Wenns bei der Ausstellung ihrer Tiere erfolgreich!

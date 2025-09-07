@@ -1,7 +1,0 @@
----
-title: "Atemschutzübung"
-date: 2010-08-06
-layout: post
----
-
-Am Freitag den 06. August 2010 wurde von der Gruppe 5 unter Gruppenkommandant BM Gundolf Stefan und Atemschutzbeauftragter BM Krug Robert eine Atemschutzübung im Ortsteil Langenau abgehalten. Bereits vor zwei Wochen fand eine Atemschutzübung mit den neuen Atemschutzgeräten statt. Bei dieser Übung am Freitag wurde ein Gebäudebrand mit mehreren vermissten Personen im Ortsteil Langenau angenommen. Dabei mussten die zwei Atemschutztrupps im total verrauchten Stallgebäude die vermissten Personen suchen und anschließend bergen. Nach zwei Stunden ging die Übung zum gemütlichen Teil über.

@@ -1,8 +1,0 @@
----
-title: "\"Person eingeklemmt\" - war die ÜBUNGSANNAHME am gestrigen Donnerstagabend"
-date: 2017-08-04
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/1648274185247700"
----
-
-Die Gruppen 5 und 6 unter der Leitung von ZKDT OBM Robert Krug übten gestern am Abend im Recyclinghof der Gemeinde Wenns den Ernstfall. Die Übungsannahme für die 19 Mann, welche mit drei Fahrzeugen ausrückten, war eine eingeklemmte und verletzte Person unter einem Container. Mittels Hebekissen des RF konnte die Person rasch geborgen werden. Weiters wurden die Kameraden auch auf das neue Rüstfahrzeug eingeschult. Die lehrreiche Übung konnte nach rund zwei Stunden erfolgreich beendet werden.

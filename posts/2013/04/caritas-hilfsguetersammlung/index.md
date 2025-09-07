@@ -1,7 +1,0 @@
----
-title: "Caritas-Hilfsgütersammlung"
-date: 2013-04-19
-layout: post
----
-
-Am Freitag den 19. sowie am Samstag den 20. April fand in Wenns eine Hilfsgütersammlung der Caritas für die Diözese Satu Mare in Rumänien statt. In der Zeit von 13 - 17 Uhr konnte die Bevölkerung alte Kleidungsstücke, Lebensmittel, Elektronikwaren sowie Haushaltsartikel etc., für diese Hilfsaktion spenden. Auch die FF-Wenns war am Freitag mit 5 Mann vertreten und unterstützte die Helfer tatkräftig beim Aufladen der teils schweren Güter. Um 17 Uhr wurden die zwei komplett gefüllten Container verschlossen und können somit die Reise nach Rumänien antreten und dort hilfsbedürftige Menschen unterstützen.

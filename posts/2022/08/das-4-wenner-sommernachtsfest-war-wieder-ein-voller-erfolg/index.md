@@ -1,8 +1,0 @@
----
-title: "Das 4. Wenner Sommernachtsfest war wieder ein voller Erfolg"
-date: 2022-08-14
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/7973188106089578"
----
-
-Eine schöne Kulisse im Wenner Unterdorf, hunderte Besucher und eine tolle Stimmung. Das 4.Wenner Sommernachtsfest war wieder ein voller Erfolg. Bei sieben Ständen war für jeden Geschmack etwas dabei, von der Cocktailbar bis zur Weinlaube. Neben der MK Wenns sorgte die Gruppe Bergalarm für tolle Stimmung. Mitdabei auch die FF Wenns, welche neben den Absperrmaßnahmen, eine Bar vor der Bunkerbar am Samstag auch die Reinigung mittels TLFA vom Autoplatz bis zur Pfarrkirche samt Müllentsorgung am Sonntag übernahm.

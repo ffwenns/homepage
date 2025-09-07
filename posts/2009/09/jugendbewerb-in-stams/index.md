@@ -1,7 +1,0 @@
----
-title: "Jugendbewerb in Stams"
-date: 2009-09-16
-layout: post
----
-
-Am Samstag den 12. September 2009 lud die Feuerwehr Stams zu einem Jugendbewerb anlässlich ihrer Fahrzeugweihe ein. Die FF Wenns war mit 3 Gruppen zu je 2 Mann der Jugendfeuerwehr bei diesem Bewerb vertreten. Bei diesem Jugendbewerb mussten Schläuche ausgezogen, Hindernisse bewältigt, Knoten angefertigt und mit einer Kübelspritze auf eine Wasserwand gespritzt werden. Die Jugendgruppe der FF Wenns platzierte sich im Mittelfeld. Wir möchten noch der Feuerwehr Stams für die super Durchführung des Jugendbewerbes und für das neue Einsatzfahrzeug (MTF-A) gratulieren.

@@ -1,7 +1,0 @@
----
-title: "Aufräumungsarbeiten nach Verkehrsunfall"
-date: 2009-03-21
-layout: post
----
-
-Aufgrund eines Verkehrsunfalls gestern Nacht in Blons wurde die FF Wenns heute Vormittag zum binden einer Ölspur gerufen. Nach Telefonischer Alarmierung rückten einige Mitglieder unserer Wehr mit TLFA 2000 zum genannten Einsatzort aus. Die Ölspur wurde mittels Ölbindemittel gebunden und anschließend wurde noch mit dem HD Schlauch die Straße gereinigt. Nach einer halben Stunde konnte die alarmierte Mannschaft den Einsatz beenden und die Einsatzbereitschaft wieder herstellen.

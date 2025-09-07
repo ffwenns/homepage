@@ -1,7 +1,0 @@
----
-title: "Wespennest in Brennwald entfernen!"
-date: 2009-07-02
-layout: post
----
-
-Zu einem Wespennesteinsatz wurde die FF Wenns am 2. Juli um 19:30 Uhr gerufen. In einem Familienhaus im Ortsteil Brennwald (Fam. Scheiber) war unter dem Dach ein Wespennest zu beklagen. Da sich das Nest direkt über den Zimmerfenster hielt, wurde die FF Wenns gebeten dieses Nest zu vernichten. Die Wespen wurden von drei Mitgliedern beseitigt und so konnte die ausgerückte Mannschaft den Einsatz nach rund 1 Stunde wieder beenden.

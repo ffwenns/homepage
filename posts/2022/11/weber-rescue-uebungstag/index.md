@@ -1,8 +1,0 @@
----
-title: "Weber Rescue Übungstag"
-date: 2022-11-18
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/8426684057406645"
----
-
-Übung macht den Meister und die Bilder dazu sagen mehr als 1000 Worte. Am vergangenen Samstag den 12.November fand ein sehr lehrreicher und interessanter Übungstag der FF Wenns statt. Im Rahmen des "Weber Rescue Teamtraining" könnten nach der Theorie am Vormittag am Nachmittag die unterschiedlichsten Bergemöglichkeiten bei Verkehrsunfällen mit eingeklemmten Personen beübt werden. Es war ein toller und lehrreicher Tag für die 22 teilnehmenden Kameraden (Ausschussmitglieder und Gemeindebediensteten). Danke an alle teilnehmenden Kameraden, den beiden Trainer von Weber Hydraulik für die tolle Abwicklung und an unser Mitglied Chris Walch für die Fotos. Danke auch an Jackys Pizzagrill für das super Mittagessen.

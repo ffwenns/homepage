@@ -1,7 +1,0 @@
----
-title: "Partnerfeuerwehr Kaufering auf Besuch"
-date: 2010-01-24
-layout: post
----
-
-Eine kleine Abordnung von unserer Partnerfeuerwehr Kaufering aus Bayern (Deutschland) war am Abend des 23. Jänner 2010 zu Gast in der Feuerwehrhalle Wenns. Aufgrund einer Fahrzeugweihe unserer Partnerfeuerwehr luden uns die Kameraden ein, um bei der Einweihung nach Kaufering zu kommen. Der gemütliche Abend in der Feuerwehrhalle stärkte die gute Partnerschaft und die FF Wenns wird sicherlich mit einigen Mitgliedern bei Fahrzeugweihe in Kaufering teilnehmen.

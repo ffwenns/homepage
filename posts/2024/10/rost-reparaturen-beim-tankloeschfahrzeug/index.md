@@ -1,8 +1,0 @@
----
-title: "Rost Reparaturen beim Tanklöschfahrzeug"
-date: 2024-10-22
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/924402713055515"
----
-
-Aufgrund massiver Rostschäden am Tanklöschfahrzeug, reparierten unsere engagierten Beauftragten (Obermaschinist LM Simon Siller, Stv. HLM Martin Siller und Gerätewart LM Mathias Kirschner) diese am vergangenen Samstag, den 19. Oktober 2024 in den Räumlichkeiten der ASFINAG Imst. Vielen Dank an die ASFINAG für die Räumlichkeiten und an unsere Kameraden für die perfekten Arbeiten. Das neue Tanklöschfahrzeug ist bereits bestellt und wird im Feber 2026 in Wenns eintreffen.

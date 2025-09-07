@@ -1,7 +1,0 @@
----
-title: "Bezirksnasswettbewerbe in Telfs und Schnifis"
-date: 2012-07-16
-layout: post
----
-
-Zum Abschluss der "Bewerbssaison - Löschangriff" nahm die Gruppe Wenns I am Samstag den 14. Juli gleich bei zwei Bezirksnasswettbewerben teil. Beim Bezirksnasswettbewerb in Telfs kamen zu einer guten Angriffszeit lediglich noch fünf Strafpunkte hinzu. Nach dem Bewerb in Telfs ging es gleich weiter nach Schnifis (Vorarlberg). Die Ortsfeuerwehr Schnifis welche uns beim Landeswettbewerb in Satteins einlud veranstaltete den Bezirksnasswettbewerb für die Bezirke Dornbirn und Feldkirch. In unserem Nachbarbundesland konnten wir neuerlich einen guten Bewerb ablegen und wir platzierten den 3. Platz in der Gästeklasse.

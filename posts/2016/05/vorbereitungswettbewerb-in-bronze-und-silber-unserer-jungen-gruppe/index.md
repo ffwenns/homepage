@@ -1,8 +1,0 @@
----
-title: "- Vorbereitungswettbewerb in Bronze und Silber unserer jungen Gruppe"
-date: 2016-05-23
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/1117004321708025"
----
-
-Am vergangenen Samstag den 21. Mai nahm unsere junge Gruppe beim Vorbereitungswettbewerb in Huben im Ötztal teil. Unsere neuen jungen Kameraden, welche heuer auch im Bewerb um das Leistungsabzeichen in Bronze und Silber in St. Anton am Arlberg antreten werden, erzielten super Leistungen. Bei ihrem ersten Wettbewerb im Ötztal konnten sie im Silberdurchgang sogar einen fehlerfreien Bewerb absolvieren. Danke an die Betreuer ABI Siegfried Fadum und OBM Krug Robert für ihre Arbeit und Ausbildung unserer jungen Kameraden! 

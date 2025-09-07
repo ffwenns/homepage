@@ -1,7 +1,0 @@
----
-title: "Tierrettung: Katze sitzt auf Baum fest"
-date: 2012-06-03
-layout: post
----
-
-Während eine Gruppe beim Vorbereitungswettbewerb in Huben am Start stand wurde das Kommando von der Polizei Wenns zu einer Tierrettung gerufen. Eine junge Katze saß auf einen über fünf Meter Hohen Baum fest und kam selbständig nicht mehr runter. Nach rund einer halben Stunde konnte das Tier erfolgreich geborgen und den Besitzer wohlauf und unverletzt übergeben werden.

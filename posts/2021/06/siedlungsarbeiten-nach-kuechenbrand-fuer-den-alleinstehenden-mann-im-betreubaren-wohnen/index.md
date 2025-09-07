@@ -1,8 +1,0 @@
----
-title: "Siedlungsarbeiten nach Küchenbrand für den alleinstehenden Mann im betreubaren Wohnen"
-date: 2021-06-06
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/5693987227343022"
----
-
-Während der 73jährige Mann noch im Krankenhaus ist, wurde nach Rücksprache mit seinem Sohn, welcher in Deutschland lebt und erst morgen Mittags anreisen kann, die Siedlungsarbeiten mit einer Nichte des Mannes gestartet. In der durch den Brand in mitleidenschaft gezogenen Wohnung, wurden die Siedlungsarbeiten der größeren Einrichtungen durch die FF Wenns übernommen. Bis die durch den Brandschaden beschädigte Wohnung komplett saniert ist, kommt der Gemeindebürger in eine Ersatzunterkunft im unteren Wohnblock unter. Nach rund zwei Stunden konnte die Hilfeleistung der FF Wenns mit 9 Mann und dem Rüstfahrzeug erfolgreich beendet werden.

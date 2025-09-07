@@ -1,7 +1,0 @@
----
-title: "Fronleichnamsprozession mit anschließendem Fest"
-date: 2013-05-31
-layout: post
----
-
-Am Donnerstag dem 30. Mai fand der traditionelle Fronleichnamsumgang mit anschließendem Fest der Freiwilligen Feuerwehr Wenns beim Pavillon statt. Nach der Fronleichnamsprozession konnte die FF Wenns wieder ein bestens besuchtes Fest abhalten. Vom Schnitzel bis zum Kuchen und sogar eine Weinverkostung der Firma Kattner aus Niederösterreich konnten die Besucher genießen. Neben der Teilnahme der gesamten Mannschaft bei der Prozession, dem gesamten Straßendienst im Ortsgebiet bis zu einigen Fahnenträger war die Feuerwehr Wenns mit über 50 Mitgliedern vertreten. Das Fronleichnamsfest 2013 ging trotz kurzzeitigen Regenschauern gemütlich über die Bühne.

@@ -1,7 +1,0 @@
----
-title: "40. Geburtstag von Kassier OV Roland Thöny"
-date: 2012-07-28
-layout: post
----
-
-Unser Kassier OV Roland Thöny feierte am Freitagabend den 28. Juli seinen 40. Geburtstag. Der Auschuss gratuliert recht herzlich und überbrachte die Geschenke und Glückwünsche der Feuerwehr Wenns. Auch seine Frau Petra feierte ihren 40er und darum wurde im aufgebauten Zelt ordentlich gefeiert. Die Alpen Rowdies sorgten für eine super Stimmung und Unterhaltung. Die FF Wenns bedankt sich bei Roland und Petra für die gelungene Feier und wünscht alles alles Gute vorallem viel Gesundheit. Auch für den Feuerwehrnachwuchs der FF Wenns hatte Roland gut gesorgt, mit 4 Feuerwehrmänner im Haus kann sich Petra wohl sicher fühlen! ;)

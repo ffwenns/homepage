@@ -1,9 +1,0 @@
----
-title: "Technische Probe mit der Rettung Imst"
-date: 2009-06-13
-layout: post
----
-
-Am Freitag den 12. Juni 2009 stand eine Technische Übung mit der Rettung Imst auf dem Programm. Über 23 Mann der FF Wenns waren bei der Übung die von OLM Krug Robert vorbereitet wurde anwesend. Übungsannahme war ein Schwerer Verkehrsunfall mit einer eingeklemmten Person zwischen Wenns und Piller. Zwei Mitglieder der Rettung erklärten uns zuvor in der Feuerwehrhalle diverse Bergungsmöglichkeiten mit speziellen Geräten. Um ca. 20:30 Uhr rückten dann alle Fahrzeuge und die Rettung Imst zum genannten Einsatzort aus. Am Einsatzort wurde sofort die Straßenabsicherung und Beleuchtung aufgebaut. Weiters wurde mittels Stab Fast das Fahrzeug abgesichert. Mit dem hydraulischen Rettungsgerät (Bergeschere und Spreizer) wurde das Dach weggeschnitten und so konnten die Rettungs- und Feuerwehrmitglieder den Patienten aus dem Fahrzeug bergen.
-
-Es war eine sehr informative und interessante Übung mit der Rettung Imst, und darum möchten wir uns recht herzlich bei unserem Mitglied BI Schranz Peter für die Organisation und bei dem Rettungspersonal Koler Anton und Egger Lukas für die super Zusammenarbeit bedanken.

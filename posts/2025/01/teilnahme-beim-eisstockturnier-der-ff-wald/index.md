@@ -1,8 +1,0 @@
----
-title: "Teilnahme beim Eisstockturnier der FF Wald"
-date: 2025-01-25
-layout: post
-facebook_url: "https://facebook.com/ffwenns/posts/991827339646385"
----
-
-Gestern am Freitag, den 24.Jänner 2025 nahm auch eine Gruppe der FF Wenns beim Eisstockturnier unserer Kameraden der Freiwillige Feuerwehr Wald im Pitztal teil. Es war ein äußerst kameradschaftlicher und schöner Abend und wir bedanken uns ganz herzlich für die Einladung.

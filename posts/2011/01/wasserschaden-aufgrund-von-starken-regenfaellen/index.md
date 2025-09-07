@@ -1,7 +1,0 @@
----
-title: "Wasserschaden aufgrund von starken Regenfällen"
-date: 2011-01-13
-layout: post
----
-
-Am Donnerstagvormittag den 13. Jänner um 09:25 Uhr wurde die Feuerwehr Wenns telefonisch zu einem Wasserschaden alarmiert. Ein Parkplatz welcher ca. 40 cm unter Wasser stand musste mit der neuen Schmutzwasserpumpe des Rüstfahrzeuges trocken gelegt werden. Nach rund 2 Stunden wurde der Wasserschaden beseitigt und die ausgerückten Kameraden unter Einsatzleiter OLM Röck Günther konnten den Einsatz beenden.

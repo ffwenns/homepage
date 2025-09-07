@@ -1,7 +1,0 @@
----
-title: "Technische Hilfeleistung"
-date: 2009-05-20
-layout: post
----
-
-Am Mittwoch den 20. Mai 2009 wurden 4 Kameraden telefonisch zu einer Technischen Hilfeleistung alarmiert. Grund dafür war, dass eine sehr schwer behinderte Frau für die dringend notwendige Wassertherapie ein Becken benötigte. Darauf hin rückten wir mit TLFA 2000 aus und waren beim Aufbau bzw. füllen des Beckens mittels B- Schlauch behilflich. Die Frau kann durch die rasche Hilfe der Feuerwehr bereits in den nächsten Tagen mit der Therapie beginnen. Nach ca. 1 Stunde konnten wir wieder einrücken.

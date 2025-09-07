@@ -1,8 +1,0 @@
----
-title: "Nachwuchs - Wir Gratulieren zur kleinen Jana"
-date: 2012-12-23
-layout: post
----
-
-Am Sonntag den 23. Dezember wurde unser Kamerad FM Lechthaler Michael und seine Yvonne vom Storch der Feuerwehr Wenns besucht und bekamen von ihm die kleine Jana! Die Feuerwehrkameraden rund 15 Mann waren am Sonntagabend beim "Storch aufstellen" und überbrachten die Glückwünsche der FF Wenns.
-Die Freiwillige Feuerwehr Wenns wünscht unserem Kamerad FM Lechthaler Michael sowie seiner Yvonne und natürlich der kleinen Jana alles Gute und viel Glück für die Zukunft!

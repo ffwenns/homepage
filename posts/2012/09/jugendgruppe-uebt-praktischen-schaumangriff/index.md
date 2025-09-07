@@ -1,7 +1,0 @@
----
-title: "Jugendgruppe übt praktischen Schaumangriff"
-date: 2012-09-09
-layout: post
----
-
-Am Samstag den 08. September übte die Jugendgruppe unter der Leitung von OLM Bregenzer Andreas und FM Larcher Markus, einen praktischen Schaumangriff. Der Jugendgruppe wurde der Aufbau einer Schaumleitung zuerst genau erklärt und später praktisch durchgeführt. Anschließend wurde der "gelegte" Schaumteppich mittels Dachmonitor verdünnt und entfernt. Die Übung konnte nach rund 2 Stunden erfolgreich beendet werden.

@@ -1,7 +1,0 @@
----
-title: "Schulungsabend"
-date: 2013-03-02
-layout: post
----
-
-Am Freitagabend den 01. März fand im Gerätehaus der FF-Wenns, eine Technische Schulung für einen Teil der Technischen Gruppe unter der Leitung von Zkdt. BM Robert Krug statt. Hierbei wurden verschiedene Themen mittels einer Präsentation vorgeführt und besprochen. Im Mittelpunkt standen die technischen Schritte bei einem Verkehrsunfall sowie verschiedene Airbag-Arten und Autokarosserien. Weiters wurde die Einsatztaktik bei einem Verkehrsunfall besprochen. Nach rund 2 Stunden konnte die Schulung zum gemütlichen Teil übergehen.

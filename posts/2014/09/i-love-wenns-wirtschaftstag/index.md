@@ -1,7 +1,0 @@
----
-title: "I Love Wenns – Wirtschaftstag"
-date: 2014-09-07
-layout: post
----
-
-Beim 5. I Love Wenns - Wirtschaftstag der einheimischen Betriebe beteiligte sich die Feuerwehr Wenns mit einer Vorführung der gesamten Fahrzeuge sowie der Ausrüstung. Durch den Ortswechsel der Veranstaltung in das Musikpavillion wurde unser Feuerwehrzelt den ganzen Tag für Besucher und Interessierte geöffnet. Die Feuerwehr Wenns kann auf ein zahlreiches Interesse seitens den Besuchern zurückblicken. Viele Kinder die uns besuchten weichten fast keine Sekunde von den Feuerwehrfahrzeugen und somit war es für unsere vorhandene Mannschaft ein recht ausgebuchter Tag. Jedoch um zirka 20:30 schlossen auch wir unsere Zelttore um in den gemütlichen Teil über gehen zu können.

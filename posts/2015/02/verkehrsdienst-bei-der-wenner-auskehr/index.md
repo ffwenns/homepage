@@ -1,9 +1,0 @@
----
-title: "Verkehrsdienst bei der Wenner Auskehr"
-date: 2015-02-17
-layout: post
----
-
-Am Samstag den 14. Februar fand die Wenner Auskehr 2015 statt. Die Auskehr wird immer zur Halbzeit bis zur nächsten Fasnacht durchgeführt. Das ganze Dorf war wieder in aufschwingendem "Fasnachtsfieber", wovon jeder Besucher einiges davon abbekam. Auch die FF-Wenns war vor Ort um die Flüssigkeit des starken Verkehrs während der Auskehr aufrecht zu erhalten. Nach rund 4 Stunden konnte die Verkehrsregelung erfolgreich beendet werden.
-
-Mehr Infos und Bilder zur Wenner - Auskehr 2015 unter: www.facebook.com/wennerfasnacht

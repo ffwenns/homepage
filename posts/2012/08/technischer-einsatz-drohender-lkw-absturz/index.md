@@ -1,7 +1,0 @@
----
-title: "Technischer Einsatz: Drohender LKW Absturz"
-date: 2012-08-02
-layout: post
----
-
-Am Donnerstagnachmittag den 02. August um 15:37 Uhr wurde die FF Wenns mittels Pager SAMMELRUF zu einem drohenden LKW Absturz nach Brennwald alarmiert. Ein über 25 Tonnen vollgeladener LKW drohte unterhalb einer Forststraße umzustürzen und in weiterer Folge über die angrenzende Böschung abzustürzen. Die FF Wenns welche sofort  zur Unfallstelle ausrückte, sicherte den LKW mittels Hubzug und RF-A (6 Tonnen Winde). Durch die drohende Um- und Absturzgefahr, die missliche Lage unterhalb eines zwei Hektar großen Maisfeldes sowie durch das Gewicht des LKW´s wurde vom Einsatzleiter zusätzlich der Spezial Kran (30 Tonnen Winde) der Firma Haim aus Zams angefordert. In weiterer Folge wurde der LKW mit zwei weiteren Traktoren (10 Tonnen Winden) von ausgerückten Feuerwehrkameraden (OLM Röck Günther und OFM Gundolf Mathias) nach oben hin gesichert. Durch abwechselndes anziehen aller vier Winden (zwei nach oben und zwei nach vorne) konnte der LKW ohne Schaden geborgen und auf die Straße zurück gebracht werden. Nach rund drei Stunden rückten die Einsatzkräfte nach der erfolgreichen Bergungsaktion wieder in die Feuerwehrhalle ein.

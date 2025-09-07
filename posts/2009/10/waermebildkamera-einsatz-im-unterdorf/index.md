@@ -1,7 +1,0 @@
----
-title: "Wärmebildkamera Einsatz im Unterdorf"
-date: 2009-10-15
-layout: post
----
-
-Zu einem Wärmebildkamera Einsatz aufgrund einer starken Rauchentwicklung wurde die Feuerwehr Wenns am Donnerstag den 15. Oktober 2009  um 12:30 Uhr telefonisch alarmiert. Unser Obermaschinist wurde über eine starke Rauchentwicklung im Dachbereich bei einem Haus im Unterdorf informiert. Sofort rückten einige Mitglieder der FF Wenns aus um Nachschau zu halten. Die Ursache der Rauchentwicklung war ein leicht beschädigter Kamin im Dachbereich. Nach mehreren Kontrollen mit der Wärmebildkamera konnte der 46. Einsatz im Heurigen Jahr beendet werden.

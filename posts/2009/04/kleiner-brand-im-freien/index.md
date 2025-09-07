@@ -1,9 +1,0 @@
----
-title: "Kleiner Brand im Freien"
-date: 2009-04-09
-layout: post
----
-
-Zu einem Brandeinsatz wurde die Feuerwehr Wenns und Jerzens am 09. April 2009 um 21:04 Uhr alarmiert. Die Meldung lautete: SAMMELRUF kleiner Brand im Freien, Wenns, Pitzenhöfe. Der Grund dass die Feuerwehr Jerzens alarmiert wurde war, dass unser TLFA 2000 in der Werkstatt ist. So rückte die FF Wenns und die FF Jerzens zum genannten Einsatzort aus. Die Mannschaft der FF Wenns legte eine Schlauchleitung vom Pitzenbach zum kleinen Brandobjekt. Die Kammeraden aus Jerzens löschten mit dem HD Schlauch vom RLFA 2000 das kleine Brandobjekt. Die Mannschaft der FF Wenns löschte zum Schluss die letzten Glutnester mit der aufgebauten Zubringerleitung. Da es sich lediglich um einen kleinen Brand handelte, konnte dieser gleich bekämpft werden und beide Feuerwehren rückten nach einer Stunde zu einem gemeinsamen Getränk in die Feuerwehrhalle Wenns ein. Der Grund dieses Brandes wo einige Sträucher brannten ist noch unklar.
-
-Bei diesem Einsatz hat man einmal gesehen, dass wenn ein Feuerwehrfahrzeug außer Dienst gesetzt wird sofort die Nachbarfeuerwehr alarmiert wird. Wir danken unserer Nachbarfeuerwehr Jerzens für den raschen Einsatz.
