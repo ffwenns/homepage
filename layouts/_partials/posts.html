@@ -52,7 +52,7 @@
             sizes="(max-width: 767px) calc(100vw - 2rem), (max-width: 1279px) calc((100vw / 2) - 3rem), calc((1440px / 3) - 2rem)"
             width="{{ $image.Width }}"
             height="{{ $image.Height }}"
-            class="aspect-3/2 object-cover"
+            class="aspect-3/2 object-cover object-top"
             loading="{{ $loadingAttr }}"
             alt="{{ $post.Title }}"
             {{ if $fetchpriorityAttr }}fetchpriority="{{ $fetchpriorityAttr }}"{{ end }}
