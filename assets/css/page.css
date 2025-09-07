@@ -28,10 +28,6 @@
     }
   }
 
-  #mannschaft-kommando .cover {
-    @apply object-top;
-  }
-
   #chronik-mannschaft {
     .content {
       img {
