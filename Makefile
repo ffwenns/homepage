@@ -22,8 +22,8 @@ import-events:
 	source venv/bin/activate && python scripts/import_events.py
 	
 stats:
-	echo "posts = $$(find posts/ -type f -iname "*.md" | wc -l)" > data/stats.toml
-	echo "images = $$(find posts/ -type f -iname "*.webp" | wc -l)" >> data/stats.toml
+	echo "posts = $$(find content/posts/ -type f -iname "*.md" | wc -l)" > data/stats.toml
+	echo "images = $$(find content/posts/ -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
 rebuild:
 	npm ci
@@ -35,6 +35,7 @@ build:
 	npm ci
 	npm run build
 	hugo build --minify --renderSegments content
+	npx pagefind --site public
 
 build-prod:
 	git pull origin main
@@ -44,8 +45,8 @@ build-prod:
 	hugo build --minify --renderSegments content --destination /srv/http/homepage
 
 commit:
-	git add posts/
-	git commit -m "[cron] import events and posts" || true
+	git add content/
+	git commit -m "[cron] auto import events and posts" || true
 	git push origin main || echo "No changes to commit"
 
 deploy:
