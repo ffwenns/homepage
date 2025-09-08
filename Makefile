@@ -11,14 +11,10 @@ install: venv
 	pip install -r requirements.txt
 	npm install
 
-pull:
-	git pull
-	git-lfs pull
-
-import-posts: 
+posts: 
 	source venv/bin/activate && python scripts/import_posts.py
 	
-import-events: 
+events: 
 	source venv/bin/activate && python scripts/import_events.py
 	
 stats:
@@ -37,23 +33,11 @@ build:
 	hugo build --minify --renderSegments content
 	npx pagefind --site public
 
-build-prod:
-	git pull origin main
-	git-lfs pull
-	npm ci
-	npm run build
-	hugo build --minify --renderSegments content --destination /srv/http/homepage
-
-commit:
-	git add content/
-	git commit -m "[cron] auto import events and posts" || true
-	git push origin main || echo "No changes to commit"
-
 deploy:
 	rsync -avz --progress public/ ffwenns:/srv/http/homepage
 
 # schedule this task with cron
-autoimport: pull import-events import-posts stats commit build deploy
+autoimport: events posts stats build deploy
 
-backup:
+archive:
 	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD
