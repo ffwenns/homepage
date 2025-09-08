@@ -23,7 +23,7 @@ class FacebookPostImporter:
 
         self.base_url = "https://graph.facebook.com/v23.0"
         self.page_id = "ffwenns"
-        self.posts_dir = Path("posts")
+        self.posts_dir = Path("content/posts")
 
     def get_posts(self):
         """Fetch posts from Facebook API"""
