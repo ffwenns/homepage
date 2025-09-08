@@ -4,6 +4,15 @@ defaultContentLanguage = 'de'
 title = 'Freiwillige Feuerwehr Wenns'
 disableKinds = ['taxonomy', 'term']
 enableGitInfo = true
+enableRobotsTXT = true
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html']
+
+[services]
+  [services.rss]
+    limit = 10
 
 [segments]
   [segments.content]
