@@ -1,17 +1,3 @@
-{{ define "nav" }}
-  <div>
-    <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
-      <h3 class="mb-4 text-2xl font-semibold text-blue-600">Chronik</h3>
-      <ul class="text-xl">
-        {{ partial "nav-link" (dict "url" "/chronik/mannschaft/" "text" "Geschichte — Mannschaft" "context" .) }}
-        {{ partial "nav-link" (dict "url" "/chronik/kommando/" "text" "Geschichte — Kommando" "context" .) }}
-        {{ partial "nav-link" (dict "url" "/chronik/geraetehaeuser/" "text" "Geschichte — Gerätehäuser" "context" .) }}
-        {{ partial "nav-link" (dict "url" "/chronik/grossbraende/" "text" "Geschichte — Großbrände" "context" .) }}
-      </ul>
-    </nav>
-  </div>
-{{ end }}
-
 {{ define "main" }}
   <div class="content grid grid-cols-2 gap-4 xl:grid-cols-3">
     {{ with .Resources.GetMatch "01_mannschaft-1927.webp" }}
@@ -60,8 +46,4 @@
     {{ end }}
 
   </div>
-{{ end }}
-
-{{ define "edit" }}
-  https://github.com/ffwenns/homepage/edit/main/content/chronik/mannschaft/
 {{ end }}

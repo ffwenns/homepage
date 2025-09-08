@@ -1,0 +1,64 @@
+<footer id="footer" class="mx-4" data-pagefind-ignore>
+  <div class="wrapper border-t border-gray-300">
+    <div class="grid">
+      <div class="flex flex-row justify-between">
+        <details name="Meta">
+          <summary class="cursor-pointer list-none py-4 hover:underline">Kontakt / Impressum</summary>
+          <address class="pb-4 not-italic">
+            <strong>Feuerwehr Wenns</strong>
+            <br />
+            Unterdorf 64
+            <br />
+            6473 Wenns
+            <br />
+            <a href="mailto:wenns@feuerwehr.tirol" class="mt-4 block">wenns@feuerwehr.tirol</a>
+          </address>
+        </details>
+
+        <div class="flex flex-row">
+          <a href="https://facebook.com/ffwenns" target="_blank" class="px-1 py-4">
+            <img src="/images/facebook.svg" alt="Facebook" class="size-6 hover:opacity-70" />
+          </a>
+          <a href="https://instagram.com/freiwillige_feuerwehr_wenns" target="_blank" class="px-1 py-4">
+            <img src="/images/instagram.svg" alt="Instagram" class="size-6 hover:opacity-70" />
+          </a>
+        </div>
+      </div>
+
+      {{ if .File }}
+        <div class="border-t border-gray-300">
+          <div class="flex flex-row justify-between">
+            <details name="Meta">
+              <summary class="cursor-pointer list-none py-4 hover:underline ">Seiteninformationen</summary>
+              <div>
+                {{ with .GitInfo }}
+                  <dl class="mb-4">
+                    <dt class="font-medium">Letzte Änderung</dt>
+                    <dd>
+                      {{ page.Lastmod | time.Format "02.01.2006 um 15:04 Uhr" }}
+                    </dd>
+                  </dl>
+                {{ end }}
+
+                {{ with .File }}
+                  <a href="https://github.com/ffwenns/homepage/edit/main/content/{{ .Path }}" target="_blank" class="inline-block pb-4 ">Diese Seite bearbeiten</a>
+                {{ end }}
+              </div>
+            </details>
+
+            <a href="#top" class="block px-1 py-4" aria-label="Nach oben">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5">
+                <path
+                  fill-rule="evenodd"
+                  d="M3 16.25a.75.75 0 0 1 .75-.75h7.5V4.56L9.28 6.53a.75.75 0 0 1-1.06-1.06l3.25-3.25a.75.75 0 0 1 1.06 0l3.25 3.25a.75.75 0 0 1-1.06 1.06l-1.97-1.97v11.69A.75.75 0 0 1 12 17H3.75a.75.75 0 0 1-.75-.75Z"
+                  clip-rule="evenodd"
+                ></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</footer>
+<div id="end"></div>

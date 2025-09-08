@@ -3,19 +3,18 @@
     <nav class="sticky top-[72px] z-5 bg-blue-100 p-4">
       <h3 class="mb-4 text-2xl font-semibold text-blue-600">Aktuelles</h3>
       <ul>
-        {{ range site.Sections.ByTitle.Reverse }}
-          {{ if findRE "20[0-9][0-9]" .Type }}
-            {{ $yearName := .Type }}
-            {{ $postCount := len .RegularPagesRecursive }}
+        {{ $postsSection := site.GetPage "section" "posts" }}
+        {{ range $postsSection.Sections.ByTitle.Reverse }}
+          {{ $yearName := path.Base .File.Dir }}
+          {{ $postCount := len .RegularPagesRecursive }}
 
 
-            <li class="{{ if eq (trim $.RelPermalink "/") $yearName }}font-bold bg-blue-200{{ end }} flex flex-row items-baseline  justify-between ">
-              <a href="/{{ $yearName }}/" class=" flex-grow text-xl">
-                {{ $yearName }}
-              </a>
-              <span class="text-blue-600">{{ $postCount }} Beiträge</span>
-            </li>
-          {{ end }}
+          <li class="{{ if eq $.Page . }}font-bold bg-blue-200{{ end }} flex flex-row items-baseline  justify-between ">
+            <a href="{{ .RelPermalink }}" class=" flex-grow text-xl">
+              {{ $yearName }}
+            </a>
+            <span class="text-blue-600">{{ $postCount }} Beiträge</span>
+          </li>
         {{ end }}
       </ul>
     </nav>
