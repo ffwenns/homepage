@@ -16,7 +16,7 @@ enableGitInfo = true
     [[segments.content.includes]]
       path = '/chronik/**'
     [[segments.content.includes]]
-      path = '/2025/**'
+      path = '/posts/2025/**'
     [[segments.content.includes]]
       kind = 'home'
     [[segments.content.includes]]
