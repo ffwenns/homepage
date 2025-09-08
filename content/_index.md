@@ -2,6 +2,9 @@
 title: Startseite
 description: Unsere Freizeit für Ihre Sicherheit!
 layout: home
+menu:
+  main:
+    weight: 10
 ---
 
 Man könnte fast meinen, dass in Wenns das halbe Dorf mit der Feuerwehr zu tun

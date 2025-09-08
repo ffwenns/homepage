@@ -74,4 +74,8 @@ members:
   - rank: "PFM"
     name: "Thomas Hiemstra"
     image: "Hiemstra_Thomas.webp"
+menu:
+  main:
+    parent: Mannschaft
+    weight: 600
 ---

@@ -342,4 +342,8 @@ jugendbetreuer:
   - name: OLM Eiter Fabian
     time: 2018 — laufend
     image: eiter_fabian.webp
+menu:
+  main:
+    parent: Chronik
+    weight: 20
 ---

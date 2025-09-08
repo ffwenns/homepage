@@ -84,5 +84,5 @@ members:
 menu:
   main:
     parent: Mannschaft
-    weight: 200
+    weight: 20
 ---

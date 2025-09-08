@@ -1,5 +1,9 @@
 ---
 title: Geschichte —  Gerätehäuser
+menu:
+  main:
+    parent: Chronik
+    weight: 30
 ---
 
 **Das erste Feuerwehrhaus** stand an der alten Pitztaler Landesstraße im Oberdorf (heutige Garage von "Wendeler´s Christian") und diente bis 1951 als Gerätehaus für den Anhänger und Ausrüstung der FF Wenns.

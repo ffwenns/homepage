@@ -60,4 +60,8 @@ members:
   - rank: "PFM"
     name: "Lukas Schiechtl"
     image: "Schiechtl_Lukas.webp"
+menu:
+  main:
+    parent: Mannschaft
+    weight: 700
 ---

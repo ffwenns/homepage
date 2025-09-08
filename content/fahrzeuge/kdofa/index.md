@@ -22,4 +22,8 @@ aufgaben:
   - Ersterkundung für den Einsatzleiter
   - Übungs-, Tätigkeits- und Einsatzfahrten
   - Kursbesuche und Sitzungen
+menu:
+  main:
+    parent: Fahrzeuge
+    weight: 10
 ---

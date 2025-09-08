@@ -18,4 +18,8 @@ beladung:
 aufgaben:
   - Transport der Einsatzmannschaft (Shuttle)
   - Tausch der leeren Atemschutzflaschen im ATS-Lager Imst
+menu:
+  main:
+    parent: Fahrzeuge
+    weight: 50
 ---

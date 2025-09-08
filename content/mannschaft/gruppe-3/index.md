@@ -46,4 +46,8 @@ members:
     image: "Hechenberger_Philipp.webp"
   - rank: "OFM"
     name: "Walter Weber"
+menu:
+  main:
+    parent: Mannschaft
+    weight: 300
 ---

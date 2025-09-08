@@ -181,6 +181,49 @@
     li a {
       @apply block py-1 text-lg;
     }
+
+    #details-aktuelles ul {
+      @apply grid-cols-4 grid-rows-5;
+    }
+
+    #details-mannschaft ul {
+      @apply grid-cols-2;
+
+      li:not(:nth-child(n + 5)) {
+        @apply col-1;
+      }
+
+      li:nth-child(n + 5) {
+        @apply col-2;
+      }
+    }
+
+    #details-fahrzeuge ul {
+      @apply grid-cols-2;
+
+      li:nth-child(n + 2) {
+        @apply col-2;
+      }
+
+      li:first-child,
+      li:last-child {
+        @apply col-1;
+      }
+    }
+
+    #details-feuerwehrhalle ul {
+      li:not(:nth-child(n + 6)) {
+        @apply col-1;
+      }
+
+      li:nth-child(n + 6) {
+        @apply col-2;
+      }
+    }
+
+    #details-chronik ul {
+      @apply grid-flow-dense!;
+    }
   }
 
   #dropdown {
@@ -188,7 +231,7 @@
       @apply absolute left-0 -z-10 mx-auto block w-full xl:left-auto xl:w-auto;
 
       & > div {
-        @apply absolute hidden w-full divide-x divide-gray-400 bg-gray-300 group-hover:flex xl:w-auto;
+        @apply absolute hidden w-full bg-gray-300 group-hover:grid xl:w-auto;
       }
     }
 
@@ -215,6 +258,46 @@
         &:hover {
           @apply underline;
         }
+      }
+    }
+
+    #dropdown-aktuelles ul {
+      @apply min-w-[40rem] grid-flow-col-dense grid-cols-4;
+
+      li:nth-child(n + 6) {
+        @apply col-2;
+      }
+
+      li:nth-child(n + 11) {
+        @apply col-3;
+      }
+
+      li:nth-child(n + 16) {
+        @apply col-4;
+      }
+    }
+
+    #dropdown-mannschaft ul {
+      @apply min-w-[40rem] grid-flow-col-dense grid-cols-3;
+
+      li:nth-child(n + 5) {
+        @apply col-2;
+      }
+
+      li:nth-child(n + 10) {
+        @apply col-3;
+      }
+    }
+
+    #dropdown-fahrzeuge ul {
+      @apply min-w-[20rem];
+    }
+
+    #dropdown-feuerwehrhalle ul {
+      @apply min-w-[30rem] grid-flow-col-dense grid-cols-2;
+
+      li:nth-child(n + 6) {
+        @apply col-2;
       }
     }
   }

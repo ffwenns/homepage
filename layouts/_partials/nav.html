@@ -8,7 +8,7 @@
           <a href="/" class="block p-5">Startseite</a>
         </li>
         <li class="{{ if findRE "20[0-9][0-9]" .RelPermalink }}bg-red-800{{ end }}">
-          <a href="/{{ $currentYear }}/" class="block p-5">Aktuelles</a>
+          <a href="/posts/{{ $currentYear }}/" class="block p-5">Aktuelles</a>
         </li>
       </ul>
       <button class="block cursor-pointer border-l border-l-red-800 p-6">

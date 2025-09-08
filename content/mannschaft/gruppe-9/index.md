@@ -45,4 +45,11 @@ members:
   - rank: "JFM"
     name: "Joel Zangerle"
     image: "Zangerle_Joel.webp"
+menu:
+  main:
+    parent: Mannschaft
+    name: Gruppe 9
+    weight: 900
+    params:
+      desc: Ausbildungsgruppe
 ---

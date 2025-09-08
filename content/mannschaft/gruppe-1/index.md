@@ -18,4 +18,11 @@ members:
     image: "Krismer_Arthur.webp"
   - rank: "HFM"
     name: "Werner Schranz"
+menu:
+  main:
+    parent: Mannschaft
+    name: Gruppe 1
+    weight: 100
+    params:
+      desc: Reserve
 ---

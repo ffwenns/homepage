@@ -43,4 +43,8 @@ members:
   - rank: "HFM"
     name: "Gerhard Larcher"
     image: "Larcher_Gerhard_1.webp"
+menu:
+  main:
+    parent: Mannschaft
+    weight: 200
 ---

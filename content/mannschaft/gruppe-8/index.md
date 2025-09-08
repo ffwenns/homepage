@@ -49,4 +49,8 @@ members:
   - rank: "FM"
     name: "Paul Schlatter"
     image: "Schlatter_Paul.webp"
+menu:
+  main:
+    parent: Mannschaft
+    weight: 800
 ---

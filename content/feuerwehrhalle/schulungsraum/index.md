@@ -1,5 +1,9 @@
 ---
 title: Schulungsraum
+menu:
+  main:
+    parent: Feuerwehrhalle
+    weight: 40
 ---
 
 Im Schulungs- und Aufenthaltsraum werden Übungs- und Einsatzbesprechungen, Kameradschaftliche Tätigkeiten und Schulungen abgehalten. Neben einer kleinen Teeküche, einem Getränkeautomat und Kaffeemaschine findet der Raum Platz für rund 50 Mitglieder/Innen. Auch unsere zwei Fahnen sowie der Jugendwimpel verschönern unseren Schulungsraum in einem Glasschrank.

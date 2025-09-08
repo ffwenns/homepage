@@ -28,4 +28,8 @@ beladung:
 aufgaben:
   - Unterstützung bei der Brandbekämpfung (Innen- und Außenangriff)
   - Technische Einsätze (Wasserschaden etc.)
+menu:
+  main:
+    parent: Fahrzeuge
+    weight: 40
 ---

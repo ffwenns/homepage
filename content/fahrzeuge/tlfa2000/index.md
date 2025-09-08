@@ -26,4 +26,8 @@ aufgaben:
   - Brandschutz
   - Verkehrabsicherung
   - Unterstützungsfahrzeug bei Technischen Einsätzen
+menu:
+  main:
+    parent: Fahrzeuge
+    weight: 20
 ---

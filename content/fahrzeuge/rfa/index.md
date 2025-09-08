@@ -34,4 +34,8 @@ beladung:
 aufgaben:
   - Technische Einsätze (Verkehrsunfall, Hochwasser etc.)
   - Unterstützung im Brandfall mit Wechsel-Rollcontainer
+menu:
+  main:
+    parent: Fahrzeuge
+    weight: 30
 ---

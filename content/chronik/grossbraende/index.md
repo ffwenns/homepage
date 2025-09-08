@@ -1,5 +1,9 @@
 ---
 title: Geschichte —  Großbrände
+menu:
+  main:
+    parent: Chronik
+    weight: 40
 ---
 
 Dass die rund 2.100 Einwohner zählende Gemeinde Wenns in den vergangenen 130 Jahren nie von Großbränden verschont blieb, zeigen die zahlreichen Einsatzberichte. Seit der Gründung im Jahr 1893 konnte sich unsere Wehr bei über 30 Großbränden bewahren. Am 25.Juni 1914 wurde das Gasthaus „Zum roten Ochsen“ und die dazugehörigen vier Wirtschaftsgebäude ein Raub der Flammen. Bis in die 50er Jahren blieb fast kein Ortsteil der Gemeinde Wenns von einem Großfeuer verschont.

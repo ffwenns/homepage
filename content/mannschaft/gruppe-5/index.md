@@ -60,4 +60,8 @@ members:
     image: "Sticker_Benjamin.webp"
   - rank: "FM"
     name: "Markus Hafele"
+menu:
+  main:
+    parent: Mannschaft
+    weight: 500
 ---

@@ -20,5 +20,5 @@ members:
 menu:
   main:
     parent: Mannschaft
-    weight: 100
+    weight: 10
 ---

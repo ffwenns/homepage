@@ -1,5 +1,9 @@
 ---
 title: Schlauchturm
+menu:
+  main:
+    parent: Feuerwehrhalle
+    weight: 60
 ---
 
 Im Schlauchturm werden die Schläuche nach der Reinigung getrocknet. Weiters wird der Schlauchturm auch als Übungsmöglichkeit für Höhen- und Tiefenrettungen genützt. Ein Übungstunnel vom Schlauchturm in das Freie ermöglicht Atemschutzproben real nachzustellen und zu beüben.

@@ -1,104 +1,46 @@
 <div id="dropdown">
+  {{ $currentPage := . }}
+
+
   <ul class="flex divide-x divide-red-800 text-white">
-    <li>
-      <a href="/">Startseite</a>
-    </li>
+    {{ range site.Menus.main }}
+      <li id="dropdown-{{ lower .Name }}" class="group {{ if $currentPage.HasMenuCurrent .Menu . }}active{{ end }}">
+        {{ if .HasChildren }}
+          {{ $firstchild := index (sort .Children ".Weight") 0 }}
+          {{ $lastchild := index (sort .Children ".Weight") (sub (len .Children) 1) }}
 
-    {{ $currentYear := now.Year }}
-    <li class="group {{ if findRE "20[0-9][0-9]" .RelPermalink }}active{{ end }}">
-      <a href="/{{ $currentYear }}/">Aktuelles</a>
+          {{ if eq .Name "Aktuelles" }}
+            <a href="{{ $lastchild.URL }}">{{ .Name }}</a>
+          {{ else }}
+            <a href="{{ $firstchild.URL }}">{{ .Name }}</a>
+          {{ end }}
+        {{ else }}
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
 
-      <div class="content">
-        <div class="min-w-[40rem] group-hover:block">
-          <ul class="grid grid-flow-col grid-cols-4 grid-rows-5 divide-x divide-gray-400">
-            {{ range site.Sections.ByTitle.Reverse }}
-              {{ if findRE "^20[0-9][0-9]$" .Type }}
-                {{ $yearName := .Type }}
-                <li>
-                  <a href="/{{ $yearName }}/" class="{{ if eq (trim $.RelPermalink "/") $yearName }}font-semibold{{ end }}">{{ $yearName }}</a>
-                </li>
-              {{ end }}
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-    </li>
+        {{ $section := .Name }}
 
-    <li class="group {{ if hasPrefix .RelPermalink "/mannschaft/" }}active{{ end }}">
-      <a href="/mannschaft/kommando/">Mannschaft</a>
+        {{ with .Children }}
+          {{ $children := . }}
 
-      <div class="content">
-        <div class="min-w-[40rem]">
-          <ul class="w-1/3 flex-auto">
-            {{ partial "nav-link" (dict "url" "/mannschaft/kommando/" "text" "Kommando" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/ausschuss/" "text" "Ausschuss" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/ehrenmitglieder/" "text" "Ehrenmitglieder" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/jugend/" "text" "Jugend" "context" .) }}
-          </ul>
-          <ul class="w-1/3 flex-auto">
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-1/" "text" "Gruppe 1" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-2/" "text" "Gruppe 2" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-3/" "text" "Gruppe 3" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-4/" "text" "Gruppe 4" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-5/" "text" "Gruppe 5" "context" .) }}
-          </ul>
-          <ul class="w-1/3 flex-auto">
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-6/" "text" "Gruppe 6" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-7/" "text" "Gruppe 7" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-8/" "text" "Gruppe 8" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/mannschaft/gruppe-9/" "text" "Gruppe 9" "context" .) }}
-          </ul>
-        </div>
-      </div>
-    </li>
-    <li class="group {{ if hasPrefix .RelPermalink "/fahrzeuge/" }}active{{ end }}">
-      <a href="/fahrzeuge/kdofa/">Fahrzeuge</a>
-      <div class="content">
-        <div class="min-w-[20rem]">
-          <ul>
-            {{ partial "nav-link" (dict "url" "/fahrzeuge/kdofa/" "text" "KDOFA" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/fahrzeuge/tlfa2000/" "text" "TLFA 2000" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/fahrzeuge/rfa/" "text" "RFA" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/fahrzeuge/lfa/" "text" "LFA" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/fahrzeuge/mtfa/" "text" "MTFA" "context" .) }}
-          </ul>
-        </div>
-      </div>
-    </li>
-    <li class="group {{ if hasPrefix .RelPermalink "/feuerwehrhalle/" }}active{{ end }}">
-      <a href="/feuerwehrhalle/fahrzeughalle/">Feuerwehrhalle</a>
-      <div class="content">
-        <div class="min-w-[30rem]">
-          <ul class="w-1/2 flex-auto">
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/fahrzeughalle/" "text" "Fahrzeughalle" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/umkleideraum/" "text" "Umkleideraum" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/atemschutzraum/" "text" "Atemschutzraum" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/schulungsraum/" "text" "Schulungsraum" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/notstromaggregat/" "text" "Notstromaggregat" "context" .) }}
-          </ul>
+          {{ if eq $section "Aktuelles" }}
+            {{ $children = .Reverse }}
+          {{ end }}
 
-          <ul class="w-1/2 flex-auto">
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/schlauchturm/" "text" "Schlauchturm" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/florianstation/" "text" "Florianstation" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/kommandoraum/" "text" "Kommandoraum" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/lager/" "text" "Lager" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/feuerwehrhalle/werkstatt/" "text" "Werkstatt" "context" .) }}
-          </ul>
-        </div>
-      </div>
-    </li>
-    <li class="group {{ if hasPrefix .RelPermalink "/chronik/" }}active{{ end }}">
-      <a href="/chronik/mannschaft/">Chronik</a>
-      <div class="content">
-        <div class="min-w-[20rem]">
-          <ul>
-            {{ partial "nav-link" (dict "url" "/chronik/mannschaft/" "text" "Geschichte — Mannschaft" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/chronik/kommando/" "text" "Geschichte — Kommando" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/chronik/geraetehaeuser/" "text" "Geschichte — Gerätehäuser" "context" .) }}
-            {{ partial "nav-link" (dict "url" "/chronik/grossbraende/" "text" "Geschichte — Großbrände" "context" .) }}
-          </ul>
-        </div>
-      </div>
-    </li>
+
+          <div class="content">
+            <div class="w-max">
+              <ul class="grid divide-x divide-gray-400">
+                {{ range $children }}
+                  <li class="{{ if $currentPage.IsMenuCurrent .Menu . }}font-semibold{{ end }}">
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                  </li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+        {{ end }}
+      </li>
+    {{ end }}
   </ul>
 </div>
