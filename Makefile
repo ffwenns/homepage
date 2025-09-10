@@ -2,9 +2,6 @@
 
 all: import build deploy
 
-update:
-	hugo mod get -u
-
 stats:
 	echo "posts = $$(find content/posts/ -type f -name "index.md" | wc -l)" > data/stats.toml
 	echo "images = $$(find content/posts/ -type f -iname "*.webp" | wc -l)" >> data/stats.toml

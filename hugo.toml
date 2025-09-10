@@ -5,6 +5,8 @@ title = 'Freiwillige Feuerwehr Wenns'
 disableKinds = ['taxonomy', 'term']
 enableGitInfo = true
 enableRobotsTXT = true
+themesDir = '../'
+theme = 'theme'
 
 [outputs]
   home = ['html', 'rss']
@@ -30,7 +32,3 @@ enableRobotsTXT = true
       kind = 'home'
     [[segments.content.includes]]
       kind = 'section'
-
-[module]
-[[module.imports]]
-  path = 'github.com/ffwenns/theme'
