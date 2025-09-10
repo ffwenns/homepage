@@ -3,7 +3,7 @@
     {{ range .Params.members }}
       <div class="relative overflow-hidden">
         {{ if .image }}
-          <img src="/images/mitglieder/{{ .image }}" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
+          <img src="/mannschaft/{{ .image }}" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
         {{ else }}
           <img src="/images/avatar.png" alt="{{ .name }}" class="aspect-2/3 object-cover" loading="lazy" />
         {{ end }}
