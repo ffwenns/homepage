@@ -9,7 +9,7 @@ stats:
 import:
 	cd ../importer && make
 
-rebuild: update stats
+rebuild: stats
 	hugo build --gc --minify --cleanDestinationDir
 	npx pagefind --site public
 
