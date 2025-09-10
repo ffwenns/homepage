@@ -1,9 +1,0 @@
-<figure class="mt-4 grid grid-cols-3 gap-4 md:grid-cols-4">
-  {{ range $.Resources }}
-    {{ if and (eq .ResourceType "image") (not (hasPrefix .Name "cover.")) }}
-      <a href="{{ .RelPermalink }}" data-fslightbox="gallery" class="block aspect-3/2">
-        <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy" class="size-full object-cover" />
-      </a>
-    {{ end }}
-  {{ end }}
-</figure>

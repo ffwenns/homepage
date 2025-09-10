@@ -1,9 +1,5 @@
-/assets/css/output.css
-/data/events.json
-/data/stats.toml
-node_modules/
 /resources
 /public
+/data
+
 .hugo_build.lock
-*.sync-conflict*
-*.env

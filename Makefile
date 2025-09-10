@@ -1,33 +1,27 @@
-serve:
-	hugo server --bind 0.0.0.0 --renderSegments content
+.ONESHELL:
 
-watch:
-	npm run watch
+all: import build deploy
 
-install:
-	npm install
+update:
+	hugo mod get -u
 
 stats:
 	echo "posts = $$(find content/posts/ -type f -name "index.md" | wc -l)" > data/stats.toml
 	echo "images = $$(find content/posts/ -type f -iname "*.webp" | wc -l)" >> data/stats.toml
 
-rebuild:
-	npm ci
-	npm run build
+import:
+	cd ../importer && make
+
+rebuild: update stats
 	hugo build --gc --minify --cleanDestinationDir
 	npx pagefind --site public
 
-build:
-	npm ci
-	npm run build
+build: stats
 	hugo build --minify --renderSegments content
 	npx pagefind --site public
 
 deploy:
 	rsync -avz --progress public/ ffwenns:/srv/http/homepage
 
-# schedule this task with cron
-autoimport: events posts stats build deploy
-
 archive:
-	git archive --format=tar.gz --output=../ffwenns_$$(date +%Y%m%d).tar.gz HEAD
+	git archive --output=../homepage_$$(date +%Y%m%d).zip HEAD
