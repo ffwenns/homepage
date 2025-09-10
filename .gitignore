@@ -4,9 +4,6 @@
 node_modules/
 /resources
 /public
-/files
-/venv
-.env
-*.zip
 .hugo_build.lock
-*sync*
+*.sync-conflict*
+*.env
