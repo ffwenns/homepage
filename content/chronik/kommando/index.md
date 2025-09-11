@@ -1,5 +1,5 @@
 ---
-title: Geschichte —  Kommando
+title: Geschichte — Kommando
 kommandanten:
   - name: Senn Franz
     time: 1893 — 1902
